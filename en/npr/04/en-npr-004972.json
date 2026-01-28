@@ -1,0 +1,107 @@
+{
+  "challenge_uid": "a3ca0057-16fa-4469-8ae1-249e59997fd6",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8ca2dc28-3fe5-4a87-85c9-ea7416ad0b55",
+      "language": "en",
+      "utterances": [
+        "Zero-0-0.",
+        "Unidentified Man #1: Your entry was not understood.",
+        "I'll do it again, 0-0-0.",
+        "Unidentified Man #1: For quality assurance purposes, your call may be monitored or recorded.",
+        "There we go.",
+        "That was quick and easy.",
+        "That's great.",
+        "Although, well, we're not there yet.",
+        "It seemed like ...(unintelligible).",
+        "Unidentified Man #1: OK.",
+        "And say the name of the product for which you want technical support.",
+        "Operator."
+      ]
+    },
+    {
+      "dialogue_uid": "b6982a0e-073c-4145-8785-c3efdecc7ab9",
+      "language": "en",
+      "utterances": [
+        "That's the next thing on the cheat sheet, is to say `operator.'",
+        "Unidentified Man #1: Sorry, I didn't understand.",
+        "Operator.",
+        "Unidentified Man #1: I can transfer you to a customer service representative.",
+        "However, you'll be served faster if I can direct your call.",
+        "It's arguing with me!",
+        "Operator!",
+        "Unidentified Man #1: Sorry, I didn't understand.",
+        "Say the name of the Macintosh you're using...",
+        "Oh, my gosh.",
+        "Unidentified Man #1: ...or say `help' to find out how to find the name.",
+        "Operator."
+      ]
+    },
+    {
+      "dialogue_uid": "e16052ee-16df-4418-8a9b-22eb87f165e3",
+      "language": "en",
+      "utterances": [
+        "Unidentified Man #1: I'll send you to someone who can direct your call to the right specialist.",
+        "(Soundbite of applause)",
+        "Unidentified Man #1: Hold on.",
+        "OK.",
+        "That wasn't too bad.",
+        "Let's wait and see...",
+        "Unidentified Woman #3: Please wait.",
+        "OK, I'll wait.",
+        "Unidentified Man #2: Thanks for calling Apple Computer.",
+        "Please hold for the next available representative.",
+        "I almost wonder if you met these people somewhere at a cocktail party, if someone came up and talked to you and if you recognized their voice, if people start throwing things at them.",
+        "(Soundbite of laughter)",
+        "Good morning.",
+        "Thank you for calling Apple.",
+        "This is Niata.",
+        "How may I direct your call?"
+      ]
+    },
+    {
+      "dialogue_uid": "cf58f13f-553a-4b55-9acc-bc22a55003f8",
+      "language": "en",
+      "utterances": [
+        "Good morning.",
+        "I'm from National Public Radio.",
+        "I'm calling for a story that we're doing and we're recording you.",
+        "Is that OK?",
+        "Sure.",
+        "We just wanted to see how quickly we could get through.",
+        "OK.",
+        "What else could I help you with?",
+        "I don't now.",
+        "Where are you located?",
+        "We're in Sacramento.",
+        "When people call you there at Apple, do you sometimes get ahold of someone who says, `I'm so glad to get ahold of a human being, because I was so frustrated by that machine'?",
+        "I believe that happens anywhere you call.",
+        "Thank you very much for taking the time.",
+        "I hope you have a good time out there in Sacramento.",
+        "Bye."
+      ]
+    },
+    {
+      "dialogue_uid": "1617156a-eb0a-4301-8f4f-ef45157dfed1",
+      "language": "en",
+      "utterances": [
+        "You know, I feel a little bad, Paul English.",
+        "I suppose even as we were making these phone calls, there were 25 other people holding, waiting for their turn.",
+        "Occasionally, someone will e-mail me and say, `I'm actually a back-end customer service rep for Best Buy, and I hate that by the time people get to me, they're very angry, because they've spent so much time on hold, and I would like to tell you the secret way they can get to me directly, but don't tell anyone that I'm the one that gave it to you.'",
+        "Have you ever been investigated for leaks of classified information?",
+        "Not yet.",
+        "You've been getting some publicity for this, and the list has been up for a while.",
+        "Have you noticed companies improving their defenses at all?",
+        "You know, I have been surprised that this little cheat sheet has become quite so popular, and I think there have been over a million hits on it just in the last few months, but I hope that happens is when a company sees that people put this much energy into finding ways around their voice-mail system, I hope the company says, `Oh, my God, I had no idea we made it that difficult.",
+        "Let's try to find a way to make it simpler.'",
+        "Paul English has a cheat sheet of ways to get through corporate phone system menus and get to a human being, and you can find it by going to our Web site at npr.org.",
+        "Paul, good talking to you.",
+        "All right.",
+        "Thanks, Steve.",
+        "And by the way, we wanted to find out if the cheat sheet was really that good, so two staffers here, very patient staffers, tested 15 other shortcuts on the Web site, and the average time it took to reach a human was 56 seconds.",
+        "(Soundbite of music)"
+      ]
+    }
+  ]
+}

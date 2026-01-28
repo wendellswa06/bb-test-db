@@ -1,0 +1,114 @@
+{
+  "challenge_uid": "a93dcb36-fb00-4825-902a-dc4003cdbbfb",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "3a3352d2-e80b-4d90-8543-aa56f8185eba",
+      "language": "en",
+      "utterances": [
+        "The city of Milwaukee, as the Journal Sentinel has been pounding out these stories all year long, has taken strides and begun to take some responsibility on this issue.",
+        "Most recently, it announced a new initiative, a new five-year initiative to try to bring the overall city infant mortality rate to its lowest rate that it's ever been.",
+        "There is a program that has gotten under way recently.",
+        "This is a consortium of hospitals and activists, and they're working with some medical researchers at the University of Wisconsin-Madison.",
+        "The budget is something like 10 million over five years.",
+        "So collectively, they will work with what they've got to do what they can to move the needle.",
+        "But the researchers themselves say that's a drop in the bucket.",
+        "John Schmid writes for the Milwaukee Journal Sentinel.",
+        "You can find a link to his story at our website, npr.org.",
+        "John, thanks very much for sharing your reporting.",
+        "Thank you, Rachel.",
+        "In the battle over federal spending cuts, one targeted group poses a particular quandary for Republicans and Democrats alike.",
+        "I'm talking about working-age military veterans enrolled in TriCare Prime.",
+        "That's the Pentagon's managed health care program for retired service members.",
+        "Ever since TriCare began 15 years ago, its beneficiaries have never had a hike in their premiums.",
+        "The Pentagon now says it's time for one.",
+        "And, as NPR's David Welna reports, only lawmakers can stop it.",
+        "Defense Secretary Robert Gates went to Capitol Hill last month to make the case for boosting the fees TriCare Prime beneficiaries have to pay.",
+        "Something had to be done about the Pentagon's annual health care costs, he argued, noting they more than doubled over the past decade to 52 and a half billion dollars.",
+        "Gates said the annual fee for TriCare Prime family coverage should be raised to $520; a hike of $5 more a month.",
+        "I understand that any change to these kinds of benefits prompts vigorous political opposition.",
+        "Let us be clear, the current TriCare arrangement, one in which fees have not increased for 15 years, is simply unsustainable.",
+        "In recent years, Congress has rejected Pentagon requests for far heftier hikes in TriCare premiums.",
+        "But Senate Armed Services Committee Chairman Carl Levin says he's not ruling out what Gates wants this time."
+      ]
+    },
+    {
+      "dialogue_uid": "a1f8d4e0-ffa0-4721-bbaf-d51de76342e8",
+      "language": "en",
+      "utterances": [
+        "I think we have to consider that request because it not only comes from Secretary Gates, but because I believe it has the support of the top military leaders that are -uniform leaders in this country.",
+        "This morning, a House Armed Services panel grappled with the TriCare fee question.",
+        "The seven witnesses testifying all represented retired military members and their families.",
+        "Ranking Democrat Susan Davis of California seemed to be preparing them for bad news.",
+        "As you all know, our country is facing difficult economic times.",
+        "And we are now faced with making some hard decisions that will, that could impact the lives of those who are currently serving and those who have served.",
+        "But one of the panel members reminded Davis the nation has been at war for nearly a decade.",
+        "The blame for the dramatic rise in military health care costs is the war, not the retiree.",
+        "That was Rick Jones of the National Association for Uniformed Services.",
+        "He called the proposed fee increase a Trojan horse, meant to carry an index fee hike every year for veterans.",
+        "The simple fact is that these men and women earned a retirement benefit and they actually look forward to using it.",
+        "It's a breach of moral contract to stunt that promise that's been made to these folks.",
+        "And Steve Strobridge, of the Military Officers Association of America, said while the premiums for TriCare are relatively low - federal employees generally pay about 10 times as much - that health care is in fact a form of delayed payment for military service.",
+        "We think it's very important to have some statement in law, where there is none now, that states explicitly that military health care is one of the crucial offsets to the Everest conditions of service, that is - in fact, an upfront and very substantial premium payment."
+      ]
+    },
+    {
+      "dialogue_uid": "2ed0589a-5d05-4a28-869b-be101fc3e370",
+      "language": "en",
+      "utterances": [
+        "Those arguments appeared to carry the day for at least some on the committee.",
+        "Retired Army Lieutenant Colonel Allen West is a freshman Republican from Florida.",
+        "When I sit here today, I think about a quote from George Washington.",
+        "And I'm paraphrasing when he said that future generations of a nation will judge itself based upon how well we treat our veterans.",
+        "Still, when the hearing ended, Kathy Moakler, of the National Military Family Association, said she was not counting on Congress to do what it's done before: Reject the Pentagon's proposed hike for TriCare.",
+        "They could address it by saying once again, no, we're not going to allow an increase of fees at this time.",
+        "But in a time of austere budgets, we don't think that that's going to be the case.",
+        "The matter will likely be decided later this year in Congress's annual Defense Authorization Bill.",
+        "David Welna, NPR News, the Capitol.",
+        "Okay.",
+        "Professor West says that he and his team have discovered why different creatures die at different times.",
+        "And even more amazing, he can predict when each species should die on average.",
+        "Yes.",
+        "Well, wait a second, wait a second.",
+        "Has anyone else found a mathematical logic like this that runs to all living things?",
+        "That's kind of…",
+        "Well, this is it."
+      ]
+    },
+    {
+      "dialogue_uid": "c83b5628-6f4e-4bda-a7c0-b1a81ae1b439",
+      "language": "en",
+      "utterances": [
+        "And here is how it works: All living things take in energy…",
+        "(Soundbite of chewing)",
+        "We eat food, and food has energy in the form of calories.",
+        "So the energy in the food that has to get passed around to all the cells in our body.",
+        "And to do this, in humans, we get help from our hearts.",
+        "(Soundbite of heartbeat)",
+        "Hearts are our pumps.",
+        "And those pumps push blood, and fuel, and oxygen around our bodies.",
+        "But here's the fantastic observation.",
+        "If you look at all creatures with heart starting with the big ones.",
+        "If I take the heartbeat of a whale…",
+        "Which is very slow.",
+        "(Soundbite of a whale's heartbeat)"
+      ]
+    },
+    {
+      "dialogue_uid": "7eec36a6-2aba-4a1d-81e1-4c8ef1995f4e",
+      "language": "en",
+      "utterances": [
+        "And then you wait, and wait, and there you go.",
+        "(Soundbite of a whale's heartbeat)",
+        "It beats once every maybe…",
+        "(Soundbite of a whale's heartbeat)",
+        "Maybe every three seconds or so, yeah…",
+        "(Soundbite of a whale's heartbeat)",
+        "And the next one…",
+        "(Soundbite of a whale's heartbeat)",
+        "Whereas if I listen to a shrew, which is the smallest mammal.",
+        "(Soundbite of a shrew's heartbeat)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "66490138-acc3-414b-b26b-cafa7a84a4ef",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f424fb2b-fb19-483a-a2a6-8fe75268218d",
+      "language": "en",
+      "utterances": [
+        "That's right, and, you know, granted going to the hospital is not something anybody does for fun, and I guess that's sort of - the good news is that half the people say that things are good or OK, but a third of those respondents said things could have been better.",
+        "About a third of respondents say that nurses were not available when they were needed, and another third said that communication was really lacking.",
+        "That seemed to be, you know, a fairly pervasive problem, communication between them and their caregivers or between the caregivers who were taking care of them, meaning doctors and nurses, didn't have communication or other aides didn't have good communication.",
+        "That seems to be a fairly pervasive problem in the health care system in general but particularly in the hospital.",
+        "And I guess no surprise, after all the attention devoted to all those other health care surveys, cost is a big issue.",
+        "Yes, cost is a big issue.",
+        "You know, it was interesting, a lot of people that we surveyed said that they thought they were getting pretty good value for their money, but an awful lot of people are still saying that being sick really puts you at risk for having a serious financial problem, and these are even people with insurance, that more and more people with insurance are spending more and more money, and if...",
+        "Out of their own pockets.",
+        "Out of their own pockets, and if you get sick, obviously you are going to be spending even more.",
+        "And some of these people are saying that they put off care because of the financial hit, and those who did not put off care suffered serious financial problems because of that.",
+        "And some of the problems you referred to communication, that's a pretty serious problem, it can lead to mistakes.",
+        "And a lot of people said wrong diagnoses, tests that weren't necessary or for the wrong thing.",
+        "That's right, and, you know, you have to take some of these with a little bit of a grain of salt because these are self-reported - what we're asking is from these - we're asking people to report on their own.",
+        "So we don't know for a fact that these are necessarily wrong diagnoses or tests, things that they didn't need.",
+        "So we don't know exactly for sure.",
+        "But that's what we're getting.",
+        "And certainly we do know that there is a significant amount of that sort of thing that does go on in the health care system.",
+        "There is excess, if you will, and there are certainly wrong diagnoses.",
+        "If you - as you looked at this survey data, what jumped out at you?"
+      ]
+    },
+    {
+      "dialogue_uid": "37d7848e-50c5-4f81-adbb-78ea7206bbcf",
+      "language": "en",
+      "utterances": [
+        "Well, you know, I think what we pretty much knew, which is that as - certainly over the last decade, more and more of the cost is being passed on to the patient, and indeed, it's what a lot of people have referred to as a sick tax.",
+        "If you happen to be sick, you're going to be paying even more, that those people who use the health care system are the people who pay the most.",
+        "This survey actually showed that people were generally relatively satisfied with the quality of the care that they're getting, relatively.",
+        "There were some complaints, but indeed the cost seemed to jump out, and that there are a lot, still a lot of ways that this system, you know, always - the mantra used to be that, you know, we have the best system in the world, you know, we just need to stop spending so much.",
+        "Now, the best system in the world, there's a lot of people complaining about that.",
+        "We want to hear from those of you who've spent time in the hospital sometime over the past year.",
+        "How good was your care?",
+        "Give us a call, 800-989-8255.",
+        "Email us, talk@npr.org.",
+        "Later in the program, we're going to be looking at new approaches that some hospitals are taking.",
+        "But in the meantime, we want to hear from you guys.",
+        "Let's start with Carol(ph), Carol's on the line with us from Newark, Delaware.",
+        "Yes, hello, and thank you for addressing the topic.",
+        "I was seriously injured in a car accident in Philadelphia and was taken to a well-known hospital, where I was misdiagnosed and treated I think the only appropriate word is abusively.",
+        "I gave them four telephone numbers to call, and no one was called.",
+        "So no one knew where I was, and I wound up on the missing persons list.",
+        "No one - so therefore no one could come in and come to my rescue, and because multiple fractures, I couldn't walk, and yet they were, you know, coming in frequently into the room that I was in and just commanding me to get up and walk, and there was no way I could do it.",
+        "It sounds like a nightmare, Carol.",
+        "Yeah, and I was in the trauma unit for 11 days and kind of dumped into a nursing home, and despite the fact that all of the injuries were orthopedic, I never saw an orthopedist until I left the nursing home.",
+        "And I left.",
+        "I was not discharged; I left and finally saw an orthopedist that all of the exercises and things they were trying to force me to do were of the completely wrong thing.",
+        "And they also confirmed by MRI in the hospital, broke my back because I had had an MRI just prior to that accident, when I finally got out alive, I don't know how, only by the grace of God.",
+        "Another MRI was taken and showed that the back was broken, as well.",
+        "That did not occur in the car accident.",
+        "So how are you doing now, Carol?"
+      ]
+    },
+    {
+      "dialogue_uid": "31874d4a-37d4-4fd9-a87c-99b015786a8f",
+      "language": "en",
+      "utterances": [
+        "Well, because of the - I'm doing well, but because of the misdiagnosis I've, you know, had to go on disability and of course lost my job and all of that, but that's not significant.",
+        "I'm hoping that someone, one of the people you interview today, will address how we can go about addressing this.",
+        "I've contacted all of the agencies that I was told to and reported it to everyone that I was told to, and nothing has been done.",
+        "And in fact I became aware of Medicare and Medicaid actually paying people who never even saw me, and I found out by accident that Medicaid was paying these people, and I reported that to the attorney general, and that was also sloughed off.",
+        "So I would love to know the appropriate way to address this, if one of your guests can tell us.",
+        "I'm not sure that we can do that for you, but you may want to contact a lawyer, you may have already.",
+        "Oh, I have.",
+        "All right.",
+        "I'm glad you're doing better, Carol, and I'm sorry for your experience.",
+        "No, no, but thank you so much for addressing it.",
+        "All right, thanks very much.",
+        "And that sounds like an usual case, Julie Rovner, but there are so much - so many instances where records get lost in the bureaucracy, that initial complaint of, you know, I was there and gave them four numbers, nobody was called, and I went up on the missing persons list, wow.",
+        "Yeah, that does sound unusual.",
+        "Normally, you know, any hospital they will try to find someone to come and be with, you know, a patient if only to pay the bills.",
+        "Now let's see if we can get another caller in.",
+        "Let's go to Jean(ph), Jean with us from Oklahoma City.",
+        "Hi."
+      ]
+    },
+    {
+      "dialogue_uid": "bdd7c6bd-7dab-4287-a6c6-5ffddb009bba",
+      "language": "en",
+      "utterances": [
+        "Hi, Jean.",
+        "I was hospitalized in April and had hepatic hemangioma, which is a benign blood tumor of the liver, and I had it removed, which going into it was supposed to have been a simple operation, but once they got in, they found out it was more extensive than they thought, ended up losing 55 percent of my liver.",
+        "The people that took care of me were outstanding.",
+        "They had me up and walking within a day, and I was out of the hospital in less than a week.",
+        "And how are you feeling now?",
+        "I'm feeling terrific.",
+        "That's fantastic.",
+        "I'll be going back to work June 1, and I was at the medical center, the same medical center, adult side, of the one that I work at.",
+        "And so it was very interesting to see life at my medical center from the other side of the bedrail.",
+        "I bet it was, and what either impressed you or caused your eyebrows to raise?",
+        "Well, I was very impressed with the kind of values I try to treat my patients with, I found I was treated with.",
+        "So I was very impressed by how well people went out of their way to make sure I was comfortable, to make sure that I got taken care of, that communications were done, which is what we do with our department with our children.",
+        "Well, I'm glad it all worked out."
+      ]
+    },
+    {
+      "dialogue_uid": "73e83e9a-4ad7-4ef7-9856-d1b5e97b0790",
+      "language": "en",
+      "utterances": [
+        "It did very nicely.",
+        "Also, about five years ago, my son had an emergency appendectomy in Mumbai, India.",
+        "And I went flying over there to get him up on his feet, and the care, while not nearly as high-tech as in the United States, was absolutely fabulous.",
+        "That's good to hear, Jean.",
+        "And so we've had good experiences on both sides of the ocean.",
+        "Well, thanks very much, and we appreciate it, and we hope your son's doing well, too.",
+        "He is, he is.",
+        "All right, thanks very much for the phone call, and Julie Rovner, it's fair to point out the majority of the respondents either very satisfied or somewhat satisfied.",
+        "That's right.",
+        "Yeah, you know, not to say that the system is a complete disaster.",
+        "You know, the complaints are significant, but they are not the majority.",
+        "And the complaints about care, are these about insurance companies, about the kinds of issues that we've been talking about so much in the last few years about health care coverage, or are these more individual?",
+        "No, we didn't - well, we didn't ask mostly about those.",
+        "We asked about things like quality - did it cause a financial hardship, did you have a, you know, a misdiagnosis.",
+        "We asked about those kinds of things.",
+        "So we asked a little bit different.",
+        "We asked more about their experiences with the health care system as a whole.",
+        "So whatever those institutional systems may be, people are paying more and more out of their own pockets, at least that's what they say."
+      ]
+    }
+  ]
+}

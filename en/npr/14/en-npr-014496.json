@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "9d0cda4a-6db3-4a40-992a-9cb361e449c5",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f406b526-0cac-4d10-9cc5-9ade3f9c3444",
+      "language": "en",
+      "utterances": [
+        "All right.",
+        "Brian, you know your anagrams into brain, so I have high expectations today.",
+        "Every answer is the name of a famous person - past or present - with five letters in both the first and last names.",
+        "I've changed one letter in each name to make a new word.",
+        "You name the people.",
+        "For example, if I said clerk table, you would say Clark Gable.",
+        "OK.",
+        "Brian, do you have it?",
+        "I think I got it.",
+        "All right.",
+        "Let's give it a go.",
+        "Number one is julep verse J-U-L-E-P V-E-R-S-E.",
+        "Julep verse.",
+        "A novelist.",
+        "Jules Verne.",
+        "There you go - Jules Verne.",
+        "Number two is Marne cutie M-A-R-N-E C-U-T-I-E.",
+        "And here you're looking for a famous scientist.",
+        "Marie Curie."
+      ]
+    },
+    {
+      "dialogue_uid": "d45085a7-1462-4337-bd99-184525f821db",
+      "language": "en",
+      "utterances": [
+        "There you go.",
+        "Fancy grade F-A-N-C-Y G-R-A-D-E.",
+        "Nancy Grace.",
+        "Nancy Grace is good.",
+        "All right.",
+        "Your next one is delta geese D-E-L-T-A G-E-E-S-E.",
+        "Delta geese.",
+        "Della Reese.",
+        "Della Reese, good.",
+        "Dinar store D-I-N-A-R S-T-O-R-E.",
+        "Dinah Shore.",
+        "That's fast.",
+        "Milks dalis.",
+        "That's M-I-L-K-S D-A-L-I-S - like the paintings, you know.",
+        "I have three Dalis hanging in my house.",
+        "Oh, you know.",
+        "And your clue for this person is jazz.",
+        "Miles Davis."
+      ]
+    },
+    {
+      "dialogue_uid": "9eebf57c-c351-491f-b3f7-8ce485ef113f",
+      "language": "en",
+      "utterances": [
+        "Miles Davis is it.",
+        "How about grape slice G-R-A-P-E S-L-I-C-E.",
+        "Is it Grace...",
+        "Yes.",
+        "...Slick.",
+        "Grace Slick of the Jefferson Airplane.",
+        "Good.",
+        "Sharp Levis S-H-A-R-P L-E-V-I-S.",
+        "Jeez.",
+        "All right.",
+        "Change the P of sharp.",
+        "Shari Lewis.",
+        "Shari Lewis is it.",
+        "How about early limon.",
+        "That's E-A-R-L-Y L-I-M-O-N.",
+        "You're looking for...",
+        "Carly Simon."
+      ]
+    },
+    {
+      "dialogue_uid": "a243a10e-a2c5-4308-a887-7be65cb5d081",
+      "language": "en",
+      "utterances": [
+        "Carly Simon, no hint needed.",
+        "And here's your last one: jades blown J-A-D-E-S B-L-O-W-N.",
+        "Try changing the D of jades.",
+        "James Brown.",
+        "James Brown is it.",
+        "Ah.",
+        "Brian, that was excellent.",
+        "That was difficult.",
+        "(LAUGHTER)",
+        "You did really well.",
+        "Thank you.",
+        "And, of course, for playing the puzzle today, you get a WEEKEND EDITION lapel pin.",
+        "You get puzzle books and games.",
+        "And you can read all about it at npr.org/puzzle.",
+        "And before we let you go, Brian way out in Dillingham, Alaska, what is your Public Radio station?"
+      ]
+    },
+    {
+      "dialogue_uid": "1bc4ac7c-5c9e-48f5-9340-2b3ba734c904",
+      "language": "en",
+      "utterances": [
+        "I am a member of AM 670 KDLG here in Dillingham, Alaska.",
+        "Great.",
+        "Brian Laurent of Dillingham, Alaska, thank you so much for playing the puzzle, Brian.",
+        "Thank you.",
+        "OK, Will.",
+        "What's the challenge for next week?",
+        "Yes, it comes from listener Gary Alstad of Tustin, California.",
+        "Think of a three-syllable word in four letters, add two letters and rearrange everything into a two-syllable word in six letters.",
+        "Then add two more letters and rearrange everything into a one-syllable word in eight letters.",
+        "Can you do it?",
+        "So again, three-syllable word in four letters, add two letters and scramble to make two syllables in six letters, add two more letters and scramble to get a one syllable-word in eight letters.",
+        "Can you do it?",
+        "You know the drill.",
+        "When you've got the answer, go to our website, npr.org/puzzle.",
+        "And click on the Submit Your Answer link and just one entry per person, please.",
+        "Our deadline for entries is Thursday, July 25th at 3 P.M. Eastern.",
+        "Please include a phone number where we can reach you at about that time.",
+        "If you're the winner, we'll give you a call, and you will get to play on the air with the puzzle editor of The New York Times and WEEKEND EDITION's puzzle-master, Will Shortz.",
+        "Thanks so much, Will.",
+        "Thanks, Rachel."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "76dc0dfe-9325-4693-abea-eecfba6ec438",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "4f6a4429-dd7e-4ac2-a007-48fe08805cf1",
+      "language": "en",
+      "utterances": [
+        "Good morning, Rachel.",
+        "All right, what was last week's puzzle?",
+        "Yes, it came from listener Mike Reese, who's a writer for \"\"The Simpsons.\"\" I said name a well-known TV actress of the past, put an R between her first and last names.",
+        "Then read the result backwards.",
+        "You'll get an order Dr. Frankenstein might give to Igor.",
+        "Who's the actress, and what's the order?",
+        "Well, the actress was Eva Gabor of \"\"Green Acres\"\" fame.",
+        "And if you put an R between her first and last names and read the result backward, you get rob a grave.",
+        "How's that for Halloween related?",
+        "That's a good one.",
+        "So about 370 of you all got correct answers this week.",
+        "Our randomly chosen winner is Jan Wolitzky of Madison, New Jersey.",
+        "Hey, Jan.",
+        "Hey, Rachel.",
+        "Hey, will.",
+        "Congratulations.",
+        "Thank you.",
+        "So did this come pretty quickly to you?",
+        "Or did you struggle with this one?",
+        "Yeah, this one came pretty quickly.",
+        "I figured it out in a few minutes.",
+        "I was helped a little by the fact that Eva Gabor was used in a puzzle a couple of months ago.",
+        "And it was still fresh in my mind."
+      ]
+    },
+    {
+      "dialogue_uid": "182ea85f-14bb-415e-abec-7d50939f9436",
+      "language": "en",
+      "utterances": [
+        "Well, she is unforgettable, Eva Gabor.",
+        "And have you been playing the puzzle a long time?",
+        "Oh, a very long time.",
+        "Really?",
+        "I've been playing for more than a quarter century.",
+        "I remember sending in postcards coming in via pony express.",
+        "Wow.",
+        "(Laughter).",
+        "Oh, that's cool.",
+        "And now you've won.",
+        "That's great.",
+        "It is.",
+        "So do you happen to have a question for, Will?",
+        "I have noticed over the years that frequently the answer to the Sunday puzzle will appear sometime during the week in The New York Times crossword puzzle.",
+        "And I was wondering whether that's a coincidence or whether you're planting Easter eggs there.",
+        "Little clues.",
+        "Interesting.",
+        "No, I think that's coincidental.",
+        "I don't correlate the two things at all."
+      ]
+    },
+    {
+      "dialogue_uid": "04e9681c-9ee7-40fb-96b3-f4e911424c4c",
+      "language": "en",
+      "utterances": [
+        "But you never know what's happening in Will's brain.",
+        "It just all comes out of the same brain.",
+        "That's right.",
+        "(LAUGHTER)",
+        "OK, Jan, are you ready to play the puzzle?",
+        "I think so.",
+        "All right, let's give it a go, Will.",
+        "All right, Jan and Rachel, I'm going to name a famous person.",
+        "Change either the first or last letter of the last name to a new letter and rearrange the result to name a country.",
+        "For example, if I said Pearl S.",
+        "Buck you would say Cuba because out of Buck you would change the K, in this case, to an A and rearrange the letters to get Cuba.",
+        "So it's always the first or last letter of the last name that you change.",
+        "And number one is Pete Seeger - S-E-E-G-E-R.",
+        "Pete Seeger, and we're going to change - Greece.",
+        "Good.",
+        "Greece is it.",
+        "Changing the S to a C.",
+        "Nice.",
+        "Number two is Art Carney - C-A-R-N-E-Y."
+      ]
+    },
+    {
+      "dialogue_uid": "44a70cdd-ad9a-442c-8e87-09c11ccae2f1",
+      "language": "en",
+      "utterances": [
+        "Art Carney.",
+        "I'm not coming up with anything there.",
+        "This is hard.",
+        "Change the Y.",
+        "Get rid of the Y.",
+        "Change that to another letter.",
+        "I'm not seeing it.",
+        "What does it start with?",
+        "Oh, France.",
+        "Oh, good.",
+        "France is it.",
+        "Good.",
+        "I knew you'd get that.",
+        "Robert Reich - R-E-I-C-H.",
+        "My favorite labor secretary.",
+        "There you go.",
+        "Doesn't everyone have one really?"
+      ]
+    },
+    {
+      "dialogue_uid": "2e874739-bba6-4e4a-93f5-d161dfa42b66",
+      "language": "en",
+      "utterances": [
+        "I know.",
+        "Change the R.",
+        "Change the R, and you've got...",
+        "All right, think South America.",
+        "Chile.",
+        "Yeah.",
+        "This million-dollar party is the kickoff of a new magazine called Atlanta Peach, modeled after Miami's high-end glamour magazine, Ocean Drive.",
+        "And for this city, homegrown stars like Ludakris are key.",
+        "You know, Atlanta is the home to hip-hop.",
+        "Editor Elizabeth Schulte Roth says hip-hop stars embody a kind of glamour.",
+        "You know, there's nothing better than the hip-hop community and their cars and their jewelry.",
+        "They have the styles, they have the flash, and you gotta love that.",
+        "And we're just trying to emulate that."
+      ]
+    }
+  ]
+}

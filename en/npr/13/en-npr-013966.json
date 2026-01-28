@@ -1,0 +1,112 @@
+{
+  "challenge_uid": "643c4ad4-2efe-42af-a828-c0458cad9217",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "cff47410-fdd6-45ad-a3e7-17e1e13d8faf",
+      "language": "en",
+      "utterances": [
+        "Ernie.",
+        "All right, are you ready to play the Puzzle, Tova?",
+        "I am.",
+        "Take it away, Will.",
+        "Well, every answer today is the name of a U.S.",
+        "state capital.",
+        "Which state capital rhymes with noisy?",
+        "Boise.",
+        "Good.",
+        "Contains the letters of combs, C-O-M-B-S, in left-to-right order.",
+        "Columbus.",
+        "Good.",
+        "Which state capital consists of the chemical symbols for gold and sulfur followed by the full name of a third chemical element?"
+      ]
+    },
+    {
+      "dialogue_uid": "19b28221-3f50-40ca-b9b3-2c8ab320395c",
+      "language": "en",
+      "utterances": [
+        "So gold is Au.",
+        "Right.",
+        "So I'm going to go with Augusta.",
+        "No.",
+        "No?",
+        "But that does start - and the second, the symbol for sulfur.",
+        "Austin.",
+        "Austin is right, ending in tin - Austin, Texas.",
+        "Which state capital contains a silent O as its third letter?",
+        "And here's your hint - this is a capital in the Southwest.",
+        "Phoenix.",
+        "Phoenix - good one.",
+        "Which state capital ends in an O sound but does not contain the letter O?"
+      ]
+    },
+    {
+      "dialogue_uid": "78a419de-414f-4b70-bfc6-7566d53934e6",
+      "language": "en",
+      "utterances": [
+        "Juneau.",
+        "Nice.",
+        "Consists of a candidate for president in 1988 plus a president in the 1970s.",
+        "Gosh, a candidate for president in '88 - so I know...",
+        "Right.",
+        "He wasn't nominated.",
+        "He failed in his run for the nomination.",
+        "It's a little before my time.",
+        "OK.",
+        "And how about a president of the 1970s?",
+        "That would be Ford.",
+        "No.",
+        "Ford is good.",
+        "Ford is correct.",
+        "OK.",
+        "What state capital ends in F-O-R-D?"
+      ]
+    },
+    {
+      "dialogue_uid": "8de4fcad-f6cb-4404-8a15-b2c041df877d",
+      "language": "en",
+      "utterances": [
+        "Frankfort - no.",
+        "That's not quite.",
+        "Oh (laughter).",
+        "That's F-O-R-T.",
+        "You need F-O-R-D.",
+        "Oh, you're right.",
+        "And think in the Northeast.",
+        "Let me see here.",
+        "The Nutmeg State.",
+        "Thank you.",
+        "I feel relieved, and that was really fun.",
+        "I feel like all of that sixth grade stuff came up - bubbled up to the surface.",
+        "Definitely.",
+        "And you were able to tap that knowledge."
+      ]
+    },
+    {
+      "dialogue_uid": "3606c925-54c8-4664-ad8e-097c430b9c11",
+      "language": "en",
+      "utterances": [
+        "Definitely.",
+        "For playing our Puzzle today, you'll get a WEEKEND EDITION lapel pin as well as puzzle books and games.",
+        "You can read all about it at npr.org/puzzle.",
+        "What member station do you listen to?",
+        "I am a proud member of WHYY in Philadelphia.",
+        "Tova Tenenbaum, thank you for playing the Puzzle.",
+        "Thank you so much.",
+        "All right, Will, what's next week's challenge?",
+        "Yes, it comes from listener James Matthews of Little Rock, Ark.",
+        "And the challenge is to make a nine-letter word meaning left using only a B and one D.",
+        "Can you do it?",
+        "So again, make a nine-letter word meaning left using only a B and one D.",
+        "Can you do it?",
+        "When you have the answer, go to our website npr.org/puzzle and click on the Submit Your Answer link.",
+        "Remember just one entry per person, please.",
+        "Our deadline for entries is this Thursday, January 17 at 3 p.m. Eastern.",
+        "Include a phone number where we can reach you at about that time.",
+        "And if you're the winner, we'll give you a call, and you'll get to play on the air with the puzzle editor of The New York Times and WEEKEND EDITION's puzzlemaster Will Shortz.",
+        "Thanks so much, Will.",
+        "Thank you, Lulu."
+      ]
+    }
+  ]
+}

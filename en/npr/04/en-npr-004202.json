@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "e808c937-b17e-4e2b-af59-2f6d92c89a76",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "05e62e8b-0cee-4e72-804c-c23ba373e825",
+      "language": "en",
+      "utterances": [
+        "That's exactly right.",
+        "Its orbital diameter is almost exactly the same as the diameter of the Earth.",
+        "It's tilted about 10 degrees with respect to the Earth's orbit.",
+        "So we only cross paths twice during the orbit, once when it's going from south to north and second when it's going from north to south.",
+        "And this - it's usually not the case that the Earth is there at one of the crossing points, but we're there today.",
+        "And if we had been, like, 15 minutes off, it would have hit us.",
+        "You could say that, yes, but it's not going to hit.",
+        "There will certainly be a possibility that in the future it may come around and hit us, it's one of that group of asteroids that is fated either to make a close encounter by the Earth, fly off and hit something else or end its life on our surface.",
+        "Jay Melosh.",
+        "We'll be right back with Flora Lichtman and myself talking more about the asteroid, continuing live coverage.",
+        "Stay with us.",
+        "We'll be right back after this break.",
+        "I'm Ira Flatow, this is SCIENCE FRIDAY from NPR.",
+        "(SOUNDBITE OF MUSIC)",
+        "I'm Ira Flatow; this is SCIENCE FRIDAY.",
+        "This hour, we're following along live as an asteroid named 2012 DA14, it's about 150 feet, flies past us.",
+        "We're actually just minutes away from its closest approach, it's going to be in about five minutes, a little less than five minutes when it's going to be just over 17,000 miles away.",
+        "That may sound far to you, but it's actually closer than most satellites.",
+        "My guest is Jay Melosh, he's distinguished professor in the Department of Earth & Atmospheric Sciences at Purdue University.",
+        "Flora Lichtman is here with me, and we're following people who are watching.",
+        "Flora, who have we got next?",
+        "Yeah, really.",
+        "That's a great job.",
+        "Thank you."
+      ]
+    },
+    {
+      "dialogue_uid": "5426ebfb-0ec4-4f18-9ac4-205b04d1d0ff",
+      "language": "en",
+      "utterances": [
+        "Next we have Humberto Campins.",
+        "He's part of the Science Team at NASA's OSIRIS-REx Mission and a professor of physics and astronomy at the University of Central Florida in Orlando.",
+        "Welcome to SCIENCE FRIDAY, Humberto.",
+        "I'm delighted to be here.",
+        "I'm live.",
+        "We have a live panel going on.",
+        "So I'm actually disturbing, a little bit, the crowd.",
+        "And according to our calculations, the closest approach will happen in another 40 seconds.",
+        "So you may hear a cheer inside the room.",
+        "We have about 800 people in the auditorium, and if you hear a cheer, it is because it will having its closest approach, and it will start moving away from us.",
+        "So this is a watch party at the University of Central Florida?",
+        "That is correct.",
+        "We have a live feed from Australia, and we have four speakers that are discussing this with the public and the press.",
+        "This is a little bit earlier than the predicted closest approach.",
+        "Well, according to our calculation, it's going to happen in another 10 seconds.",
+        "OK, so we're counting down right as we speak.",
+        "What does it look like on your screen?",
+        "Five, four, three...",
+        "You can hear them.",
+        "Two, one."
+      ]
+    },
+    {
+      "dialogue_uid": "4001ce58-d31d-400b-a511-59666a4dd396",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF CHEERING)",
+        "The asteroid is now moving away from us.",
+        "Are you guys there?",
+        "Wow.",
+        "Wow, that was exciting.",
+        "That was like New Year's Eve in Times Square.",
+        "(LAUGHTER)",
+        "Yeah, we've got 800 very relieved people here.",
+        "Well, still it's moving away, and it did not hit us.",
+        "It didn't hit anything else that we know of.",
+        "Not... We haven't gotten any reports of any (unintelligible) with any of the communication satellites.",
+        "How has the live stream held up?",
+        "Quite well.",
+        "We seem to have clear weather and a very good connection with Australia.",
+        "It's going to be dawn in Australia soon, but we were very forutnate to get the live stream until now."
+      ]
+    },
+    {
+      "dialogue_uid": "c9c16b1e-5242-4966-8ad9-8f74ca0a5758",
+      "language": "en",
+      "utterances": [
+        "Wow.",
+        "And when do we expect to see it return again?",
+        "In another 30 years or so.",
+        "And will it be coming as close then as it is now?",
+        "No, it will not.",
+        "I won't come as close as this time.",
+        "But remember, the Earth is going to be perturbing its orbit rather dramatically.",
+        "So we don't know exactly what its orbit will be like until after we've, you know, been able to track it a little further.",
+        "And it depends on a number of things, including the shape of the asteroid and its rotation, and a number of things that are going to be - for example the Earth could be breaking it up into pieces because of the tidal forces.",
+        "We don't know any of that yet.",
+        "But we estimate that it'll come back, but not come back as close as this time.",
+        "I just want to give a shout out to our website, sciencefriday.com/asteroidwatch, where we have a feed and lots of information about DA14.",
+        "Dr. Campins, you're also part of the OSIRIS-REx Mission.",
+        "What's that about?",
+        "I've just stepped out of the room wher ehte panel is going on so that I don't disturb them.",
+        "The OSIRIS-REx Mission is funded by NASA, it's being built right now.",
+        "We'll be launching in 2016.",
+        "It'll get to the asteroid in 2018, spend about a year and a half mapping it.",
+        "In 2019, it will sample and send this capsule back to Earth, which will arrive in 2023.",
+        "This mission is being led by the University of Arizona, and I'm part of the science team.",
+        "The science team is composed mostly of U.S.",
+        "scientists, but we also have a significant participation with European and Canadian scientists.",
+        "So this is an asteroid scraping mission.",
+        "But you're not going to this asteroid, right?"
+      ]
+    },
+    {
+      "dialogue_uid": "ff984652-a706-4c03-acc4-44d07df4abae",
+      "language": "en",
+      "utterances": [
+        "No, this asteroid got discovered only a year ago.",
+        "1999 RQ36 we have studied for a number of years, and we have decided that that is the best target for our mission.",
+        "What could you learn from this asteroid, now that it has come by and gone by?",
+        "Well, we hope to learn about its shape, its internal structure, hopefully a little bit about its composition.",
+        "And also that should help us prepare for what we will encounter at the asteroid 1999 RQ36 when we get there in 2018.",
+        "Thank you, Dr. Campins, for joining us today and for leaving your watch party.",
+        "We appreciate it.",
+        "Yeah, and I can stay online if you need me to, or if you want I can end the call.",
+        "It's your choice.",
+        "Great, well, maybe we'll check back in with you later.",
+        "Thank you very much.",
+        "Thanks, Dr. Campins.",
+        "My pleasure.",
+        "Humberto Campins is a member of NASA's OSIRIS-REx science team and a professor of physics and astronomy at the University of Central Florida."
+      ]
+    }
+  ]
+}

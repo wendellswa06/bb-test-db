@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "f4dffe3c-92d5-4615-95ad-9cb2c89f476e",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0bd17012-ca0c-4208-b011-52d959b3e861",
+      "language": "en",
+      "utterances": [
+        "About two years, off and on.",
+        "How long did it take you to come up with this answer?",
+        "It was sort of a joint effort between my ex-husband and my daughter and myself on a walk.",
+        "We all sort of worked together in maybe 20 minutes.",
+        "Really, how old is your daughter?",
+        "She's 12.",
+        "She's not quite old enough to play.",
+        "No, but she loves puzzles.",
+        "She does.",
+        "Oh, wait until she hears mom on the radio.",
+        "Are you ready to play?",
+        "I am.",
+        "All right.",
+        "Well, Will, meet Valerie, Valerie, meet Will, and let's play."
+      ]
+    },
+    {
+      "dialogue_uid": "e79e18fe-5c32-4fb8-b758-24dcac4aaf5d",
+      "language": "en",
+      "utterances": [
+        "All right, Valerie, this - today is puzzle for crows.",
+        "Every answer is a familiar two-word phrase in which the first word starts with CA, and the second word starts with W.",
+        "For example, if I said a glass opening in a wall that is attached by hinges, you would say casement window.",
+        "Okay.",
+        "Okay.",
+        "Number one is it melts and drips from a flame.",
+        "Candle wax.",
+        "Right.",
+        "Number two, covering for a Snickers bar or M&Ms.",
+        "Candy wrapper.",
+        "Uh-huh.",
+        "Number three, what a moat surrounds.",
+        "Castle walls.",
+        "Uh-huh.",
+        "Cabernet or other product from Napa Valley.",
+        "Case of Wine?"
+      ]
+    },
+    {
+      "dialogue_uid": "ce810aeb-549c-4af1-a952-590341a843d0",
+      "language": "en",
+      "utterances": [
+        "Wine is right.",
+        "Where's Napa Valley?",
+        "California.",
+        "California wine is right.",
+        "Person making a large floor covering.",
+        "Carpet worker?",
+        "Carpet is right, and how do you make a carpet?",
+        "Carpet weaver?",
+        "Carpet weaver is right.",
+        "Removal of money from a bank.",
+        "Cash withdrawal.",
+        "Uh-huh.",
+        "Part of a surrey or brome that rolls.",
+        "Car wheel?"
+      ]
+    },
+    {
+      "dialogue_uid": "7f5fcab2-e87c-4e43-ba93-96cabf491174",
+      "language": "en",
+      "utterances": [
+        "Well, what's a surrey or brome?",
+        "Wheel is correct.",
+        "Carriage?",
+        "Carriage wheel is right.",
+        "Seltzer.",
+        "Carbonated water.",
+        "Uh-huh.",
+        "Luxury timepiece originally made by a 19th-century French jeweler.",
+        "Cartier watch?",
+        "Yeah, well done.",
+        "And we have some things for you for playing our puzzle today.",
+        "You'll get the WEEKEND EDITION lapel pin, the \"\"11th Edition of Merriam-Webster's Collegiate Dictionary and Thesaurus,\"\" the Scrabble Deluxe Edition from Parker Brothers, \"\"The Puzzle Master Presents\"\" from Random House Volume 2, \"\"Will Shortz' Little Black Book of Sudoku,\"\" and \"\"Black and White Book of Crosswords\"\" from St. Martin's Press, and one of \"\"Will Shortz' Puzzle Master Decks of Riddles and Challenges\"\" from Chronicle Books.",
+        "So there's a load of stuff you can share with your daughter.",
+        "Tell us what station you listen to, Valerie.",
+        "KUOW in Seattle.",
+        "KUOW.",
+        "Valerie Shuman from Tacoma, Washington.",
+        "Thanks so much, you were a wonderful player today.",
+        "Thank you very much."
+      ]
+    },
+    {
+      "dialogue_uid": "56a6d9cb-da84-4b76-8881-21273020b923",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "Will, a challenge for everyone for next week?",
+        "Yes, it comes from listener Dan Asimov of Vancouver Island, British Columbia.",
+        "Name a well-known historical figure in six letters with a one- word name.",
+        "The first and fourth letters are the same, the second and fifth letters are the same, and the third letter is one letter before the sixth, alphabetically.",
+        "Who is it?",
+        "So, again, a well-known historical figure, one-word name, six letters, the first and fourth letters are the same, the second and fifth letters are the same, and the third letter is one letter before the sixth letter, alphabetically.",
+        "Who is this famous person?",
+        "When you have the answer, go to our Web site, npr.org/puzzle, and click on the Submit Your Answer link.",
+        "Only one entry per person, please.",
+        "Our deadline this week is Thursday, 3:00 p.m. Eastern Time.",
+        "Please include a phone number where we can call you at that time because we will call you if you're the winner, and you'll get to play puzzle on the air with the puzzle editor of the New York Times and WEEKEND EDITION's puzzle master, Will Shortz.",
+        "Will, thanks a lot, and Happy Easter.",
+        "Thanks, Liane.",
+        "Happy Easter.",
+        "This week, our Planet Money team is getting into the oil business.",
+        "Yesterday, you heard how they bought a hundred barrels of crude oil.",
+        "Today, we follow the oil as it makes its way to the refinery, where it will get turned into gasoline.",
+        "Stacey Vanek Smith and Robert Smith have the story.",
+        "Even though we've already paid for the oil, it is stuck in a tank in the Kansas countryside, and the only way to get there is down a long, bumpy dirt road.",
+        "Eventually, a shiny tanker truck pulls up, and the driver gets out.",
+        "Scott Zimmerman - immaculate blue jumpsuit, white hard hat.",
+        "How are you not covered in oil?",
+        "You look clean.",
+        "I don't see any oil on you.",
+        "You've been loading oil all day."
+      ]
+    }
+  ]
+}

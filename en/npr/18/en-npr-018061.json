@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "40caf157-1196-4d53-a8d8-0375e279799a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "915627b3-75cc-41f3-ac86-0fc8cbe62363",
+      "language": "en",
+      "utterances": [
+        "Just take the HPV, forcing 12-year-old girls to take an inoculation to prevent this sexually transmitted disease.",
+        "This is not good medicine, I do not believe.",
+        "And we should point out, Julie, that Ron Paul is a doctor.",
+        "Yes, he is.",
+        "But in this case, he's in disagreement with the vast majority of the medical community.",
+        "The Centers for Disease Control and Prevention's Vaccine Taskforce that recommends which vaccines children and adults should get has recommended this vaccine, the American Academy of Pediatrics, the Society of Adolescent Health and Medicine, among others.",
+        "This vaccine has, I should mention, been quite a contentious issue.",
+        "It's a vaccine that prevents cancer, but via a sexually transmitted disease, as Congressman Paul mentioned, so that does make some parents nervous.",
+        "And it's recommended for preteen girls, not because they expect them to be having sex at that age, but because experts want them to be fully protected before they begin having sex.",
+        "But that's often been misinterpreted, which has added to the controversy surrounding it.",
+        "And we should note, Julie, that while there were several controversies surrounding this issue of the vaccine, in fact, the program never became law in Texas.",
+        "That's right.",
+        "The governor tried to do it by executive order and he was overridden by his legislature, so this mandate for vaccination didn't actually happen.",
+        "Thank you, Julie.",
+        "You're welcome, Robert.",
+        "And finally, to NPR science correspondent Richard Harris.",
+        "Richard, Governor Perry was asked about his claim that scientists, and I'm quoting, are coming forward to question the idea that human activity is behind climate change.",
+        "Here's what he had to say.",
+        "The science is not settled on this.",
+        "The idea that we would put Americans' economy at jeopardy based on scientific theory that's not settled yet, to me, is just - it is nonsense.",
+        "I mean, and I told somebody - I said, just because you have a group of scientists who've stood up and said, here is the fact, Galileo got outvoted for a spell."
+      ]
+    },
+    {
+      "dialogue_uid": "fc38581e-9db2-4f0d-b34a-781572456c50",
+      "language": "en",
+      "utterances": [
+        "Richard, is that right?",
+        "Is the science of global warming and the human role in it - is it settled science or not?",
+        "Well, there are still open questions, such as whether sea level will rise eight inches or six feet in this century, but the basic concept of human-induced global warming is actually overwhelmingly accepted by climate scientists.",
+        "You can look at the National Academy of Sciences, many of the world academies of sciences and many professional organizations.",
+        "And I'd like to read you a quote here.",
+        "Rising greenhouse gas emissions pose significant risks to society and ecosystems,\"\" close quote.",
+        "That's from the Exxon Mobil website, so it's not just the scientific establishment that's here on this.",
+        "Now, many voters still believe that there is a deep division among scientists about climate.",
+        "In fact, there was a poll this spring that showed the majority of Republicans actually think that, if the climate is changing, human beings are not the cause and the Tea Party numbers show even deeper skepticism than that.",
+        "Okay.",
+        "Let's move on, then, to Governor Perry's reference to Galileo, who was once, he said, outvoted.",
+        "Yeah.",
+        "Well, Galileo did go against the prevailing science of the day when he presented evidence that the Earth actually orbits the sun, not the other way around.",
+        "And I must say that astronomers of the day generally did agree with him, although there were some skeptics who didn't and his real conflict was, of course, with the Catholic church, which considered it a heresy that the Earth might not be the center of the universe.",
+        "And, by the way, when Perry was asked to name a single scientist who he trusts on climate issues, presumably his Galileo, he demurred.",
+        "Thank you, Richard.",
+        "That's NPR's Richard Harris.",
+        "Our thanks also to NPR's Tamara Keith and Julie Rovner for that truth-squadding of last night's GOP presidential debate.",
+        "One hundred years ago this month, Cambridge University Press in England published a book that lost money, that according to one of its two co-authors was probably read in full by only six people, but that influenced the thinking of people who influenced the thinking of other people, who influenced the thinking of still others, and so on and so forth.",
+        "It was volume one of Bertrand Russell and Alfred North Whitehead's \"\"Principia Mathematica.\"\" Two more volumes of the work would follow."
+      ]
+    },
+    {
+      "dialogue_uid": "f260f890-0a5e-4e1c-92cd-843dff14233b",
+      "language": "en",
+      "utterances": [
+        "I am deeply in over my head in these mathematical and philosophical waters, but Im hoping that Julie Rehmeyer can swim through them a bit.",
+        "She writes about math for Science News and for Wired.",
+        "And she joins us now from Berkeley, California.",
+        "Welcome to the program once again.",
+        "Thank you, delighted to be here.",
+        "And first, describe for us what Bertrand Russell and Alfred North Whitehead were trying to show in this book that in 1910.",
+        "They were really trying to rescue math from a deep crisis of foundations.",
+        "Mathematicians had found some surprising results that led them to realize they needed to be a whole lot more careful than they had been previously.",
+        "Harold Washington's deputy press secretary is now a Chicago Sun-Times columnist.",
+        "Laura Washington - no relation to the late mayor - says he loved people and reveled in his work.",
+        "So, Russell and Whitehead set out to show that math really boiled down to logic and to define at the very most basic level what mathematics was, and to show then that all of math was logical consequences from some very, very simple principles.",
+        "Even if the math they were describing involved things that we didn't see in everyday life and that seemed to...",
+        "That's exactly right.",
+        "...violate common sense.",
+        "That's exactly right.",
+        "And in particular, what mathematicians had found that they were responding to was that they had discovered non-Euclidean geometries, which are kind of whole different universes of geometry that are mathematically consistent but utterly non-intuitive and not at all what we experienced in the everyday world."
+      ]
+    },
+    {
+      "dialogue_uid": "48de13e2-a1a8-4100-a577-e3950787ce2f",
+      "language": "en",
+      "utterances": [
+        "Where two parallel lines might in fact meet at some point.",
+        "Well, one version is where two parallel lines might in fact meet, and another version is where there are lots of different parallel lines through one point.",
+        "That is a measure of their rigor that Ive read, which is how long it took them in this work to prove that one plus one equals two.",
+        "Indeed.",
+        "It took them well into Volume 2.",
+        "(Soundbite of laughter)",
+        "Eighty pages into Volume 2.",
+        "And when they proved it, they have this wonderful little note after it that says: The above proposition is occasionally useful.",
+        "(Soundbite of laughter)",
+        "Now, how influential was this work, or was it simply a big deal for 1910 and subsequent years but forgotten long after?",
+        "Well, it certainly has not been forgotten.",
+        "It's been very influential.",
+        "But the interesting thing is it's been influential in a kind of unexpected and, in some ways, sort of tragic way.",
+        "The book kind of laid the seeds for its own undoing.",
+        "About 20 years later, a German mathematician named Kurt Godel used what Russell and Whitehead had done in the Principia to show that it actually couldn't do what it aimed to do, that it couldn't contain all of math, that there would be true mathematical statements that were not logical consequences of the axioms that it set out."
+      ]
+    },
+    {
+      "dialogue_uid": "76f38b14-1a15-4032-941f-2996590b6784",
+      "language": "en",
+      "utterances": [
+        "And that really, it was completely shocking, and it completely transformed our understanding of what math fundamentally is.",
+        "So the interesting thing about it is, on the one hand, it kind of destroyed the whole project, and on the other hand, Godel couldn't have come to that conclusion without the work of the Principia.",
+        "So it kind of ate its own tail in a funny way.",
+        "And in a certain way, at this point, one of the biggest contributions of the book is that it laid the groundwork for computation, even though that was not in Russell or Whitehead's mind at all.",
+        "Computers had barely been conceived of at that point.",
+        "But you mean the project of writing code for computers?",
+        "That's exactly right because the Principia is getting rid of all of the ambiguities of natural language, you know, English language.",
+        "And part of the reason that so few people have read is that it's almost all symbols.",
+        "It's really almost impossible to read.",
+        "It's like sitting down and reading a computer program.",
+        "So that process of turning mathematics essentially into code is exactly what ultimately needs to be done to build computers.",
+        "And it had a huge influence on the design of computers that lasts till this day.",
+        "For us baby boomers who remember Bertrand Russell as largely a political dissident of the 1950s, this is actually what he was famous for, is a mathematician, yes?",
+        "Oh, yeah, absolutely, absolutely.",
+        "Though, you know, his political work I think grew out of his mathematical views in many ways.",
+        "He saw logic as being fundamental to everything, and his political beliefs I think grew out of that in many ways.",
+        "Thank you, Julie.",
+        "Thank you.",
+        "This was fun."
+      ]
+    }
+  ]
+}

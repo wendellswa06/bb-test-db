@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "0a95b744-9bff-4bf7-87fe-852d012330b9",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "bf58adac-7269-449c-9f40-082aec358e4d",
+      "language": "en",
+      "utterances": [
+        "Thank you for talking with us about...",
+        "Thank you, Robert.",
+        "...today's events.",
+        "That's NPR's Peter Sagal.",
+        "(SOUNDBITE OF MUSIC)",
+        "In Rosedale, Mississippi, John Janoush is in the middle of the Mississippi Delta, which means he is in the middle of a flood zone.",
+        "Janoush is vice president of Jantran, which operates towboats.",
+        "One of those boats can push as many as 30 barges loaded with grain or other goods.",
+        "Now six of his towboats are stuck on the Arkansas River, a tributary of the Mississippi.",
+        "We're in unchartered waters, here.",
+        "Mississippi has gotten so high, it's actually started to flow up the Arkansas River.",
+        "Oh, okay.",
+        "Which, in turn, has shutdown a lot, where we can't get into or out of the Arkansas River.",
+        "Let me make sure I'm clear on that.",
+        "Normally, the Arkansas River would flow into the Mississippi.",
+        "The Mississippi is so high, the water's flowing backward.",
+        "That's correct."
+      ]
+    },
+    {
+      "dialogue_uid": "13ae5222-fe2d-47d6-ae2b-6c475bb06503",
+      "language": "en",
+      "utterances": [
+        "So you have boats trapped on the Arkansas, then?",
+        "We do.",
+        "I've got six caught up there right now.",
+        "How long they been there?",
+        "Since last Thursday at this time.",
+        "More than a week, now.",
+        "Right.",
+        "And we'll be there at least another week until the Mississippi levels out and falls enough where that reverse with Arkansas can start flowing back towards the Mississippi again.",
+        "You used the phrase unchartered waters earlier.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "Yeah.",
+        "You meant that literally, it sounds like."
+      ]
+    },
+    {
+      "dialogue_uid": "e51100cd-a0ff-4300-9127-1a2159c38fd3",
+      "language": "en",
+      "utterances": [
+        "I guess so.",
+        "I didn't think about it when I said it, but I guess you're right.",
+        "I've talked to the Corps every day, and they're discovering new problems because they've never seen this, nor have any of the operators.",
+        "What about in your shipyard in Rosedale, Mississippi?",
+        "How high is the water there?",
+        "I am looking out, and it is almost two feet from where I'm sitting in my office.",
+        "Wow.",
+        "I'm looking at my boats out the window, and they're actually - they're sticking up 40, 50 feet above me.",
+        "You know, they're usually - we're looking down at them.",
+        "So if it were to go up two more feet, you'd be swimming.",
+        "That is correct.",
+        "That is correct.",
+        "In fact, I've got a home on the Mississippi River, my brothers and I do, and they're all in the water right now.",
+        "Oh, gosh.",
+        "I'm sorry to hear that.",
+        "Yeah.",
+        "You have no idea what the condition is, I guess, till the water goes down."
+      ]
+    },
+    {
+      "dialogue_uid": "0b70f5bb-4d96-4e8a-b3c8-8ab36017954f",
+      "language": "en",
+      "utterances": [
+        "No.",
+        "It'll be ugly.",
+        "It'll be a mess, I promise you.",
+        "Now, with that said, even though this is a really high flood, you get floods in the Mississippi River.",
+        "Everybody must be set up to deal with this, to some extent.",
+        "Not to this magnitude, though.",
+        "People who built homes down here and on the edge of the Mississippi have all built above the 100-year flood stage and assume they'd never get water in their homes, but it's gotten everyone.",
+        "Everyone I know, the house they placed on the Mississippi right now has water in their home.",
+        "Just so I know, is that your only home?",
+        "The...",
+        "Oh, no, it's a second home.",
+        "I spend more time there than I do anywhere.",
+        "But, no, it's a second home.",
+        "OK.",
+        "So you got someplace to stay.",
+        "Oh, yes.",
+        "Yeah.",
+        "This must be pretty much the only subject of conversation around town right now.",
+        "It is.",
+        "Every email, every blog, every Facebook, everything, it's nothing but the flood and levees breaking and things like that.",
+        "You get all these rumors started, and people get really upset.",
+        "But so far, the levees are holding.",
+        "Everything's doing the job it's designed to do.",
+        "Our government doesn't do a lot of things right, but they the levees right up here.",
+        "Well, I suppose the next time that somebody who's really old starts telling you about the floods of the 1920s and the 1930s, you can come right back at them with the flood of 2011."
+      ]
+    },
+    {
+      "dialogue_uid": "de07c9a1-d753-400a-a68e-c1bb1e3587cd",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF LAUGHTER)",
+        "Yes, we can.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "I'd like to find that person to hear some history.",
+        "And maybe there's out there that's still alive that can remember it.",
+        "There must be a few.",
+        "There must be a few.",
+        "Probably so.",
+        "There you go.",
+        "They call the main concert hall Ballena Azul, the Blue Whale, and it swims inside a grand Beaux Arts palace where, for most of the last century, folks in Buenos Aires mailed letters, the former central post office.",
+        "The Blue Whale auditorium, blimp-shaped, three-stories high with 1,700 seats, floats in what used to be the package sorting area.",
+        "Why floats - because the subway runs nearby, says guide Frederico Baggio.",
+        "So the vibrations would not enter the Symphony Hall.",
+        "It ended up having a whale shape, so that's why they named it like that.",
+        "But the purpose of it - its acoustics.",
+        "The Blue Whale is the most eye-catching attraction in the new Kirchner Cultural Center, but even it can't upstage its surroundings.",
+        "The Palacio de Correos, literally the postal palace, commissioned in 1889 and completed almost 30 years later, was the largest public building in Argentina when it opened in 1928.",
+        "It's eight-stories tall, occupies a full city block and contains almost a million square feet of marble hallways, stained-glass ceilings and windows plus the original post office fixtures."
+      ]
+    }
+  ]
+}

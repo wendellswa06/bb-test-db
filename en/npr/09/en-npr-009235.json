@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "433ff706-b505-413c-ada0-c64c35ab65a1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "22e73a2a-e3a7-46f9-a4c6-b33bbbea7580",
+      "language": "en",
+      "utterances": [
+        "You're listening to WEEKEND EDITION from NPR News.",
+        "Now it's time for our regular feature, Words You'll Hear.",
+        "That's where we try to understand what's happening in the news by parsing some of the words associated with those stories.",
+        "This week, the words are racially discriminatory intent.",
+        "On Friday, a federal appeals court struck down the core of a North Carolina law that required voters to show photo ID, eliminated opportunities to vote early and to register to vote on Election Day, among other things.",
+        "The 4th Circuit Court of Appeals ruled that the measure's provisions were in fact intended to target African-American voters.",
+        "Here to tell us more about the case in North Carolina and similar cases across the country is Richard Hasen.",
+        "He's a professor of law and political science at the University of California, Irvine, and he's with us now via Skype.",
+        "Professor Hasen, thanks so much for speaking with us.",
+        "It's a pleasure to be with you.",
+        "Now, the photo ID requirement is one that gets a lot of attention, but could you tell us more about what made the voting law in North Carolina so noxious to voting rights advocates?",
+        "Yes.",
+        "It came from listener Mike Shteyman of Reisterstown, Maryland.",
+        "I said: Take the first seven letters of the alphabet - A through G - change one of these letters to another that's also either A-B-C-D-E-F or G, rearrange the result to spell a familiar seven-letter word.",
+        "What word is it?",
+        "And your answer?",
+        "Answer is feedbag.",
+        "Well, it wasn't too hard, I guess, because we received more than 1,200 entries, and that's a little more than we've been receiving in a while.",
+        "And out of those entries, our winner is Barbara Larcom from Baltimore, Maryland.",
+        "Hi there, Barbara.",
+        "Hi, Liane."
+      ]
+    },
+    {
+      "dialogue_uid": "040aa2c7-b731-4bd7-b207-b0c7f2390cf3",
+      "language": "en",
+      "utterances": [
+        "What do you do in Baltimore?",
+        "Well, I am very active with the sister city project called Casa Baltimore Limay, connected with Nicaragua.",
+        "And I play the piano for a Catholic church and I'm doing some contractual work with Alliance for Global Justice.",
+        "Wow.",
+        "All that fun and work in Charm City, huh?",
+        "That's right.",
+        "How long have you been playing the puzzle?",
+        "Well, this is my first entry in fact, although I've been listening for about two years.",
+        "And how long did it take you to solve this one?",
+        "Less than 15 minutes.",
+        "I thought this one was easier than some.",
+        "All right.",
+        "And you were courageous enough to send in an entry and we picked you.",
+        "And are you ready to play?",
+        "I hope so."
+      ]
+    },
+    {
+      "dialogue_uid": "16755574-6ba0-4059-b02c-e299dc99cf54",
+      "language": "en",
+      "utterances": [
+        "Me, too.",
+        "All right, Will, meet Barbara.",
+        "Let's play.",
+        "All right, Barbara, today's puzzle is called To B or Not Two B.",
+        "Every answer is a familiar word with a doubled B - that is two Bs in a row somewhere inside it.",
+        "I'll give you an anagram in the other letters in the word.",
+        "You tell me the word.",
+        "For example, if I said oat O-A-T, you would say abbot.",
+        "Oh, OK.",
+        "All right.",
+        "Number one is air A-I-R.",
+        "Oh dear.",
+        "And the Bs have to be together so...",
+        "The Bs will be together in that word.",
+        "Rabbi.",
+        "Rabbi - you didn't need a hint.",
+        "Number two is loge L-O-G-E.",
+        "Gobble."
+      ]
+    },
+    {
+      "dialogue_uid": "b6b16164-9f9e-42aa-bcb7-1b98771d8f16",
+      "language": "en",
+      "utterances": [
+        "Gobble, good.",
+        "Hays H-A-Y-S.",
+        "Shabby.",
+        "Yeah.",
+        "Shabby, good job.",
+        "Line L-I-N-E.",
+        "Nibble.",
+        "Nibble, good.",
+        "Lead L-E-A-D.",
+        "Dabble.",
+        "Oh, that's fast.",
+        "Inge I-N-G-E.",
+        "Ebbing.",
+        "Ebbing, good one.",
+        "Noir N-O-I-R."
+      ]
+    },
+    {
+      "dialogue_uid": "c0e608d0-41bb-416d-90e3-031ca6ce7d0e",
+      "language": "en",
+      "utterances": [
+        "Ribbon.",
+        "Ribbon, good.",
+        "OK.",
+        "Rita R-I-T-A.",
+        "Rabbit.",
+        "Uh-huh.",
+        "Hasta H-A-S-T-A.",
+        "Oh gosh, getting harder.",
+        "Shabbat.",
+        "Shabbat or Sabbath, either way.",
+        "Lutes L-U-T-E-S.",
+        "Stubble.",
+        "Stubble, good.",
+        "You're so fast.",
+        "Cagier C-A-G-I-E-R."
+      ]
+    }
+  ]
+}

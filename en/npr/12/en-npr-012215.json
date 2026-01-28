@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "28249ddd-dd4f-477d-9040-f0caf9f4896c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "d9ebc601-5b34-4a6d-8972-fe481af66a74",
+      "language": "en",
+      "utterances": [
+        "Their little bodies just wasted away.",
+        "No matter how much food the babies were getting, they just - their nutrients weren't getting through to the body.",
+        "Collins wants kids, but like every woman in her family, she's carrying genetic mutations that can cause horrible disorders.",
+        "They're called mitochondrial diseases.",
+        "It's always in the back of my mind that I could pass on mitochondrial disease to a child of mine.",
+        "Welcome, everybody.",
+        "Welcome.",
+        "Welcome.",
+        "My name is Erick Brownstein and I am your host for the evening.",
+        "...The office of president of the United States.",
+        "She's hoping doctors down the road at Newcastle University are going to be allowed to try to help women like her, by replacing the defective DNA in her eggs with healthy DNA from another woman's egg.",
+        "But that would mean doing something that's never been done before - making changes in human DNA - changes that would be passed down for generations and deliberately creating babies with genes from three different people.",
+        "To find out more, I spent some time with the scientists at Newcastle.",
+        "Hi.",
+        "Hi, I'm Doug Turnbull.",
+        "I'm Rob Stein.",
+        "Nice to meet you.",
+        "Doug Turnbull treats people with these mitochondrial diseases."
+      ]
+    },
+    {
+      "dialogue_uid": "ac652400-3e72-4692-8e99-b63f4296af58",
+      "language": "en",
+      "utterances": [
+        "When I see the anguish of the families every connect that I do, you maybe have the disease yourself, you see your children being very severely affected - dying early.",
+        "Or you see your sister dying before you do.",
+        "In most families, it is a devastating illness.",
+        "These mitochondrial illnesses are caused by defects in a very specific kind of DNA.",
+        "This DNA is very different from the DNA that we all hear about.",
+        "That DNA is in the nucleus of the cells, that thing right in the middle, like the yolk in an egg, the tens of thousands of genes that help make us who we are - the color of our eyes or hair, the shape of our noses, how tall or smart we are.",
+        "The kind of DNA that causes these disorders is tiny, just 37 genes, and it's in a totally different part of the cell called mitochondria",
+        "Mitochondria are like little power stations, present in all our cells.",
+        "Power stations that provide the energy that cells need, and if the mitochondrial DNA is defective, the cells don't work right.",
+        "So these are diseases where, in effect, the cells run out of energy.",
+        "Mitochondrial DNA is only passed down from women to their babies through their eggs.",
+        "So replacing defective mitochondrial DNA with healthy DNA could fix this.",
+        "To see how they actually do the DNA transplants, Turnbull suggests I walk across town to another lab at the university.",
+        "Hi, my name's Laura.",
+        "There, I find Laura Irving, a research associate at Newcastle.",
+        "She's working in a small, darkened room.",
+        "She's intently focused on the microscope in front of her."
+      ]
+    },
+    {
+      "dialogue_uid": "2fdc1383-b087-4233-bbeb-d85ef976c483",
+      "language": "en",
+      "utterances": [
+        "So at this point in time, we're just turning the microscope on.",
+        "Do you mind if I just peek into the microscope and see what it looks like in there?",
+        "As I'm leaning in, I notice there's a Petri dish sitting on the microscope.",
+        "It's lit up from below, so it's kind of glowing in the dark.",
+        "That's where Irving does the DNA transplants.",
+        "It's like microsurgery.",
+        "First, she carefully grabs the egg with the defective mitochondrial DNA with the tip of a long, thin glass tube so she can hold it very still.",
+        "We need to make sure that the egg it doesn't spin.",
+        "Next, Irving pierces the shell with the laser so she can pull out the regular DNA from the nucleus of the cell, leaving the defective mitochondrial DNA behind.",
+        "Technically, the egg's now a very early embryo because it's already been fertilized.",
+        "So at this point in time, I'm just removing the pronuclei from the embryo.",
+        "The pronuclei is the DNA?",
+        "Yeah.",
+        "The pronuclei contains the DNA from the mother and father.",
+        "Under the microscope, the pronuclei look like little bubbles."
+      ]
+    },
+    {
+      "dialogue_uid": "4ea07d52-11d5-4b61-9954-acff1b06d963",
+      "language": "en",
+      "utterances": [
+        "Then carry these to the recipient embryo.",
+        "The recipient embryo is made from an egg donated by a woman with healthy mitochondria.",
+        "Irving removes all of its regular DNA, leaving behind the healthy mitochondrial DNA from the donor so she can transplant the DNA from the couple trying to have a healthy baby into it.",
+        "You need to be careful as this could just contain the DNA which could quite form a child.",
+        "It's quite precious material really, so I think you do need to remember and kind of keep a steady set of mind when you perform the procedure.",
+        "And the result is an embryo with healthy mitochondrial DNA of the donor and regular DNA of the mother and the father.",
+        "If the Newcastle scientists get the green light, they transfer an embryo made this way into the womb of a woman trying to have a healthy baby.",
+        "But the idea of scientists manipulating a human being's DNA like this has triggered an intense debate.",
+        "This would be the first time that genetic changes were made in a person's DNA in a way that they will be passed down to all that person's descendents.",
+        "David King runs a genetic research watchdog group that's been fighting this.",
+        "For the last 30 years, governments around the world and bioethicists around the world have always said, no, we shouldn't be doing this.",
+        "For lots of reasons.",
+        "One big worry is that scientists could make some kind of mistake - a mistake that could create new health problems that would then be passed down for generations.",
+        "And critics like King say allowing scientists to tinker with human DNA for a medical reason could open the door for doing this kind of thing for other reasons.",
+        "That's something that could potentially lead to this future of designer babies and consumer eugenics, whereby people would be able to purchase, for their children, sort of genetic enhancements and certain characteristics like athletic ability or intelligence.",
+        "That's the future, that if we get into it, it will be absolutely socially disastrous throughout society as a whole.",
+        "But that's not all he objects to.",
+        "Remember every baby born this way would have DNA from three different people."
+      ]
+    },
+    {
+      "dialogue_uid": "c799343b-859c-42c7-8d74-66821dd2a3f4",
+      "language": "en",
+      "utterances": [
+        "A lot of people find that very troubling.",
+        "It speaks to something very deep and emotional - I think in the human psyche - about the way reproduction is supposed to work.",
+        "Despite all this, it looks like the British government is going to let this go ahead.",
+        "Sally Davies, England's chief medical officer, dismisses concerns about kids with three genetic parents.",
+        "She says the mitochondrial DNA does nothing more than provide energy for cells.",
+        "She likes to compare the procedure to changing the battery in a car.",
+        "So, let's break it down.",
+        "The day is here.",
+        "Angela, how important is Iowa in the big picture?",
+        "So the child will have the characteristics that any other child would have from that family - intelligence, looks, behaviors - whatever.",
+        "The only thing different would be those 37 genes in each mitochondria, and it is all about changing the battery so it's not flat, so it works, so you're healthy.",
+        "She also dismisses fears about designer babies",
+        "We will not be going there.",
+        "We cannot go there, by law.",
+        "This is about the power pack, and it's not designer babies, it's healthy babies.",
+        "For her part, Victoria Collins isn't worried about having a baby with a few dozen genes from another woman.",
+        "She just wants to have a healthy baby who can go on to have healthy babies of her own.",
+        "You've got this desire to be a mother, and you ultimately want your child to be healthy.",
+        "So it'd give us peace of mind really.",
+        "The British Parliament may vote on this by the end of the year.",
+        "If so, the Newcastle scientists hope to do their first DNA transplant sometime next year.",
+        "In this country, the Food and Drug Administration is asking the National Academy of Sciences for advice about whether to let scientists try the same thing here.",
+        "Rob Stein, NPR News.",
+        "As Typhoon Haiyan bore down on the Philippines, Congress was already debating the best way to send food aid to countries in need.",
+        "The U.S.",
+        "is the world's biggest source of humanitarian food aid.",
+        "Some argue the U.S.",
+        "should send more cash to help buy food, instead of ships loaded with rice or grain grown in America.",
+        "And they say the disaster in the Philippines is a good example of why."
+      ]
+    }
+  ]
+}

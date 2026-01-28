@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "c5f8d850-dc05-4cfc-8b52-bb82d1d39f38",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "79aa4ded-6a0c-4301-b141-e00e1feaa3c1",
+      "language": "en",
+      "utterances": [
+        "Lantern.",
+        "That's right.",
+        "Minus, M-I-N-U-S, plus O.",
+        "Ominous.",
+        "Ominous is right.",
+        "Bilgy, B-I-L-G-Y, plus O.",
+        "B-I-L-G-Y, plus O.",
+        "That's right.",
+        "Biology.",
+        "Biology is right.",
+        "Egads, E-G-A-D-S, plus R.",
+        "Regards.",
+        "Uh-huh.",
+        "Fogey, F-O-G-E-Y, plus R."
+      ]
+    },
+    {
+      "dialogue_uid": "fd86b51f-e8f0-477c-832a-96d91e8ed4d8",
+      "language": "en",
+      "utterances": [
+        "Forgery.",
+        "Uh-huh.",
+        "Teton, T-E-T-O-N, plus S.",
+        "Stetson.",
+        "Uh-huh.",
+        "Exile, E-X-I-L-E, plus T.",
+        "Textile.",
+        "Uh-huh.",
+        "Arise, A-R-I-S-E, plus T.",
+        "Artiste.",
+        "Artiste is right.",
+        "Sally, S-A-L-L-Y, plus U.",
+        "Usually.",
+        "Usually.",
+        "And your last one, axing, A-X-I-N-G, plus W."
+      ]
+    },
+    {
+      "dialogue_uid": "b1cf9e3c-9a05-41fe-8d36-a81efc29e72d",
+      "language": "en",
+      "utterances": [
+        "Waxwing.",
+        "Waxwing, the bird.",
+        "Peter...",
+        "Oh!",
+        "...bravo.",
+        "Ding!",
+        "All of them.",
+        "Well done.",
+        "You were doing these in your head, I bet.",
+        "No, I was writing them down.",
+        "You were?",
+        "Because you were so fast.",
+        "For playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, the 11th edition of Merriam-Webster's Collegiate Dictionary and Thesaurus, the Scrabble Deluxe Edition from Parker Brothers, \"\"The Puzzlemaster Presents\"\" from Random House, volume two, and \"\"The New York Times Will Shortz's Favorite Sunday Crossword Puzzles\"\" from St. Martin's Press.",
+        "What member radio station do you listen to, Peter?",
+        "Well, I have two, WDEP in Detroit, and we're also lucky enough to pull in WUOM from Ann Arbor.",
+        "Excellent."
+      ]
+    },
+    {
+      "dialogue_uid": "de2cb8a0-3195-49c0-b4ce-b3ff8a392ccd",
+      "language": "en",
+      "utterances": [
+        "Well, Peter Caplan from Detroit, Michigan, you were fabulous.",
+        "I guess it was an all-star puzzle for you, in honor of the All-Star Game that was held in your city over the past week.",
+        "And I want to thank you a lot for being our guest and for playing the Puzzle with us today.",
+        "Thanks for having me, Liane.",
+        "And thank you, Will.",
+        "Thank you.",
+        "OK.",
+        "OK, Will, what's the challenge you have for everyone to work on this week?",
+        "Well, a 10-letter word for a form of travel consists of five consecutive symbols of chemical elements.",
+        "What is it?",
+        "Now if automobile had been the answer, `AU' would represent gold, `MO' would represent molybdenum and `BI' would represent bismuth.",
+        "Unfortunately, the remaining biograms, `TO' and `LE,' are not chemical symbols.",
+        "So, again, a 10-letter word for a form of travel that consists of five consecutive symbols of the chemical elements.",
+        "What is it?",
+        "Oh, one of these periodic table questions.",
+        "Obviously...",
+        "Your favorite.",
+        "...my bete noir, as it were.",
+        "Well, when you have the answer, put it in an e-mail to us at puzzle@npr.org.",
+        "Only one entry per person, please.",
+        "And our deadline is Thursday, 3 PM Eastern time.",
+        "Please include a phone number where we can reach you at about that time.",
+        "We'll call you if you're the winner and you'll get to play Puzzle on the air with the puzzle editor of The New York Times and WEEKEND EDITION'S puzzlemaster, Will Shortz.",
+        "There's also information on our Web site at npr.org."
+      ]
+    },
+    {
+      "dialogue_uid": "6890993e-ebe0-4c97-96ba-832e29ff905f",
+      "language": "en",
+      "utterances": [
+        "Hey, Will, thanks a lot.",
+        "Thanks, Liane.",
+        "I refer to it as eliminating or removing some of the low hanging fruit that U.S.",
+        "multinationals could easily pick when contemplating an inversion.",
+        "The software equivalent of cancer - that is how Apple CEO Tim Cook is describing code the government wants Apple to write so the FBI can unlock the iPhone used by one of the San Bernardino terrorists.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "What is at stake here is can the government compel Apple to write software that we believe would make hundreds of millions of customers vulnerable around the world, including the U.S., and also trample civil liberties that are at the basic foundation of what this country was made on?",
+        "That is Apple CEO Tim Cook in an interview on ABC News' \"\"World News Tonight With David Muir\"\" last night.",
+        "This standoff between Apple and the government continues to escalate, and it's happening very publicly.",
+        "Here now to discuss why tensions are running so high is NPR tech reporter Aarti Shahani.",
+        "She's at a big tech conference in Barcelona right now, and she's on the line.",
+        "Aarti, good morning.",
+        "Good morning.",
+        "So public opinion, as we have reported, is so divided on this case.",
+        "But it does not sound like Tim Cook is giving any ground at all here.",
+        "No, not at all.",
+        "And it's really breathtaking to watch the responses inside the industry.",
+        "You know, as you mentioned, right now I'm in Barcelona at this huge tech conference.",
+        "And people are super divided on Cook's stance.",
+        "For some, he's a hero.",
+        "And for other, he's just an American businessman who doesn't want to be subject to regulation.",
+        "And, you know, I remember back in San Francisco earlier this month, I was at a smaller cybersecurity gathering organized by Google.",
+        "And people there were saying that they think the FBI is going to stop banging the drum on backdoors.",
+        "You know, then the FBI went after Apple."
+      ]
+    }
+  ]
+}

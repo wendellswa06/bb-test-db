@@ -1,0 +1,124 @@
+{
+  "challenge_uid": "8e904d90-4e57-4fd8-bd86-da99f28dcd7e",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "105d47fb-0c90-42f7-afc6-595c2b8b9e08",
+      "language": "en",
+      "utterances": [
+        "Well, we have a very nice model for how the world works, or at least the part we understand so far, called the Standard Model, and what it doesn't tell us, unless you have this Higgs field, is why particles have mass.",
+        "I mean, we have a large number of elementary particles, about, let's see, 12 of them, and - actually 16 of them - and they have different masses, widely varying masses.",
+        "So why do things have mass?",
+        "You mean they don't have to have mass?",
+        "In principle, without the Higgs, everything would be massless, and the universe would be full of, well, photons and other massless particles.",
+        "So mass has to come from someplace, and the mechanism we have for explaining that right now is the Higgs field.",
+        "And with the Higgs field comes a prediction that there's an associated particle, the Higgs boson.",
+        "Now this morning, you folks out there at Fermilab announced that you had a better window for where to look for this Higgs boson.",
+        "Can you explain that to us?",
+        "Yes.",
+        "So I will say that it's a better window to look for, in some sense, the Standard Model Higgs, the one that fits in with everything else we know.",
+        "And there's actually - all the results that are being reported today, this week there are four results coming out, and all of them point to particular windows for that.",
+        "So first there's something called the direct measurement.",
+        "It's basically, you decide to say well, there's a Higgs particle someplace in our data, and we're going to go and look for it.",
+        "And if we don't see it at the level that the Standard Model says we should, well, it ain't there.",
+        "When you say levels, do you mean energy levels, or the number of them, or…?",
+        "Actually, it is the level of quantity."
+      ]
+    },
+    {
+      "dialogue_uid": "326e3ba3-acdc-4c97-834c-8e368db0fbe1",
+      "language": "en",
+      "utterances": [
+        "I see.",
+        "We're going to go out - this is the quantity search.",
+        "We do it as a function of the mass.",
+        "So one can say let's assume that there's 160 GeV.",
+        "By the way, that's about the massive - I think it's a Terbium atom.",
+        "We normally say gold because it's only the rare earths that are in the right mass range, but 160 GeV.",
+        "Let's say we're going to look there.",
+        "What we do is we run our - we go through all of our experimental data, and we say if the Standard Model says that Higgses are produced, we should see five of them or something like that, and you say well, did we see five, or did we not?",
+        "And that's how we can set a limit.",
+        "If we don't see that, we say well, it's the Standard Model.",
+        "It can't have a mass of 160 GeV.",
+        "And so then you've narrowed down where you should be able to look.",
+        "Yes, exactly.",
+        "Now do you think that you folks out there at Fermilab have a powerful enough accelerator (unintelligible) where the buffalo roam, to actually find something at that mass?",
+        "Okay, so if it's the Standard Model Higgs, the results that we've gotten through the direct measurement and are announcing today rule out a range between 160 and 170 GeV.",
+        "Now the people at CERN, in the early 2000s, ruled out any mass below about 114, and we have other indirect limits that show, which I can - which are also related to results from today - which say it has to be less than 185 GeV.",
+        "So at this point, we've ruled out a reasonable fraction of the region already.",
+        "The question is where is it elsewise, and that depends on how well we can run.",
+        "I think if we run - so we have twice as much data, and we become somewhat cleverer, we may actually be able to see a hint over the full Standard Model mass range.",
+        "That's a possibility."
+      ]
+    },
+    {
+      "dialogue_uid": "cef3867a-ec1b-4f5d-917f-bccadb0e1615",
+      "language": "en",
+      "utterances": [
+        "But the LHC guys are going to be much, much more powerful in terms of the number of interactions they can record.",
+        "So in the long run, the really high statistic sample is going to come from them.",
+        "So you're trying to sort of get in ahead of - they had those technical problems with leaking stuff over there at the Large Hadron Collider.",
+        "Do you think you can use this time period to find that stuff before they do?",
+        "That's what we're trying to do.",
+        "I would just like to point out that this is not an international battle, or if it is, the sides are not well-defined.",
+        "(Soundbite of laughter)",
+        "We did an accounting.",
+        "I'm on the D0 Collaboration.",
+        "There's also the CDF Collaboration.",
+        "So there's two of us involved in this.",
+        "Those are the American collaborations, and we did a count of the people actually doing work on the D0 Collaboration about a year ago, and we discovered that more than half our collaborators were not only not from the United States but not even from United States institutions.",
+        "And there are huge French, German, English and Italian and Japanese and Indian and Chinese contingents on the so-called American experiments, whereas there are also huge American contingents on the LHC experiment.",
+        "So it may be a battle of the labs, but it's not a battle of the countries.",
+        "Well at this point then, with such expectations, will it be more surprising if neither of the labs find the Higgs than if they do find it?",
+        "That would be certainly one of the most interesting things.",
+        "If we find it - you know, we'll find a hint.",
+        "Maybe they'll find it for real, but it would be an immensely interesting result if the Higgs does not show up anywhere in the Standard Model mass range because that shows that there's something going on beyond this very, very successful Standard Model that is perhaps getting frustratingly successful for us.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)"
+      ]
+    },
+    {
+      "dialogue_uid": "5912fb03-645e-4097-abc1-8832e0b2b0a0",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "That's actually where the other squeezing of the Higgs comes about is that I'm actually a member of the W Boson Mass Team(ph).",
+        "You can directly look for the Higgs, but the Higgs can also have effect even if you can't see it.",
+        "If you can very precisely measure certain parameters that are predicted by the Standard Model, the existence of the Higgs at a given mass will shift them ever so slightly, and we have measured - this week we're announcing both a better measurement of the mass of the top quark, that's coming out today I think, and also we announced on Wednesday a better measurement of the mass of the W boson, which we measured to 500 parts per million, and that measurement, combined with the top mass, are what set that 185 GeV absolute upper limit, regardless of if you look directly.",
+        "Just the fact that those particles have the right masses, and they aren't shifted by the presence of the Higgs also sets another limit at 185.",
+        "So there's that very interesting gap between 170 and 185 that we believe is actually going to be closed pretty soon, once we've finalized our analysis of those other measurements.",
+        "So those are very, very precise measurements done on large numbers of interactions, while the direct search for the Higgs is looking for - well, it's kind of like looking for a needle in all of the haystacks in the United States.",
+        "I get you.",
+        "Let me - I have just a couple of minutes left.",
+        "Let's talk about the top quark.",
+        "Is it also news that you found a single one, an isolated one, instead of one in a pair?",
+        "Oh yes.",
+        "That has two - we also did that this week.",
+        "Both…",
+        "You had a busy week out there.",
+        "Yeah, it's been - oh my gosh.",
+        "It's been - it's the CDF and the D0 Collaboration both found that you could see tops being produced singly, and this is both an interesting study because it has the same signature as a low-mass Higgs.",
+        "So understanding that is very important for finding the low-mass Higgs, but it also establishes that the top quark is just a normal quark like the other quarks in a very significant way."
+      ]
+    },
+    {
+      "dialogue_uid": "2d94dc88-2c0e-4992-b04a-2eb180d26b73",
+      "language": "en",
+      "utterances": [
+        "Before that, tops were produced in pairs through the strong interaction, and that didn't tell you if they were just like the other quarks or something completely different.",
+        "And you could get some hints that they were probably just normal particles, but the existence of this single top means that it's produced in a normal way, through the weak interactions, and so it's sort of more of a garden-variety quark.",
+        "There's no other class of very heavy particles that it belongs to, so…",
+        "And the quarks are the basic building blocks.",
+        "Yes.",
+        "Those are the basic building blocks.",
+        "There's six different kinds of quarks that we know of, and this indicates they're probably - it sort of means that the top quark isn't an example of some other weird kind.",
+        "It really is an ordinary, very heavy, garden-variety quark.",
+        "So you're happy to see that?",
+        "Well once again…",
+        "(Soundbite of laughter)",
+        "Yeah, it makes that Standard Model seem more and more standard.",
+        "You don't need new physics to explain.",
+        "Yeah, you don't need new physics at this point."
+      ]
+    }
+  ]
+}

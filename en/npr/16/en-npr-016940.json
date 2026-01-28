@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "54a01a22-90d7-4d2e-98ec-eaed29b4b10f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "10fac681-9352-4b76-9f4c-cdce18408b5c",
+      "language": "en",
+      "utterances": [
+        "But did you know that, at least in the case of those Bit.ly links, that the company is tracking what you click on?",
+        "And if you shorten a link, they're tracking your shortening of that, also, to figure out what you like.",
+        "Do you go to the techie stuff, or are you an obsessive reader of the New Yorker?",
+        "Maybe you're a foodie, always creating and clicking on links to restaurant reviews, because with those links, they're building this profile about you.",
+        "But if you look at the site, Bit.ly, B-I-T-.-L-Y, there's no advertising there.",
+        "There's no marketing.",
+        "So what is this tracking all about?",
+        "Can you opt out of the tracking if you want to?",
+        "Or if you're okay with someone else looking over your shoulder as you're browsing the Internet, could companies use that information to make a better, more personal Internet someday?",
+        "We've had people tell us: I like having the ads because if I'm going to have ads on my website, better to be the ads for stuff that I like, because they know where I'm going, than for stuff that's just junk I'm not going to be interested in.",
+        "How do you feel it?",
+        "Our number, 1-800-989-8255.",
+        "Hilary Mason, who is the lead scientist at Bit.ly, is here in New York with us.",
+        "She's in our New York studios.",
+        "Welcome to SCIENCE FRIDAY, Hilary.",
+        "Thank you, Ira.",
+        "How did Bit.ly get started?",
+        "What was the idea originally behind that?",
+        "So Bit.ly was actually started out of frustration.",
+        "One of the engineers at Betaworks was trying to build a product around social chat, and he needed to have a way for people to share content within that product, and so he sort of hacked up Bit.ly in a day or two.",
+        "But it turned out that the product he was attempting to build was weak.",
+        "People liked it, but it wasn't really useful.",
+        "But Bit.ly was great.",
+        "People loved it.",
+        "They got it...",
+        "It started out just as a shortening device, right from the beginning."
+      ]
+    },
+    {
+      "dialogue_uid": "f4885a66-05be-43ff-98a4-6394ab641c15",
+      "language": "en",
+      "utterances": [
+        "Yes, right from the beginning.",
+        "You put a long URL in, that's the string in your browser bar, and out comes a very short URL that you can share through email, instant message, on Twitter, Facebook, et cetera.",
+        "So originally, there was no marketing idea behind it, just a useful little tool?",
+        "It's the kind of thing that markets itself because it's so useful that when I use it, and you see me using it, you're going to say what is that, and you're going to go try it, and you're going to love it.",
+        "So it wasn't created, originally, to track people, where they went and what they did.",
+        "Not at all.",
+        "How did it morph into that?",
+        "I wouldn't even say that that's what Bit.ly is.",
+        "Tell us what Bit.ly is.",
+        "Okay, Bit.ly is a piece of infrastructure that helps people share and see content that they're interested in on the Internet.",
+        "And it's only through that aggregate data, when we're able to see what hundreds of millions, or even billions, of people are sharing, that we're able to draw these pictures of what's interesting.",
+        "And that's where that data tracking comes in, but on an individual basis, we're really there to provide value for those users who want to share things."
+      ]
+    },
+    {
+      "dialogue_uid": "887dbd39-810e-43eb-9b91-b03216c9466a",
+      "language": "en",
+      "utterances": [
+        "So what do you do with all the information that you gain?",
+        "Can you give me an idea of the physical structure, for a lack of a better word?",
+        "When I click, or I shorten a URL, what does Bit.ly do?",
+        "What happens on the other side?",
+        "So what we do is we create something called a hash for that URL, where we come up with a short code for it, and we generate a link for you.",
+        "And if you happen to have created a short link for one of our partners, you'll actually get a branded domain.",
+        "So if you shorten a New York Times article, you'll get an nyti.ms, with a few letters and numbers after that.",
+        "And if not, you'll see a Bit.ly link.",
+        "And that's something you can share.",
+        "Whenever anybody clicks on that, we actually track the number of clicks.",
+        "So you can take any Bit.ly link in the world, anyone can do this, you can put a plus sign on the end, load that up in your browser, and you'll be able to see, in real time, people clicking on that link.",
+        "We have a pretty graph that shows you, second by second, how many people have clicked that link.",
+        "So if I put the plus on the end of the Bit.ly link, it'll take me to a new page that shows all the people clicking on that link?",
+        "It shows you how many.",
+        "It doesn't show you who they are.",
+        "Wow.",
+        "So if I do, you know, if we had sciencefriday.com and took the Bit.ly link and put the plus on there, we'd see all the people going to our website?",
+        "Absolutely.",
+        "You can try it right now.",
+        "And what do you get out of this, meaning Bit.ly?",
+        "What does Bit.ly get out of all this?",
+        "So what we get out of this is a pretty fascinating perspective on what's being shared online.",
+        "And I like to use the metaphor of a restaurant.",
+        "So if you imagine there are lots of conversations happening in a restaurant, the best service in a restaurant, is the kind of service you don't notice at all, the waiter comes in and refills your glasses, brings you food when you're ready for it."
+      ]
+    },
+    {
+      "dialogue_uid": "b0746954-b7bf-4b11-bfaf-edc8cdcf1fef",
+      "language": "en",
+      "utterances": [
+        "So what we're trying to do is to gather data about what people need in that sort of environment and to provide it, invisibly, as a service.",
+        "And then you alert advertisers about these things so you can put advertising on the website or...?",
+        "No.",
+        "There's no advertising at all?",
+        "I mean, New York Times is getting something.",
+        "As you said, they're getting their little...",
+        "So what we're able to show our partners is not just how the content that they're sharing is doing online, but how other people are sharing their content.",
+        "So we're able to show you, as a media brand, this is how people are sharing content about you online that you probably didn't even know about.",
+        "Do the partners pay you a fee to become partners to Bit.ly?",
+        "We have a free Bit.ly Pro product, and then we have one that does have a fee.",
+        "What kind of information, exactly, is interesting to the people who are collecting data?",
+        "I know that you're a data wonk, and...",
+        "Everything is interesting.",
+        "I say that in the most positive sense."
+      ]
+    },
+    {
+      "dialogue_uid": "f327ff1c-51d7-41be-ab80-62e0bb8df3f0",
+      "language": "en",
+      "utterances": [
+        "Absolutely.",
+        "Right, right.",
+        "What kind of data is interesting?",
+        "So this morning, we were sending links around our office, where we have some tools, internally, where we're able to see what the topics are that are trending through our dataset.",
+        "And we were looking at these stories about Egypt and what's happening in Egypt, sort of emerging and bubbling up.",
+        "We could see these videos on YouTube that were trending upwards.",
+        "We could see different news articles.",
+        "We could see facts propagating from one news article, or even from Twitter to a news article, to a blog to another news article, and this is fascinating.",
+        "We're getting this perspective on the way people share data and information that we really haven't had before.",
+        "Can we see that same data?",
+        "Is there a spot for us to look at all the trends in what's happening?",
+        "Well, we're a young company.",
+        "Bit.ly is just over two years old.",
+        "And I see our greatest challenge right now is to build those products so that people can take advantage of that data.",
+        "Is there a way for me to use your link but to shut off the data part?",
+        "I don't want to send the data to you, but I want to shorten it.",
+        "So you can shorten links anonymously.",
+        "You dont have to log in.",
+        "And then we also have the option where you can opt out of us keeping track of anything you click on, and that's on our website.",
+        "It's on your website.",
+        "Yes."
+      ]
+    }
+  ]
+}

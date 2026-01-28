@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "6d938f25-c9d7-4950-a00b-923cb0ae4343",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "5ba1e37c-f0f5-4255-8068-3a95986d32e5",
+      "language": "en",
+      "utterances": [
+        "(unintelligible)",
+        "You're listening to TALK OF THE NATION, from NPR News.",
+        "Ryan Holeywell, the mayors of the country try to pool their political clout.",
+        "Particularly this year, we've seen a lot of campaigning against gun rights, and for assault weapons ban, for example.",
+        "Yet mayors, to my knowledge, have been campaigning on that issue for decades, and have not really gotten anywhere.",
+        "Yeah.",
+        "I mean, that's one of their big issues, but they're focusing on other issues, too.",
+        "You know, one of the big issues that they're working on right now - they're actually in town working on this issue right now - is trying to figure out ways to ensure that they're still able to fund their infrastructure, a big problem that cities across the country are dealing with.",
+        "They're trying to figure out ways to deal with the immigration issue, trying to see if they can play a role in that debate as Congress is looking like they're going to address that this year.",
+        "So it's sort of an interesting role that the mayors have, in that they're at home, you know, trying to solve(ph) their cities.",
+        "But so much of what they do depends on what the state government and the federal government...",
+        "Policies over which they have no control.",
+        "Yeah.",
+        "And a big part of their role is being advocates.",
+        "Let's see if we get a caller in on the conversation.",
+        "This is Rosemary, Rosemary with us from Richmond, in California.",
+        "Yes.",
+        "Hi.",
+        "Hi.",
+        "Were you a mayor?",
+        "Well, my - pardon?"
+      ]
+    },
+    {
+      "dialogue_uid": "b657b4fa-45c7-40b5-9c71-4bdb95f018fc",
+      "language": "en",
+      "utterances": [
+        "Were you a mayor?",
+        "I was the mayor of Richmond from 1993 until 2001.",
+        "And before that, I was on the city council from 1985 until 1993.",
+        "And what was your worst moment?",
+        "Well, a man who had been fired by our housing authority came back and shot and killed two women in the housing authority.",
+        "And the city manager and I decided that we had to immediately inform their families, so they wouldn't hear it on the radio or television.",
+        "So I had to go and tell a woman - I went with a police captain and a priest to a woman's home and told her that her 24-year-old daughter had just been shot and killed.",
+        "And I had a 24-year-old daughter at that time.",
+        "Why?",
+        "Why?",
+        "Oh, it was so hard.",
+        "And yet it needed to be done, and you took the responsibility to do it.",
+        "Yes.",
+        "Well, that's your job in that situation, and I'm glad I did it because she needed to hear it in the privacy of her home, in that way.",
+        "And I did have a priest, as I said, with me.",
+        "Anne, Mayor Rudin, I know you must have sympathy here.",
+        "And, Rosemary, what - looking back on it, is there something that you might have done differently, that - for your tenure there?",
+        "You mean over my eight years?"
+      ]
+    },
+    {
+      "dialogue_uid": "8213438c-831a-4fb0-91f7-529b2a61af2f",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "I came into office - I ran against the incumbent, a man who had been in office for quite a while.",
+        "And so I had a lot of opposition on the city council.",
+        "And I worked hard to find ways of getting people who had the ear of the council members who wouldn't listen to me to talk to them about issues, to bring consensus.",
+        "And I guess, you know, it wasn't always easy, but, you know, anything that I could do to improve communicating to get the majority on the council was - would be what I would do.",
+        "Hmm.",
+        "Well, thank you for calling and sharing that terrible moment.",
+        "We appreciate it.",
+        "You're welcome.",
+        "Bye-bye.",
+        "And, Anne Rudin, thanks very much for your time today.",
+        "Well, it was my pleasure.",
+        "Thank you very much.",
+        "And I enjoyed hearing what others - other mayors had to say.",
+        "Anne Rudin, mayor of Sacramento for more than a decade.",
+        "She spoke with us today from member station KXJZ.",
+        "That's Capital Public Radio in Sacramento.",
+        "And, Ryan Holeywell, a staff writer with Governing magazine, joined us here in Studio 3A.",
+        "Thank you very much for your time today.",
+        "Thank you.",
+        "Ken Rudin is going to stay with us.",
+        "When we come back, we're going to be joined by NPR health policy correspondent, Julie Rovner, about the shifting politics of health care as yet another Republican governor signs onto a key element of Obamacare.",
+        "Stay with us.",
+        "I'm Neal Conan.",
+        "It's the TALK OF THE NATION, from NPR News.",
+        "An elite team of CIA operatives flies overseas, breaks into foreign embassies and steals secret codes, all without leaving a trace.",
+        "While that might sound like the plotline of a Hollywood film, former CIA officer Doug Groat conducted such missions until he questioned his superiors about sloppy procedures on one operation that almost cost him and his team their freedom or maybe their lives.",
+        "The battle that ensued between Groat and the CIA led to charges of espionage and extortion and four years in prison.",
+        "Doug Groat joins us now from member station WUOT in Knoxville.",
+        "Nice to have you with us today."
+      ]
+    },
+    {
+      "dialogue_uid": "bb300fc4-04d4-4abc-8537-2f309977abdb",
+      "language": "en",
+      "utterances": [
+        "Great to be here.",
+        "Thank you for inviting me.",
+        "And tell us a little bit about your team.",
+        "About the team, well, depending on what we're up against, we'd have different specialists compromised - adding it to the team to handle whatever we might run into.",
+        "And they would include for instance?",
+        "For instance, somebody in electronics, safes and locks or flaps and seals.",
+        "Flaps and seals?",
+        "Correct.",
+        "Flaps and seals - sorry, go ahead.",
+        "No, I'm just going to say what was that for?",
+        "Flaps and seals was the opening and resealing of whatever you had in front of you, like an envelope.",
+        "And what was your specialty?"
+      ]
+    },
+    {
+      "dialogue_uid": "5a41589d-c384-4be3-aab3-9bb2090ae4fc",
+      "language": "en",
+      "utterances": [
+        "Well, when I first went into the shop, I learned flaps and seals, and I did most of that for quite a while.",
+        "And then probably about mid-'80s, I got into supporting operations overseas where I ran communications or I would run surveillance.",
+        "And then after that I stepped up to actually running operations.",
+        "And how did you get into such an unusual line of work?",
+        "Well, it was a roundabout route, but during the first year of training, we would be visited at our training site by members of the CIA and different organizations, and they would give us a little briefing about what they did with the hope that we might want to join up with them.",
+        "And when I got out of the training, I was supposed to go to Moscow.",
+        "They took that away from me, so I turned around and went to the shop.",
+        "The shop.",
+        "And what was the formal name of the shop?",
+        "Special operations division.",
+        "And this was set up separately?",
+        "You weren't in Langley.",
+        "No, we were outside the beltway, south of the beltway.",
+        "And how many people were in this unit?",
+        "Probably eight or 10.",
+        "And how many operations did you mount?"
+      ]
+    }
+  ]
+}

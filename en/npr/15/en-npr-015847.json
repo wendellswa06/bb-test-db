@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "353029d3-c335-46a1-a564-731ad828b7a0",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "111ad80b-99f6-40a8-9c72-00c894c45cba",
+      "language": "en",
+      "utterances": [
+        "Yeah, somehow that slipped by.",
+        "Sorry about that.",
+        "Well, in order to get to this week's puzzle, we have to go back to the one that everyone was working on all week to be eligible to play on the air.",
+        "Would you repeat it, please?",
+        "Yes.",
+        "It came from an old friend, Mark Penchko(ph) of Warsaw, Poland, and he gave it to me at last year's World Puzzle Championship.",
+        "And I said if the word finite--F-I-N-I-T-E--is represented by the number 5910, what six-letter word is represented by 0930?",
+        "And you also said there were only two common words that...",
+        "Tens of millions of years later.",
+        "Right.",
+        "I said there were only two common words in English, six-letter words, that have this unusual property.",
+        "It turns out there are three which I'll explain in a second, but the answer to the puzzle is zenith--Z-E-N-I-T-H.",
+        "That's because the first two letters of zero are Z-E.",
+        "The first two letters of nine are N-I and the first two letters of thirty are T-H, just as finite was, you know, five, nine and 10.",
+        "And there's a third word that's been brought to my attention.",
+        "On site can be one, six, one, zero--the O-N of one, the S-I of six and the T-E of 10.",
+        "It works the same way.",
+        "So three words.",
+        "Well, we had over 2,200 entries--that's a lot--from people who solved the puzzle, and our randomly selected winner from the correct answers is Rick Brenner from Boston, Massachusetts.",
+        "Hi, Rick.",
+        "Hi, Liane."
+      ]
+    },
+    {
+      "dialogue_uid": "185b7ee3-2f73-477b-9dc1-664c2746edc6",
+      "language": "en",
+      "utterances": [
+        "How long did it take you to get this puzzle?",
+        "Oh, less than a minute.",
+        "I don't know what happened.",
+        "Wow.",
+        "What do you do in Boston?",
+        "I'm a teamwork consultant.",
+        "So it sounds like you're going to be good for this puzzle segment because after all you know how to work on a team, so it'll be you and me.",
+        "Well, I hope we'll work well together.",
+        "I know we will.",
+        "Will, meet Rick.",
+        "Let's play.",
+        "All right.",
+        "Rick and Liane, in honor of Father's Day, every answer today is a word starting with the letters P-A.",
+        "I'm going to give you two words.",
+        "The first one can precede the answer to complete a compound word or a familiar two-word phrase.",
+        "The second word I give you can follow the answer to do the same.",
+        "For example, if I said wolf and rat, you would say pack as in wolf pack and pack rat.",
+        "All right?",
+        "Number one is grease--G-R-E-A-S-E--and brush.",
+        "Grease blank and blank brush starting with P-A.",
+        "Oh, gosh."
+      ]
+    },
+    {
+      "dialogue_uid": "3979a859-48f1-4e1c-968f-cf568dc1c725",
+      "language": "en",
+      "utterances": [
+        "Think of blank brush and the outside of your house is peeling.",
+        "What do you use?",
+        "Paint.",
+        "There you go.",
+        "Grease paint and paintbrush.",
+        "Oh, paint.",
+        "OK.",
+        "You're off and running.",
+        "Number two is instrument and discussion.",
+        "Oh, gosh.",
+        "Something you watch on TV, blank discussion.",
+        "Panel.",
+        "There you go, instrument panel...",
+        "Panel.",
+        "Great."
+      ]
+    },
+    {
+      "dialogue_uid": "f227d350-21f0-4108-b51c-804602079dcc",
+      "language": "en",
+      "utterances": [
+        "...and panel discussion.",
+        "Birthday and line.",
+        "Party.",
+        "Birthday party, party line.",
+        "Foster, company.",
+        "Foster parent.",
+        "There you go, and your parent company is right.",
+        "Golden, jumper.",
+        "Parachute.",
+        "Oh, that was fast.",
+        "Hit--H-I-T--and route--R-O-U-T-E.",
+        "Parade.",
+        "Hit parade and parade route.",
+        "Good.",
+        "Ice cream and game.",
+        "Parlor."
+      ]
+    },
+    {
+      "dialogue_uid": "05b9c9d5-3711-4975-aaa7-71ff404c0fc6",
+      "language": "en",
+      "utterances": [
+        "There you go, Liane.",
+        "You're great.",
+        "Yes.",
+        "Foot--F-O-O-T--and finder.",
+        "Path.",
+        "Path is right.",
+        "How about no--N-O--and lot--L-O-T?",
+        "No and lot.",
+        "Parking.",
+        "No parking and parking lot is right.",
+        "I should know that one.",
+        "And your last one is news clip--N-E-W-S C-L-I-P.",
+        "News blank, blank clip.",
+        "Paper."
+      ]
+    }
+  ]
+}

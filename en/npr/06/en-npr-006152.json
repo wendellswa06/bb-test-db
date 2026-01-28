@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "c25c93ce-bfef-4792-85d7-bf81b11e0c50",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "b4855d86-4d4c-4b00-98ac-03cae53debd6",
+      "language": "en",
+      "utterances": [
+        "(As game character) Now on course 090.",
+        "(As game character) Communication channel is now alpha.",
+        "To follow the game's rules while also keeping track of all the updates, I have to hold a lot of things in my head at once.",
+        "The number of things you can keep track of at any one time is shaped by something called your working memory.",
+        "Scheldrup says having a good working memory is key to bouncing back from an interruption.",
+        "People who are generally good at that have less of a negative effect of interruptions.",
+        "And people who are not so good at it seem to be affected more.",
+        "Scheldrup and her colleagues wanted to know how people could boost their working memory capacity.",
+        "They decided to try some brain stimulation - specifically, run a little electrical current through the part of the brain that handles working memory, the prefrontal cortex.",
+        "Very simplistically, it's like a 9-volt battery that we have electrodes attached to, and depending on where you put the electrodes on the brain, you can either make it more difficult for neurons to fire or make it more easy for them to fire.",
+        "Scientists have inserted electrodes in people's brains for decades.",
+        "These devices can help patients with serious disorders like Parkinson's disease.",
+        "What Scheldrup's lab does and what I've signed up for is much less invasive - electrodes attached to the side of my head.",
+        "It's a little disconcerting when people bring out sterile alcohol prep pads before a psychology experiment, but all right.",
+        "Yeah, yeah.",
+        "Don't be nervous.",
+        "I'm not nervous."
+      ]
+    },
+    {
+      "dialogue_uid": "2431070b-ee1c-4f5f-8210-9d4b07b57483",
+      "language": "en",
+      "utterances": [
+        "Like I said, don't be nervous.",
+        "It's fine.",
+        "Not nervous, not nervous, not nervous.",
+        "It's all great.",
+        "All great.",
+        "I will live.",
+        "All right, how's that one feel?",
+        "Too tight?",
+        "Nope, feels good.",
+        "Awesome.",
+        "Now, this might be useful in boosting my brain, but they don't do very much in the fashion department.",
+        "You kind of look like a World War I patient that got hit in the head and has a white band around your forehead.",
+        "Melissa turns on the electrodes."
+      ]
+    },
+    {
+      "dialogue_uid": "2896e377-c7be-42de-9ec6-1a7062761e12",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF BEEP)",
+        "I'm feeling a very, very mild tingling.",
+        "And I play the game again.",
+        "(SOUNDBITE OF VICTORY TUNE)",
+        "So you got six out of six that time.",
+        "You got them all right.",
+        "All right.",
+        "Scheldrup can't say for sure whether I improved because of the electrodes.",
+        "Maybe I just got better with practice.",
+        "But when she analyzes the results from many volunteers in her study and controls for the effects of practice, she finds the electrodes do help.",
+        "Now, Scheldrup admits that running electricity through your head isn't the most practical, everyday solution to interruptions, but...",
+        "It informs other techniques.",
+        "So if we know that modulating working memory performance or working memory ability affects these things, then we can say, what techniques can maybe supplement your working memory?",
+        "For instance, if we know that boosting working memory makes us better at handling distractions, scientists can then try to figure out what new techniques might improve working memory.",
+        "A few miles from this lab, Georgetown University professor Cal Newport thinks we need fewer technological solutions to the problem of distractibility.",
+        "Newport's taking a cue from influential writers and thinkers like J.K.",
+        "Rowling and the psychiatrist Carl Jung.",
+        "They all seem to have this drive to, on a regular basis, cut themselves off from their lives of business, and communication and distraction and isolate themselves to think deeply."
+      ]
+    },
+    {
+      "dialogue_uid": "57bf3619-3bc5-4ffc-b1cb-9f6518661b53",
+      "language": "en",
+      "utterances": [
+        "Take Mark Twain.",
+        "He had a cabin on the property of his house where he would retreat for solitude.",
+        "It was so far from the house that his family had to blow a horn to try to catch his attention and let him know that dinner was ready.",
+        "Newport's come up with a name for this practice of thinking deeply without distraction - deep work.",
+        "The opposite of deep work is, no surprise, shallow work - sending emails, answering calls - the kind of tasks that often dominate office jobs.",
+        "Newport says the problem is worse than we admit.",
+        "Even when people think that they're single-tasking, what they're still doing is every five or 10 minutes a just-check.",
+        "Let me just do a just-check to my inbox.",
+        "But even those very brief checks that switch your context even briefly can have this massive negative impact on your cognitive performance.",
+        "In his book, \"\"Deep Work: Rules For Focused Success In A Distracted World,\"\" Newport describes his work habits.",
+        "I work during very set hours during the day, and I plan out the day like a chess player moving the pieces around.",
+        "I don't let my mood dictate how my day unfolds.",
+        "And then three, I've made myself very comfortable with annoying people.",
+        "I'm bad at email.",
+        "I have just set the expectations that I'm just not available a lot.",
+        "I'm not someone that you can expect a quick answer from, and that also causes some trouble, of course.",
+        "But all of this adds up to allowing me to regularly have long portions of many of my days focused on deeper thinking.",
+        "No social media, limited email, strict limits on appointments - if all this structure and planning sounds like a way to turn yourself into an automaton, Newport turns this thinking on its head.",
+        "And he says the U.S.",
+        "can't succeed in fighting terrorism as long as Somalia has no central government and continued chaos.",
+        "So to have a structured day, for example, to protect your mind from distraction, I actually think makes you more human and less robotic than what most people do, which is to sit there like a human network router and just sort of process messages and tasks all day like a blind computer processor.",
+        "So there you have the options - retreat to a quiet cabin in the woods or get your head zapped with electricity.",
+        "Personally, I'd prefer the cabin, but I don't have one."
+      ]
+    },
+    {
+      "dialogue_uid": "42833ef0-b884-474a-842d-189daaa04132",
+      "language": "en",
+      "utterances": [
+        "Shankar Vedantam, NPR News.",
+        "(SOUNDBITE OF RUSS LIQUID'S \"\"OPUS ONE\"\")",
+        "Whenever he can focus, Shankar is host of the Hidden Brain podcast and radio show.",
+        "Just before the new year, many people in high-tax states scrambled to prepay their state and local taxes.",
+        "The idea was to pay what they owe for the upcoming year ahead of the new tax law that limits the amount that they could deduct.",
+        "Local governments were overwhelmed.",
+        "And as NPR's Chris Arnold reports, there's still confusion.",
+        "The week after Christmas is usually a short and slow one for town officials in New Paltz, N.Y., but not this time.",
+        "Daniel Torres is the deputy town supervisor.",
+        "When we opened town hall on Wednesday, we had almost a hundred voicemails from people inquiring about how they could prepay their taxes.",
+        "And the phone kept ringing.",
+        "People were showing up.",
+        "Torres says the town clerk's office only has a few people working in it.",
+        "The clerk's office was so overrun, after a certain while, we couldn't even pick up the phones anymore.",
+        "And there was a lot of confusion.",
+        "The governor had said that people could prepay their taxes, but the IRS issued a statement saying that would only work if your taxes had already been assessed.",
+        "Torres says, in New Paltz, the assessments had been done, but they were still at the printing facility in another town, and they hadn't been mailed out.",
+        "So he and another town official scrambled over to the printing company.",
+        "It was 14 boxes that we threw in the back of a town car.",
+        "It's actually an old police car, to be honest.",
+        "And, you know, we drove them down.",
+        "And by the time we did them, there was already hundreds of phone calls that had come in inquiring about it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "8a9665aa-196a-48b7-89b8-955ca8839897",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "aaefc99d-6fbe-463b-b52b-a2d0691a473d",
+      "language": "en",
+      "utterances": [
+        "In two years between 1607 and 1609, Smith traveled 1,800 miles by boat.",
+        "Think about that.",
+        "The Chesapeake Bay is only 200 miles from head to mouth, but Smith and his men snaked into just about every little creek, every tributary that fed into the bay, all along plotting a map so precise, William says, you still use it today.",
+        "That's how accurate he was and the implications of that map are huge.",
+        "We take maps for granted today.",
+        "Google Earth on a computer.",
+        "(Soundbite of laughter)",
+        "Yeah.",
+        "Zooming on your own house.",
+        "The implications of this accurate map which Smith published in Oxford, England in 1612, this was the blueprint for virtually everything that happened here in the 17th century, which is the foundation of…",
+        "Yeah.",
+        "…what we got today.",
+        "We can start the engine.",
+        "All right.",
+        "It's basically just water and fiber, and it turns into a slurry."
+      ]
+    },
+    {
+      "dialogue_uid": "93bf0774-e1b0-4044-bc7a-ee05fdb5fc9d",
+      "language": "en",
+      "utterances": [
+        "That slurry is eventually converted into a finished product - giant rolls of paper stacked end-to-end used to make containers for Pringles Potato Chips or Planters Peanuts, products not threatened by the digital revolution.",
+        "In fact, for some paper companies, the Internet has been a godsend.",
+        "Every time you order something on Amazon, it arrives in a cardboard - that is paper - package.",
+        "Other paper companies are retooling to produce high-end stock used in photo books, like those made by Shutterfly and Snapfish.",
+        "Yes, paper companies are nimble and resourceful, yet, says Anderson, they still can't seem to get any respect.",
+        "You talk to another professional and you tell them that you make paper, and that's really not exciting, you know?",
+        "A lot of times they're like, well, I make pharmaceuticals or I make computers, and you say, well, I make paper, and they're like OK; but then people don't realize that they don't get away from paper anywhere in their life.",
+        "And so I think it's not the cool thing; but it's the necessity, and it's not going away.",
+        "Just look at the way paper has wormed its way into our culture, into our language.",
+        "We paper-over problems no doubt caused by all those paper-pushers who leave no paper trail but turn out to be paper tigers; and don't forget, says historian and self-confessed bibliomaniac Nick Basbanes, paper is a technology, an extremely versatile one.",
+        "It's resilient.",
+        "It's resourceful.",
+        "It's portable.",
+        "It's foldable.",
+        "It's strong if you want it to be strong.",
+        "It can last 500 years if that's the goal, or if it's a hygienic tissue, maybe its lifespan is five or six or 10 seconds, but it's still doing its job, isn't it?",
+        "It's amazingly resourceful.",
+        "There are, in fact, some 20,000 uses for paper but none as remarkable and seductive as the book.",
+        "Basbanes recalls the time he found himself in the presence of a 500-year-old Gutenberg Bible.",
+        "I darn near fainted when I was allowed to hold it in my hands.",
+        "I mean, it was one of the great moments of my life to be allowed to touch where metal type bit into paper for the first time.",
+        "Would you have had the same reaction if you were looking at a digital copy of the Gutenberg Bible?",
+        "In other words...",
+        "No, no. I can answer that.",
+        "...What...",
+        "You don't even have to finish the question.",
+        "The answer is no (laughter) not at all.",
+        "You know, there's something about the real thing, isn't it?",
+        "And I think we're really having an appreciation for that as we really kind of dig a little further into the 21st century.",
+        "What is it about the artifact, the material object, that really kind of makes people stop and say, wow, handling the real thing as opposed to the virtual copy."
+      ]
+    },
+    {
+      "dialogue_uid": "4fb71f0b-ccb4-451e-8785-2e0a502e6ee9",
+      "language": "en",
+      "utterances": [
+        "He's not worried about paper's future.",
+        "We may use less of it in coming years, but a paperless society, he says, is about as likely as a paperless bathroom.",
+        "For NPR News, I'm Eric Weiner.",
+        "(SOUNDBITE OF SONG, \"\"THE OFFICE THEME SONG\"\")",
+        "It's MORNING EDITION from NPR News.",
+        "Good morning, I'm Steve Inskeep.",
+        "And I'm Renee Montagne.",
+        "Tonight, a rocket will blast off from a launch pad in Virginia carrying a spacecraft headed for the Moon.",
+        "NASA's Lunar Atmosphere and Dust Environment Explorer will, yes, study the lunar atmosphere and dust environment.",
+        "But what really intrigued NPR's Joe Palca is a package of communication gear that's hitching a ride with the lunar probe.",
+        "If it works, it would be or could be the start of a revolution in laser-based communication in space and on Earth.",
+        "And here's Joe Palca with the report.",
+        "Today, if you want to talk to someone on the Moon, assuming there was someone there to talk to, you're pretty much stuck with radio waves.",
+        "But that could be changing.",
+        "I'm Don Cornwell.",
+        "I'm the mission manager for the Lunar Laser Communications Demonstration.",
+        "It's something we've been working on for the last five years.",
+        "Cornwell says using light waves instead of radio waves to communicate has several advantages.",
+        "One is you don't need a big antenna on your spacecraft.",
+        "Instead, we have this four inch telescope here, that's mounted on a gimbal, and this is our antenna now.",
+        "Another is laser light doesn't spread out as much over long distances."
+      ]
+    },
+    {
+      "dialogue_uid": "dff09fa1-b72d-4b4d-86a1-14c36bbcb78d",
+      "language": "en",
+      "utterances": [
+        "A radio beam from the Moon, it spreads out and it would cover the Western United States.",
+        "And our beam is about six kilometers in diameter, or about four miles - so it's much, much smaller.",
+        "A smaller beam means you lose less energy as the beam travels to Earth, so you need less power to send your laser signal.",
+        "We're going to do it with half weight and with 25 percent less power than a comparable radio frequency communications system.",
+        "Another advantage of lasers is you can pack a lot of digital data in your signal.",
+        "Cornwell says the package NASA is sending to the Moon will transmit data at 622 megabits per second, way faster than any other deep space communication system.",
+        "Don Boroson is part of the team at MIT Lincoln Laboratory that built the test package.",
+        "He says one of the toughest things about laser communications is finding the exact spot where the laser is coming from, because for the system to work the sender and receiver must be pointed directly at each other.",
+        "Much of the technology is how do you find where that spot was in the first place, and then when I see it how do I hold it still and not have it jiggle around too much.",
+        "The good news is that even from the Moon, and even during the day, a telescope on Earth can spot the lunar orbiter's laser.",
+        "We're so bright from that little dot in the sky that the background hardly makes any difference.",
+        "Using lasers to communicate is not a new idea.",
+        "It's been around for some three decades down here on Earth.",
+        "It started off like many projects as a Department of Defense initiative."
+      ]
+    },
+    {
+      "dialogue_uid": "2261324e-5449-4059-b97f-87edf1b9b4f6",
+      "language": "en",
+      "utterances": [
+        "Mike Persico is CEO and founder of Anova Technologies, a company that operates laser communications systems.",
+        "He says the military's interest in this technology is because it can transmit huge amounts of data, and it's almost impossible to intercept.",
+        "And as long as the sender can see the receiver, it's much faster to send laser signals directly than to send them over fiber optic cables, the way it is done now.",
+        "But actually we have a really excellent sense of smell, and there's quite a lot of experiments showing that in fact the human sense of smell is pretty similar to what you can find with a rat or a mouse or a dog.",
+        "McGann wondered why our noses got such a bad rap.",
+        "As he writes in Science magazine, this idea took hold in the mid-1800s thanks to the work of a scientist named Paul Broca.",
+        "He was interested in free will, and he had this idea that smell was this very animalistic sense and that it kind of compelled animals to have sex and, you know, feed and do things.",
+        "And humans, having free will, could choose how we responded to smells and therefore presumably had a less strong or less special sense of smell than other animals.",
+        "Sigmund Freud picked up on this idea, too.",
+        "Freud thought that people who took real pleasure in smell were more likely to be neurotic.",
+        "As scientists started to explore the sense of smell, they interpreted their findings to reinforce the idea that smell had been diminished in humans as we stood upright and our noses came up off the ground.",
+        "One example is that humans have 400 distinct smell receptors in our noses compared with more than something like a thousand in rats.",
+        "But in fact, 400 is an awful lot, and there's - honestly, there's very few odors that are volatile enough to get into the air that humans can't smell.",
+        "And there have been a few nose-to-nose comparisons with humans and other mammals.",
+        "It seems like in this whole set of odors that have been tested, humans are best at some.",
+        "And dogs are best at some, and mice are best at some.",
+        "And it really just seems to depend on what the chemical is."
+      ]
+    }
+  ]
+}

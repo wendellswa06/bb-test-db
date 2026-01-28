@@ -1,0 +1,104 @@
+{
+  "challenge_uid": "82fd32c7-b0c6-421f-af1d-edb331ada76d",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "fd363210-b6b4-438d-8b9a-171b5b230aee",
+      "language": "en",
+      "utterances": [
+        "I think one thing is the NSA wire tap program.",
+        "The little bit we know about it shows is that...",
+        "Started before the Patriot Act.",
+        "Which started, uh, no, which started, no...",
+        "About the same time.",
+        "No, it was after the attacks and the Patriot Act was introduced...",
+        "October.",
+        "...to the Congress eight days after the attack.",
+        "It was passed in October.",
+        "So, what we know now is that we've had statements by the administration that court orders are still in place and all this, but that wiretaps were going on at least thousands of Americans and possibly quite a lot more.",
+        "Are these NSA wiretaps or are these..."
+      ]
+    },
+    {
+      "dialogue_uid": "99de39ba-1394-404e-a28e-7eb9d8e23edf",
+      "language": "en",
+      "utterances": [
+        "These were the NSA wiretaps.",
+        "Okay, under the Patriot Act...",
+        "But, I don't, but the Patriot Act changed FISA.",
+        "Patriot Act said we're going to take the wall down between law enforcement and foreign intelligence.",
+        "Right.",
+        "Said we're going to have longer time for emergency orders...",
+        "And it lowered the standard of evidence that you would need to get a warrant from the FISA court.",
+        "Including for roving wire taps and for trap and trace for the phone numbers.",
+        "Right, but that's different from this NSA program?",
+        "Well, but I think the question, I don't quite see the difference because, to me, it's how do you use your statutory authorities under FISA and then what do you do outside of those authorities and we changed the law the way the administration asked on FISA, but then they went and did things beyond that and I think that's a big concern.",
+        "Peter Swire, stay with us.",
+        "Joining us now is the Senator who brokered the deal with the White House, Senator John Sununu, Republican from New Hampshire.",
+        "He's in his office on Capitol Hill.",
+        "Nice to talk to you again Senator."
+      ]
+    },
+    {
+      "dialogue_uid": "8386e317-3fc1-433f-b619-b6ae458da113",
+      "language": "en",
+      "utterances": [
+        "Good afternoon.",
+        "So, what happened here, what was the compromised deal?",
+        "Well, the arrangement or the agreement that we worked out dealt in three areas, gave us additional improvement in each of those three areas.",
+        "I say in addition because we were able to get the sunsets moved from seven years to four years previously, they dropped a criminal penalty for, or criminal misdemeanor for inadvertent disclosure of NSLs and made some other changes.",
+        "NSL, those National Security Letters.",
+        "Go ahead.",
+        "Pardon me?",
+        "NSLs are National Security Letters.",
+        "That's correct I apologize...",
+        "That's okay.",
+        "...for the jargon.",
+        "We've been decrypting acronyms all day here, Senator."
+      ]
+    },
+    {
+      "dialogue_uid": "63232d82-3e62-4008-b4cc-bea0ceeb709f",
+      "language": "en",
+      "utterances": [
+        "But we made additional progress in three areas.",
+        "One, we created an explicit judicial review for the gag order that comes along with the 215 subpoena.",
+        "Mm-hmm.",
+        "We added language that clarifies that libraries operating in their traditional roles are not subject to national security letters, and we got them to drop a provision that would have required the recipient of an NSL to disclose the name of their lawyer to the FBI, and, you know, just on principle, I think that's something that could easily discourage people from seeking legal advice.",
+        "So, and I know you've also said this is not everything you wanted, but it's as a good as you could get now.",
+        "It's not, look, if you're sitting down to try to work out differences, inevitably, you're going to get, you're going to make gains, and you're going to have to make some compromises.",
+        "It's totally unrealistic to think you can sit down at a table, insist on a list of improvements and get everything you want, but we made real progress in these three areas.",
+        "We've made a lot of progress since the initial bill that was passed in the wake of the attacks on September 11th, and let's face it, the administration's original position when we began this process a year ago was make all the provisions permanent and don't change anything, and I think we've markedly improved from that original line.",
+        "One other factor in this was, of course, the House of Representatives who were very supportive of the White House position here.",
+        "Well, that's not entirely true.",
+        "You've got to be careful when you attempt to speak for the entire House of Representatives.",
+        "Okay...",
+        "Start to.",
+        "In conference, the chairman of the Judiciary Committee in the House, Jim Sensenbrenner, certainly aligned himself with the Justice Department, but remember the House voted on a number of these provisions, sneak and peek search warrants, sunsets, and on these and other issues, they supported the Senate's position, so on a straight up or down vote on many of these provisions, the House has supported the Senate.",
+        "But when they got into conference, it was a different story and the, excuse me, the negotiations were a little bit more difficult."
+      ]
+    },
+    {
+      "dialogue_uid": "e7d7724a-7e34-4dea-8de9-eae34c6f2ec5",
+      "language": "en",
+      "utterances": [
+        "And are, are you now, have you been assured that the agreement you reached with the White House last week, that's the version that's now going to go to the conference?",
+        "That's certainly my understanding and that's part of the agreement, you know, the announcement of support made by the White House.",
+        "The speaker of the House has supported, indicated his support for these three additional changes, the leadership in the Senate, the chairman of the Judiciary Committee and, at a certain point, you'll have to take those commitments at their word, move forward with the bill that we've already introduced to make the changes, and get it done.",
+        "We're talking with Senator John Sununu, Republican of New Hampshire.",
+        "Also with us, Peter Swire who was a chief counselor for privacy back in the Clinton administration.",
+        "You're listening to TALK OF THE NATION from NPR News.",
+        "And let's get some more listeners on the line.",
+        "This is Stacy, Stacy calling from San Francisco.",
+        "Yeah, that's me?",
+        "Yeah.",
+        "I have two questions: how long is this going to be in effect and are we just living in a permanent state of terrorism so that the government will just state that we can't eradicate terrorism, so we're just going to continue this Patriotic Act, and it's relating to the point that has been made previously with internment, Japanese camps, McCarthy era, you know, how did we get those to stop and how can we get this to stop?",
+        "When is the end of this?",
+        "Mm-hmm.",
+        "Senator Sununu?",
+        "Well, that's the importance of the sunset requirements, the requirements that the authorization only last for a pre-determined amount of time.",
+        "What is that time?"
+      ]
+    }
+  ]
+}

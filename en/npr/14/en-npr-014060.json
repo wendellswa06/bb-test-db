@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "0131d6f4-bc20-4b36-b3ab-b76ac74fec7f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "a4f6945f-8c29-4f44-8622-a39f45ab5246",
+      "language": "en",
+      "utterances": [
+        "Researchers are now testing whether the surgery works on diabetics who aren't even obese - people with BMIs as low as 26.",
+        "And doctors and patients are waiting to see if insurance companies will pay for the operations just to treat diabetes.",
+        "Rob Stein, NPR News.",
+        "(SOUNDBITE OF MUSIC)",
+        "You're listening to ALL THINGS CONSIDERED.",
+        "For the past year, ProPublica, PBS \"\"Frontline\"\" and NPR have probed America's deeply flawed system of death investigation.",
+        "Today, we bring you a story about the decline in hospital autopsies.",
+        "A half-century ago, autopsies were an integral part of American health care, performed on roughly half of all patients who died in hospitals.",
+        "But as ProPublica's Habiba Nosheen reports, today, autopsies are only conducted in roughly 5 percent of patients.",
+        "And experts say that's a troubling trend.",
+        "Jeffrey Schaler's voice echoes through the large speakers inside a historic church in Baltimore.",
+        "Dressed in a black suit, Schaler stands under the stained-glass windows in front of an audience of 100 or so, to pay tribute to his wife.",
+        "(SOUNDBITE OF MEMORIAL SERVICE)",
+        "DR.",
+        "JEFFREY SCHALER: Thank you all for coming here today.",
+        "If Renee were alive right now and could see what her friends and colleagues have done and feel towards her, she would surely be in tears long before I finish this sentence.",
+        "Renee Royak-Schaler was a 64-year-old professor, and a cancer researcher.",
+        "As her husband shares at her memorial, last May, she unexpectedly collapsed and was rushed to the hospital, where she died."
+      ]
+    },
+    {
+      "dialogue_uid": "0d1d2516-3ef9-4f02-9f71-b0fbc3b0df6d",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF MEMORIAL SERVICE)",
+        "Renee died from a pulmonary embolism.",
+        "The only reason we know this now is because her friends and colleagues here at the University of Maryland School of Medicine paid for, and conducted, an autopsy.",
+        "The autopsy showed that cancer was all over her body, and had caused the pulmonary embolism.",
+        "Not knowing, to me, has always been worse than knowing the truth, and we know the truth, which is what happened as a result of the autopsy.",
+        "Even though that's still painful, there's a sense of peace.",
+        "But federal records show that few Americans receive that sense of peace when a loved one dies at a hospital.",
+        "Currently, American hospitals have no obligation to provide an autopsy when a patient dies.",
+        "If there is evidence of foul play or suspicious circumstances, a government-assigned coroner or a medical examiner may review the case, but they rarely intervene in hospital deaths.",
+        "DR. GEORGE LUNDBERG: My name is Dr. George Lundberg.",
+        "I am a pathologist.",
+        "Autopsies used to be the standard in hospitals.",
+        "They've gone down so far now that there are large numbers of hospitals that do almost no autopsies at all.",
+        "Hospital autopsies used to be mandated by the Joint Commission, an agency that works on the government's behalf to accredit hospitals in the U.S.",
+        "Until 1971, hospitals had to autopsy at least 20 percent of the patients who died in their care.",
+        "But they're no longer required to meet a quota.",
+        "Dr. Lundberg puts it this way.",
+        "The people who pay the bills say, well, why would I want to pay money for an autopsy on a patient who's already dead?",
+        "I mean, my money is supposed to be spent on people while they're alive.",
+        "Health insurance companies don't pay for autopsies because they say they pay for the care for the living patient, not the dead.",
+        "Families can opt to pay for an autopsy out of pocket, but that can be expensive.",
+        "Besides providing closure to the families, there is another reason why autopsies might be important.",
+        "Studies show that doctors make diagnostic errors in about 25 percent of cases.",
+        "And without autopsies, the errors remain unknown.",
+        "According to Dr. Lundberg, that has broad implication for public health in America."
+      ]
+    },
+    {
+      "dialogue_uid": "fce03ba7-566b-4720-af20-9b89c25a75e7",
+      "language": "en",
+      "utterances": [
+        "Death certificates are used all the time to establish what the leading causes of death are.",
+        "This is kind of the benchmark for how one develops a public health agenda, and a spending agenda.",
+        "Robert Anderson manages the mortality statistics for the Center for Disease Control and Prevention, the CDC.",
+        "Anderson says flawed information about the ways Americans are dying on death certificate may be leading officials to allocate medical research dollars in the wrong way.",
+        "You put inaccurate information, you know, into the statistics, you're going to get bad statistics.",
+        "So you put garbage in, you're going to get garbage out.",
+        "Some experts say that to reverse this troubling trend, the Joint Commission needs to go back to mandating a minimum rate of autopsies.",
+        "But that's not likely to happen anytime soon.",
+        "DR.",
+        "PAUL SCHYVE: No, we're not taking any action at this point to try to increase the number of autopsies.",
+        "That's Dr. Paul Schyve.",
+        "He heads up the quality program for the Joint Commission, which accredits hospitals.",
+        "If we had unlimited resources, then it would be a different picture.",
+        "But we all know we don't.",
+        "Dr. Schyve says technology may be the answer.",
+        "Particularly in recent years, there has been a big advancement in the type of diagnostic capabilities that people have, to be able to diagnose and understand what's going on inside a patient without the autopsy.",
+        "But experts like Dr. Lundberg don't agree, and say that even with the advancement in technology, sometimes errors in medicine can only be learned on the autopsy table."
+      ]
+    },
+    {
+      "dialogue_uid": "3a8fe057-3df3-4895-9746-4d969f60cd02",
+      "language": "en",
+      "utterances": [
+        "For NPR News, I'm Habiba Nosheen.",
+        "...two, one.",
+        "(SOUNDBITE OF APPLAUSE AND CHEERING)",
+        "(SOUNDBITE OF SONG, \"\"AULD LANG SYNE\"\")",
+        "The sound of the Bad Plus, playing at the moment of New Year's in New York City.",
+        "Over at the White House this afternoon, President Obama said the vote confirmed what he'd been hearing from Americans across the country - that they're deeply frustrated.",
+        "Frustrated, he said, about the pace of economic recovery, about the lack of opportunities for their children, about partisan bickering.",
+        "I ran for this office to tackle these challenges and give voice to the concerns of everyday people.",
+        "Over the last two years we've made progress.",
+        "But clearly too many Americans haven't felt that progress yet.",
+        "And they told us that yesterday.",
+        "And as president, I take responsibility for that.",
+        "Still, Mr. Obama stopped short of accepting the election as a repudiation of his policies.",
+        "For instance, he said this on health care.",
+        "I think we'd be misreading the election if we thought that the American people want to see us for the next two years re-litigate arguments that we had over the last two years."
+      ]
+    },
+    {
+      "dialogue_uid": "b826892a-3066-4c62-a664-8ba7f2943860",
+      "language": "en",
+      "utterances": [
+        "He said making sure families have security and that the country's on a trajectory to lower health care costs is absolutely critical.",
+        "But he said he regretted that the process was, in his words, an ugly mess.",
+        "And the president said he'd be happy to look at Republicans' ideas to make some modifications and improvements on health care.",
+        "I think what's going to be useful is for us to go through, you know, the issues that Republicans have issues on.",
+        "Not sort of talking generally, but let's talk specifics, you know.",
+        "This particular provision, when it comes to preexisting conditions, is something you're for or you're against?",
+        "Helping seniors get their prescription drugs, does that make sense or not?",
+        "President Obama said he's been doing a lot of reflecting.",
+        "He said he knows he has to do, in his words, a better job.",
+        "And he talked of working together with Republicans.",
+        "I'm not suggesting this will be easy.",
+        "I won't pretend that we will be able to bridge every difference or solve every disagreement.",
+        "There's a reason we have two parties in this country and both Democrats and Republicans who have certain beliefs and certain principles that each feels cannot be compromised.",
+        "Unidentified Man: What does it feel like?",
+        "It feels bad.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "You know, the toughest thing over the last couple of days is seeing really terrific public servants not have the opportunity to serve anymore, at least in the short term.",
+        "President Obama talking about the 2010 midterm elections at a White House news conference this afternoon.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Michele Norris."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "challenge_uid": "5139a9fb-5d11-44bb-becf-6490181e6699",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "82c9949a-2a18-4573-99e0-cd2fbe87e89e",
+      "language": "en",
+      "utterances": [
+        "Jonatan Kliminder recruited a couple of his colleagues at Umea University in Sweden to tackle this question in the lab.",
+        "They put some perch in a fish tank to see how they behaved under normal circumstances.",
+        "Then they added some of the drug into the tank, at the same concentrations it was found near the sewage plant, to see if it would change how the fish behaved.",
+        "What we found was very surprising, I would say.",
+        "They assumed that the drug dose would be so low that the fish wouldn't be affected - not so.",
+        "Individuals exposed to dilute concentration of this drug became more antisocial.",
+        "They become more active and they actually were more effective in eating.",
+        "At this point, Kliminder can only speculate whether the drug is actually affecting the population of perch in the wild.",
+        "But hypothetically, it could.",
+        "This drug actually removes some of the fear, the sense of fear, from these fishes.",
+        "So instead of being afraid they focus on feeding.",
+        "In the wild, that could leave a small fish more vulnerable if it strays from the relative safety of a school.",
+        "The most likely outcome there would be that the bigger fish will eat it.",
+        "The key question is whether the drug is affecting the growth, survival and reproduction of fish in the wild, and by so doing, perturbing the ecosystem.",
+        "Dan Schlenck is at the University of California at Riverside.",
+        "He says it won't be easy to figure that out."
+      ]
+    },
+    {
+      "dialogue_uid": "8cc0a43f-0211-4524-8e98-27e5cfce46d8",
+      "language": "en",
+      "utterances": [
+        "You're welcome, Madeleine.",
+        "It's one thing to expose animals in a tank, where they're sort of captive and can't move away from the exposure, to where you're in a large stream or water body that they can actually move around and get away from that.",
+        "The water is likely to be considerably cleaner upstream and downstream from the sewage plant where the Swedish perch were captured.",
+        "And it's also the case that benzodiazepines have been used for decades in Sweden, so they have no doubt been in this aquatic ecosystem for many years.",
+        "These fish may have adapted to that.",
+        "Scientists now realize that low levels of pharmaceuticals have spread through the environment.",
+        "Schlenk has found concentrations of a valium-like drug in a fish that lives on the sea floor off the California coast, for instance.",
+        "And other lab studies have shown that human drugs can affect the behavior of striped bass and other species.",
+        "Bryan Brooks, at Baylor University, says as yet, these drug traces don't pose an obvious threat to people who might drink the water from streams or eat the fish that live in them.",
+        "The presence of pharmaceuticals in surface waters or even the residues that accumulate in, say, edible fish and shellfish, are much lower than you what you might need to gain a therapeutic dose, for example.",
+        "But he cautions that is not necessarily the case in the developing world.",
+        "Some of the observations in India, for example, downstream of manufacturing facilities, are among the highest concentrations of pharmaceuticals reported in the environment.",
+        "And so, the developing world really deserves some additional attention.",
+        "And as the Swedish study make clear, we don't have the whole story yet regarding the impact of pharmaceuticals in lakes, rivers and streams.",
+        "But scientists are ratcheting up their attention to these questions."
+      ]
+    },
+    {
+      "dialogue_uid": "4744d606-39cb-4827-b95c-4625970171b5",
+      "language": "en",
+      "utterances": [
+        "Richard Harris, NPR News.",
+        "This is MORNING EDITION from NPR News.",
+        "I'm Renee Montagne.",
+        "And on this New Year's Eve morning, as we leave 2010, can you even remember Y2K?",
+        "That scare over what computers around the world would do when the calendar flipped to the oughts does sound like a long time ago.",
+        "So we're going to take the next few minutes to remind you how much has happened since the turn of the century.",
+        "Not a definitive collection, just a handful of memorable moments since the year 2000.",
+        "(Soundbite of cheering)",
+        "Unidentified Man #1: Five, four, three, two, one - Happy 2000!",
+        "Dire predictions of terrorist attacks or paralyzing computer failure are, so far, unrealized.",
+        "Vice President Gore has retracted a concession telephone call he made earlier tonight to George W.",
+        "Bush.",
+        "The 2000 presidential race is still undecided.",
+        "While I strongly disagree with the court's decision, I accept it.",
+        "And tonight, I offer my concession.",
+        "(Soundbite of music)",
+        "If you're just joining us, the World Trade Center in New York City, in Lower Manhattan, was hit by airplanes today two of them."
+      ]
+    },
+    {
+      "dialogue_uid": "2994eab4-03e9-45d0-8cfc-554e704840b0",
+      "language": "en",
+      "utterances": [
+        "The number of casualties will be more than any any of us can bear.",
+        "(Soundbite of applause)",
+        "President GEORGE W.",
+        "BUSH: I can hear you.",
+        "The rest of the world hears you.",
+        "And the people will...",
+        "(Soundbite of applause and cheering)",
+        "And the people who knocked these buildings down will hear all of us soon.",
+        "(Soundbite of cheering)",
+        "So tonight, I announce the creation of a Cabinet-level position reporting directly to me: the Office of Homeland Security.",
+        "(Soundbite of movie, \"\"Harry Potter and the Sorcerer's Stone\"\")",
+        "(as Dumbledore) Dear Mr. Potter, we are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry.",
+        "(Soundbite of music)"
+      ]
+    },
+    {
+      "dialogue_uid": "8b2cd9f5-a776-4920-9a2b-04c9233479dc",
+      "language": "en",
+      "utterances": [
+        "Unidentified Man #2: iPod is this amazing digital device that fits in your pocket.",
+        "It carries over a thousand songs, so now you can take your entire music library with you wherever you go.",
+        "Leaving Saddam Hussein in possession of weapons of mass distraction for a few more months - or years - is not an option, not in a post-September 11th world.",
+        "Coalition forces have begun striking selected targets of military importance, to undermine Saddam Hussein's ability to wage war.",
+        "A giant banner proclaimed: Mission Accomplished.",
+        "Major combat operations in Iraq have ended.",
+        "The United States and our allies have prevailed.",
+        "(Soundbite of cheering)",
+        "(Soundbite of music)",
+        "I will not rest until California is a competitive, job-creating machine.",
+        "A single Holstein cow has tested positive for BSE - what is widely known as mad cow disease.",
+        "And then we're going to Washington, D.C., to take back the White House.",
+        "Yeah!"
+      ]
+    }
+  ]
+}

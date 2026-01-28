@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "3bab6893-227f-4871-9f50-53e77b3cb255",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "aa5998a2-c23d-4fb6-8e6c-bce1969d96f1",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "I've always felt the nine most terrifying words in the English language are I'm from the government, and I'm here to help.",
+        "But rural Americans have since come across some even scarier words, like opioid epidemic.",
+        "So what you have is some very serious problems, particularly around the economy and opioid and drug abuse that really worry people.",
+        "(SOUNDBITE OF SONG, \"\"MANIC DEPRESSION\"\")",
+        "Precisely.",
+        "We can make lines.",
+        "We can make dots.",
+        "So, a dot is nice because it could be used for memory.",
+        "If you put a dot there, you have a little puddle of electrons, and then, they'll either be there or not and that can be a one or a zero.",
+        "And the thing is, we can make that 1,000 times smaller than the smallest magnetic domains that are used in hard drives.",
+        "And then by making wires, we, of course, can make the kinds of wires that you would have in electronics, and then more recently, what we recently published was the ability to make transistors, which is - it's been argued - been discussed as the most important invention of the 20th century.",
+        "And how - are you claiming, then, that you can make the smallest transistors in the world?",
+        "Well, I think people may have made a one or two, some things that are smaller.",
+        "I would say that if other methods - let say, putting a molecule in between two electrodes that are - happen to be very close to one another, it doesn't always work very well, and if you don't put - you can't always put the same molecule there in the same orientation.",
+        "Yeah.",
+        "What we can do is basically, we can make lots of them and we can make them in a very reproducible fashion that - it's more deterministic than, for example, directed self-assembly, although those are very promising..."
+      ]
+    },
+    {
+      "dialogue_uid": "2192f71c-796d-4ffc-8dc0-a98a5b6fa585",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "Techniques of their own.",
+        "So, walk us through how you make a transistor.",
+        "Well, we begin with the material itself, which was provided by my collaborator, and then we put it inside of our atomic-force microscope, and then we simply touch the surface with this very sharp probe.",
+        "And then if we want to make a wire, we put a positive - take a battery and put the little plus tab on...",
+        "Yeah.",
+        "You know, attach it to the atomic-force tip, and then we scan it across, and everywhere we go with that probe, we have a conducting region.",
+        "And then if we want to then cut something, we can reverse the bias.",
+        "It's actually really - it's quite straightforward.",
+        "Mm-hmm.",
+        "And you could chop that wire up into little pieces?",
+        "Exactly.",
+        "And that's one of the ways that we actually can tell how small they are.",
+        "We can make a wire, and then we can move across the wire and see how sharply it cuts.",
+        "And we have very precise calibration of that.",
+        "Mm-hmm.",
+        "And how complex a circuit can you make with this technology?",
+        "That's a very good question.",
+        "So, right now, we basically have - we can work in one-, two-dimensional plane, and so, we have to make sure that the wires can actually make a path out to the edge, for example.",
+        "But we think that - I mean, we don't know the exact shape of the transistor that might make it into technology would look like and how that would be connected, but - so, really, we haven't been trying to make what I would call technology, things that you can..."
+      ]
+    },
+    {
+      "dialogue_uid": "5ee93d8c-2a8b-44c8-a1af-0949f217f820",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "Put into a device, but rather demonstrate that we can make things that are exceedingly small.",
+        "And by small, I mean a transistor that's 1,000 times smaller than the existing transistors that are used, the state-of-the-art transistors today, and 100 times smaller than the smallest ones that people think they can make with silicon.",
+        "And a transistor basically, if it's on, it's a one.",
+        "If it's off, it's a zero, sort of.",
+        "Well, that would be more like a memory-bit.",
+        "Yeah.",
+        "But so the ideas that you can - so, a transistor, basically, has three terminals, and you have a channel, where you can - electrons can flow, and the idea is that there's a gate.",
+        "Right.",
+        "And the gate is either open or closed, and that is, basically, is logic, which allows you to process information and not just store it.",
+        "Mm-hmm.",
+        "Can you make the other electronic components the same way, like the resistors, the coils, things like that, that might go into the circuit?",
+        "Well, yeah, you're describing analogue, for example, analogue components.",
+        "I mean, yeah, these wires are themselves resistors naturally, and to make inductors - you're thinking about loops, we can sort of make ones that are flat, and so, it may be possible to make analogue-type devices as well.",
+        "But you know, the other thing that's really amazing about this material is that we can do very different things with the same material.",
+        "So, if we think about the way normal computers work, you have hard drives..."
+      ]
+    },
+    {
+      "dialogue_uid": "873311ad-9c1d-4380-b372-0e3da17d7781",
+      "language": "en",
+      "utterances": [
+        "Right.",
+        "Which are - which use magnetic materials for storage and then we have silicon for processing information.",
+        "Here, we can do both with the same material, and the processes for making these things are a lot simpler.",
+        "But there are even other things which, you know - moving away from this sort of technology towards science, the interface also has really interesting properties at low temperatures.",
+        "So, for example, it can become superconducting, meaning that these electrons pair up and they move in such a way that there is no resistance whatsoever.",
+        "And that's something that can be - that could be really useful for very futuristic things like quantum computers.",
+        "Could it help our electric grid?",
+        "Uh, I'm not so sure about that...",
+        "(Soundbite of laughter)",
+        "Because it's at very low temperature...",
+        "Yeah.",
+        "Much lower - you would probably end up wasting a lot of energy just getting to those low temperatures.",
+        "Will we ever see a working model of this some place?",
+        "Well, I'd like to think that this was a breakthrough, and we - so, about a year ago, we showed that we could make dots and we could make wires.",
+        "But then we said, OK, we have to be able to make transistors, and now we've made transistors."
+      ]
+    },
+    {
+      "dialogue_uid": "7047a0f8-fc01-4a03-ad9c-9fefe0087bb6",
+      "language": "en",
+      "utterances": [
+        "Right, mm-hmm.",
+        "And I think one of the challenges is going to be to see whether we can really get to the extreme, sort of, very practical limits of how small and efficient you can make these transistors.",
+        "That's usually what determines whether technology is adopted, is how energy-efficient it is, because if you try to shrink things with - and they still consume the same amount of power, it basically turns into a heat source...",
+        "Yeah.",
+        "And it will blow up.",
+        "Why would you - what's the advantage to being able to write and erase and rewrite using this technology, on the fly, so to speak?",
+        "Yeah, well, I mean, there's certainly some practical advantages.",
+        "Normally, the way that things are made in - with silicon or most semiconductors is that you have a process where you, let's say, you remove material or you deposit some material, and those involve many steps which are quite complex, and each one has a certain probability of success.",
+        "And if you make a mistake, then you can't fix it; basically, you throw out the chip.",
+        "And so, that's - from a practical point of view, that's something that we think is an advantage, but it may also be that simply being able to integrate very tightly memory and logic would provide a very new and different type of architecture.",
+        "So, it's something that I think people haven't been thinking so much about because it wasn't - there was no...",
+        "Yeah.",
+        "Tangible way of understanding how it might be implemented.",
+        "You know, we have things - we have, like, what we call firmware these days.",
+        "If you're - like, if you have a telephone or something and you want to upgrade the software, you know, you download something into the computer into - of the software - into the software, of your phone and it upgrades it.",
+        "Could you do the same thing with your kind of hardware?",
+        "Yes.",
+        "Yeah, firmware is sort of like nonvolatile memory, but there are also things related to, like, what you're saying, field-programmable gate arrays, and those are also - they're somewhat restrictive in their geometry, and so, it maybe that there would some advantages to being able to completely change the architecture.",
+        "But you know, there's another thing about just the way in which we make it.",
+        "Right now, of course, we have to use an atomic-force microscope, which is kind of big.",
+        "But actually, major companies have in the past developed and then set aside technologies that involve using hundreds of thousands of these very sharp probes to store information.",
+        "So, actually, IBM was one of the leaders in this, and they had this Millipede Project, but they put aside because it wasn't competitive against flash memory.",
+        "So, it turned out that flash was getting - scaling so rapidly that they weren't going to win the race in some sense, and so, they put it aside.",
+        "And many other companies that were developing similar technologies put those aside, but it may be that we want to sort of open those doors again because the - we can add to that logic and get processing capability, which was never on the table before and also being at a - about a factor of 100 times smaller."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "aef5ec64-cd82-4d8c-a8ad-3a8aefdcf7e7",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "d9f82ec3-96d4-45a1-9886-3d90b528a0ff",
+      "language": "en",
+      "utterances": [
+        "We can just change one letter?",
+        "Just change one letter.",
+        "Change the first one.",
+        "Must be changing the I.",
+        "Change the I, yeah.",
+        "Bran.",
+        "Bran, as in Raisin Bran, good.",
+        "Bonn B-O-N-N.",
+        "Let's see, Bonn, B-O...let's see, looking for taking one of them consonants out of there and...",
+        "Yeah, change the last letter.",
+        "Yeah.",
+        "Bo...",
+        "Like what you throw your dog."
+      ]
+    },
+    {
+      "dialogue_uid": "aaf079fe-9ea4-462c-a205-a6a52c29405c",
+      "language": "en",
+      "utterances": [
+        "Yeah, but that's only one syllable.",
+        "It has to be two syllables.",
+        "Oh, you got two syllables.",
+        "B-O-N-Y.",
+        "Bony is it.",
+        "Good job.",
+        "Quito Q-U-I-T-O, Quito.",
+        "OK.",
+        "Quite.",
+        "Quite or quits is good.",
+        "Chile C-H-I-L-E.",
+        "Child.",
+        "Good, or chill, either way.",
+        "Samoa S-A-M-O-A.",
+        "Let's see, Samoa.",
+        "Samba.",
+        "Samba, good.",
+        "Tangier T-A-N-G-I-E-R."
+      ]
+    },
+    {
+      "dialogue_uid": "2283abb2-56da-44a5-ae4d-605289ee9027",
+      "language": "en",
+      "utterances": [
+        "I-E-R...",
+        "So, you got two syllables.",
+        "You either need to make it one or three.",
+        "Rangier.",
+        "How about...",
+        "Rangier or mangier, uh-huh.",
+        "Texas T-E-X-A-S.",
+        "Texas.",
+        "I can't seem to - let's see, I'm trying to increase the syllable count here or decrease it...",
+        "No, make it go down to one syllable.",
+        "Yeah.",
+        "And change the A in particular.",
+        "Like books.",
+        "Yes."
+      ]
+    },
+    {
+      "dialogue_uid": "6b729a59-025b-4046-9a2d-a2c296119de8",
+      "language": "en",
+      "utterances": [
+        "Oh, texts.",
+        "Texts is it.",
+        "Boise.",
+        "I am sorry, America.",
+        "(LAUGHTER)",
+        "No need to apologize.",
+        "No need.",
+        "Boise B-O-I-S-E.",
+        "OK.",
+        "Boise.",
+        "Poise.",
+        "Poise or noise.",
+        "Maui M-A-U-I.",
+        "M-A-U-I.",
+        "Maul.",
+        "Maul.",
+        "Paris P-A-R-I-S."
+      ]
+    },
+    {
+      "dialogue_uid": "58f20e61-765e-4e5e-82b9-7e4b360f42d1",
+      "language": "en",
+      "utterances": [
+        "Parts.",
+        "That's it.",
+        "And your last one is France.",
+        "France.",
+        "France.",
+        "That's two.",
+        "When I make it two and when I go...",
+        "It's an interesting one.",
+        "You actually want to make it three.",
+        "Oh.",
+        "Hmm.",
+        "Can you tell us...",
+        "Beyonce, OK.",
+        "Ooh, really?",
+        "Beyonce.",
+        "Nice job, Keith.",
+        "Good job.",
+        "Oh, Keith.",
+        "That was good."
+      ]
+    }
+  ]
+}

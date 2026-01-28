@@ -1,0 +1,109 @@
+{
+  "challenge_uid": "7dc82bc0-5f26-45e1-ad16-9c0636aa8338",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "aa052b69-39f6-4347-b7a2-efb0e5388477",
+      "language": "en",
+      "utterances": [
+        "Oh, my 79th birthday.",
+        "Happy birthday.",
+        "Thank you.",
+        "I'm pushing 80.",
+        "And you don't sound a day over 62.",
+        "Well, inside my head I'm actually 12.",
+        "And what do you live for a living in Los Gatos, Elle?",
+        "Are you still working?",
+        "Actually, everyone thinks I work very hard but I'm not working for anyone.",
+        "I manage a small estate, and I'm basically a troublemaker.",
+        "(LAUGHTER)",
+        "Ooh.",
+        "I like the sounds of that.",
+        "Well, do you have a question for Will Shortz, Elle?",
+        "I do.",
+        "I find surnames very interesting.",
+        "And I'd love to know the derivative of Shortz."
+      ]
+    },
+    {
+      "dialogue_uid": "8b70e1af-3cab-4b8d-8ec2-0a3ce22ac2f2",
+      "language": "en",
+      "utterances": [
+        "Yeah, I'd like to know it too.",
+        "Well, is it German or is it Dutch?",
+        "It does come from German and I honestly don't know.",
+        "Are you serious, Will.",
+        "I feel like that's a puzzle of your own life that you would have figured that one out.",
+        "If anyone can research this and find out, I'd love to hear.",
+        "All right.",
+        "If anyone out there has the linguistic origin of Shortz let us know.",
+        "OK.",
+        "With all of that in mind, Elle, are you ready to play the puzzle?",
+        "More or less.",
+        "All right.",
+        "I'm sitting down.",
+        "That's good enough.",
+        "That's a good start.",
+        "OK, Will.",
+        "What's the puzzle this week?"
+      ]
+    },
+    {
+      "dialogue_uid": "2522e1e8-a453-4e8b-b157-d2771b90f06b",
+      "language": "en",
+      "utterances": [
+        "All right, Elle.",
+        "I like your attitude about life, by the way.",
+        "And every answer today consists of two people, either real or fictional, whose last names are anagrams of each other.",
+        "For example, if I gave you the clue comedian Mort and artist Franz, you would say Sahl and Hals - S-A-H-L and H-A-L-S.",
+        "I'm ready if you are, Elle.",
+        "OK.",
+        "Let's do it.",
+        "Shoot.",
+        "Number one: former Cabinet member Janet and pianist Peter.",
+        "Nero.",
+        "Right.",
+        "And the Cabinet member Janet would be?",
+        "Reno.",
+        "There you go - Janet Reno, good."
+      ]
+    },
+    {
+      "dialogue_uid": "eabe259b-2197-47ce-8be9-62ab2ba5b9c1",
+      "language": "en",
+      "utterances": [
+        "Yes, thank you.",
+        "Merchant LL and diplomat and politician Abba.",
+        "Bean.",
+        "Bean and...",
+        "Abba Eban.",
+        "That's it, Abba Eban from Israel.",
+        "Novelist Sholem and singer Johnny.",
+        "Sholem Molehem(ph).",
+        "No. It's four letters.",
+        "Oh, Sholem Asch.",
+        "There you go.",
+        "And singer Johnny..."
+      ]
+    },
+    {
+      "dialogue_uid": "ae3e872b-9d2f-4cbd-bb78-116a4bacd96a",
+      "language": "en",
+      "utterances": [
+        "(Singing) I went down in a burning ring of fire...",
+        "Cash.",
+        "Johnny Cash.",
+        "Johnny Cash it is.",
+        "Musical interlude there from Rachel, good.",
+        "You know, the wheels on my train that joins my brain connections needs greasing.",
+        "It happens to all of us.",
+        "Here's your next one: software developer Bill and TV host Bob.",
+        "Eubanks?",
+        "That's a good guess but it's only five letters.",
+        "From Microsoft?",
+        "Oh, in Seattle.",
+        "Yes."
+      ]
+    }
+  ]
+}

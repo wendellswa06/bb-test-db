@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "d36e2b17-54d0-44c8-bd76-31e8698a9905",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "102147ca-7f91-4bc8-9a7f-174d4829ba8f",
+      "language": "en",
+      "utterances": [
+        "In certain instances, there were three teams from Penn State University, Princeton and Mastrak(ph) University in The Netherlands that tested these paintings using this kind of texture analysis that goes with the image processing.",
+        "And one of the things that the Princeton team put forward as a possibility is that using what's called a spatial frequency determination.",
+        "They were able to say that there was a certain extra amount of high frequency -spatial high frequencies - in the - that they observed in their mathematics of the images.",
+        "Now, this corresponds possibly to what art historians would say in a copy.",
+        "It's when the - when you're tying to copy the artist, you're moving the brush probably much more slowly, trying to make sure you get exactly the right shape, and your hand will tend to vibrate a little bit more, and therefore, many historians will talk about how the brush work doesn't look as lively or as smooth.",
+        "And the artist - the image process is believed that that's one of the types of things that could be quantified.",
+        "And they were able to pick things like that up.",
+        "Yes, but this is only the beginning because our data set had so few, if you will, paintings that were painted - intended to be copies of van Goghs, that these findings can only be considered preliminary.",
+        "Sounds like you're fudging the answers here.",
+        "Well, some people would say that the only answer we can give you might be probabilistic in nature, but I would rather say that I find ourselves at this point where the teams have just begun to try and approach this problem, and we think it will be something that requires several years of effort, and the idea of the workshop was to accelerate that process by bringing the computer, scientists and image processor together with the art historians faster than they might have been otherwise.",
+        "Did you find that the museum and museums in general are cooperative in your efforts?",
+        "Well, it turns out in this case that I have to give great praise to the Van Gogh Museum.",
+        "And other art historians from around Europe primarily that were there seemed to have a very positive response.",
+        "And I realize this doesn't fit with the traditional image, but I think that museums do realize that the computer is going to be a tool in many, many cases in the future, including in the things that they do.",
+        "And so they want to stay ahead of the game and sense that if there's some good thing is coming down along, they want to know what it is.",
+        "There was a story a few weeks ago about a Jackson Pollock painting.",
+        "He used different methods.",
+        "You're familiar with that one?",
+        "Yes, I am.",
+        "That's using fractal analysis."
+      ]
+    },
+    {
+      "dialogue_uid": "823568dc-3c37-47bc-982a-3ddbcc64c10f",
+      "language": "en",
+      "utterances": [
+        "Right.",
+        "It's a different type of analysis looking at the complexity, if you will, of the painting.",
+        "And that's a different process than what you were using.",
+        "That's correct.",
+        "There are other - other people that studied the images to study, say, perspective and how accurately that's been rendered as a way to distinguish one artist from another in certain types of paintings.",
+        "And what you're seeing in parliament is that a lot of factions - Sunni, Shia, Kurd - all are finding what they have in common is a desire to limit and oppose Maliki.",
+        "Now, using your technique, your imaging techniques, you say that van Gogh was particularly good because he had distinctive features in his paintings.",
+        "I would imagine, then, that there are some artists that won't be so easy to decipher.",
+        "That's correct.",
+        "What you have to imagine is that if the art historian tells you, there's something I see in the painting alone that allows me to tell it's by this artist or that artist - that's the type of situation where our tools (unintelligible) image processing should be helpful.",
+        "If the artist - if the art historian is making the decision not by looking at the object, then you would expect our tools would not be as useful.",
+        "Did you get into any arguments with art historians about who is right, with somebody?",
+        "Not yet.",
+        "Expect to?"
+      ]
+    },
+    {
+      "dialogue_uid": "2929c13c-308d-46b0-9e93-f8b069a2004c",
+      "language": "en",
+      "utterances": [
+        "Most of what we were predicting, of course, was on a set that they had given to us, and so we were trying to match their decisions or at least seeing if our software did that, so we weren't trying to find into defaults.",
+        "We were looking at what they'd given as being, if you will, the truth.",
+        "Can an artist's style be quantified?",
+        "Can you really define it in mathematical terms?",
+        "Well - certain aspects of it, you should be able to.",
+        "The easiest one you could imagine would be to quantify, say, the use of various colors.",
+        "Anybody probably could imagine that certain people would be known for using certain brighter colors rather than other types of colors.",
+        "So they're - the average person would be quantifying their understanding of the artist.",
+        "Now, if you want to imply, can I put everything about the artist into a single number or a single string of numbers, the obvious answer would seem to be no.",
+        "Do you look to refine your algorithms - your mathematics, your modeling, as you go along?",
+        "Yes, of course.",
+        "I mean, this is why we would like to be involved with art historians.",
+        "We'd like to know more about - how - what features they seek out.",
+        "We're looking at features that are, if you will, arrive to us because of our mathematics, but now it's also we'd like to connect them to what they are seeing.",
+        "Also, we would like to - part of the reason for the workshop is we would like to attract other teams to become interested in my problem.",
+        "My impression is that we're sitting right at the beginning of an explosion of interest because the museums have been collecting vast amounts of data over the last decade or so, but not much research has been done with it yet.",
+        "So this seems to be a very exciting open area.",
+        "Will other art historians and scientists and engineers, mathematicians like yourself be able to look at your results and learn from that?",
+        "This is something - we hoped, of course, to publish our results.",
+        "That's part of what we do.",
+        "All of the teams involved were from universities, but if involves images that are the property of the museum, we have to ask their permission first.",
+        "But of course, the expectation is academic, is that we'll be publishing our results as soon as we get permission.",
+        "And how long will your project last for?",
+        "Oh, well, at this point, I think most of the teams are committed for at least another year, but I'm essentially committed to be involved with the Van Gogh Museum for five years.",
+        "This is my first year with them."
+      ]
+    },
+    {
+      "dialogue_uid": "1cc38e0b-9fb8-4ff3-bcbf-feb417c52ed0",
+      "language": "en",
+      "utterances": [
+        "It's a long way from Cornell, too.",
+        "Well, I'm only here every so often.",
+        "(Soundbite of laughter)",
+        "Do you have to scan more pictures, or are you happy with the number that you have and continue working on those?",
+        "I think the number's fine.",
+        "Our concern might be the quality of the scans.",
+        "We started with this project to simplify the concerns of the museum with just black-and-white scans, so we might want to have color.",
+        "We'd also probably like to have x-rays and infrared and many of the other type of images that museums have as well.",
+        "So, yes, I think - and scanning is one of those things that people on the teams are not very fond of because it's very time consuming.",
+        "Well, Rick Johnson, thank you very much for taking time to talk with us.",
+        "I'm happy to have talked to you, Ira.",
+        "Thanks for your interest.",
+        "And good luck to you.",
+        "Rick Johnson is professor in the School of Electrical and Computer Engineering at Cornell University, Ithaca.",
+        "And he was talking to us by phone from Amsterdam.",
+        "We'll take a short break.",
+        "We're going to come back, switch gears, and talk about a new play opening in New York called \"\"Phallacy,\"\" having to do with art historians and scientists running up against each other, so stay with us.",
+        "We'll be right back.",
+        "I'm Ira Flatow.",
+        "This is TALK OF THE NATION: SCIENCE FRIDAY from NPR News.",
+        "With all the news out of Charlottesville, Va., over the past week, late-night TV shows have stepped up their game to try to help make sense and nonsense of the news.",
+        "Saturday Night Live\"\" alum Tina Fey stopped by \"\"SNL's\"\" new weeknight version of \"\"Weekend Update\"\" on Thursday, joking about what would happen if neo-Nazis took to the streets of Manhattan."
+      ]
+    },
+    {
+      "dialogue_uid": "df648ae1-40b3-4db4-850a-549614826353",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF TV SHOW, \"\"WEEKEND UPDATE\"\")",
+        "Part of me hopes these neo-Nazis do try it in New York City.",
+        "Like, I hope they try and get the ham salad kicked out of them by a bunch of drag queens.",
+        "OMG, that has to be RuPaul, right?",
+        "Here to talk about how late night and entertainment TV is helping us process all this is NPR TV critic Eric Deggans.",
+        "Hey, Eric.",
+        "You can't go wrong with a RuPaul reference, you really can't.",
+        "No, you can't.",
+        "I mean, over-the-top?",
+        "Not at all (laughter).",
+        "(Soundbite of laughter)",
+        "That's the type of thing I would be concerned about - that we just overstep the warrant requirements, the search and seizure requirements and also that we start punishing speech.",
+        "At what level does a statement become dangerous?",
+        "At the annual meeting of the American Bar Association, Langrock opposed a resolution that called for these gun protection orders not because he likes the NRA.",
+        "He definitely doesn't.",
+        "I don't want to see legislation which just is a feel-good legislation which steps on people's rights and which accomplishes nothing."
+      ]
+    }
+  ]
+}

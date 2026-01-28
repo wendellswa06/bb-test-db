@@ -1,0 +1,107 @@
+{
+  "challenge_uid": "204d18ed-8987-4d98-ab30-93553ee629e9",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6a850080-4a19-412a-a8eb-583f1402e368",
+      "language": "en",
+      "utterances": [
+        "Yes, I am.",
+        "All right.",
+        "Well, Will, meet Steve.",
+        "All right.",
+        "Steve and Brian, I'm going to give you some words.",
+        "For each one, think of another word that's starts and ends with the same letters as mine and that can follow mine to complete a familiar two-word phrase.",
+        "For example, if I said white--W-H-I-T-E--you might say `Whale,' as in `white whale.",
+        "And as a hint, I'll tell you every answer contains exactly five letters.",
+        "OK.",
+        "All right.",
+        "Number one is baby.",
+        "Boy, baby boy.",
+        "But it has to have five letters.",
+        "Baby boy is good, but it has to have five letters.",
+        "Buggy.",
+        "Baby buggy, good job.",
+        "Number two is foot--F-O-O-T."
+      ]
+    },
+    {
+      "dialogue_uid": "d74e3531-81ce-409b-8aad-7e9b4693da9a",
+      "language": "en",
+      "utterances": [
+        "Boy, am I falling down on this one.",
+        "Think tennis.",
+        "Oh, fault.",
+        "Foot fault is right.",
+        "Village.",
+        "Village.",
+        "Boy, I...",
+        "For this one you want to think of a noted weekly newspaper.",
+        "Voice.",
+        "The Village Voice is right.",
+        "Circuit.",
+        "Circuit, circuit, circuit, circuit.",
+        "Boy, I'm going to need a hint again.",
+        "Is there a judge involved?"
+      ]
+    },
+    {
+      "dialogue_uid": "6d931ed5-3eae-4a96-8c7e-7bbb070e2f4e",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "Oh, court.",
+        "Circuit court, good.",
+        "Rifle.",
+        "Rifle.",
+        "Range.",
+        "Rifle range, excellent.",
+        "Acute--A-C-U-T-E.",
+        "It's a number thing.",
+        "Yeah, it's geometrical.",
+        "Angle.",
+        "Acute angle is right.",
+        "Monopoly.",
+        "Monopoly.",
+        "Money?"
+      ]
+    },
+    {
+      "dialogue_uid": "24ac925c-26a8-49f7-9967-fe3833b3c01b",
+      "language": "en",
+      "utterances": [
+        "Monopoly money, excellent.",
+        "Peace--P-E-A-C-E.",
+        "Repeat that.",
+        "Peace--P-E-A-C-E, the opposite of war.",
+        "Oh, Peace prize.",
+        "Peace prize, excellent.",
+        "How about treasure?",
+        "Treasure trove.",
+        "Treasure trove.",
+        "Good.",
+        "Bad--B-A-D.",
+        "Ooh, bad."
+      ]
+    },
+    {
+      "dialogue_uid": "d7e83257-6c71-43ca-a1e0-a19f68eea506",
+      "language": "en",
+      "utterances": [
+        "If there's a--if a family is fighting, there might be this.",
+        "Oh.",
+        "Oh, not feud certainly.",
+        "Bad...",
+        "How about blood?",
+        "Blood.",
+        "Bad blood.",
+        "There you go.",
+        "And here's your last one.",
+        "Pretty.",
+        "Pretty, polly.",
+        "No, penny.",
+        "Pretty penny, good job."
+      ]
+    }
+  ]
+}

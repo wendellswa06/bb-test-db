@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "df662b59-7910-45e4-a5d2-6aa50c922921",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "27ddb9e8-bee6-4428-8a15-91f42a718f20",
+      "language": "en",
+      "utterances": [
+        "You're welcome.",
+        "This is WEEKEND EDITION from NPR News.",
+        "I'm Linda Wertheimer.",
+        "And it is time for the puzzle.",
+        "(SOUNDBITE OF MUSIC)",
+        "And joining me now is WEEKEND EDITION's puzzle-master Will Shortz.",
+        "Good morning, Will.",
+        "Good morning, Linda.",
+        "Now, Will, could you remind us about the challenge from last week?",
+        "Yes.",
+        "It came from listener Ed Pegg, Jr. I said think of something that the majority of adults buy.",
+        "It's a two-word phrase with 10 letters in the first word, nine letters in the second.",
+        "And I said this phrase uses each of the five vowels - A, E, I, O, and U - exactly twice.",
+        "What familiar product is it?",
+        "And the answer was automobile insurance.",
+        "And almost 1,500 listeners figured that out.",
+        "Our winner this week is Maggie Waltz of Ann Arbor, Michigan.",
+        "And she joins us by telephone.",
+        "Congratulations, Maggie.",
+        "Thank you.",
+        "So, was this a tough one?"
+      ]
+    },
+    {
+      "dialogue_uid": "e9c15673-31d2-409e-9af3-712deaffcd4c",
+      "language": "en",
+      "utterances": [
+        "No. It took me about five minutes.",
+        "How'd you do it?",
+        "Well, we were on our way to church and I saw a billboard advertising buy cheaper auto insurance.",
+        "(LAUGHTER)",
+        "And at that moment...",
+        "You're so lucky.",
+        "...you got it.",
+        "I got lucky.",
+        "So, what do you do in Ann Arbor?",
+        "I'm a musician.",
+        "I play the bass."
+      ]
+    },
+    {
+      "dialogue_uid": "62278a3d-5915-4a1a-a9a9-ed0660666fa9",
+      "language": "en",
+      "utterances": [
+        "The upright bass, one of those big guys?",
+        "I have three basses, depending if I'm doing jazz, classical or rock theater.",
+        "And I take it you also do the New York Times crossword in your spare time.",
+        "Actually, yes.",
+        "I've been doing New York Times crossword puzzle every day for the last 35 years.",
+        "That even predates you, Will.",
+        "That does.",
+        "I've only been at the paper 19 years.",
+        "So, Will, you obviously have a fan here.",
+        "And since she fills it in every day, do you have any tips or hints or anything for Maggie?",
+        "Well, I don't think Maggie needs any hints.",
+        "You know, the puzzles get harder as the week goes on.",
+        "I will mention though that I have a special contest crossword coming up in the Sunday New York Times in late October.",
+        "So, watch for that.",
+        "It'll be pretty cool.",
+        "So, Maggie, are you ready to play our puzzle?",
+        "Yes, I guess so."
+      ]
+    },
+    {
+      "dialogue_uid": "de7c37c8-e6dc-420e-945e-f01185c78ec6",
+      "language": "en",
+      "utterances": [
+        "All right, Maggie.",
+        "Every answer today is the name of a TV show - past or present...",
+        "Oh, no. I don't watch TV.",
+        "You don't need to watch TV.",
+        "You should know most or all of these.",
+        "I'm going to read you some sentences.",
+        "Each TV show name can be found in consecutive letters in the sentence.",
+        "You name the shows.",
+        "For example, if I said we watched the acrobat many times, you would say Batman, because it's hidden inside acrobat many.",
+        "OK.",
+        "All right.",
+        "And here's a hint: each answer has at least six letters.",
+        "Number one: the straw hid everything.",
+        "Rawhide.",
+        "Rawhide - so fast.",
+        "Number two: the desert is not the environs I desire.",
+        "And my general hint on these is always home in on the part of the sentence that sounds the most awkward.",
+        "Specifically here, environs I desire.",
+        "Oh, Ironside.",
+        "Ironside is it.",
+        "The waitress always forgets martinis.",
+        "Get Smart."
+      ]
+    },
+    {
+      "dialogue_uid": "515b8ee0-cf64-4dbd-a6a1-29eadb8ea2a3",
+      "language": "en",
+      "utterances": [
+        "Get Smart, good.",
+        "Did you wear that sandal last week?",
+        "This is one of the biggest shows of the '80s.",
+        "Any hints, Linda?",
+        "Happened in Texas.",
+        "Oh, Dallas.",
+        "Dallas - inside sandal last.",
+        "Good.",
+        "The kids gave daddy nasty looks.",
+        "I think this is very hard, Will.",
+        "It's hard to visualize in the mind.",
+        "Some people find it easy, some don't.",
+        "But it's hidden inside daddy nasty.",
+        "Dynasty.",
+        "Dynasty is it.",
+        "To save your marriage, you'll have to restart, rekindle your romance.",
+        "To save your marriage, you'll have to restart, rekindle your romance.",
+        "Star Trek."
+      ]
+    }
+  ]
+}

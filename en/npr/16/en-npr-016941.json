@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "7da12bfc-76ad-432b-86a8-a5554e2a87c3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "22d71e60-cb40-47eb-9417-01668c5a8e08",
+      "language": "en",
+      "utterances": [
+        "Because I know as an extension plug-in to some browsers, a little side panel comes up and says, you know, shows you the shortening, and you press the - you click on copy, and it copies the Bit.ly piece.",
+        "Is there was a way on that extension to say don't send anything, just shorten it for me?",
+        "Yes, that's all the same thing, through our website.",
+        "So we have this really cool sidebar.",
+        "It lets you shorten any link on the Web.",
+        "So you just click on the sidebar.",
+        "It loads up on top of that page, and then it's essentially a little version of our website utilities right there.",
+        "I think it's pretty cool.",
+        "So even if I'm anonymous, you do get my IP address, at least, right?",
+        "Yes.",
+        "So you just know what my - what part of the country I'm in and that sort of thing?",
+        "What does the IP address tell you?",
+        "We don't ever expose IP addresses, and you can resolve an IP address in general to a non-specific location.",
+        "We only expose that at the country level.",
+        "So if you go to that info page, if you add a plus, you'll be able to see, you know, this link got 400 clicks from the United States and 200 from the U.K.",
+        "and three clicks from Germany, et cetera.",
+        "If you create a way to always show me stuff you think I'll like, wouldn't you actually be reinforcing this tendency that people have on the Internet to become more insulated within their own group?",
+        "I think we are reinforcing that tendency only if we do it wrong.",
+        "So we can, if we know enough about somebody, we're able to recommend content to you, and we're able to see it coming in in real time.",
+        "So we may know about something that you're interested in before you do, and times like this, when there's a really exciting news story going on, are great examples of that.",
+        "And so we're able to sort of build this model of what you like and send you things that we think you'll want to know right away, but we can also turn that on its head and say here's something we have no data about.",
+        "Can we explore that a big and see if you like that, too?"
+      ]
+    },
+    {
+      "dialogue_uid": "0e7c0d37-f50f-45e0-8d06-68c1257a7d0e",
+      "language": "en",
+      "utterances": [
+        "So if we do our job well, we'll do it right.",
+        "Are you in competition with Google and people who want to keep sending you data, you know, on your Google gmail page and things like that?",
+        "Are they your competitors?",
+        "Google does have their own URL shortener.",
+        "So I believe strictly, we are competitors in the URL-shortening market.",
+        "But I think both companies are really about a lot more than just shortening URLs.",
+        "What ever happened to TinyURL?",
+        "Was that the first one?",
+        "TinyURL was the first one.",
+        "I believe their usage has dropped off a lot.",
+        "They don't provide some of the metrics features we provide, and I don't know about their reliability.",
+        "Besides being the instantaneous world news collector that you talked about, with Egypt and Tunisia, whatever, are there general trends where people go most of the time, general topics they're mostly interested in?",
+        "Absolutely.",
+        "We see about 27 percent of the content is around technology, which makes sense because it's content being shared on social media.",
+        "About 20 percent is world news.",
+        "And then we have another category we had to label ourselves, that I like to call silly things on the Internet.",
+        "Really?",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "a16c2fb9-b06f-4d6c-b763-80ca764cca16",
+      "language": "en",
+      "utterances": [
+        "People going to silly places, on the...",
+        "Carrie Kahn, NPR News, St. Francisville, Louisiana.",
+        "We see a very small amount of pornography.",
+        "Our data tends to reflect the things that people are comfortable sharing socially, and so while we do have some of that, it's not a big part of the site.",
+        "Does that mean they're not shortening the pornography sites so you can track it?",
+        "Or are they just not going there?",
+        "It says nothing about where people are actually going.",
+        "It just says what they're comfortable sharing.",
+        "By what you read as the Bit.ly shortened URL?",
+        "Yes.",
+        "The bias in our data is things people are comfortable sharing.",
+        "You yourself, as working at Bit.ly.",
+        "Do you block the sort of data gathering about yourself?",
+        "Do you have a way that you can put a little bit of code so we don't know where Hilary - what Hilary is up to?",
+        "(Soundbite of laughter)",
+        "So I'm pretty interested in this philosophically.",
+        "I don't actually, as a general policy, block any sort of cookies.",
+        "I keep them all turned on, and that's because I'm willing to make the tradeoff that I let companies gather this information about me in return for a better experience."
+      ]
+    },
+    {
+      "dialogue_uid": "c375b6d7-0946-42eb-adc5-2367057be20d",
+      "language": "en",
+      "utterances": [
+        "But philosophically, I'm interested in this problem, so I have done a few quick hacks to sort of explore ways to prevent yourself from being located and tracked.",
+        "Mm-hmm.",
+        "And are they available for any of us?",
+        "Yeah.",
+        "All of this code is available on my Github account.",
+        "And your what?",
+        "So Github is a website for sharing code, and it's up there at - it's github.com/hmason.",
+        "Or you can find it on my website, hilarymason.com.",
+        "There you have it.",
+        "The little codes of - to keep you - just like Hilary.",
+        "(Soundbite of laughter)",
+        "What are some of those projects?",
+        "So the one that I think is most applicable here is - I was taking a lot of photos with my cell phone around my house and around where I worked and where I was going out with my friends.",
+        "And I realized that the latitude and longitude of where I took those photos was actually embedded in the EXIF data.",
+        "And when I make those photos public, somebody could sort of build up a profile over time of where I am.",
+        "Right."
+      ]
+    },
+    {
+      "dialogue_uid": "80f7a374-69f8-43c7-abb7-b8669ea0922b",
+      "language": "en",
+      "utterances": [
+        "And I found that to be slightly disturbing, because I'm making the choice to make the photo public without really thinking through that someone can plot on a map and figure out where I live and I work.",
+        "So I have one script that just goes through the data, and the first option is just to delete it, which is very easy to do, and tools like Flickr give you the ability to do that with one click.",
+        "Mm-hmm.",
+        "But I thought if someone were really trying to find me, they'd expect me to delete that data.",
+        "So how could I just really mess with them?",
+        "So I wrote something that figures out which city you're in.",
+        "It calculates the distance of the lat-long of your photos from the center of that city, and then, it picks some other random point and says it was there.",
+        "So if somebody really does try and track you via that mechanism, they just get noise.",
+        "Is there an ultimate piece of code you'd like to write that you haven't?",
+        "Because I could see that you really enjoy this.",
+        "(Soundbite of laughter)",
+        "Oh, I love it.",
+        "Absolutely.",
+        "(Soundbite of laughter)",
+        "I think we're at an incredibly exciting time for working on these kinds of data problems and using this data to sort of improve our lives.",
+        "And so I like to work on a lot of projects that help us live better lives through taking advantage of our data.",
+        "We're talking about the Internet with Hilary Mason of Bit.ly on SCIENCE FRIDAY from NPR.",
+        "I'm Ira Flatow.",
+        "Let's go to the phones.",
+        "Some folks have some interesting - hi, Dave.",
+        "Dave in Richmond.",
+        "Welcome to SCIENCE FRIDAY."
+      ]
+    }
+  ]
+}

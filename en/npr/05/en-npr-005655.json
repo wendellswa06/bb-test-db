@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "4e048797-a5bb-4ca9-b08c-ef53f5d54e9a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "a45a27ee-c7b7-4a29-9067-8e2ef76c4a9d",
+      "language": "en",
+      "utterances": [
+        "John Hamilton, NPR News.",
+        "At our Web site, you can see a video of the stingrays being fed at the Banyan Resort.",
+        "And learn more about climate change around the world.",
+        "There are also related videos from public television's Wild Chronicle series at npr.org/climate.",
+        "It's time to play The Puzzle.",
+        "(SOUNDBITE OF MUSIC)",
+        "Joining us is Will Shortz.",
+        "He's puzzle editor of The New York Times and WEEKEND EDITION's puzzlemaster.",
+        "Hey, Will.",
+        "Hey, good morning, Lulu.",
+        "All right.",
+        "Last week's challenge, what was it?",
+        "Well, it came from listener Matt Pillai (ph) of Denver.",
+        "I said think of a common five-letter word.",
+        "If you insert an E after the second letter, you'll get a common six-letter word.",
+        "If instead you insert an E after the fourth letter, you get another six-letter word.",
+        "And if instead you insert an E at the end, you'll get still another six-letter word.",
+        "What words are these?",
+        "And the word is spars - S-P-A-R-S.",
+        "Do those E's, you get spears, spares and sparse.",
+        "We received 382 responses, and the winner this week is Jacob Jaffe of Seattle, Wash.",
+        "Congratulations.",
+        "Thank you."
+      ]
+    },
+    {
+      "dialogue_uid": "579f4ae6-36da-4dbf-b372-991e9b8f1572",
+      "language": "en",
+      "utterances": [
+        "We are still continuing with the West Coast for the win.",
+        "All right.",
+        "Jacob, how did you figure out this week's challenge?",
+        "Well, I thought the five-letter word was probably plural, that an E could go before or after the S.",
+        "And then I thought of six-letter words that end in S-E, and I came up with sparse.",
+        "Nice.",
+        "And what do you do for a living?",
+        "I'm a teacher.",
+        "I'm about to start my first year of teaching.",
+        "Oh, nice.",
+        "All right, and how long have you been playing The Puzzle?",
+        "Maybe nine months?",
+        "Oh, you came to us new.",
+        "We like it.",
+        "We like it.",
+        "All right.",
+        "Are you ready to play?",
+        "I think so.",
+        "Take it away, Will.",
+        "All right, Jacob.",
+        "Every answer today is the name of a famous person with only one name, either because they literally had only one name or because they're generally known by one name.",
+        "I'll give you anagrams, you name the people.",
+        "For example, if I said usual - U-S-U-A-L - minus U for a biblical king, you would say Saul."
+      ]
+    },
+    {
+      "dialogue_uid": "d7013013-d246-4a07-b94e-d3c0bf447b53",
+      "language": "en",
+      "utterances": [
+        "OK.",
+        "All right.",
+        "No. 1 is video - V-I-D-E-O - minus E for a Roman poet.",
+        "Ovid.",
+        "Ovid is right.",
+        "No. 2 is chrome - C-H-R-O-M-E - minus C, Greek poet.",
+        "Homer.",
+        "That is right.",
+        "Leader - L-E-A-D-E-R - minus R, a singer.",
+        "Adele.",
+        "Nice.",
+        "Shaken - S-H-A-K-E-N - minus N, another singer.",
+        "I keep looking for Cher, but it's not Cher.",
+        "It's not Cher, no."
+      ]
+    },
+    {
+      "dialogue_uid": "f2169e14-7c26-47b8-abec-2a87a6479f92",
+      "language": "en",
+      "utterances": [
+        "Kesha.",
+        "Kesha, nice.",
+        "You're too good at this.",
+        "I keep on wanting to bust out in song, and you're taking away my moment.",
+        "Just go for it, Lulu.",
+        "Just go for it.",
+        "Yeah.",
+        "Titanic - T-I-T-A-N-I-C - minus C, an Italian artist.",
+        "Titian.",
+        "Titian is it.",
+        "Pearlash - P-E-A-R-L-A-S-H - minus S, a painter.",
+        "A painter - Rafael?",
+        "Rafael, yes.",
+        "Optician - O-P-T-I-C-I-A-N - minus I, a Native American leader.",
+        "Let's see.",
+        "I'm not seeing it right now."
+      ]
+    },
+    {
+      "dialogue_uid": "f0a980c9-ae0c-4fe1-84f7-826df2acf88a",
+      "language": "en",
+      "utterances": [
+        "And here's an additional hint - it's also the name of a bygone car.",
+        "Oh, bygone car - Opticon - no, that's not - Pontiac.",
+        "Pontiac is it.",
+        "Good.",
+        "Palacetour - P-A-L-A-C-E-T-O-U-R - minus U, a queen.",
+        "A queen - Cleopatra.",
+        "That's it.",
+        "And here's your last one - merchandise - M-E-R-C-H-A-N-D-I-S-E - minus N, and you're looking for a mathematician inventor.",
+        "Mathematician inventor - maybe Archimedes?",
+        "Archimedes.",
+        "Wow.",
+        "Jacob, that was impressive.",
+        "Thanks."
+      ]
+    }
+  ]
+}

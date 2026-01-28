@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "10bf2c67-46fc-4888-8e46-e0eb0aa25a63",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "9c1b81d4-bfe2-439c-b9c7-82d5ed90d6b3",
+      "language": "en",
+      "utterances": [
+        "And, Dana, I was interested in this list.",
+        "Many of them aren't mainstream.",
+        "But we'll start with one that came out relatively recently, and it's called \"\"The Wrestler.\"\" And you seem to be unabashedly smitten with this film.",
+        "Let's take a listen to a clip.",
+        "This is Mickey Rourke and Marisa Tomei in \"\"The Wrestler.",
+        "(SOUNDBITE OF MOVIE \"\"THE WRESTLER\"\")",
+        "(As Randy Robinson) I want you to give this to your little guy.",
+        "It's a Randy the Ram action figure.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "(As Randy Robinson) Tell him not to lose it.",
+        "It's a $300 collector's item.",
+        "(As Cassidy) Really?",
+        "(As Randy Robinson) No.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "(As Randy Robinson) Come on.",
+        "Hey, one beer.",
+        "(As Cassidy) (Laughing) OK."
+      ]
+    },
+    {
+      "dialogue_uid": "b444c2ab-ec6f-4a4d-b349-8a568d90f8ff",
+      "language": "en",
+      "utterances": [
+        "OK.",
+        "Besides Marisa Tomei's squeaky little voice there, what's to love about this film?",
+        "I also rarely like sports movies or comeback movies, and, you know, I really can't stand watching things like wrestlers staple each other in the wrestling ring.",
+        "It's got a lot of gory violent scenes, but it still managed to have this very beautiful and lyrical mood that just captured me.",
+        "One of the films on your list is one that I've heard a lot of critics rave about, but I still don't get why they're so excited and maybe you can shed some light on this.",
+        "It's a French film called \"\"The Class.\"\" What's so great about it?",
+        "But it's not a documentary.",
+        "He sort of scripted - he spent a year with these students and this teacher and sort of semi-scripted situations that they would improvise from.",
+        "And so the whole thing feels so natural and so real that you actually can't believe these people are acting, and it's a very interesting story which I don't want to give away here on the radio, but I can't think of anyone who wouldn't like this movie.",
+        "Dana, another lesser known film on your list is called \"\"Wendy and Lucy,\"\" and it stars Michelle Williams, and it's about a young woman and her dog headed to Alaska.",
+        "What's special about this film?",
+        "And the plot of the movie is that she losses her dog in a small town, and she's on the road and, you know, what she goes through to try to find her dog.",
+        "And it's so not sentimental - as sentimental as that plot outline might sound.",
+        "and it ends up being a real microcosm of, you know, American society and what it is to be someone who's living at the just the margins of livability in that society.",
+        "And finally, let's talk about a film that came out in a few cities last week to qualify for the Oscars, but it doesn't really come out main stream until the middle of next month.",
+        "It's \"\"Revolutionary Road.\"\" It stars Leonardo DiCaprio and Kate Winslet.",
+        "Let's take a listen.",
+        "(SOUNDBITE OF MOVIE \"\"REVOLUTIONARY ROAD\"\")",
+        "(As Frank Wheeler) Sweetheart, what are you talking about?",
+        "Where are we going to live?",
+        "(As April Wheeler) Paris."
+      ]
+    },
+    {
+      "dialogue_uid": "958c9272-7343-4250-88a6-ebe07eb565ca",
+      "language": "en",
+      "utterances": [
+        "(As Frank Wheeler) What?",
+        "(As April Wheeler) You always said it was the only place you'd ever been that you wanted to go back to, the only place that was worth living.",
+        "So why don't we go there?",
+        "(As Frank Wheeler) You're serious.",
+        "(As April Wheeler) Yes.",
+        "What's stopping us?",
+        "The last time these two were together was in \"\"Titanic,\"\" which was a hit of epic proportions.",
+        "What about this time around?",
+        "Nonetheless, the movie didn't make my 10 best list because I felt, as a whole, it was doing things that'd already been done.",
+        "The director, Sam Mendes, who's also Kate Winslet's husband, was the director of \"\"American Beauty,\"\" another sort of critic of suburban emptiness, and I didn't think this movie went too many terribly interesting places that \"\"American Beauty\"\" hadn't already gone.",
+        "Yeah, that was a little bit of a fun demonstration.",
+        "I mean, what we wanted to show there is that, you know, just a conventional, temporary transfer tattoo could also be used as a substrate for these devices.",
+        "And, you know, as you know, that's a low-cost commodity item that's already, you know, proven in terms of, you know, its compatibility with skin.",
+        "And so the notion is just to add our electronics to that kind of system and laminate it up on the skin in the way you ordinarily would to build some active functionality there.",
+        "It turns out that tattoo is actually a custom-made cartoon generated by the post-doc who led this work.",
+        "So you notice it has a U of I logo on the hat.",
+        "Illinois has nothing to do with pirates.",
+        "So I haven't really figured out the connection, but that's what it is.",
+        "(SOUNDBITE OF LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "f91e21df-cc2c-4a18-8704-78ecd282ea3f",
+      "language": "en",
+      "utterances": [
+        "Well, you know, it's a popular kind of tattoo that people wear, so I would imagine.",
+        "But I imagine also that it can't be permanent, this skin, because your skin sort of sloughs off after a while, does it not?",
+        "That's exactly right.",
+        "So the sort of resonance time on the skin is going to be determined by two things.",
+        "One is sort of engineering considerations of how well the devices are bonding to the skin, and, you know, how robust they are to skin deformations.",
+        "We think we have a pretty good handle on that aspect of things.",
+        "But as you mentioned, there are natural biological processes going on that, you know, are going to be limiting ultimately.",
+        "So I think two, three weeks is kind of a time scale for cells to move to the surface of the skin and exfoliate off.",
+        "So beyond that, you're going to need to, you know, add additional functionality to the system to either passively or actively manage those biological processes so as to avoid an adverse consequence of long-term mounting.",
+        "So I think that's challenge that's a topic of future work.",
+        "One of the potential applications you mentioned in your paper is, quote, \"\"covert communications.\"\" I hear the CIA in this.",
+        "Yeah, so, you know, we've been working on this topic for a while, you know, two-and-a-half years or so.",
+        "And during the course of the work, there has been a variety of people who have suggested different modes of use.",
+        "And, you know, we wanted to, you know, highlight a couple of non-healthcare applications, and that one had actually been suggested to us.",
+        "And it's somewhat related to this game-control demonstration that we did prove out in the paper, whereby a device on the throat is picking up electrical signals associated with contraction of muscles near the throat area as the wearer is speaking different words, and then, you know, a software pattern recognition algorithm to translate that data into a limited vocabulary of words that can then control a game.",
+        "Now you can imagine doing the same thing without actually vocalizing the words.",
+        "So you could imagine a sub-vocal mode of communication, then, using that kind of approach.",
+        "And I think of that covert communication sort of in that context.",
+        "I guess covertly, you might be able to attach it to somebody's skin, and maybe they might not even notice it.",
+        "Yeah, I don't know.",
+        "I haven't thought too deeply about those kind of applications."
+      ]
+    },
+    {
+      "dialogue_uid": "9539b364-57d5-4e2c-93ff-e69eb72e26b9",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF LAUGHTER)",
+        "So you're just an engineer making this stuff?",
+        "Pretty much, yeah, academic.",
+        "You know, that's my main...",
+        "So you haven't got a price tag on this or, you know, how soon it might come?",
+        "Well, yeah, I mean, I'm not qualified to make those kind of estimates.",
+        "I mean, I would point out a couple things.",
+        "One is that we've tried to use, as much as possible, standard, established electronic materials like silicon.",
+        "And so we're not trying to reinvent the wheel.",
+        "We also use, for the most part, just mildly adapted versions of the processing tools that are used in the conventional silicon industry.",
+        "So those aspects, I think, bode well for reasonable cost.",
+        "That's number one.",
+        "Number two is we have a start-up company in the Cambridge area, smart business folks there that are venture capitalists have taken a close look at the economics of it and have decided to invest because they think there are realistic commercial opportunities.",
+        "And so that's kind of an indirect reflection on, you know, probably a cost structure that, you know, is a sensible one.",
+        "You know, whenever people get done with what they have, they're never happy with it.",
+        "Yeah.",
+        "Right?",
+        "How are you going to upgrade it immediately?",
+        "What do you say: Oh, we could have done this better, or we should try this?"
+      ]
+    }
+  ]
+}

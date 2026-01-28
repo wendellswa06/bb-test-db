@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "d92266b6-f9d6-443e-91b4-b39b043ecab1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "52d2e2df-7cab-47c3-b087-499c48bcd343",
+      "language": "en",
+      "utterances": [
+        "You're listening to SCIENCE FRIDAY on NPR News.",
+        "You know, when you talk to people about building electric cars, they almost always mention one stumbling block, and of course that is the batteries they need.",
+        "When you ask a computer manufacturer about why they can't have a powerful, light laptop that will run unplugged for a full day, the answer again is the same.",
+        "We need those batteries.",
+        "Well, this week a team of researchers at MIT reported in the journal Nature that they've created a material that could, in theory, help in providing the kinds of high-performance batteries needed for portable electronics and electric cars, though the researchers say there is still a considerable amount of engineering involved, a lot of work that needs to be done.",
+        "Well, joining me now is Gerd Ceder.",
+        "He's professor of material science and engineering at MIT and one of the authors of that paper in Nature.",
+        "Welcome to SCIENCE FRIDAY.",
+        "Mr.",
+        "GERD CEDER Professor of Material Science and Engineering, Massachusetts Institute of Technology): Hi, Ira, how are you?",
+        "How are you?",
+        "Tell us about this research.",
+        "What problem does it solve?",
+        "Well, the problem it solves is that, you know, that batteries are thought of as things that are slow, that take a long time to charge, and what we worked on was finding material that would allow for batteries that could be charged extremely rapidly.",
+        "So at least you solve one of the problems.",
+        "You mean in a matter of seconds?",
+        "Yeah, the rates we show are like 10, 20 seconds kind of thing.",
+        "Again, it's only one material, one material that can soak up lithium, essentially, this fast, and there's a lot left to be done, but we've shown that it works in the lab.",
+        "Tell us what that material is and how you made it."
+      ]
+    },
+    {
+      "dialogue_uid": "7f2bce59-a4df-41e2-ae14-0c8a69299120",
+      "language": "en",
+      "utterances": [
+        "Well, it's actually - it turned out it was a known material.",
+        "It was a lithium iron phosphate which was discovered at the University of Texas over 10 years ago but which was only moderately fast, hadn't really any special properties.",
+        "And about five years ago, we did a lot of computer modeling and theory on it and found that this thing should be really amazingly fast.",
+        "So what we really did is look at what made it slow, and it turned out that what it is, is it's really that when lithium moves from one electrode to the other, which is how you actually charge a battery, it has to sort of jump out of the electrolyte and get soaked into that particles and that step of getting into the particles was actually the slow one.",
+        "So we fixed that, and my God, we had a very high-rate material.",
+        "But in…",
+        "Go ahead.",
+        "It's something that was enabling something that was intrinsically there by doing some modification on the material.",
+        "So you modified the material to allow the electricity to move super fast through the battery.",
+        "Yes, correct.",
+        "Every Wednesday, political junkie Ken Rudin joins us to review the week in politics.",
+        "This week, the Massachusetts GOP looks for somebody to run for Senate, Tagg's not it and Weld won't, either.",
+        "Jersey's Bob Menendez hopes to replace John Kerry as chair of the Senate Foreign Relations Committee but faces some questions first.",
+        "Maybe Senate candidate Ashley Judd draws an attack ad in Kentucky.",
+        "John Brennan heads to the Hill to face questions about drone strikes, waterboarding and his nomination to head the CIA.",
+        "And we'll remember Ed Koch, who died on Friday."
+      ]
+    },
+    {
+      "dialogue_uid": "4465716d-43e3-44b2-b0c0-dbbbe8788f15",
+      "language": "en",
+      "utterances": [
+        "In a bit, we'll focus on Karl Rove's new initiative to run ads in Republican primaries against Senate candidates he believes cannot get elected in a general election.",
+        "Has he heard that Geraldo Rivera might run in New Jersey?",
+        "And later in the program, the Soviet spies next door in a new TV series.",
+        "But first, political junkie Ken Rudin joins us here as usual in Studio 3A, and as usual, we begin with a trivia question.",
+        "Hey Ken.",
+        "Hi Neal.",
+        "Well, you say that, you said Scott Brown said he will not run in the Massachusetts special Senate election, that's the one being given up by - that was given up by John Kerry.",
+        "Now had he run and had he won, he would've served alongside Elizabeth Warren, who unseated him last year.",
+        "So the question is: Name the most recent same-state senators who before serving together ran against each other.",
+        "All right, if you think you know the answer to this week's trivia question, and that is the same-state senators who ran against each other before serving together in the United States Senate.",
+        "Most recent instance.",
+        "Most recent instance, give us a call, 800-989-8255.",
+        "Email us, talk@npr.org.",
+        "Of course the winner gets the fabulous no-prize button and a free political junkie T-shirt.",
+        "But as mentioned a couple of times now, Scott Brown not running.",
+        "So who is?",
+        "Well, I mean, basically the Republican Party is left with nobody.",
+        "I mean, even the names that they came up with in the event that Scott Brown would not run, like Tagg Romney, I like (unintelligible).",
+        "Thank you.",
+        "That made no sense, though, the fact that - I mean, Mitt Romney just lost the state by 23 points.",
+        "His son is not going to do much better.",
+        "Bill Weld, the former governor, they were talking about him.",
+        "The last time we saw him he was running for governor of New York, even though he's a former Massachusetts governor.",
+        "Anyway, they've come up with apparently two guys.",
+        "There's a former Navy SEAL by the name of Gabriel Gomez, and there's a state rep by the name of Dan Winslow, who are completely unknown.",
+        "First of all, they have to..."
+      ]
+    },
+    {
+      "dialogue_uid": "e880e34f-b321-424a-a696-2f91ddd9c306",
+      "language": "en",
+      "utterances": [
+        "Not completely unknown; you know them.",
+        "Well, actually I never heard of them until last week to be honest with you.",
+        "And they need 10,000 signatures to be - come up with by February 27.",
+        "Which means 15 because some are going to get challenged.",
+        "Yes, and the fact is, you know, where do you find Republicans - there are only nine Republicans in the state of Massachusetts.",
+        "(LAUGHTER)",
+        "So it's going to be difficult.",
+        "But anyway, Massachusetts will go back to what it always has been, basically a battle for who will see the next Democrat in an open seat.",
+        "So would you say that victory in the Democratic primary would be tantamount to election?",
+        "You do love that word, but the April 30 primary is between Steven Lynch and Ed Markey, two members of Congress, although Steven Lynch, of course neither one gives up his House seat because this is a special election.",
+        "Steven Lynch of course is backed by labor, but he also opposes abortion rights, voted against Obamacare.",
+        "There is some ideological difference there, although right now the establishment and the polls seem to support Ed Markey.",
+        "In the meantime, other Senate news, this is New Jersey.",
+        "It's not Geraldo Rivera, it's Bob Menendez who - one of his big donors is facing investigation.",
+        "We're not exactly sure what, but it looks like income tax evasion.",
+        "And, well, now there are accusations that they, on trips to the Dominican Republic, hired prostitutes."
+      ]
+    },
+    {
+      "dialogue_uid": "a96939e4-9eaa-4877-ad44-1fc012ea3205",
+      "language": "en",
+      "utterances": [
+        "Well, that is according to the Daily Caller, which is a website, a conservative website, except more and more mainstream media outlets are talking about that.",
+        "Right now all we know is that Menendez has reimbursed for these trips he took to the Dominican Republic with Salomon Melgen, who is his political donor, $58,000 he reimbursed as of January 4.",
+        "A mere oversight, he says.",
+        "He says it's an oversight, and of course it came right after the Republicans filed a charge.",
+        "Now of course Menendez was just re-elected in 2012.",
+        "So this does not have electoral ramifications.",
+        "But as you mentioned, he is going to be the next chairman of the Senate Foreign Relations Committee, the one that John Kerry just gave up, and of course it puts the Democrats in a very difficult bind there if there is something to these allegations.",
+        "Then there is Ashley Judd who might be running as a Democrat against - to face, should she get the nomination, to face Mitch McConnell in her native state of Kentucky.",
+        "Interesting, this is all sort of speculative then the conservative superPAC American Crossroads launched an ad that, well, tears her to pieces.",
+        "(SOUNDBITE OF POLITICAL AD)",
+        "(SOUNDBITE OF MUSIC)",
+        "UNIDENTIFIED MAN #1: You know what this country really needs?",
+        "An independent voice for Obama.",
+        "I am committed to President Obama and Vice President Biden.",
+        "I think he's a brilliant man.",
+        "He is now able to flower more as the president I knew he could be.",
+        "UNIDENTIFIED MAN #1: A leader who knows how to follow.",
+        "I will go wherever the president wants me to go."
+      ]
+    }
+  ]
+}

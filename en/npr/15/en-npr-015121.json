@@ -1,0 +1,100 @@
+{
+  "challenge_uid": "dda4dd95-114d-408b-868a-fde5def0649c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "bdd45e71-397f-4a1d-896c-a221bf502d45",
+      "language": "en",
+      "utterances": [
+        "Doesn't count.",
+        "Don't eat it.",
+        "Doesn't count.",
+        "Huckleberry.",
+        "Huckleberry.",
+        "Huckleberry.",
+        "Very good.",
+        "Also honeydew would have done.",
+        "How about common names for newspapers, like press or chronicle.",
+        "Ooh, that's a tough one.",
+        "How about Times for T.",
+        "Times is good for T.",
+        "Sentinel for S."
+      ]
+    },
+    {
+      "dialogue_uid": "3ebe4c24-bf19-4ca4-939a-6303f604c962",
+      "language": "en",
+      "utterances": [
+        "Sentinel, good.",
+        "Let's see...",
+        "For O, there's a big one in Charlotte, North Carolina.",
+        "Observer.",
+        "Observer, yes.",
+        "Observer.",
+        "As in the Charlotte Observer, right.",
+        "OK.",
+        "G and H.",
+        "Oh, Herald for H.",
+        "Herald.",
+        "And it's bigger competitor."
+      ]
+    },
+    {
+      "dialogue_uid": "9f93645c-8f3d-4e82-aeb3-9c4057f5639b",
+      "language": "en",
+      "utterances": [
+        "Globe.",
+        "Got it.",
+        "The Globe.",
+        "Gazette would have worked as well.",
+        "How about cities hosting the Olympics, either summer or winter?",
+        "Let's see if I can think of any of them.",
+        "Salt Lake City.",
+        "Torino.",
+        "Salt Lake City and...",
+        "Torino.",
+        "...that's good.",
+        "Torino, good.",
+        "So, G, H and O.",
+        "G, H and O."
+      ]
+    },
+    {
+      "dialogue_uid": "f88a22d0-d550-4337-8b65-8731e716b253",
+      "language": "en",
+      "utterances": [
+        "How about the 1952 Winter Olympics for the O, and it's in Scandinavia.",
+        "Oslo.",
+        "Oslo.",
+        "Oslo is it.",
+        "Has to be, has to be.",
+        "There's the 1968 Winter Olympics.",
+        "Not Geneva.",
+        "No.",
+        "No to Geneva.",
+        "Oh gosh, I should know this."
+      ]
+    },
+    {
+      "dialogue_uid": "fa1625a0-d192-493d-aef1-3d59f172ab02",
+      "language": "en",
+      "utterances": [
+        "This is tough.",
+        "All right.",
+        "I'll tell you that one.",
+        "It's Grenoble.",
+        "Grenoble, of course, Grenoble.",
+        "All right.",
+        "And for H it's the 1952 Summer Olympics also in Scandinavia.",
+        "Helsinki?",
+        "Yeah.",
+        "Helsinki is it, yes.",
+        "And here's your last category: things seen in a car's interior.",
+        "OK.",
+        "Well, there would be the odometer for O.",
+        "Good, good.",
+        "Seatbelt for S."
+      ]
+    }
+  ]
+}

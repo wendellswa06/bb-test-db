@@ -1,0 +1,122 @@
+{
+  "challenge_uid": "d398e9dc-ff1e-489c-b2d1-faade6939eb7",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "05a3edbe-6940-45e8-b662-09b95f6bea25",
+      "language": "en",
+      "utterances": [
+        "(as Character) I need another thousand.",
+        "Then you see a reverse angle shot.",
+        "You see the shorter collar.",
+        "And it is not until his opponent in the game asks who the check should be made payable to that he answers...",
+        "(SOUNDBITE OF FILM, \"\"DR.",
+        "NO\"\")",
+        "(as James Bond) Bond.",
+        "James Bond.",
+        "And then you see his face for the first time and the full evening suit, which became, of course, the definitive look for all James Bonds since that opening moment.",
+        "What has been your favorite Bond suit of all time?",
+        "Without question, most people's favorite, and mine, is the three-piece Prince of Wales suit that he wore in...",
+        "(SOUNDBITE OF SONG, \"\"GOLDFINGER\"\")",
+        "(singing) Goldfinger...",
+        "Killer suit.",
+        "Absolutely fantastic.",
+        "And the way it was introduced in the film was very special.",
+        "He just recovered from sedation aboard Goldfinger's private jet."
+      ]
+    },
+    {
+      "dialogue_uid": "7083ed1e-9b5d-4c1a-a41c-0e968d47f1c2",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF FILM, \"\"GOLDFINGER\"\")",
+        "(as James Bond) Oh.",
+        "That explains the humming.",
+        "And he was unshaven.",
+        "(SOUNDBITE OF FILM, \"\"GOLDFINGER\"\")",
+        "(as James Bond) I would like to arrive more appropriately dressed.",
+        "And he went to the bathroom to shave and to change, and he emerged wearing this magnificent piece of work.",
+        "(SOUNDBITE OF FILM, \"\"GOLDFINGER\"\")",
+        "(as Pussy Galore) You like close shaves, don't you?",
+        "(SOUNDBITE OF SONG, \"\"GOLDFINGER\"\")",
+        "(singing) But don't go in."
+      ]
+    },
+    {
+      "dialogue_uid": "d2906e20-6987-4120-b769-141690380edd",
+      "language": "en",
+      "utterances": [
+        "And David Mason has now reproduced those suits from \"\"Goldfinger\"\" and \"\"Dr.",
+        "No\"\" for a new Bond exhibit at the Barbican.",
+        "It's an art center in London.",
+        "And he's even willing to make one for you and me.",
+        "A bespoke suit would run in your currency at $5,000 plus.",
+        "OK.",
+        "Maybe not for us.",
+        "But if you really want to dress like James Bond, David Mason is at your service.",
+        "(SOUNDBITE OF MUSIC)",
+        "Do your suits come with, you know, like, cufflink darts or dagger shoes or any poisonous things embedded in them?",
+        "(LAUGHTER)",
+        "No, but it could be arranged.",
+        "We've not had any requests yet.",
+        "You could arrange that.",
+        "Of course.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Robert Siegel."
+      ]
+    },
+    {
+      "dialogue_uid": "47819cc9-6adc-447c-a2ee-7dc841e11f80",
+      "language": "en",
+      "utterances": [
+        "And I'm Audie Cornish.",
+        "The mysterious hackers known as Anonymous says its members will take down the Internet tomorrow, or maybe they won't.",
+        "No one really knows who speaks for Anonymous, and taking down the Internet is no easy feat.",
+        "Still, security experts are paying attention because, as NPR's Tom Gjelten reports, Anonymous has shown it's capable of sophisticated cyber attacks.",
+        "To the extent Anonymous has an identity, it's political - anti-government, anti-business, anti-power.",
+        "But pro-technology.",
+        "These folks live and do battle online.",
+        "Hello, Citizen of World.",
+        "We are Anonymous.",
+        "The greatest enemy of freedom is a happy slave.",
+        "To protest...",
+        "Ironically, the latest Anonymous threat was aimed at the Internet itself.",
+        "On March 31st, the Internet will go black.",
+        "A digitized announcement released on the Web several weeks ago said the blackout plan was prompted in part by concerns about Internet censorship.",
+        "Remember, this is a protest.",
+        "We are not trying to kill the Internet.",
+        "We are only temporarily shutting it down where it hurts the most.",
+        "But could hackers really take down the Internet?",
+        "The apparent plan is to go after what's called the domain name servers.",
+        "When you type in a website name, your computer has to query a domain name server to find the corresponding Internet address number.",
+        "In theory, if the domain name servers get overloaded, they can't respond correctly."
+      ]
+    },
+    {
+      "dialogue_uid": "0c618073-70e3-4596-acdf-577a82b55876",
+      "language": "en",
+      "utterances": [
+        "If they were able to gather a lot of digital firepower, direct a lot of bogus traffic at one part of the DNS infrastructure, you could have an effect.",
+        "That's Richard Bejtlich, chief security officer at Mandiant, a computer security firm.",
+        "But he says it's hypothetical.",
+        "The effect would probably be limited and may not even be noticeable.",
+        "Plus, Bejtlich points out, anytime there's a threat allegedly from Anonymous, you have to wonder if it's just people posing as Anonymous.",
+        "They declare that they're part of this group and then say that they going to do something serious to the Internet, or act out in some other way.",
+        "That's what's kind of difficult about being a group that doesn't have any real membership or named leadership.",
+        "In fact, one of the Twitter accounts associated with Anonymous today included several tweets denying any Internet blackout plan.",
+        "What is this nonsense, said one.",
+        "Stop asking us about it.",
+        "That won't stop cybersecurity experts from paying close attention to the Internet tomorrow.",
+        "Anonymous and similar hacktivist groups are no longer a laughing matter.",
+        "In the past, they got attention mostly for symbolic actions; temporarily taking down the CIA website, for example.",
+        "But that's changing.",
+        "Suddenly in this past year, hacktivism is on the map in a big way.",
+        "Bryan Sartin is one of the authors of a massive study of computer data breaches released this month by Verizon.",
+        "The headline: In 2011 cyber attacks by hacktivist groups accounted for the largest quantity of stolen or compromised records, far eclipsing what organized criminal groups managed to take.",
+        "Cyber intrusions by hacktivist groups are easy to distinguish, Sartin says, because the perpetrators are not motivated by a simple desire for financial gain.",
+        "Hacktivism is the place where you see the most complexity, the most innovation and the most ingenuity on the part of the perpetrators.",
+        "The motivation, Sartin says, is to inflict damage on a brand or an institution."
+      ]
+    }
+  ]
+}

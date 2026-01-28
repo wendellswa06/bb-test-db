@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "1e3788ee-de4e-4f2d-8db9-826432afea96",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "c8d80b0a-22b1-4ca2-bb4c-d8f41f249154",
+      "language": "en",
+      "utterances": [
+        "Hey, Rachel.",
+        "So, I understand you actually attended the birthday party of Bernice Gordon, her 100th.",
+        "How was it?",
+        "Well, it was great.",
+        "She's been making crosswords for the New York Times since at least 1953, and she had a birthday party a week ago, which I went to.",
+        "I was the only puzzle person there.",
+        "She had lots of family and friends.",
+        "It was a good time.",
+        "Very cool.",
+        "It was just great to be there with her.",
+        "Well, I imagine it's a small group of you elite puzzle creators, so it was very cool that you got to go.",
+        "And with that, what was last week's challenge, Will?",
+        "Yes.",
+        "I said name a familiar form of exercise in two words.",
+        "Switch the order of the two words then say them out loud.",
+        "And the result phonetically will name something to wear.",
+        "What is it?",
+        "Well, that exercise system is Tae Bo.",
+        "Do you know that, Rachel?",
+        "Of course.",
+        "I used to do some mean Tae Bo in my day.",
+        "All right.",
+        "And switch the two halves and you get bow tie.",
+        "All right.",
+        "So, we got just over 600 correct answers this week and our randomly selected winner is Christine Welch of Keizer, Oregon.",
+        "She joins us on the line now.",
+        "Hey, Christine.",
+        "Congratulations."
+      ]
+    },
+    {
+      "dialogue_uid": "b6172df8-55df-4cc4-9f9f-1ac8baf6e082",
+      "language": "en",
+      "utterances": [
+        "Well, thank you, Rachel.",
+        "Have you done a lot of Tae Bo in your past?",
+        "No, none at all.",
+        "(LAUGHTER)",
+        "This is TALK OF THE NATION from NPR News.",
+        "Im Neal Conan in Washington.",
+        "All right, Chris.",
+        "Today's puzzle comes from the bad pun department.",
+        "I'm going to read you some sentences.",
+        "Each sentence has a blank.",
+        "Put the name of a well-known U.S.",
+        "city in the blank to complete the sentence in a punny way.",
+        "Okay.",
+        "For example, Pizarro blank the Incas.",
+        "You would say Concord.",
+        "Pizarro Concord the Incas, as in Concord, New Hampshire.",
+        "Jesus.",
+        "Okay.",
+        "And I'll be giving you the names of the states.",
+        "Number one, you're going for a city in Wyoming.",
+        "Prince Charles's sister was so retiring as a child, some people called her blank."
+      ]
+    },
+    {
+      "dialogue_uid": "e0451fad-2292-4ff6-bb8d-57f1a5ca3dfb",
+      "language": "en",
+      "utterances": [
+        "Cheyenne.",
+        "That's right.",
+        "Number two, from Oregon.",
+        "The old boats were repaired so the crews could blank again.",
+        "Salem?",
+        "Salem, right.",
+        "Also Massachusetts, I could've said.",
+        "Number three, from Mississippi, it got so cold last night the temperature fell to blank.",
+        "Tupelo.",
+        "Fell to Tupelo.",
+        "Good job.",
+        "Whoa.",
+        "Now from Washington.",
+        "The old man blank Italian dialect, I could hardly understand.",
+        "And this is Washington State we're talking about.",
+        "That's right."
+      ]
+    },
+    {
+      "dialogue_uid": "6d2312be-1772-43ec-803a-4918e21d5df8",
+      "language": "en",
+      "utterances": [
+        "Yakama?",
+        "No, it starts with an - do you know, Liane?",
+        "Spokane?",
+        "Oh.",
+        "He Spokane Italian dialect.",
+        "Good job.",
+        "Now from Rhode Island.",
+        "When ma saw her husband's shirt-tail hanging out, she said blank in.",
+        "Pawtucket.",
+        "That's right, Pawtucket in.",
+        "This one's from New York.",
+        "The Playboy clubs are putting out a movie with a blank cast.",
+        "Albany?",
+        "An Albany cast is right.",
+        "Oh, oh, that's what we do with puns, is we cringe here."
+      ]
+    },
+    {
+      "dialogue_uid": "7dde8b59-2cb6-4228-8543-1734241d5bee",
+      "language": "en",
+      "utterances": [
+        "This one's from New Jersey.",
+        "The handyman lost all his regular jobs, so now he's looking for blank.",
+        "All I can come up with is Hoboken.",
+        "You're close.",
+        "Liane?",
+        "Newark?",
+        "He's looking for Newark is right.",
+        "Of course, yes.",
+        "This one's from Missouri.",
+        "The jeweler pointed to the necklaces and said blank are some beautiful diamonds.",
+        "Hmm.",
+        "The jeweler pointed to the necklaces and said blank are some beautiful diamonds.",
+        "It's a city whose name starts with I.",
+        "Missouri, huh?",
+        "Where's my atlas?",
+        "What do you think, Chris?"
+      ]
+    }
+  ]
+}

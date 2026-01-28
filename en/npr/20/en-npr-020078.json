@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "3c077c84-8be3-4edb-8593-2d013d62e921",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "09ab539f-2237-4d98-98c1-1b60dd26fab7",
+      "language": "en",
+      "utterances": [
+        "It's definitely aimed at real scientists and engineers.",
+        "But we hope to publish some review articles that might be understandable reasonably well by the general public.",
+        "And this is a good for this type of journalism now isn't it?",
+        "Well, we hope so.",
+        "We're certainly counting on it.",
+        "The difficulty with anything to do with renewable energy is that the - all of the problems are so interdisciplinary that you need to cover a wide range of topics in order to make progress.",
+        "And how many entries - are they coming in or you're just starting out, you don't have a whole lot to choose from?",
+        "Well, right as of now, we have over 50 in the pipeline.",
+        "There only a couple up on the public website right now.",
+        "But they'll be coming up very quickly in the future.",
+        "Let's talk about one of those and that is those miniature organic solar cells in the first issue.",
+        "What - tell us what they are and how small they are?",
+        "On your web page, you say that they're size of a circle.",
+        "The O in the paper.",
+        "(Soundbite of laughter)",
+        "That's right.",
+        "Well, this is a very interesting application, affordable to access (ph) that I frankly would have never thought of.",
+        "It's, as you said, the use of solar cells to power very small micro-mechanical devices - and probably the most used devices, this type is the accelerometer that's in your car to drive the air bags.",
+        "So it senses very rapid deceleration.",
+        "And that's a micro electro-mechanical machine.",
+        "But of course, it's run off the electrical power of your car.",
+        "And this would be a way of actually powering such devices in maybe a hostile environment where you're looking for chemicals in a smokestack or something like that.",
+        "So go ahead.",
+        "Describe the cell to us.",
+        "OK.",
+        "Well.",
+        "It's a cell that uses organics so it uses polymers mixed with a very small atom - group of atoms of carbon known as carbon-60.",
+        "It's sometimes called a..."
+      ]
+    },
+    {
+      "dialogue_uid": "fdcbcca2-107b-4cdb-affb-57baa3c30b48",
+      "language": "en",
+      "utterances": [
+        "A buckyball.",
+        "Buckyball, that's right because it has the Buckminsterfullerene geodesic dome structure.",
+        "So you have the polymers mixed in with buckyballs.",
+        "Right.",
+        "And then you can - the light gets absorbed in this material, and it generates electrons and also generates absence of electrons which is holes.",
+        "And then these are collected at the opposite electrodes and create and create a current.",
+        "And how much current and how much voltage, wattage?",
+        "The current is very, very minimal.",
+        "A few micro amps is all that's necessary because these devices are very, very small.",
+        "The difficulty - and I thought it was very interesting that these people were able to make some progress on it, the difficulty is in voltage.",
+        "These devices typically need a very large voltage so order of 10 volts for example.",
+        "So - and of course, most of electronic devices work in lower voltages.",
+        "Yes, that's right.",
+        "But you don't need much current so this initial device, I think, produced around eight volts.",
+        "And the way they do that is they string the cells in series to increase the voltage.",
+        "And so this might be used - I understand that the Department of Defense is invested heavily in this project and see it as - there's a lot of sunlight over there where we have the military.",
+        "And why not take advantage of it?",
+        "Well, that's right, and they're interested in larger areas, but they're interested in flexible substances so you can wear it on your clothes and things of that sort.",
+        "So you can go out in the field and powering, you know, I guess will be the uniform of tomorrow or actually of today because we know batteries are great premium over where we were five..."
+      ]
+    },
+    {
+      "dialogue_uid": "a67fe3e1-ab23-4d0e-96ac-d21520419792",
+      "language": "en",
+      "utterances": [
+        "That's right, and they're not very environmentally friendly, either.",
+        "Most of them.",
+        "And how close is something like this to actually being made and to reality or was just sort of an idea?",
+        "I would have to say it's quite a few years away from any useful production there.",
+        "The reason is that they produce the cell that is about two square centimeters.",
+        "So maybe a thumbnail or two.",
+        "They hope to produce cells as small as a hundredth of a millimeter.",
+        "Right.",
+        "So, they - that they have a long way to go when it comes to the area.",
+        "So you're thinking that journal then will become like an incubator for ideas like this.",
+        "That's what we hope.",
+        "And we also hope that people who need to know something about solar cells, but they are experts in - for example fluctuating power or inverters or something very different while wind turbines can give - go to our journal and read the - what they need to know from other fields.",
+        "And you decided to make it open access.",
+        "That's correct.",
+        "At least for the first year.",
+        "In fact we are hoping to keep it open access forever.",
+        "That depends on whether or not we can get enough under writers on our site, people who care about renewable energy, companies that care about renewable energy.",
+        "And that means if that I like an idea that I see there, I cannot take a patent out on it or call it my own intellectual property."
+      ]
+    },
+    {
+      "dialogue_uid": "e5b5eb1b-2d83-4e4c-adc1-abefcb6ee49e",
+      "language": "en",
+      "utterances": [
+        "That's correct.",
+        "And anybody can - you go into this if you have published in your magazine knowing that this is going to be freely available for other people to use.",
+        "Well, that's right.",
+        "But of course, you can patent an idea from any open-access journal if you file patent ahead of time.",
+        "Mm hmm.",
+        "And how many subscribe - do you have to subscribe to this or do you...",
+        "No, we don't have a subscription base, and we hope not to have to have a subscription base, so you can go to this website and look at the articles.",
+        "Go to the website and submit a paper.",
+        "Mm hmm.",
+        "And who referees this paper?",
+        "Well, that's been a tough a task for us because it's such an interdisciplinary journal that we're working very, very hard at getting a referee base.",
+        "In fact if there are any listeners out there who'd like to help us, we'd love to put them on our list.",
+        "(Soundbite of laughter)",
+        "These would be scientists who were our peers in the particular field.",
+        "Well, you know, it looks there - it reminds me about place, you know, in the old days - they used to have the water cooler or the coffee pot where people of different interests and disciplines could come together in schmooze and trade ideas, and where they might not have come before and actually - somebody else might come away with hey I heard Joe say something - you know, and that gives me an idea how to work on something."
+      ]
+    },
+    {
+      "dialogue_uid": "b6f6f54d-4b00-419c-91b7-f5554d95a861",
+      "language": "en",
+      "utterances": [
+        "That's right.",
+        "That's right.",
+        "It's kind of an electronic coffee room.",
+        "Because everybody is sitting by their desks these days and no one's - you know, we used to have people get up and leave and do stuff, but now everybody is at their desk, so they're on a virtual water cooler.",
+        "(Soundbite of laughter)",
+        "Right.",
+        "Which is the internet.",
+        "That's right.",
+        "That's right.",
+        "And it is a new venture even for the American Institute of Physics.",
+        "So I think we are only the third entirely online journal that they've established, but we're really hoping that it will work.",
+        "And how often will - if the publications come out during the week, a month or...",
+        "For the first year, it will come out every two months.",
+        "We are really focusing on quality.",
+        "The American Institute of Physics is a world-class publisher and the quality is just very, very important for all of their journals.",
+        "Mm hmm.",
+        "So, we'll start small every two months, and we hope after the first year to have an issue come out every month."
+      ]
+    }
+  ]
+}

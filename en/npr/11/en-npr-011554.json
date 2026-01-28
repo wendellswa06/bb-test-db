@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "43fbcccf-2430-44ae-89da-e7ca947f92b6",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "111e69ee-d44c-40cb-a533-0b45d00eb352",
+      "language": "en",
+      "utterances": [
+        "If someone was watching your connection to the Internet, what would they see?",
+        "That's the question NPR's Steve Henn and a team of security experts set out to answer this spring by tapping the Internet connection in Steve's home.",
+        "They soon realized that in the years since Edward Snowden's first disclosures about the NSA became public, the fabric of the Internet has changed.",
+        "Some of the biggest tech companies in the world have added new layers of security and encryption to some of their most widely used services, and while the team found that encryption is much more common online than it was just a year ago, it remains far from perfect.",
+        "Here's Steve Henn.",
+        "A couple of years ago, it really wasn't that uncommon to hear founders in Silicon Valley joke that they'd know their company had made it when their app or service finally got hacked.",
+        "Encryption was kind of expensive and a pain.",
+        "And for most people, security just wasn't a priority here.",
+        "But if you were hacked, that meant your service, your app, was big enough to be a target, which was a sign you'd made it.",
+        "Recently, though, that attitude has changed.",
+        "That was the biggest surprise to me - how much has changed, how much is now encrypted that was not encrypted pre-Snowden, about a year ago.",
+        "Dave Porcello is the founder of the security firm Pwny Express.",
+        "From what I've seen, you know, most of these services were either not encrypted at all or only partially encrypting.",
+        "Then came Edward Snowden's leaks, revealing the global scale of the NSA's Internet surveillance.",
+        "In the wake of the Snowden revelations, the intelligence community has really lost the trust of American business.",
+        "Nick Cardozo is an attorney at the Electronic Frontier Foundation.",
+        "He says...",
+        "Silicon Valley companies have finally recognized that there is a market for privacy.",
+        "Today, as opposed to last year, billions of people care if their messages are kept safe.",
+        "Now, encryption probably won't stop the NSA from reading your email if they're really going after you, but it makes mass surveillance much more expensive.",
+        "Instead of just sucking up your messages and reading them, a security agency, like the NSA, actually has to make the effort to break the code that's protecting your data.",
+        "That costs them money and takes time.",
+        "Encryption also protects consumers from fraud, or hackers, or identity theft.",
+        "And in the last year, companies have embraced it.",
+        "Yahoo began encrypting email by default.",
+        "Google added encryption between its data centers.",
+        "Microsoft, Twitter and Facebook all took steps to make it harder for messages you send on their services to be intercepted, decoded and read.",
+        "So when Dave Porcello at Pwny Express and Sean Gallagher, a reporter at the tech news site Ars Technica and I began tapping the Internet traffic into and out of my laptop and cell phone, we were kind of curious what we'd see."
+      ]
+    },
+    {
+      "dialogue_uid": "07f0fd9a-5b1c-4a69-8ea5-bc6a6acd9be8",
+      "language": "en",
+      "utterances": [
+        "Well, we were talking about how we had to hurry up and do this before everybody got encryption going.",
+        "Yeah.",
+        "(Laughing).",
+        "Because we thought we might not see anything, right?",
+        "Yeah.",
+        "NPR's Jennifer Ludden went to a farmers market here in Washington, D.C.",
+        "for this look at an old-fashioned favorite: rhubarb.",
+        "Rhubarb looks something like celery, but its big firm stalks can be green or red.",
+        "Jim Crawford of New Morning Farm has been growing this vegetable in Pennsylvania for nearly four decades.",
+        "And long ago, he even started buying it from his neighbors.",
+        "He noticed this tart-tasting perennial was languishing in their gardens, unharvested.",
+        "It sounds funny, but it was kind of common that people seemed to have that attitude about rhubarb.",
+        "Dismissive.",
+        "Yeah, dismissive, right.",
+        "And then, of course, when they got a $1.60 a pound for it, they said, hey, you know, I think this stuff is worth something.",
+        "In recent years, Crawford's seen a resurgence in demand for rhubarb, often filled by nostalgia, as with customer Ed Kayle(ph).",
+        "He says he doesn't actually buy it a lot."
+      ]
+    },
+    {
+      "dialogue_uid": "ae3af8f8-9c13-4f71-a6e2-152967f10dd3",
+      "language": "en",
+      "utterances": [
+        "But I grew up with rhubarb, and it reminds me of my grandmother and my mother, and they made these luscious pies.",
+        "I'll probably just buy it and let it rot in my refrigerator.",
+        "(Soundbite of laughter)",
+        "But I have aspirations, you know, to make a pie, or if nothing else, they make this killer rhubarb jello bowl.",
+        "(Soundbite of laughter)",
+        "Kayle admits that sounds kind of gross, but he swears rhubarb in fruit-flavored jello makes a great buffet dish.",
+        "(Soundbite of beeping)",
+        "Okay.",
+        "Over at the cash registers, Janet Cadd(ph) says rhubarb makes her nervous.",
+        "I don't know if I'm afraid.",
+        "I've cooked everything but rhubarb, and I've never tried rhubarb.",
+        "I'm afraid it'll be too sour or chewy or something.",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "03fa88d1-acb8-450a-9538-d92e44ae4270",
+      "language": "en",
+      "utterances": [
+        "Crawford finds this a lot.",
+        "So he posts a helpful hint sign.",
+        "This is the easiest thing in the world to cook.",
+        "It takes about five minutes.",
+        "You just chop it up and put some sweetener with it and put it in a pan with a tight lid, and in about five minutes, it just melts like butter.",
+        "Crawford sweetens this with maple syrup, but sugar works, too.",
+        "He likes rhubarb sauce over ice cream.",
+        "He also puts rhubarb in jam, chutney and a whole array of pies - not just the classic strawberry-rhubarb combo.",
+        "And, in fact, I really like it better with apples.",
+        "It's really good with raspberries.",
+        "It's really good with peaches.",
+        "Whatever's in season, Jim Crawford says rhubarb gives it pizzazz.",
+        "Jennifer Ludden, NPR News, Washington.",
+        "And I'm looking at a recipe right now for rhubarb pie on our website: npr.org.",
+        "Seriously, it only takes a few ingredients to make this.",
+        "So you should really check it out.",
+        "Mm.",
+        "Yum, yum.",
+        "(Soundbite of music)",
+        "You're listening to MORNING EDITION from NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "c43adb4a-b079-4fa7-b76a-f6c1ddf6459a",
+      "language": "en",
+      "utterances": [
+        "The novel is called \"\"When the Killing's Done,\"\" and Alan Cheuse has our review.",
+        "Even as the death of one of the animal rights activists turns this novel darker and darker, the natural setting remains what it has always been.",
+        "Read this engaging and lively and timely story, with the truths on both sides of the human arguments neatly dramatized, weighed and balanced, and a wild homage to the power of the natural world.",
+        "(SOUNDBITE OF MUSIC)",
+        "The book is called \"\"When the Killing's Done\"\" by T.C.",
+        "Boyle.",
+        "Alan Cheuse teaches writing at George Mason University in Fairfax, Virginia.",
+        "NPR's Julie Rovner reports.",
+        "Unless Congress acts by the end of September, the State Children's Health Insurance Program, known as SCHIP, will cease to exist.",
+        "Senate Finance Committee chairman Max Baucus says he is pleased with the bipartisan compromise bill his panel will vote on.",
+        "This is a way to help address lack of insurance coverage in America, and it's starting with kids, that start with the low-income kids.",
+        "And I can't think of a better place to start.",
+        "Advocates like Marian Wright Edelman of the Children's Defense Fund say the bill doesn't do nearly enough, considering that there are still nine million children in the U.S.",
+        "without health insurance.",
+        "We really do find it hard to believe that in a country with a $13.3 trillion economy that we can't find a way to cover all nine million children.",
+        "Edelman says the fact that the bill doesn't even spend the entire $50 billion Congress set aside for the program in the budget resolution passed earlier this spring is shortsighted on both a political and practical level."
+      ]
+    }
+  ]
+}

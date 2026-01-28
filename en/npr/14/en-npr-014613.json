@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "74a89bc4-722c-4655-8262-92c599649f07",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "af362690-ef29-4b52-b6a3-ec9b53434be8",
+      "language": "en",
+      "utterances": [
+        "Hi Professor.",
+        "I was wondering if you could talk a little bit about Pluto itself and whether it has an atmosphere or not.",
+        "Well Pluto, we think, has an atmosphere of nitrogen and maybe methane, and, you know, it's interesting, Pluto was just closest to the sun in 1989 it reached its closest point called perihelion.",
+        "And now it's, in another century, Pluto will be at its farthest point.",
+        "And we think when Pluto warms up that the ices on its surface go into the gas phase and we get this thin atmosphere.",
+        "So we have in fact detected an atmosphere on Pluto, we know it s there.",
+        "And a big question we have that we're hoping to find out when New Horizons gets there in 2015 is whether the atmosphere is still present or whether or whether it is frozen entirely out onto the surface.",
+        "We can always hope there is still intelligent life on this planet by the time it gets there, 90 years from now.",
+        "Will New Horizons be taking measurements of the solar system as it goes, or does it shut down and wait until it gets to Pluto?",
+        "Well in just about a year, in fact, just under a year from now, we will be arriving at Jupiter, and we're going to use Jupiter as a gravitational boost or a gravitational assist to get us out to Pluto in a little bit faster fashion.",
+        "And we're going to take science data on Jupiter during our fly-by, and then after Jupiter we're going to go into more or less a quiet phase for the spacecraft.",
+        "We'll have routine checkouts of the spacecraft, make sure it's happy and healthy, but we'll go into a quiet phase so that we've got everything functioning with the, you know, at full capacity, full capability when we get to our main target; which is of course, the Pluto system.",
+        "And what, in the last minute and a half left, what is the thing you want to know most about Pluto, that has to be answered?",
+        "Yep.",
+        "I think we want to know what it's made of and how its there.",
+        "It's an entirely different region of the solar system and the ices and all the material that Pluto is made up of, Pluto is the basic building blocks of what formed all of the planets including the earth.",
+        "And even the very stuff of life.",
+        "It's all preserved out thee in the outer solar system, and we just want to go out and see what it is firsthand.",
+        "Well I want to thank you for taking time to be with us, and good luck to you.",
+        "We'll be following that mission, I hope, on Science Friday for the next nine years.",
+        "All right.",
+        "Call us anytime."
+      ]
+    },
+    {
+      "dialogue_uid": "8321fef5-afa4-4f9c-9aed-8e86236d9d5e",
+      "language": "en",
+      "utterances": [
+        "Take care.",
+        "Richard Binzel is professor of planetary sciences, the Margaret McVicar Faculty Fellow Chair, Program in Planetary Science at MIT, in Cambridge.",
+        "(SOUNDBITE OF TRIBECA'S \"\"GET LARGE\"\")",
+        "There's a big college sports tournament underway.",
+        "(SOUNDBITE OF SPORTS COMMENTATORS)",
+        "UNIDENTIFIED COMMENTATOR #1: Team Liquid (unintelligible).",
+        "UNIDENTIFIED COMMENTATOR #2: And it's a triple kill (unintelligible) coming through (unintelligible).",
+        "UNIDENTIFIED COMMENTATOR #3: Yes, he does.",
+        "(Unintelligible) will jump in (unintelligible).",
+        "UNIDENTIFIED COMMENTATOR #4: Team Liquid is doubling (unintelligible) triple kill.",
+        "Nope, we're not talking about March Madness.",
+        "That's the sound of the League of Legends College Championship where college players battle each other for domination in one of the country's fastest growing sports.",
+        "In today's edition of Out of Bounds, we're going to talk about the business of esports.",
+        "And we're joined by John Ourand.",
+        "He writes for SportsBusiness Journal, and he joins us in our studio.",
+        "Hey, John."
+      ]
+    },
+    {
+      "dialogue_uid": "a6b05449-5005-47cc-a0b3-303c22e7ea2f",
+      "language": "en",
+      "utterances": [
+        "Hey, Lulu.",
+        "All right.",
+        "Hi, Liz.",
+        "This is a...",
+        "That's not really a rave review from independent auto analyst John Wolkonowitz.",
+        "He says the squat, two-tone design reminds him of a sneaker, not a classic Beemer.",
+        "This is just more than a car in the BMW lineup.",
+        "This can have a negative impact on the entire brand.",
+        "But Dave Sullivan of AutoPacific isn't worried about the i3's funky, city car vibe.",
+        "He says BMW is making the i-series almost a separate brand, like the Prius is for Toyota.",
+        "There's this group of people who, they don't want to be seen in anything but a BMW.",
+        "But they would like to have an electric vehicle.",
+        "Aside from styling, the i3 breaks ground in what it's made of.",
+        "We haven't really seen this much carbon fiber in a vehicle that costs around $40,000.",
+        "That's because carbon fiber - while strong and lightweight - is also expensive to make and hard to repair.",
+        "Sullivan says that could make a relatively inexpensive BMW pretty expensive to insure.",
+        "The car will go on sale towards the middle of 2014.",
+        "For NPR News, I'm Tracy Samilton."
+      ]
+    },
+    {
+      "dialogue_uid": "fad365b1-7bc0-4c65-8213-cec1a6bd07e8",
+      "language": "en",
+      "utterances": [
+        "And in case you're just tuning in, this is WEEKENDS on ALL THINGS CONSIDERED from NPR News.",
+        "I'm Guy Raz.",
+        "(SOUNDBITE OF MUSIC)",
+        "We're listening to new music from jazz drummer Matt Wilson with his quartet Arts and Crafts.",
+        "(SOUNDBITE OF MUSIC)",
+        "Matt Wilson's latest album is called \"\"An Attitude for Gratitude.\"\" There are reasons for that title, which we'll get to later.",
+        "But first, a little more about Matt.",
+        "He's played with many of the greats - Hancock, Marsalis, Frisell - and his style is widely respected for its depth and complexity, all while being accessible and even fun.",
+        "(SOUNDBITE OF MUSIC)",
+        "Matt Wilson, welcome to the program.",
+        "Thank you.",
+        "Thank you, Guy.",
+        "It's a pleasure to be here.",
+        "When did you start playing drums?",
+        "I was in the first grade and - or second grade, actually - I was watching the \"\"Lucy Show.\"\" And Buddy Rich was a guest on the show.",
+        "Ricky, Lucy's son, was a contestant in a drum contest, and Buddy was the judge, but she was trying to get him lessons with Buddy.",
+        "And then this whole bag exchange occurred where Lucy ended up with Buddy's bag that had his cymbals, so he had to come over to the house and retrieve the bag."
+      ]
+    },
+    {
+      "dialogue_uid": "8e489a7b-7525-4b17-99bd-d63808931ffd",
+      "language": "en",
+      "utterances": [
+        "It's actually on YouTube now, the episode, so it's pretty funny to go back and watch it and see where I became sort of like, wow, that's something I'd like to do.",
+        "And then I heard a record - a buddy of mine had a record with Buddy Rich versus Max Roach.",
+        "And when I heard Max Roach, I'll never forget it was a summer day we're sitting in his room listening to this record.",
+        "(SOUNDBITE OF MUSIC)",
+        "That's when the whole concept started right there.",
+        "I heard that kind of playing, the drums really singing, and that's when it started to really come together.",
+        "You have actually been quoted as saying that playing music is like playing in the sandbox.",
+        "Yeah.",
+        "I love to have a great time.",
+        "I mean, to me, it's a celebration.",
+        "And I think the reason I'm that way is because I'm constantly amazed by what can happen, you know, improvising and welcoming sound.",
+        "(SOUNDBITE OF SONG, \"\"BUBBLES\"\")",
+        "My father-in-law said at one time to me - he said to me, he goes: I think it's so great that you guys can just get out there and make things up.",
+        "And I sat there for a second, and I said: You know what?",
+        "You're right.",
+        "(SOUNDBITE OF SONG, \"\"BUBBLES\"\")",
+        "I think that's why I sort of remain this enthusiastic about it all the time because it's always surprising.",
+        "(SOUNDBITE OF SONG, \"\"BUBBLES\"\")"
+      ]
+    }
+  ]
+}

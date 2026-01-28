@@ -1,0 +1,122 @@
+{
+  "challenge_uid": "40780a1d-eb0d-409d-a3da-268ae5b09a41",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "e7ff1c06-a066-4eea-b11c-1cd307bba6a3",
+      "language": "en",
+      "utterances": [
+        "Yeah, the challenge was to draw a square that's four boxes by four boxes a side, containing altogether 16 small boxes and that results in 18 lines across, down and diagonally.",
+        "And the object was to place markers in 10 of the boxes so that as many of these lines as possible have either two or four markers each.",
+        "And the question was: what is the maximum number of lines that can have either two or four markers?",
+        "Well, the answer is 16 lines.",
+        "There is one way of doing it, not counting rotations and reflections.",
+        "You can read all about this, including the rotations and reflections on our website, npr.org/puzzle.",
+        "Well, about 80 out of just 160 of our listeners sent in correct answers.",
+        "This was a tough one.",
+        "And our randomly selected winner this week is Rob Hardy of Columbus, Mississippi.",
+        "He joins us on the phone.",
+        "Congratulations, Rob.",
+        "Thanks.",
+        "Well done.",
+        "So, how'd you figure this out?",
+        "Well, I got my checkerboard and I put pieces in and counted.",
+        "I stopped fooling with it after 20 minutes with the best count I got.",
+        "Well, congratulations.",
+        "Are you a big puzzle fan?",
+        "I am not.",
+        "What?",
+        "I don't do crosswords.",
+        "I don't do sudoku.",
+        "I don't play Scrabble.",
+        "Right now, Will is thinking he has some deficient person on the other end of the line.",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "06f7ff45-17d3-4733-b299-eafb4a027c39",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "But, no. I do the NPR puzzle every week.",
+        "That's the one puzzle I do.",
+        "I figure I'll get the best one of the lot.",
+        "Oh, that's great.",
+        "And you've been playing a long time?",
+        "I have.",
+        "It's been since way back in the postcard days.",
+        "I can't believe this is the first time we've called you as a winner.",
+        "Lucky me.",
+        "Well, what do you do in Columbus, Mississippi?",
+        "I'm a psychiatrist.",
+        "I work in community counseling clinics in different counties here.",
+        "Well, without further ado, Rob, are you ready to play the puzzle?",
+        "Ready or not."
+      ]
+    },
+    {
+      "dialogue_uid": "86da248c-cdd1-441c-9990-08d07e6820b2",
+      "language": "en",
+      "utterances": [
+        "OK.",
+        "Let's do it.",
+        "Will, take it away.",
+        "All right, Rob.",
+        "It does sound like you're a puzzle person if you've been doing this thing for years.",
+        "So, I'm going to give you three three-letter words.",
+        "You give me a three-letter word that can follow each of mine to complete a familiar six-letter word.",
+        "And none of the words in the set will be related in meaning.",
+        "For example, if I said dam D-A-M, man M-A-N and sew S-E-W, you would say age, which would complete damage, manager and sewage.",
+        "Tricky.",
+        "OK.",
+        "Rob, did you get that?",
+        "Got it.",
+        "OK.",
+        "Let's do it.",
+        "Number one is par P-A-R, poi P-O-I and sea S-E-A.",
+        "P-O-I?",
+        "Yeah.",
+        "There's not many things that can go after P-O-I.",
+        "And the poi word is something that you don't want to drink.",
+        "Poison, parson and season.",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "98b97864-5374-490c-91b3-e1ed41d55514",
+      "language": "en",
+      "utterances": [
+        "That's it.",
+        "Son, making parson, poison and season.",
+        "Good.",
+        "Here's your next one: bud B-U-D, for F-O-R and tar T-A-R.",
+        "For, target, budget...",
+        "There you go.",
+        "...forget and target.",
+        "Nice job.",
+        "Arc A-R-C, fat F-A-T and was W-A-S.",
+        "Archer, father and washer.",
+        "There you go.",
+        "Nice.",
+        "Great.",
+        "Deb D-E-B, don D-O-N and rot R-O-T."
+      ]
+    },
+    {
+      "dialogue_uid": "29e8cb79-845f-4a12-b919-ed02e34fc673",
+      "language": "en",
+      "utterances": [
+        "Debate, donate and rotate - ate.",
+        "Oh, you're getting good.",
+        "Good.",
+        "Pal P-A-L, pan P-A-N and win W-I-N.",
+        "Palace...",
+        "Yeah, unfortunately, it's not ace.",
+        "No.",
+        "I'll tell you the first two letters of the three-letter word are consonants.",
+        "Paltry.",
+        "Ah, yes."
+      ]
+    }
+  ]
+}

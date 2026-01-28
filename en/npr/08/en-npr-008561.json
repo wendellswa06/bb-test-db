@@ -1,0 +1,114 @@
+{
+  "challenge_uid": "d54c8ad3-cd9a-477a-85ed-9744d9013e19",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "eda57183-0507-409a-97bb-df368bad8711",
+      "language": "en",
+      "utterances": [
+        "(Laughter) OK.",
+        "So I think we're ready.",
+        "Let's give it a shot, Will.",
+        "Here we go.",
+        "David, I'm going to give you some five-letter words.",
+        "For each one, insert two letters between the first and second letters to make a familiar seven-letter word.",
+        "For example, if I said elate, E-L-A-T-E, you would insert an M, U to make emulate.",
+        "OK.",
+        "Number one is solar - S-O-L-A-R.",
+        "And this answer is something I think you are.",
+        "(Laughter) Stumped.",
+        "(Laughter) Put two consonants between the S and the O.",
+        "Two consonants.",
+        "Scholar.",
+        "Oh, there you go.",
+        "You are a scholar.",
+        "Number two is March - M-A-R-C-H."
+      ]
+    },
+    {
+      "dialogue_uid": "238d8762-6c49-4595-9ec5-c8a3c9991199",
+      "language": "en",
+      "utterances": [
+        "Monarch.",
+        "That's good.",
+        "Gland - G-L-A-N-D, as in the liver.",
+        "Garland.",
+        "That's it.",
+        "Spent - S-P-E-N-T.",
+        "Serpent.",
+        "Oh, you're good.",
+        "Tight - T-I-G-H-T.",
+        "Tonight.",
+        "Tough - T-O-U-G-H.",
+        "Through.",
+        "Yes."
+      ]
+    },
+    {
+      "dialogue_uid": "68f9e846-b6c9-4d0b-86ea-3d3282eb2a42",
+      "language": "en",
+      "utterances": [
+        "Through is it.",
+        "Fight - F-I-G-H-T.",
+        "It may take me a fortnight to figure this one out.",
+        "(Laughter) Close.",
+        "F-I-G-H-T.",
+        "I'll give you a hint.",
+        "It's a consonant, vowel in that order.",
+        "F and then a consonant?",
+        "And then a vowel.",
+        "F-L...",
+        "Not an L.",
+        "Not an L.",
+        "F-R...",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "a9929068-544d-4766-b81c-122a1e5b7845",
+      "language": "en",
+      "utterances": [
+        "Fraught - no. This is a tough one.",
+        "(Whispering) Freight, freight.",
+        "Freight, there you go.",
+        "Rachel's got it.",
+        "Freight.",
+        "Freight.",
+        "Freight is it.",
+        "Olive - O-L-I-V-E.",
+        "This one's tricky, too.",
+        "The first letter is a vowel and then a consonant.",
+        "Outlive?",
+        "Outlive is it.",
+        "Oh, good.",
+        "Elude - E-L-U-D-E."
+      ]
+    },
+    {
+      "dialogue_uid": "cf45cc1d-696f-4ac3-804a-2c35d9047827",
+      "language": "en",
+      "utterances": [
+        "Exclude.",
+        "Oh, great.",
+        "Exclude is it.",
+        "And your last one is feign - F-E-I-G-N.",
+        "Foreign.",
+        "Oh.",
+        "Bada boom...",
+        "Oh, man, David, you are great.",
+        "...Bada bing.",
+        "That was just, like, no big deal for you, just knocked them out.",
+        "For playing the puzzle, you get a WEEKEND EDITION lapel pin and all kinds of puzzle books and games.",
+        "You can check out your prizes at npr.org/puzzle.",
+        "And before we let you go, David, where do you hear us?",
+        "What's your public radio station?",
+        "I am members of two different stations, KCRW in Santa Monica and KPCC in Pasadena.",
+        "Happy to hear it.",
+        "David Lefkowitz of Los Angeles, Calif.",
+        "Thanks so much for playing the puzzle, David.",
+        "Thank You, Rachel.",
+        "And thank you, Will."
+      ]
+    }
+  ]
+}

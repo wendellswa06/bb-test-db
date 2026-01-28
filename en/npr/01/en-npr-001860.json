@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "66b8038b-e4ee-4af5-9baa-b99b1703db8e",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "bea9f7ac-11f6-4afe-b4e9-8177a2bd0e7c",
+      "language": "en",
+      "utterances": [
+        "Despite years when Amazon made no profit, Bezos drew investors.",
+        "And in turn, he expanded and got more customers.",
+        "Secrecy is also part of the tech world playbook - no studies needed.",
+        "Google keeps its search algorithm secret as a way to keep them out of the hands of competitors.",
+        "There are so many things going on in our firm, and we're not telling you about them.",
+        "And that's part of the allure and the mystique of the organization that keeps people excited about what's coming next.",
+        "Any time.",
+        "Nearly half the people who own a smartphone say they couldn't live without it, according to the Pew Research Center; as for the personal assistance inside the phone, not so much.",
+        "Apple's Siri or Google Now can do a quick search or give a snarky answer to a question, but imagine having a phone that really gets you on a personal level.",
+        "It turns out the two tech giants - Google and Apple - disagree on whether that's a worthy goal.",
+        "NPR's Aarti Shahani reports.",
+        "Google is rolling out its new personal assistant tool - it's called Now On Tap - this fall.",
+        "The company says it'll be useful as Google Maps.",
+        "Maps has this, like, transformative power that, like, you never get lost.",
+        "Aparna Chennapragada is director of product.",
+        "That's kind of the power tool affect that - imagine if you had a, you know, assistant on the phone that actually help you not get lost in many other parts of life.",
+        "Let's take a simple, mundane example.",
+        "(SOUNDBITE OF SONG, \"\"A SKY FULL OF STARS\"\")"
+      ]
+    },
+    {
+      "dialogue_uid": "8c1d1cb7-dbc9-437d-9de1-8a43396cc18a",
+      "language": "en",
+      "utterances": [
+        "(Singing) 'Cause you're a sky, 'cause you're a sky full of stars.",
+        "You're playing a song on Spotify, the music app.",
+        "(SOUNDBITE OF SONG, \"\"A SKY FULL OF STARS\"\")",
+        "(Singing) I'm going to give you my heart.",
+        "OK, Google, what's their latest album?",
+        "Coldplay's latest album is \"\"A Head Full Of Dreams.",
+        "Notice that Chennapragada didn't have to name the band.",
+        "She just said their latest album.",
+        "She didn't have to leave the app to go do a web search.",
+        "She summoned the assistant with two words - OK Google - and it replied in the moment.",
+        "Let's take a slightly more complex example - planning a trip.",
+        "So the email says...",
+        "Chennapragada tells Google Now to scan an email she got from her friend.",
+        "It's about visiting the Grand Canyon.",
+        "Don't forget to pack sweaters.",
+        "We found the temperature at night can get pretty low.",
+        "Have fun."
+      ]
+    },
+    {
+      "dialogue_uid": "86a70a03-c107-4f8c-9bf1-2a27c05952e2",
+      "language": "en",
+      "utterances": [
+        "The personal assistant creates a reminder in her calendar to pack sweaters, and it doesn't create a reminder to have fun.",
+        "That's because it's getting better at understanding natural language, the way people talk to each other, not just to computers.",
+        "The tool is also getting better at giving information we don't even know to ask for.",
+        "You're at Disneyland, for example, right?",
+        "Turns out most people look for the popular rides and their wait times, right?",
+        "Why should you have to look for that fresh?",
+        "We should be able to, like, proactively tell you that.",
+        "Proactively tell you because it knows about Disneyland, about the other Google users at Disneyland and about you.",
+        "When you opt into the assistant, you're giving Google permission to analyze your activity in all Google products - search, Gmail, calendar, photos, everything.",
+        "And you're letting Google look at your activity outside its products, like in the music app Spotify.",
+        "Apple's approach is very different.",
+        "Listen to Craig Federighi, senior vice president for software engineering, speaking at Apple's recent developer conference.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "We don't mine your email, your photos or your contacts in the cloud to learn things about you.",
+        "We honestly just don't want to know.",
+        "Apple is working on a new tool to make Siri smarter.",
+        "It's called Intelligence and it will not be linked to a user's Apple ID.",
+        "It's anonymous - more like a hotel concierge who helps you but doesn't know your name.",
+        "Privacy fans like this decision, but technologists, like the guy who helped create Siri, say that makes for a less useful product.",
+        "Well, it's less compelling if it's anonymous because you have to describe in detail everything you wanted to do rather than it applying those things on your behalf.",
+        "Dag Kittlaus isn't commenting on Apple specifically but on how important personal data is for the next generation of personal assistants to work.",
+        "In your car and talking to your phone and your computer and maybe your refrigerator - it's so much easier if the system can identify that it's you talking and it can talk to you in a way that it knows you.",
+        "It might look like Apple and Google are drawing philosophical lines in the sand.",
+        "But Horace Dediu, a tech analyst with Asymco, says it's really economic lines.",
+        "Apple makes money by selling devices.",
+        "That's why they don't value your data, financially speaking, but Google..."
+      ]
+    },
+    {
+      "dialogue_uid": "412ddcb7-4f89-4a7c-b141-49bd0a1e621a",
+      "language": "en",
+      "utterances": [
+        "Google's business model in contrast is about selling the information about the user, so they'll - an advertiser will be given a better chance of getting the attention of the audience.",
+        "In the last few years, the smartphone has given Google a hard time.",
+        "Yes, more than a billion people use the company's Android operating system, but revenue per user has gone down at times.",
+        "People are listening to Coldplay on Spotify, not visiting a search page.",
+        "Dediu says the personal assistant is Google's big move to reinsert itself.",
+        "Aarti Shahani, NPR News, San Francisco.",
+        "Donald Trump had pledged to support the eventual Republican nominee, whoever it is.",
+        "But last night on CNN, when Trump was asked if he's still honoring that pledge, here's what he said.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "No, I don't anymore.",
+        "Look.",
+        "You don't.",
+        "No. We'll see who it is.",
+        "NPR political editor Domenico Montanaro joins us now to help figure out what's going on here.",
+        "(Laughter).",
+        "Welcome to the studio, Domenico."
+      ]
+    },
+    {
+      "dialogue_uid": "05834ced-7704-4a3e-9d6c-52875f4eb444",
+      "language": "en",
+      "utterances": [
+        "Good afternoon.",
+        "So Donald Trump actually struggled with this question at the beginning of the campaign but eventually settled on saying that he would support the nominee whoever it was.",
+        "So take us back.",
+        "What happened here?",
+        "That if somebody doesn't want their baby, the doctor can kill the baby before he's even born.",
+        "And how did you feel when you found out about that?",
+        "Well, exactly.",
+        "You mention statistics, and while you can actually work the statistics in almost any direction you'd like, the fact is that crime is considerably down not only in the past year in Washington, but really quite dramatically over the last five to ten years.",
+        "And so what we're seeing now is the annual blip in mid-summer crime.",
+        "And also we are seeing a bit of a change in that there are more robberies in some very prominent places, especially where tourists go - along the National Mall, where there've been some very disturbing robberies and particularly a murder in Georgetown, a wealthy white neighborhood where a young white man was killed -and that has raised a whole bunch of race and class issues here in Washington, a majority black city where most of the homicides victim - most of the homicide victims and major crime victims are black.",
+        "So why is it now that only when there's some prominent crimes that get a lot of attention where the victims are white that it's suddenly a crime emergency?",
+        "This has been a very divisive issue here, and actually, when you look at the statistics, it really is hard to justify the crime emergency except for the fact that this is an election year and politicians and police chiefs like to be seen as taking decisive action.",
+        "Doing something even if that something may be, as you suggest, counterproductive.",
+        "Well, the measures that the city has now agreed to take to fight this crime emergency are kind of the usual grab-bag of stuff, but also some new intrusions on civil liberties, such as using surveillance cameras, which are already quite prominent in Washington in the touristy and office parts of town, pushing those out into the residential neighborhoods where, I have to admit that people in those neighborhoods are clamoring for that.",
+        "They think that the surveillance cameras will help them.",
+        "But the record so far is that neither the cameras nor a midnight curfew for young people has done anything to stop the stem - to stem the tide of violence.",
+        "So now that the proposal is to move the curfew up a couple of hours to 10:00 p.m., it's really not clear that that will do anything."
+      ]
+    }
+  ]
+}

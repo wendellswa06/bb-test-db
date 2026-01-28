@@ -1,0 +1,111 @@
+{
+  "challenge_uid": "f69b3cc0-284a-4440-a2a5-361ca14da3b0",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "62f3c96e-0771-4732-ade3-c0c4ce2ab246",
+      "language": "en",
+      "utterances": [
+        "The contract covers only about 750 dock clerks, but 15,000 longshoremen had vowed to honor their picket lines had a strike occurred.",
+        "Scott Horsley, NPR News.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Robert Siegel.",
+        "Bruce Jacob had a problem.",
+        "It was a musical problem.",
+        "And here was his musical solution.",
+        "(Soundbite of guitar)",
+        "Jacob is an associate professor of electrical and computer engineering at the University of Maryland.",
+        "And his new electric guitar just wouldn't give him all the different sounds that he wanted.",
+        "So, he used his knowledge of electronics to solve his problem by building his own guitar.",
+        "(Soundbite of guitar)",
+        "Bruce Jacob developed a guitar that could be switched back and forth through a range of sounds, all without any fancy pedals or add-ons.",
+        "(Soundbite of guitar)",
+        "Professor Jacob, with the help of some his students like graduate student Joe Gross, turned this idea and this guitar into a business."
+      ]
+    },
+    {
+      "dialogue_uid": "3f53b46e-75cd-4fa0-965d-4d9273525143",
+      "language": "en",
+      "utterances": [
+        "Joe was looking over my shoulder and said, you know, a lot of people are going to want that.",
+        "He made me realize this is actually a product.",
+        "(Soundbite of laughter)",
+        "Yeah, I mean I was coming into his office and I saw him trying to figure how to do some circuits for a guitar.",
+        "And I stepped in and said, you know, it'd be interesting to try this approach or that approach to it.",
+        "And the point here is from one guitar, you would get many different tones or the possibility of many different kinds of tone.",
+        "Yes, that's the whole idea.",
+        "And the key technical idea here, what did you do that's the fundamental technological advance?",
+        "We're, we're just using switches in a slightly different way than people have used them before.",
+        "Well, we brought in our engineer Brian Jarboe, who is a good guitarist.",
+        "(Soundbite of laughter)",
+        "I try."
+      ]
+    },
+    {
+      "dialogue_uid": "84f950a2-76a7-49b9-b933-47acd9432111",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "Show us some different tones that Brian can get out of the guitar.",
+        "And how it can sound like, well, more than one electric guitar.",
+        "Well, yeah.",
+        "I mean, I like the fact that you can have all that in one because if I want all these different sounds, then I'm going to have to lug two or three guitars to a gig.",
+        "It would be nice to just be able to, have to take one.",
+        "(Soundbite of laughter)",
+        "All right.",
+        "So what Brian's got is something with a dual switch configuration.",
+        "So, he's got two switches.",
+        "One of them is going to put coils into different series, parallel and out of phase settings.",
+        "And the other switch is going to go through five different coil combinations.",
+        "So, we'll start off with a bunch of series connections.",
+        "So, you're going to get five different big fat thick sounds.",
+        "So this...",
+        "(Soundbite of guitar)",
+        "...so this is the bridge, bridge humbucker basically.",
+        "(Soundbite of guitar)",
+        "Now take...",
+        "Humbucker...",
+        "Humbucker."
+      ]
+    },
+    {
+      "dialogue_uid": "e5573502-db86-48dd-8826-087ddf1e9921",
+      "language": "en",
+      "utterances": [
+        "...is a term of art...",
+        "It's a term of the - exactly.",
+        "It generally is - the connotation is that it's a big, fat beefy sound.",
+        "So, the next one is going to be the inner coils.",
+        "(Soundbite of guitar)",
+        "And the next one is going to be, I think the two north coils.",
+        "So, two bridge coils.",
+        "(Soundbite of guitar)",
+        "The next one will be the outer coils.",
+        "(Soundbite of guitar)",
+        "And then the last one is going to be the neck humbucker.",
+        "(Soundbite of guitar)",
+        "Big and fat.",
+        "Now we're going to have five different parallel sounds, so very Strat-ish.",
+        "This is the bridge coils in parallel.",
+        "So like..."
+      ]
+    },
+    {
+      "dialogue_uid": "b0139b33-b4c8-4c5d-99c3-fb429f43b04d",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of guitar)",
+        "...parallel humbucker.",
+        "This is going to be the inner coils.",
+        "(Soundbite of guitar)",
+        "The next is going to be northward coils.",
+        "(Soundbite of guitar)",
+        "And the next will be outer coils.",
+        "(Soundbite of guitar)",
+        "And the last will be the coils of the neck humbucker.",
+        "(Soundbite of guitar)",
+        "Cool."
+      ]
+    }
+  ]
+}

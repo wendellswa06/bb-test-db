@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "e6ec46bb-5b14-417b-bb70-67322d2788fe",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "b7623aed-b26f-415a-b682-55c41571da5e",
+      "language": "en",
+      "utterances": [
+        "Later and litter.",
+        "Aha.",
+        "Rouse, to rouse from sleep, and a witch.",
+        "This is SCIENCE FRIDAY; I'm Ira Flatow.",
+        "The 2012 Nobel Prizes were announced this week in Stockholm, and groundbreaking research on stem cells, cloning, cell receptors and quantum optics, yeah, claimed the honors this year.",
+        "The physics prize was awarded to French physicist Serge Haroche and American David Wineland of the National Institute of Standards and Technology and the University of Colorado.",
+        "The two scientists won for their work in quantum optics, investigating how atoms interact with particles of light, and their research on these bizarre quantum effects could give rise to super-precise clocks and powerful quantum computers.",
+        "Here to help us understand more about this wacky world of quantum optics is Seth Lloyd, professor of mechanical engineering at MIT in Cambridge.",
+        "Welcome to SCIENCE FRIDAY.",
+        "Howdy, Ira.",
+        "Let's start with what they won for.",
+        "I mean, they won for being able to make a very precise, at least Wineland did, quantum clock.",
+        "Would that be correct?",
+        "Well, so they won for using light to interact with matter and with atoms and having the light behave in a quantum mechanical fashion and the atoms behave in a quantum mechanical fashion.",
+        "I kind of think of them as some kind of like, you know, atom wranglers, you know, herding those photons and those atoms around and getting them to strut their quantum stuff in the right way.",
+        "And so you could actually make use of those atoms?",
+        "Exactly, so, you know, people have been addressing atoms with light for a long time, like the laser, the previous conversation that you were having, lasers and laser diodes.",
+        "You know, people have been making atoms and light interact forever.",
+        "But they have had a hard time getting them to work together in larger and larger numbers.",
+        "And I'd say that Serge Haroche and Dave Wineland are, you know, master atomic wranglers, wrangling those atoms and light and getting those dogies, those quantum dogies along the trail to build better clocks, more sensitive detectors, all kinds of funky new stuff."
+      ]
+    },
+    {
+      "dialogue_uid": "03bd1231-9770-401d-95a8-7f970365e06d",
+      "language": "en",
+      "utterances": [
+        "And so by being great quantum cowboys, how can they test the laws of quantum mechanics using techniques that they did?",
+        "Well, so an example where they got a lot of quanta to behave in a very, particularly funky way is - comes from famous quantum mystery, and a quantum example that Erwin Schrödinger came up with in the 1930s.",
+        "And he noted that well, you know, it's OK for an atom or a particle of light in quantum mechanics to be two places at once, you know, to be here and to be there simultaneously.",
+        "Yeah, it's kind of hard to imagine, but, you know, it's just an atom after all, it's very tiny.",
+        "But if you could somehow couple this to something bigger in the world so that atom over here set off a train of events that ended up breaking a vial of poison and killing a nice cuddly cat, whereas atom over there left the cat alone, then you could create a funky quantum state of cat alive and cat dead at the same time - the so-called Schrödinger's cat paradox.",
+        "And, well, I mean, let's suffice it to say that if the SPCA had their way, they wouldn't let this happen.",
+        "(LAUGHTER)",
+        "But both Wineland and Haroche managed to get not full cats, but basically herds of photons, particles of light, and herds of phonons to behave in this way.",
+        "So the whole herd of photons was, you know, over here and over there simultaneously, or the phonons were over here and over there, simultaneously.",
+        "They called these things Schrödinger's kittens.",
+        "But they are - you know, though they're not, you know, full-blown cats alive and dead at the same time, they are still pretty macroscopic things in the quantum sense, being here and there simultaneously.",
+        "And so what is the connection, the practical use that they turned these into ultra-precise clocks?",
+        "So it turns out that these kinds of Schrödinger's cats and Schrödinger's kittens are exquisitely sensitive to their surroundings.",
+        "So Haroche pointed out that, you know, if you're interacting with the environment that having a Schrödinger's kitten, where you have a whole herd of photons over here and there simultaneously, that, you know, it interacts N times faster or more powerfully with the environment, where N is the number of photons, than it would if it were just some ordinary, you know, non-funky quantum state.",
+        "And Dave Wineland and his colleagues at NIST use this same effect to construct atomic clocks that were exquisitely sensitive to time.",
+        "So somehow having a Schrödinger's cat state of atoms in an atomic clock makes that state able to chop up time into much more precise bins than it could if you had just an ordinary classical kind of state."
+      ]
+    },
+    {
+      "dialogue_uid": "eeba89e5-a1ae-4a7d-98f8-0acb6e8f1a50",
+      "language": "en",
+      "utterances": [
+        "These are not the kind of clocks we're going to have on our mantelpieces, I imagine.",
+        "Well, ironically many of us have them in our pockets, because this is the basis for GPS.",
+        "So if you have a smartphone that uses GPS, by gum, you actually really have, effectively, an atomic clock in your pocket because the GPS system takes signals from atomic clocks at NIST, the National Institute for Standards and Technology in Boulder, and these clocks - atomic clocks hurdling through space and broadcasts them to your GPS receiver to tell you where you are in space and time, to an accuracy of a meter or so in space and to the accuracy of a billionth of a second in time.",
+        "So, you know, I mean, you've actually got one already.",
+        "All right, I'm glad to hear that.",
+        "We can all be part of the Nobel party this week, then.",
+        "(LAUGHTER)",
+        "Exactly.",
+        "At least if there's a proper app for it.",
+        "(LAUGHTER)",
+        "All right, Seth, thanks for taking time to talk with us today.",
+        "Thank you very much, Ira.",
+        "Seth Lloyd is professor of mechanical engineering at the Massachusetts Institute of Technology in Cambridge."
+      ]
+    },
+    {
+      "dialogue_uid": "161ba78b-1016-4056-b3d6-ae5962cfcd96",
+      "language": "en",
+      "utterances": [
+        "Continuing on our look at the newest Nobel Prize winners, this year's prize in medicine is shared by British scientist John Gurdon and Japanese scientist Shinya - Shinya Yamanaka.",
+        "This groundbreaking research has changed our understanding of how cells and organisms develop.",
+        "In 1962, Gurdon became the first person to clone an animal, after he produced tadpoles from the cells of a mature frog.",
+        "I would say waked and wicked?",
+        "It's almost.",
+        "It has to be a two-syllable word.",
+        "You're close.",
+        "Waken and Wiccan.",
+        "Yamanaka expanded these findings a couple of decades later, by pinpointing how adult cells could be converted back to primitive stem cells.",
+        "And here to clue us in on the cloning and the work by Gurdon and Yamanaka is David Scadden.",
+        "He is co-director of the Harvard Stem Cell Institute at Harvard.",
+        "He's joining us today from Cambridge.",
+        "Welcome to the program.",
+        "Thank you very much.",
+        "Interesting stuff and deserving, David?",
+        "Oh absolutely.",
+        "I think this really turned the sense - the identity of cells on its head, actually.",
+        "Well, tell us why.",
+        "Well, you know, cells in general are thought to go from a very unspecialized state, like a stem cell, to become a more highly specialized cell like the cell that might be the liver cell or skin cell or brain cell that we think of as sort of the business end of an organ."
+      ]
+    },
+    {
+      "dialogue_uid": "de928772-a4da-4193-8309-e9f11cb3e25f",
+      "language": "en",
+      "utterances": [
+        "And that was thought to be something that happened in kind of one direction, that cells got more mature and more specialized, just to some extent, like we do as people.",
+        "And so it had an intuitive logic to it.",
+        "And what Gurdon showed, and then finally Yamanaka showed anyone, actually any laboratory essentially in biology can do any day of the week, is that you can actually reverse that.",
+        "You can rewind and get cells to go all the way back to becoming a very primitive cell type with essentially unlimited capability.",
+        "Were people kind of skeptical of Gurdon's work when it happened?",
+        "Well, you know, it's interesting.",
+        "Gurdon was looking at a very different kind of question.",
+        "Gurdon was working in the late '50s, and the structure of DNA had just been defined in the '50s, and people couldn't measure more than just the rough amount of DNA.",
+        "It was known that it was probably the stuff that was the language of life, but how it actually got communicated into the way a cell functioned wasn't clear.",
+        "And so it was thought that maybe during the specialization process of a cell that perhaps parts of the DNA changed.",
+        "Maybe some of them got kicked out, maybe some of them got replicated, and so Gurdon said, well, maybe I can test that by taking the nucleus, which he knew contained the DNA, and putting it into an unfertilized egg and seeing now whether the DNA that had previously told the intestinal cell of the frog to be an intestinal cell, to see if it could turn into something else.",
+        "And the egg educated it to go all the way back and actually become anything, and it became a whole frog.",
+        "Wow, and we really never talked about much of this, or heard much about this, until the cloning of Dolly by Ian Wilmut.",
+        "Exactly.",
+        "Yeah.",
+        "So decades later, in part, because, I think, of the nature of the question being asked, and I think Gurdon himself didn't really think of it as much in the terms of it being a cloning process as a demonstration that DNA is stable.",
+        "And he published it in a fairly obscure journal.",
+        "He was a young guy and, I think, you know, kind of fell off the map.",
+        "It was something that was interesting, in frogs, for developmental biologists, but it didn't really have clear implications for people.",
+        "Mm-hmm.",
+        "And so how did Gurdon and Yamanaka's work influence the research being done by you and your colleagues at Harvard Stem Cell Institute?"
+      ]
+    }
+  ]
+}

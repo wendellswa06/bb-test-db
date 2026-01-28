@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "144e9eca-9b8e-4489-8eb5-e9b687cf8ce3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "175d89c7-303f-473d-a8eb-44d60e36e4b4",
+      "language": "en",
+      "utterances": [
+        "Right.",
+        "Well, let me just (Laughing).",
+        "In my field, I'd like to see more drugs for cancer treatment and better ways to prevent cancer.",
+        "How many times do you get asked when are we going to find a treat - a cure for cancer?",
+        "Well, I get asked pretty often but, you know, I think it's a question that's worth pursuing.",
+        "What don't we know yet?",
+        "Yeah, well at this moment...",
+        "What don't we know about cancer that we need to know?",
+        "Well, one surprisingly simple thing we don't know yet, but we are rapidly learning, is the full repertoire of genetic damage that's occurred in a cancer cell.",
+        "We know the principles.",
+        "We know some of the damage.",
+        "We've learned how understanding that damage can lead to better therapeutics and - but we've also only in the last few years had the tools for analyzing a cell's genome - the complete collection of genes that would allow us to develop a sophisticated and complete picture of what's wrong with a cancer cell.",
+        "I think that's - and you know, in saying that, I have to emphasize that what's wrong with the question when we're going to cure cancer is that cancer is not one disease.",
+        "It's many different diseases arising in many different tissues.",
+        "Right.",
+        "And that's one of the things we learn from the genetic analysis."
+      ]
+    },
+    {
+      "dialogue_uid": "68386447-6591-429f-9c59-93d538b3683f",
+      "language": "en",
+      "utterances": [
+        "Well as president of Memorial Sloan-Kettering, I give you the blank-check question that I give scientists sometimes, which is - if you had a blank check, how would you spend it on cancer research?",
+        "What would you be wanting to focus in on?",
+        "Well, look, there's no one thing that you focus in on because cancer is a complicated problem.",
+        "There are many different cancers.",
+        "I think many of the things that are being done can be done more rapidly, that only means expanding the budget for certain things of that kind.",
+        "I've given you a blank check.",
+        "Yeah, you know, the blank check is…",
+        "Is it not the right question?",
+        "It's not the right question because, for better or for worse, there are things that money can't buy.",
+        "One of them is genius, and having brilliant people working on problems and having ideas, having the leisure - an escape from grant writing to actually do the work that they're supposed to do - these are the things that create opportunity for the leaps of genius that get us where we want to be.",
+        "There are some other things that are obviously important that are simply going to be expensive and require training of clinical investigators, and the most obvious is just doing more clinical trials.",
+        "We have a lot of new drugs coming through the pipeline.",
+        "Testing those drugs appropriately, having incentives for doctors to conduct clinical trials and patients to enter them - very important.",
+        "We've made a lot of progress in pediatric cancer for a very - to a very large extent because virtually all pediatric patients were at academic health centers.",
+        "They were encouraged to enter clinical trials, and we made a lot of progress.",
+        "All right.",
+        "Let me just remind everybody that this is Science Friday from NPR News.",
+        "I'm Ira Flatow talking with Doctor Harold Varmus, author of \"\"The Art and Politics of Science.\"\" There's so much more we could have talked about, but you did raise an interesting point about - you can throw just so much money at a problem, and it boils down to genius - the 1 percent inspiration, 99 percent perspiration argument.",
+        "How much of science is actually just sitting and thinking of the right thing to know or the right test to conduct?",
+        "That's a very significant part.",
+        "That's it."
+      ]
+    },
+    {
+      "dialogue_uid": "f83abb14-a42d-44b3-bfb9-aa5b66010270",
+      "language": "en",
+      "utterances": [
+        "I've seen the same audiences, when they're told about what the deficits look like, how they've been growing and what ought to be done, there's enthusiasm for addressing these problems.",
+        "I mean, there seems to be some disconnect between - at least what people say they want Washington to do and the message that politicians you say they lack the will, but it seems to be what they've measured in the way of real public sentiment as to what people really want to see done.",
+        "Police arrest Florida man for drunken joy ride on motorized scooter at Wal-Mart.",
+        "And there is still a lot of perspiration.",
+        "We - I think most people in the scientific community agree now that even in academia, a lot of fairly straightforward, predictable work that may have unpredictable conclusions need to be done.",
+        "Sequencing, determining the complete nucleotide sequence of the entire set of chromosomes in a variety of different cancers, is going to yield very interesting information.",
+        "We've only achieved that with a few cancers so far.",
+        "And that, right now, is perspiration, not inspiration, but the analysis does require a very high degree of inspiration.",
+        "But I think - I mean, we have problems that we all can define - for example, there are a few genes that we know about that are mutated on a very high percentage of cancers, and yet we have no way to interrupt the activity of those genes.",
+        "Because?",
+        "Hmm?",
+        "Because?",
+        "We just don't know how to do it.",
+        "We don't know how to do it.",
+        "And...",
+        "We know the mechanism that's involved?",
+        "We know how it…"
+      ]
+    },
+    {
+      "dialogue_uid": "162fec30-3967-41a7-8b43-5091f42aecb4",
+      "language": "en",
+      "utterances": [
+        "We know the mechanism.",
+        "We know how these - how the proteins work.",
+        "We know what proteins do, but we don't have a way to interfere with the signal that's emitted from that bad protein.",
+        "And you know what the signal is?",
+        "Yeah.",
+        "But, you know, this is a real challenge.",
+        "And if somebody could figure that out, that would probably affect our approach to treatment of about a third of human cancers.",
+        "You just - how to block the signal?",
+        "Right.",
+        "Is that a molecule for - you know, is that some sort of molecule?",
+        "Yeah, it's all happens as a result of one change in one of the 170-some building blocks of a protein, called the Ras protein.",
+        "And we know exactly what the effect of that change is.",
+        "We know the kind of signal.",
+        "We know what other proteins are affected by that single change.",
+        "We know that kind of change is found in about a third of all human cancers.",
+        "And yet, we don't know how to interrupt that.",
+        "I believe we'll get the answer to that in the next five, 10, 15 years.",
+        "But we've known a lot about this for 10 to 15, even 20 years, and still, it's an unsolved problem.",
+        "So, it's an engineering problem?",
+        "I don't think it is an engineering problem.",
+        "No?"
+      ]
+    },
+    {
+      "dialogue_uid": "47832c33-c827-4b76-bd06-fcebddd13b29",
+      "language": "en",
+      "utterances": [
+        "Engineering problems are problems that we, I think, understand the building blocks for…",
+        "Right.",
+        "Like getting to the moon, and then, you know, just matter of assembling the parts.",
+        "Here, I think somebody has to have a totally different idea about how cells work and how - I mean, one of the things that's happening as a result of our ability to assess virtually every component of a cell at once is - I mean, we could say it's appreciating the cell as a machine - throwing a wrench into one part might affect the functioning of another part.",
+        "Alright, Doctor Varmus, thank - we've run out of time.",
+        "I want to thank you very much for taking time - coming by again.",
+        "Ira, always a pleasure.",
+        "We'll have to have you back - maybe come back as a regular guest and to talk to us on a regular basis.",
+        "Be happy to do that.",
+        "Thank you.",
+        "Harold Varmus - \"\"The Art and Politics of Science,\"\" a great book.",
+        "Put it on that list for books for yourself.",
+        "We've run out of time.",
+        "(Soundbite of credits)",
+        "Surf over our Web site at sciencefriday.com.",
+        "We're podcasting and blogging and Twittering.",
+        "And our video Pick of the Week is up there.",
+        "We have a collection from Lamont-Doherty of the greatest mud samples in the world - the largest collection.",
+        "It shows some very interesting samples there.",
+        "Have a great weekend.",
+        "We'll see you next week.",
+        "I'm Ira Flatow in New York."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "challenge_uid": "381db71b-b3a6-4a65-9d02-08a26e85b3a8",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "17b25bdd-8013-4e04-9424-1d8825a98ebc",
+      "language": "en",
+      "utterances": [
+        "So what does the Fed use to determine whether inflation is really going up and how much?",
+        "Geeks, tech heads and open Internet advocates were on pins and needles all weekend.",
+        "They were waiting for an announcement between Google and Verizon that rumor had might change the Internet forever.",
+        "Well, that announcement came this afternoon.",
+        "And as NPR's Neda Ulaby reports, it wasn't quite what anyone expected.",
+        "(SOUNDBITE OF MUSIC)",
+        "You could almost hear the air of anticipation whooshing out of a telephone conference call with Google CEO Eric Schmidt.",
+        "(SOUNDBITE OF CONFERENCE CALL)",
+        "This is not a deal.",
+        "This is a joint policy announcement.",
+        "The deal reporters expected would let Google pay Verizon to get certain content online faster than its competitors.",
+        "Instead, Schmidt and his Verizon counterpart set forth a plan, a sort of statement of intent promising to maintain the Internet's openness and integrity.",
+        "(SOUNDBITE OF CONFERENCE CALL)",
+        "We enjoy August drama, but this is not our dramatic moment, I think."
+      ]
+    },
+    {
+      "dialogue_uid": "e36bd44a-64e7-41d4-b586-de28e1c95cdf",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF LAUGHTER)",
+        "August drama, I don't know.",
+        "Siva Vaidhyanathan is a professor of media studies and law at the University of Virginia.",
+        "He was on the conference call, too.",
+        "It was no \"\"Mad Men.",
+        "(SOUNDBITE OF \"\"MAD MEN\"\" THEME SONG)",
+        "But just like that hit cable drama about ad men in the 1960s, there's a backdrop of corporate control and intent that's not always crystal clear, despite Schmidt's repeated assurances of transparency.",
+        "Vaidhyanathan says this is the problem.",
+        "All of these companies have short term vested interests in maintaining their power.",
+        "Verizon always wants to be Verizon.",
+        "Google will always want to be the biggest company on the Web.",
+        "So he's a little suspicious at the deals these companies cut and how they might try to influence policy.",
+        "Because, fundamentally, Google doesn't work for you or me and Verizon certainly doesn't work for you or me.",
+        "Nevertheless, Google's Eric Schmidt today laid out a set of principles, including preserving an open Internet."
+      ]
+    },
+    {
+      "dialogue_uid": "6c971558-9f52-4643-8389-212615cf033c",
+      "language": "en",
+      "utterances": [
+        "Our proposal would establish a new and enforceable prohibition against discrimination for wire-line broadband Internet services.",
+        "He's talking about what's called Net neutrality, making sure all applications and all users are treated equally, without the companies that sell us access blocking or slowing down content.",
+        "But Schmidt specifically said wire- line, not wireless, which would mean smartphones, for example.",
+        "Unlike your desktop, those have restrictions on which applications you can use.",
+        "That worries Siva Vaidhyanathan.",
+        "As we shift more and more of our use to these smaller mobile devices, we want to make sure that the next YouTube and the next Skype can arise in this new environment.",
+        "A new environment that may not have the kind of Net neutrality that fostered the Internet we're used to.",
+        "But Adam Thierer takes a different point of view.",
+        "He's the president of the Progress and Freedom Foundation, a think tank that looks at the Internet revolution from a free-market perspective.",
+        "He wonders why the Internet should be different from any other industry.",
+        "From airlines where you have first class versus coach, to hotels where you have nice rooms versus smaller ones, it just means that it's not as special as the premium offering.",
+        "But access to information is different from access to hotels, says Professor Siva Vaidhyanathan.",
+        "And he hopes the Federal Communications Commission takes that into account.",
+        "If the FCC uses this agreement between two private companies as a template for public policy, we are just going to essentially allow for a whole lot of top-down control in the very areas where use seems to be moving.",
+        "Neda Ulaby, NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "dc66f870-3aa5-4046-aa4a-5541d2612d53",
+      "language": "en",
+      "utterances": [
+        "Welcome back to ALL THINGS CONSIDERED from NPR News.",
+        "I'm Guy Raz.",
+        "Danvers, Massachusetts, has known persecution and authoritarianism before.",
+        "The small town was at the center of the Salem witch trials in the 1690s.",
+        "When locals petitioned King George for a town charter, the English sovereign rejected it and wrote back, the king unwilling.",
+        "This week, another unwilling administrator dealt a blow to a certain population of Danvers.",
+        "Thomas Murray, principal of Danvers High School banned this word:",
+        "(Soundbite of cartoon)",
+        "Meep, meep.",
+        "That's right, the word meep.",
+        "That was the Road Runner.",
+        "The word is also the sum total of the Muppet Beaker's entire vocabulary.",
+        "(Soundbite of Beaker meeping)",
+        "Mike Spiewak is a senior at Danvers High School and he helped popularize the seemingly innocuous word, and he's on the line with us now.",
+        "Hi, Mike.",
+        "Hi."
+      ]
+    },
+    {
+      "dialogue_uid": "a5577f5f-0f5c-4eb4-a8a6-51ed4d3c8da5",
+      "language": "en",
+      "utterances": [
+        "Why are students at Danvers using the word meep?",
+        "Well, it started off as, you know, just being a little joke between friends.",
+        "Well, did you pick it up from Beaker or the Road Runner?",
+        "No.",
+        "Actually, my friend Alex, he picked it up on Xbox LIVE.",
+        "He was in a party with a couple of kids playing Call of Duty last year.",
+        "One of the kids that were in the party, you know, he said meep and, you know, Alex picked it up and we started using it.",
+        "So, what are a few examples of how you would use the word meep?",
+        "Well, you can just say meep being a one-word sentence.",
+        "You can say how the meep are you?",
+        "Shut the meep up.",
+        "Now, that sounds like a substitute for another word, a not-so-friendly word that some of our listeners might be familiar with.",
+        "Thanks for explaining it.",
+        "You're welcome.",
+        "My wish would be that the government would allocate my mother some other place to reside in, and dispose of that land to maybe one of the indigenous communities.",
+        "But not to the murderers, they should not be allowed to benefit out of it."
+      ]
+    }
+  ]
+}

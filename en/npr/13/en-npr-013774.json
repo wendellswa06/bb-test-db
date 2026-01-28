@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "31d2a766-ae79-42d0-91ce-d32358bc7b97",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "9d0dec2a-f9bd-4762-bcf3-29a1a362571e",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF SNACKWELLS AD)",
+        "The key thing is that we check every zip code, every postal code in the United States and Canada, every cable provider, every satellite provider and know exactly what games are on each person's TV.",
+        "And then RUWTbot, our game-watching, slightly militant robot that you mentioned earlier, watches every single game, from Mexican soccer to professional football to women's college basketball and is able to rate them by looking for certain patterns in the statistics and box scores that determines if the game is exciting or not.",
+        "Now, I'm guessing, for example, let's talk about the New England Patriots versus the Miami Dolphins game.",
+        "Sure.",
+        "This would not seem to be of a lot of obvious interest because, obviously, the Patriots haven't lost a game and the Dolphins have one, I believe, one game, if I'm not mistaken.",
+        "Just one.",
+        "But on the other, what?",
+        "If it gets to the third quarter and the Dolphins are ahead, you start alerting people?",
+        "I would think so.",
+        "RUWTbot will probably start giving its roots because it would be an upset.",
+        "Once you get to the third and fourth quarter, that somewhat surprising, and therefore, most likely, it's going to be an exciting game.",
+        "It's been almost an interesting philosophical problem with sports, which I haven't really run into before in trying to train RUWTbot to find the exciting games.",
+        "So let's say there's an NBA game that's tied with 30 seconds to go and there's a WNBA game that's tied with 30 seconds to go, should those be rated the same level because more people watch the NBA versus the WNBA?",
+        "Oh, you're opening a door there.",
+        "Exactly.",
+        "It's very tricky.",
+        "So the poll plan with RUWTbot is to make sure that he stayed objective.",
+        "And so a game in the beginning of the season versus the end of the season, NBA versus WNBA is all treated the same, but that's where the fans come in.",
+        "RUWTbot's job is to be objective, but the fans are able to root for games as well and they're extremely subjective.",
+        "RUWTbot doesn't understand Yankee's Red Sox or Texas-OU.",
+        "And that way with the objective RUWTbot plus the subject of fans, we usually get a pretty good signal."
+      ]
+    },
+    {
+      "dialogue_uid": "d3885125-da6a-4605-9fa9-e242bc38813e",
+      "language": "en",
+      "utterances": [
+        "How do fans affect it?",
+        "So RUWTbot is trained to look for different patterns and statistics and so he'll add a certain amount of points if he finds a perfect game or an upset, things like that.",
+        "Because it's objective, we want fans to come in and be subjective to identify those things that RUWTbot can't see, like a big brawl or big rivalry.",
+        "So fans, if they're watching a game that they think is exciting - and actually, a lot of times we'll do this before a game even starts - they will be able to root for game as well so they can contribute five roots to a game or 10 roots a game that way RUWTbot can have his opinion put but so can sports fans as well who are being a lot more subjective than he is.",
+        "Mr.",
+        "Phillip, people pay for this service.",
+        "It's solely free.",
+        "How do you make any money?",
+        "My funding so far has been from American Express, Chase, Capital One, and pretty much anyone else who feels like giving me a credit card.",
+        "But the Holy Grail is getting this onto TVs, DVRs and TiVos.",
+        "If I could be watching \"\"Braveheart\"\" for the umpteenth time and get a little alert that says, hey, there's a no-hitter on ESPN right now, hit select to change that channel now -or even better, if I'm out and I can tell my TiVo I like ACC basketball, SCC's football, the Yankees, the Colts and the Red Wings start recording anytime, anything interesting happens.",
+        "In my fantasy world, I hope that it will be on the TiVo one day where you can pay 99 cents, $1.99 a month and make your TiVo or DVR truly smart and understands sports.",
+        "Mr.",
+        "Phillip, been a pleasure talking to you.",
+        "Thanks for having me.",
+        "I appreciate it.",
+        "I think you've just unveiled your business plan on our program so thank you.",
+        "It's hard to know what Ahmad Shawkat would have made of last week's parliamentary elections in Iraq: happiness, perhaps, at the exercise of democracy, or maybe despair at the number of votes for sectarian and ethnic parties.",
+        "Ahmad Shawkat was among those Iraqi intellectuals who thought about his country's future while he was a professor in his hometown of Mosul, when he was in Saddam's torture chambers during years of internal exile in Iraq, and when he spoke after the invasion of Iraq about his countrymen and democracy with reporter Michael Goldfarb."
+      ]
+    },
+    {
+      "dialogue_uid": "a138a5ee-0805-4f52-bdff-5029ae4ad360",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of documentary)",
+        "They don't know how to have a clear dialogue between themselves or how to deal with the other countries, how to deal with the other peoples, how to deal--how to negotiate between themselves.",
+        "I hope I will be able to do something.",
+        "The life and death of Ahmad Shawkat is the subject of both the documentary film from which we took that excerpt and from Michael Goldfarb's book \"\"Ahmad's War, Ahmad's Peace: Surviving Under Saddam, Dying in the New Iraq.\"\" Many of you will remember Michael Goldfarb as NPR's correspondent in London and points abroad for many years.",
+        "And he joins us now from the studios of the BBC's Broadcasting House in London.",
+        "Michael, good to talk to you.",
+        "Nice to talk to you, Neal.",
+        "You described Ahmad as a man who spent his whole life arguing.",
+        "What do you mean by that?",
+        "He was just one of nature's argumentative souls.",
+        "We all know people like this.",
+        "You know, he's the guy who sees things very clearly and has a kind of purity of vision that when he sees the inevitable compromises that come with daily life, he argues about it.",
+        "And you know, this is not the truth anymore.",
+        "He was a grassroots politician, but he himself knew that he was like the most impolitic person going.",
+        "So we're all in the UC system.",
+        "We're all undocumented.",
+        "My sister was three when she came.",
+        "My brother was, like, four-and-a-half.",
+        "So we're American in every sense of the word, and obviously, we got into good schools and we're trying to make it here.",
+        "And a number of experts says that in trying to address one problem - heart disease - by removing fat, the original dietary guidelines actually made things worse.",
+        "There were definitely unintended consequences of the original guidelines."
+      ]
+    },
+    {
+      "dialogue_uid": "5c229e48-7aec-4f35-bf3b-d5723ac3a6a0",
+      "language": "en",
+      "utterances": [
+        "That's Mary Flynn, a professor of medicine at Brown University.",
+        "And she says over the last 40 years, research has shown that the fat people have been trying so hard to avoid is not the enemy it was thought to be.",
+        "There's been a number of studies done, and there's been no benefit for low-fat diets to lead to better weight loss, and there's no benefit for low-fat diets to lead to less disease.",
+        "What's clear now, she says, is that avoiding fat is not the key to a healthy diet.",
+        "Allison Aubrey, NPR News.",
+        "(SOUNDBITE OF MUSIC)",
+        "Monday, Allison reports on why eating some fats can be good for you.",
+        "(SOUNDBITE OF MUSIC)",
+        "It's MORNING EDITION from NPR News.",
+        "You, me and baker's yeast.",
+        "We all have something in common - a common ancestry.",
+        "NPR's Nell Greenfieldboyce reports on a new study that shows us how much.",
+        "On the surface, yeast and humans look pretty different.",
+        "Humans look like, well, you.",
+        "Meanwhile, if you rip open a package of yeast, you'll see dry, brown granules.",
+        "Biologist Edward Marcotte studies yeast at the University of Texas at Austin.",
+        "He says on a lab dish yeast grows in colonies that look like little gooey white dots.",
+        "And through a microscope...",
+        "If you look down at an individual cell, it'll look kind of like a little ball.",
+        "So if you imagine kind of a relatively smooth, slightly dimpled little golf ball, you'd have a pretty good idea for what a yeast cell would look like."
+      ]
+    },
+    {
+      "dialogue_uid": "4272bb8f-2b91-4adc-b7f4-983f7ea9d0b0",
+      "language": "en",
+      "utterances": [
+        "He says that single cell, that microscopic golf ball, is your cousin.",
+        "Distant, distant cousin a billion years removed, but nonetheless, your cousin, which is an amazing thing.",
+        "Marcotte says humans and yeast share thousands of similar genes, but he wondered, how similar are these genes really?",
+        "You know, we've been separated by a billion years of evolution.",
+        "Do those genes really work the same way?",
+        "He figured the best way to answer that question would be to try swapping them - disable a gene in yeast, replace it with the human version of that gene and then see if the yeast can survive.",
+        "Scientists had done this already with some individual genes, but Marcotte wanted to test a lot more, about 500 key genes that yeast need for life.",
+        "And there's a postdoc in my laboratory named Aashiq Kachroo who was willing to tackle this slightly insane project.",
+        "It was a brute force effort that took about three years.",
+        "And here's the result...",
+        "Roughly half of them, we could replace the yeast genes with the human DNA, and the yeast were just fine.",
+        "It turns out, for some jobs in the cell, it was like a billion years didn't matter.",
+        "For example, the researchers looked at a whole bunch of genes involved in manufacturing cholesterol, which cells need to keep their shape.",
+        "Marcotte says almost all of the human genes for that worked perfectly in yeast.",
+        "Humans and yeast are doing not only the same thing as each other, but the same thing that their last common ancestor a billion years ago was doing, and it's changed remarkably little over all of that time."
+      ]
+    }
+  ]
+}

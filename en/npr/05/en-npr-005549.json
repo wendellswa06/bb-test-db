@@ -1,0 +1,124 @@
+{
+  "challenge_uid": "b24c2aee-60be-461c-929d-80571578801d",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0adb9684-1c23-4659-affc-324efa58e483",
+      "language": "en",
+      "utterances": [
+        "John McCann is a columnist for the Herald-Sun in Durham, North Carolina.",
+        "This is NPR News.",
+        "This is WEEKEND EDITION from NPR News.",
+        "I'm Rachel Martin.",
+        "Quick - do some brain stretches because it is time for the puzzle.",
+        "(SOUNDBITE OF MUSIC)",
+        "And joining me now is WEEKEND EDITION's puzzle-master Will Shortz.",
+        "Good morning, Will.",
+        "Good morning, Rachel.",
+        "OK.",
+        "So, you got us thinking about five words for last week's challenge.",
+        "Remind us, what were those words?",
+        "Yes.",
+        "Those five words were school, half, cupboard, Wednesday and friend.",
+        "And the challenge was to identify what specific and unusual property these five words have in common.",
+        "And I asked you to, if you get the answer, to name a sixth word that shares the property.",
+        "Well, the property is, of course, it each has a silent letter.",
+        "It's more than that - it's always the third letter that's silent.",
+        "And in addition, if you remove that third letter, what's left will always, in each case, is pronounced the same.",
+        "And other possible answers were salmon, debt, juice, subtle and aghast.",
+        "OK.",
+        "So, about 500 of our listeners figured that out, and our randomly selected winner this week is Steve Worona of Montpelier, Vermont.",
+        "Congratulations, Steve.",
+        "Well, thank you."
+      ]
+    },
+    {
+      "dialogue_uid": "14e76d88-4e91-4736-ba47-7c0cb8a96e9e",
+      "language": "en",
+      "utterances": [
+        "OK.",
+        "So, what was the sixth word with the silent third letter you came up with?",
+        "I said to myself silent letters - what word has a lot of silent letters?",
+        "And hopefully one that I came up with would have a silent letter in the third spot and enough did.",
+        "OK.",
+        "And what was that sixth word?",
+        "Enough.",
+        "Enough, yeah.",
+        "Will, what's the verdict?",
+        "Do you accept that?",
+        "Enough is perfect.",
+        "OK.",
+        "Good for you, Steve.",
+        "Thanks.",
+        "And what do you do in Montpelier?",
+        "Well, I am retired."
+      ]
+    },
+    {
+      "dialogue_uid": "9cd800f7-d717-47b1-b564-2baf40681f9d",
+      "language": "en",
+      "utterances": [
+        "Well, so you do a whole lot of whatever you want, I suppose.",
+        "That's right.",
+        "I retired from a position actually working down in the Beltway, where you guys are.",
+        "Well, good for you.",
+        "And I suppose you have more time now for puzzles.",
+        "Absolutely.",
+        "Great.",
+        "Well, let's put your skills to the test.",
+        "Steve, you ready to play?",
+        "I am.",
+        "All right.",
+        "Will, let's do it.",
+        "All right, Steve and Rachel.",
+        "Hope you have pencil and paper handy.",
+        "I'm going to give you two words - change one letter in each of them to make two new words that name things that are in the same category.",
+        "And here's a hint: in each pair, the letter that you change to - that is the new letter or the replacement letter - is the same in each pair.",
+        "For example, if I said: poked P-O-K-E-D and tummy T-U-M-M-Y, you would say poker and rummy, changing both the D in poked and the T in tummy to Rs.",
+        "Got it.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "a9358d41-425a-4ca8-8e46-cc8c2eddcf08",
+      "language": "en",
+      "utterances": [
+        "OK.",
+        "That makes one of us.",
+        "All right.",
+        "Let's try.",
+        "Number one is venue V-E-N-U-E and mark M-A-R-K.",
+        "Venue and...",
+        "Mark M-A-R-K.",
+        "Start with venue.",
+        "That's the more distinctive word.",
+        "What letter can you change to spell something else?",
+        "Venus and Mars.",
+        "Venus and Mars, excellent.",
+        "Well done.",
+        "Swelter S-W-E-L-T-E-R and pints P-I-N-T-S.",
+        "How about pines?",
+        "It's not pines, no. Start with swelter.",
+        "That's the harder word to change a letter in."
+      ]
+    },
+    {
+      "dialogue_uid": "b75b1e88-5372-455b-a926-ed533b0e9302",
+      "language": "en",
+      "utterances": [
+        "Smelter.",
+        "Not smelter.",
+        "Smeller.",
+        "Not that.",
+        "Oh, when it's cold outside we put these on?",
+        "Yes.",
+        "Sweater and pants.",
+        "Sweater and pants, good.",
+        "Your next one is grange G-R-A-N-G-E and mangy M-A-N-G-Y.",
+        "You said grange?",
+        "Yeah, G-R-A-N-G-E.",
+        "What letter do you think you'd change there?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "6f1bcb84-9abd-45e9-a261-5cd8bbea7aee",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "1f9ac82e-2409-4402-93a6-3f20581e770e",
+      "language": "en",
+      "utterances": [
+        "Joining me, as always, is Will Shortz.",
+        "He's puzzle editor of The New York Times and WEEKEND EDITION's puzzlemaster.",
+        "Will, good morning.",
+        "Good morning, Lulu.",
+        "Will you remind us of last week's challenge?",
+        "Yeah.",
+        "I said that the word inauguration contains the letters of a number of animals, a gnu, goat, iguana and agouti.",
+        "And I asked the name of what nine-letter animal can be spelled from the letters of inauguration.",
+        "And the answer is orangutan.",
+        "This week, we received over 2,000 correct responses.",
+        "And our randomly selected winner is Jim Frey of Edina, Minn.",
+        "Congratulations, Jim.",
+        "Thank you, Lulu.",
+        "Did you feel that this was an easy or a hard one?",
+        "I thought this one was a fairly easy one.",
+        "OK.",
+        "I understand, though, that you are a master of anagrams.",
+        "So you might be particularly suited for this particular challenge.",
+        "Well, I don't know that I'm a master..."
+      ]
+    },
+    {
+      "dialogue_uid": "4f1cb2f0-bb1d-4afe-9346-7422f24b10df",
+      "language": "en",
+      "utterances": [
+        "(LAUGHTER)",
+        "...But I enjoy playing and working with anagrams.",
+        "All right, do you have a question for Will?",
+        "I do, Will.",
+        "I have - I love new words.",
+        "And when they enter my life, I think, well, this is a good thing.",
+        "And I'm wondering if you have a word that came to you recently that you'd not heard before that you really like.",
+        "Wow.",
+        "Now you're on the spot.",
+        "I am on the spot.",
+        "Yeah, I'm - I just learned a name recently, RiRi, R-I-R-I, which is short for Rihanna.",
+        "Indeed.",
+        "You just learned...",
+        "Did you know that, Lulu?",
+        "I certainly did."
+      ]
+    },
+    {
+      "dialogue_uid": "362f136d-4bb8-4e4a-857e-16609b86dcb2",
+      "language": "en",
+      "utterances": [
+        "I didn't.",
+        "Yeah, yeah.",
+        "I think anyone who follows Rihanna knows her as RiRi.",
+        "She is pretty famous.",
+        "Did - and you just...",
+        "Oh, well, she's famous.",
+        "I didn't know RiRi.",
+        "So I was trying to decide, is this a legitimate answer for a New York Times crossword?",
+        "Oh, all right.",
+        "New York Times crossword players, you now know that that might be in something sometime soon.",
+        "Are you ready to play The Puzzle?",
+        "And by the way, my answer is yes, it is legitimate.",
+        "(Laughter).",
+        "Are you ready to play The Puzzle, Jim?",
+        "Yes, I am.",
+        "OK.",
+        "Let's play."
+      ]
+    },
+    {
+      "dialogue_uid": "780d9f9e-a25e-49e4-aafd-ce478625558b",
+      "language": "en",
+      "utterances": [
+        "All right, Jim, you are in luck.",
+        "We have anagrams today.",
+        "Every answer is a familiar three-word phrase in the form blank of blank.",
+        "I'll give you anagrams of the words in the blanks; you identify the phrases.",
+        "For example, if I said plum of Argus, you would say a lump of sugar.",
+        "So...",
+        "OK.",
+        "...Here is number one, cat of dog.",
+        "Let's see - act of God.",
+        "Good.",
+        "That is it.",
+        "Number two is taco of Mars.",
+        "Coat of...",
+        "Yes."
+      ]
+    },
+    {
+      "dialogue_uid": "61d0d510-3925-4c94-a8d9-8961ceed3b06",
+      "language": "en",
+      "utterances": [
+        "Coat of...",
+        "M-A-R-S",
+        "Arms - coat of arms.",
+        "Coat of arms is it.",
+        "No, he did not see that coming, but the crazy thing is is it really worked out for the best, and this is sometimes what happens when you're fired.",
+        "You don't know but there may be something better waiting for you.",
+        "At the very same time, Bob had been offered the show Full House that he had to turn down because he was employed at the morning show.",
+        "Well, after he was fired, he called up.",
+        "They said, oh, gosh, we're so glad you're available.",
+        "Come on out.",
+        "We want you for this job.",
+        "He could never have done that job if he hadn't gotten fired.",
+        "That really lead to his big success in television.",
+        "The funny thing is, of course, he was fired as a host of a morning show.",
+        "On Full House, he played the host of a morning show.",
+        "(Soundbite of laughter)",
+        "So.",
+        "It's that old saying when one door closes, another one opens, which we all hope to be true.",
+        "You know, I hate those clichés."
+      ]
+    }
+  ]
+}

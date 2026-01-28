@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "9c4aef3a-9d5f-42d5-a671-3f695925bbe3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f312dd04-b312-4af4-bf6c-e29ca23e89d9",
+      "language": "en",
+      "utterances": [
+        "What happens in a hospital doesn't stay in the hospital.",
+        "People can be discharged from the hospital carrying organisms that only later they become ill with.",
+        "The overwhelming majority of these serious infections are associated with the delivery of health care.",
+        "That's Dr. John Jernigan of the CDC.",
+        "He says 85 percent of Americans with serious resistant staph infections got them in the hospital or other health care facility, but most of them didn't get sick until they were back in the community.",
+        "There are some evidence that people can carry this particular bacteria on their body for some period of time - months or years - without it causing any problem.",
+        "KNOX.",
+        "Then seemingly out of the blue, they get deathly ill with a hard-to-treat infection.",
+        "The new data show that it happens in both directions.",
+        "Patients are bringing resistant staph into the hospital, too.",
+        "Elizabeth Bancroft says the clear message is that prevention has to begin in institutions that are supposed to make as well, not spread deadly diseases.",
+        "She says hospitals can do quite a lot.",
+        "In Europe, some hospitals are screening each and every patient at admission for evidence of resistant staph.",
+        "Those who are infected are put in private isolation rooms that can be entered only by people who are gloved, gowned, and masked.",
+        "Apparently, no American hospital has gone that far, but Bancroft says some are implementing a raft of measures to stop resistant staph.",
+        "For example, a patient on a ventilator, keeping the head of the bed up so that the patient doesn't inadvertently swallow or let anything get down into their lungs, get them off the ventilator as soon as possible, keep them on antacids, so there's nothing from their GI tract that might have bacteria that could potentially reflux up into their lungs.",
+        "But the single most effective measure is plain old hand washing.",
+        "So here we are in this - in a standard patient room.",
+        "And as you come into the room, there is the dispenser right outside the door where you're supposed to..."
+      ]
+    },
+    {
+      "dialogue_uid": "38c7ef63-a5e0-46df-a2f5-a950bb8fc58a",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF LIQUID SOAP DISPENSING)",
+        "...take a squirt of the liquid that you wash with your hands and that kills off the bugs.",
+        "Paul Levy, the president of Beth Israel Deaconess Medical Center in Boston has tried to make it easy for his staff to disinfect their hands with alcohol-based gels.",
+        "But he says it's been very frustrating.",
+        "After months of cajoling, hand-washing on most hospital units went up from 52 percent to only 57 percent.",
+        "Some remain below 40 percent.",
+        "The problem you run into a hospital is that people are very busy, doctors, in particular, are very busy.",
+        "And they might say, well, I'm not going to touch the patient, so they bypass the dispenser.",
+        "Beginning next year, the federal Medicare and Medicaid agencies says it will stop paying for care associated with hospital-acquired infections.",
+        "That's got hospital's attention.",
+        "But Levy is skeptical that even that will give doctors and nurses to wash their hands as much as they should.",
+        "Richard Knox, NPR News, Boston.",
+        "It's ALL THINGS CONSIDERED from NPR News.",
+        "I'm Michele Norris.",
+        "I'm Robert Siegel.",
+        "Did the president have anything to do with it?"
+      ]
+    },
+    {
+      "dialogue_uid": "3114633a-3a81-4723-a180-43e8e5a1f077",
+      "language": "en",
+      "utterances": [
+        "Oh, wonderful.",
+        "Our listeners loved it.",
+        "We had almost 1,100 entries this week.",
+        "And our randomly selected winner is Doug Crinklaw of Lake City, Colorado.",
+        "Welcome to the program, Doug.",
+        "Why, thank you.",
+        "This is very exciting.",
+        "Yeah.",
+        "(unintelligible).",
+        "What do you do in Lake City?",
+        "I do a number of things, like many people in Lake City, to string a life together, I do a bit of real estate appraisal, I substitute teach and my favorite thing is to guide fly fishing.",
+        "Oh, wow.",
+        "Good fly fishing where you are?",
+        "It is excellent.",
+        "So, you're a puzzle person.",
+        "How long have you been playing with us?",
+        "Well, I've been playing with you for many years but I wouldn't call myself - since the postcard days.",
+        "I wouldn't call myself a puzzle person.",
+        "I kind of plod through these things and do them by brute force, not in the agile mind."
+      ]
+    },
+    {
+      "dialogue_uid": "78c6e3b4-cc04-4093-8df2-f72ae35b00ca",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "Are you ready to play?",
+        "I am.",
+        "All right.",
+        "Well, meet Will.",
+        "Will, meet Doug.",
+        "Let's play.",
+        "Hi, Will.",
+        "All right.",
+        "Hi.",
+        "Doug and Liane, I'm going to give you two six-letter words.",
+        "Rearrange the letters of one word to get a rhyme of the other word.",
+        "For example, if I said dental D-E-N-T-A-L and lament L-A-M-E-N-T, you would say mental, because mental is an anagram of lament and it rhymes with dental.",
+        "Goodness.",
+        "Okay.",
+        "Yep, okay.",
+        "All right.",
+        "And which word is the anagram and which is the rhyme is for you to discover.",
+        "Here's number one: looped L-O-O-P-E-D and noodle N-O-O-D-L-E.",
+        "Poodle?"
+      ]
+    },
+    {
+      "dialogue_uid": "1ab37cbc-8dac-497b-b788-8f6c56cd5ed5",
+      "language": "en",
+      "utterances": [
+        "Poodle - that was fast.",
+        "Number two is church C-H-U-R-C-H and chaser C-H-A-S-E-R.",
+        "C-H-A-S-E-R?",
+        "Right.",
+        "Chaser, like something you have after a beer.",
+        "And as you probably figured out, it would be very hard to rearrange the letters of church to spell anything else so.",
+        "Right.",
+        "Yeah.",
+        "So, anagram chaser to get a rhyme of church.",
+        "I'm thinking search.",
+        "Search, there you go.",
+        "Really?",
+        "S-E-A-R-C-H."
+      ]
+    }
+  ]
+}

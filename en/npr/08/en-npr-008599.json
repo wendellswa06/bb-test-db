@@ -1,0 +1,126 @@
+{
+  "challenge_uid": "d7c53255-b586-4df6-9e03-98518b9f36ba",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "81da44b4-d9f8-4eb0-8c3e-82c62e4554dc",
+      "language": "en",
+      "utterances": [
+        "I am a Spanish teacher.",
+        "Yeah, cool.",
+        "And how long have you been playing the puzzle, Lindsy?",
+        "I think about four years.",
+        "And do I have my information right - did you just have a baby?",
+        "Yes, I did.",
+        "She's 11 months, so we're planning her one-year-old birthday.",
+        "So, not a lot of spare time to be puzzling.",
+        "Oh, no. We make time for it in our house.",
+        "(LAUGHTER)",
+        "Well, great.",
+        "So, are you ready to do this, Lindsy?",
+        "I am."
+      ]
+    },
+    {
+      "dialogue_uid": "767b5034-6336-45f5-aef5-639ad03a0e10",
+      "language": "en",
+      "utterances": [
+        "OK, Will.",
+        "What's our challenge?",
+        "Today's puzzle is as easy as ABC.",
+        "Every answer is an anagram of a word that has the letters ABC in it.",
+        "For example, if I said ABC plus he H-E, you'd rearrange those letters to make beach.",
+        "Perfect.",
+        "All right.",
+        "Number one is ABC plus is I-S.",
+        "Basic.",
+        "Basic is it.",
+        "All right.",
+        "ABC plus us U-S.",
+        "Scuba.",
+        "Scuba.",
+        "Nice job.",
+        "That's a tough one too.",
+        "ABC plus one - and that's O-N-E.",
+        "Your clue for this is part of a lighthouse.",
+        "And it's the light of a lighthouse.",
+        "What do you call that?",
+        "I don't know what that's called.",
+        "I don't either.",
+        "What letter does it start with?"
+      ]
+    },
+    {
+      "dialogue_uid": "53eefc39-5020-4fb2-b653-d5bca1a4be39",
+      "language": "en",
+      "utterances": [
+        "Starts with a B.",
+        "Beacon.",
+        "Beacon - there you go.",
+        "ABC plus nor N-O-R.",
+        "Think of a chemical element.",
+        "Carbon.",
+        "Carbon is it.",
+        "How about ABC plus fir F-I-R.",
+        "F-I-R?",
+        "Yeah.",
+        "Starts with F.",
+        "Fab...",
+        "Fab is a good start.",
+        "OK.",
+        "Fabric."
+      ]
+    },
+    {
+      "dialogue_uid": "8e70e0b9-59f5-490b-9dc4-782d11523a6e",
+      "language": "en",
+      "utterances": [
+        "Fabric is it.",
+        "ABC plus jet.",
+        "J-E-T?",
+        "Um-hum.",
+        "And it might be a kind of apology.",
+        "Abject.",
+        "Abject is it.",
+        "How about ABC plus mere M-E-R-E.",
+        "And it's the synonym of to hug.",
+        "Bear...",
+        "No.",
+        "Embrace.",
+        "Embrace is it.",
+        "How about ABC plus pole P-O-L-E.",
+        "This one starts with P as in Peter.",
+        "And it might be something a scientist gives you if you're taking part in an experiment.",
+        "OK.",
+        "That's a tough one.",
+        "I'm going to tell you.",
+        "That's a placebo.",
+        "Oh, man."
+      ]
+    },
+    {
+      "dialogue_uid": "c4a5c047-771f-4729-a3f7-222c6b737d4f",
+      "language": "en",
+      "utterances": [
+        "That's a hard one to see.",
+        "And here's your last one: ABC plus only O-N-L-Y.",
+        "And it might be something you would have if you were on the second floor or higher of a building.",
+        "Balcony.",
+        "Balcony.",
+        "Nice job.",
+        "Yay, Lindsy.",
+        "That was good.",
+        "Oh, that was so fun.",
+        "For playing the puzzle today, you will, of course, get a WEEKEND EDITION lapel pin and puzzle books and games.",
+        "You can read all about at npr.org.",
+        "And before we let you go, Lindsy, what is your public radio station?",
+        "KNSR.",
+        "In Collegeville, St. Cloud, Minnesota.",
+        "Lindsy Schwantes of Waite Park, Minnesota, thanks so much for playing the puzzle, Lindsy.",
+        "Thank you.",
+        "OK, Will.",
+        "What's the challenge for next week?"
+      ]
+    }
+  ]
+}

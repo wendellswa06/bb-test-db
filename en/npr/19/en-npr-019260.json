@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "8f0bdf70-de50-4728-ba97-a1b9d283e18b",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ccebfa0b-c9e9-46d3-ba4e-5805204b0b12",
+      "language": "en",
+      "utterances": [
+        "America's uninsured have until the end of March to enroll in health plans under the Affordable Care Act, and insurance companies are eager to sign them up.",
+        "Some are finding new customers through health screening machines at local stores, and that's making privacy experts nervous.",
+        "From member station KQED in San Francisco, reporter April Dembosky explains.",
+        "In a grocery store near San Francisco, there is a tall health screening kiosk next to the shelves of antacid and cold medicine.",
+        "Sitting down at the machine is like slipping into the cockpit of a 1980s arcade game.",
+        "There's a big plastic seat for measuring weight, a window for testing vision and a blood pressure cuff.",
+        "Please sit as still as possible when this test is in progress.",
+        "The guide for the test is an attractive brunette wearing a white lab coat.",
+        "She asks a lot of questions",
+        "How many servings of vegetables do you eat per day?",
+        "Do you have a blood relative who was told they have a heart problem?",
+        "During the past 30 days, about how many days have you felt sad or depressed?",
+        "The machines are owned by a Georgia company called SoloHealth.",
+        "It started installing the kiosks in Walmart and other retail stores in 2008.",
+        "Today, there are more than 3500 SoloHealth stations across the U.S.",
+        "And 130,000 people use one every day free of charge.",
+        "SoloHealth first made money by selling ads for pharmacy items displayed near the machines.",
+        "But in the era of health care reform, the company happened upon a new business model.",
+        "All the details it's collected from people who use the machines are suddenly very valuable to health insurance companies.",
+        "As much as we've moved to the market, the market has really moved to us.",
+        "Bart Foster is the CEO of SoloHealth."
+      ]
+    },
+    {
+      "dialogue_uid": "ea559481-5da8-417f-bfc6-534fa1235984",
+      "language": "en",
+      "utterances": [
+        "We're able to provide much more detailed information than the health plans even really know what to do with today.",
+        "The company is selling names, email addresses and phone numbers to insurers who want to market health plans directly to consumers, now that most Americans are required to have insurance by March 31st.",
+        "Darrel Ng is a spokesperson for Anthem Blue Cross.",
+        "That insurer brokered an exclusive agreement with SoloHealth to be featured on machines in California.",
+        "We know that engaging consumers early and engaging them with our messaging, helps improve the chances of them choosing Anthem as their health plan.",
+        "Other insurers have similar agreements in other states.",
+        "Here's the catch: The new alliances aren't made clear to people who use the machines.",
+        "What they see is a drawing of a doctor with a stethoscope around his neck, offering help with the Affordable Care Act.",
+        "We can have an experienced professional reach out to help you find the plan that fits your specific needs.",
+        "But the friendly voice doesn't make clear that the experienced professional is actually an insurance rep.",
+        "That is explained after the person enters their name and email.",
+        "Privacy advocates say this is misleading.",
+        "Pam Dixon is the executive director of the World Privacy Forum.",
+        "Consumers have every reason to be shocked that this is happening.",
+        "She says most consumers don't understand that their information is being sold.",
+        "There is a health privacy disclosure, but she says it's too easy to miss."
+      ]
+    },
+    {
+      "dialogue_uid": "e1f98151-2f86-45c2-8029-bda8a473defe",
+      "language": "en",
+      "utterances": [
+        "The fact that they're not being told about it in a very clear and conspicuous and prominent manner is problematic.",
+        "SoloHealth CEO, Bart Foster, says the company takes privacy very seriously.",
+        "So we work with our retail partners, our attorneys, and our corporate sponsors to make sure that we're totally buttoned up.",
+        "Yet until recently, the company's comprehensive privacy policy wasn't on the machine at all.",
+        "It was only online.",
+        "The company added the full policy to its machines a few weeks ago, it said, to improve transparency.",
+        "The experience is still unsettling for some consumers.",
+        "Stacey Winn has been using the kiosk at her local supermarket for the last six months.",
+        "She doesn't remember ever seeing a privacy policy.",
+        "What she did notice for the first time last month, were ads for a health insurance plan.",
+        "I wonder now what they're doing with that information when I hadn't really wondered that before.",
+        "Now she feels uneasy about her health details being stored in the company's database.",
+        "You know, there's this saying that if a service is offered for free then you're actually the product that's being sold, and I think that this is kind of turning into an example of that.",
+        "SoloHealth says it is reviewing the customer experience of machines, for clarity.",
+        "At the same time, the company is expanding.",
+        "It plans to install another 1,500 machines nationwide this year and deepen its relationships with insurers.",
+        "For NPR News, I'm April Dembosky in San Francisco."
+      ]
+    },
+    {
+      "dialogue_uid": "c5bcfaf7-738f-4ac4-9fc9-47b53618e2e9",
+      "language": "en",
+      "utterances": [
+        "This story is part of a partnership with NPR and Kaiser Health News.",
+        "(SOUNDBITE OF MUSIC)",
+        "It's MORNING EDITION from NPR News.",
+        "I'm Steve Inskeep.",
+        "And I'm Linda Wertheimer.",
+        "For months or years to come we'll be tracking the Americans who remain in Iraq.",
+        "The last U.S.",
+        "combat troops departed this month.",
+        "But American diplomats are still there.",
+        "And those diplomats are guarded by their own private army of security contractors with assault weapons and helicopters.",
+        "Here's NPR's Tom Bowman.",
+        "As many as 5,000 American security forces will protect the American diplomats as they travel through an Iraq that remains dangerous.",
+        "Embassy personnel will ride in armored vehicles with armed guards, who work for companies with names like Triple Canopy and Global Strategies Group.",
+        "Their convoys will be watched from above.",
+        "Another company, DynCorp International, will fly helicopters equipped with heavy machine guns."
+      ]
+    },
+    {
+      "dialogue_uid": "3c885169-f1a1-4b77-890c-11cfe37dbd4a",
+      "language": "en",
+      "utterances": [
+        "But if you go back a year, the Department of Defense had around 17,000 security contractors in Iraq in addition to 150,000 or so armed service men and women.",
+        "And Kennedy says those State Department security guards will be nothing like the Army and Marine Corps.",
+        "We run.",
+        "We go.",
+        "We do not stand and fight.",
+        "We will execute a high-speed J-turn and we will get as far away from the attackers as we possibly can.",
+        "Well, it's all very nice to say that.",
+        "That's Dov Zakheim.",
+        "He's a former top Pentagon official.",
+        "But if you're coming under fire and you happen to have a gun in your hand and you are, say, a former military person, are you really going to cut and run?",
+        "Zakheim served on the Commission on Wartime Contracting.",
+        "That commission questioned whether it's wise to hire a private army for Iraq and whether the State Department can oversee thousands of security guards.",
+        "First of all, there are just going to be so many of them and so few people from the State Department to supervise them.",
+        "Patrick Kennedy, the State Department official, insists there will be enough oversight.",
+        "Each time a U.S.",
+        "diplomatic convoy moves out in Iraq, he says, a federal government supervisor will go along.",
+        "And that federal agent, says Kennedy, will have complete authority should a convoy come under attack.",
+        "The order to fire is given by that U.S.",
+        "government State Department security professional.",
+        "And so the contractors just don't open fire."
+      ]
+    }
+  ]
+}

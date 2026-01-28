@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "469cc673-7b56-4644-abeb-07c969ac3374",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "53e16ff5-9446-4e66-99f3-9b2005541b5b",
+      "language": "en",
+      "utterances": [
+        "Hi, and thank you for having me.",
+        "Go ahead.",
+        "I was just going to say that I'm a pharmacist, and I work in a pharmacy, and this year more than ever I have - I usually dispense a lot of Tamiflu over the winter season.",
+        "And this year I've dispensed maybe one or two.",
+        "And so mainly I have people asking me about allergy medications, if anything, this winter.",
+        "Did you give out a lot of flu shots this year?",
+        "You know, not as much as normal.",
+        "Usually I do a lot more than I've done in the past.",
+        "Because there are some people who are speculating that the reason we're not seeing so many cases of the flu is that a lot of pharmacists dispensed a lot of flu vaccine.",
+        "But you're saying that's not true.",
+        "Yeah, I definitely have done a lot, but usually I'll get a big burst during March and - you know, the end of February and March just because it gets colder and people are getting sick, so it hasn't got in much this time.",
+        "But in fall you usually get a lot.",
+        "Our listener is very correct, saying that in the pharmacy, if very little Tamiflu - which is an anti-viral against influenza - is being sold, that there is most likely much less influenza in the population.",
+        "Thank you, Diana, for calling in.",
+        "Thank you."
+      ]
+    },
+    {
+      "dialogue_uid": "1398713c-8690-46c3-a3f5-0c1aa6e8d5ca",
+      "language": "en",
+      "utterances": [
+        "And I hope your rest of the winter goes as well for you.",
+        "Great, thanks.",
+        "1-800-989-8255.",
+        "So we have a - are we at the peak of the flu season?",
+        "Should this be the peak time, where we get reported cases?",
+        "In general that would be the peak time, but the - never say never.",
+        "Does that mean that next year it could really hit us harder because we didn't get it this year?",
+        "Or is there just no way to predict that, and you could throw a dart at a board and...",
+        "I think let's not make those predictions.",
+        "We don't want to jinx ourselves.",
+        "Yeah, there's no way to know that.",
+        "So you're happy, then.",
+        "I mean, this is a good thing that we're not seeing a lot of the flu and because with the flu comes complications, right?",
+        "Yes, I mean, it is - we all know the symptoms of influenza - coughing, feeling miserable - but particularly the older ones, the immune-compromised people and the very young ones - always much, much more affected.",
+        "And you always hear people complaining I don't want to take a shot because it makes me sick, there's a side effect.",
+        "Is that mythology?",
+        "OK, so this is worse than mythology.",
+        "So our influenza virus vaccines are not perfect, but certainly they cannot, they cannot make us sick.",
+        "So clearly if you want to get sick, then don't take the vaccine.",
+        "But the FDA, Food and Drug Administration, approved influenza virus vaccines in this country, absolutely safe, and there is no reason to believe that you can get the flu."
+      ]
+    },
+    {
+      "dialogue_uid": "0707cab5-e038-4241-ba99-3cbe8871bd45",
+      "language": "en",
+      "utterances": [
+        "There you have.",
+        "Dr. Peter Palese is professor and chair of the Department of Microbiology at Mount Sinai School of Medicine here in New York.",
+        "Thank you, Dr. Palese, for coming in to be with us today.",
+        "Thank you.",
+        "After the break, we're going to talk about a reporter's search for genetic answers about his own genome, that linked to some scary revelations.",
+        "So stay with us.",
+        "We'll be right back after this break.",
+        "(SOUNDBITE OF MUSIC)",
+        "I'm Ira Flatow.",
+        "This is SCIENCE FRIDAY from NPR.",
+        "This week, the Trump campaign announced it raised more than $80 million in July, and they say the bulk of the money came from small donations.",
+        "Hillary Clinton brought in about $90 million.",
+        "The fundraising gap between the two campaigns is closer than it has been all year.",
+        "To talk more about this, we're joined by Nick Confessore, political reporter at The New York Times.",
+        "Welcome, Nick.",
+        "Hey, Ailsa, how are you?",
+        "Good.",
+        "Thanks for joining us.",
+        "Of course.",
+        "So for months, we've been hearing that Trump has lagged in fundraising.",
+        "What changed in July?"
+      ]
+    },
+    {
+      "dialogue_uid": "4bf70be9-ab60-4b0a-a74d-8fc7206bd49f",
+      "language": "en",
+      "utterances": [
+        "What changed is small donors and Trump actually trying to raise money for the first time in his entire campaign.",
+        "He's mostly been self-funded, and what hasn't been self-funded until now has basically been the proceeds of buying all those hats and T-shirts you see with his slogan on them.",
+        "Right.",
+        "It's almost too much to believe that this man will be able to come and greet the participants that gather 50 years later.",
+        "Lewis says he hopes today's young people are inspired by both the 1963 march and the commemorations.",
+        "He says he wants them to love the way of non-violence and move their feet.",
+        "Allison Keyes, NPR News, Washington.",
+        "A new airline with an innovative business model is about to take off.",
+        "Federal regulators have just given California-based Surf Air permission to begin passenger service.",
+        "As NPR's Wendy Kaufman reports, it's an all-you-can-fly airline with payment made by regular subscription.",
+        "Surf Air is a big idea with small planes.",
+        "For a flat monthly fee, subscribers will be able to take all the trips they want between four California cities.",
+        "The airline's co-founder and CEO Wade Eyerly boosts that Surf Air will offer frequent commuters a corporate jet experience for not that much more than regular airline prices.",
+        "So we are walking in, you've parked your car, pull the door open and you see a sign where the concierge is standing to greet you.",
+        "Let him know you are here for Surf Air.",
+        "We caught up with Eyerly at the general aviation facility on the far side of the Burbank airport in metropolitan Los Angeles.",
+        "Instead of using big, busy terminals, Surf Air will fly out of smaller, low key places like this one.",
+        "No TSA screening is required, so there's no conga line, no emptying your pockets or removing your shoes.",
+        "You're about probably 50 feet from the plane as it pulls up, and then the concierge will get you when its time to go."
+      ]
+    },
+    {
+      "dialogue_uid": "799a8295-364c-4df9-9823-b7231fea86e7",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF TERMINAL TO WALKING INTO PLANE)",
+        "Only one person at a time on the stairs, please.",
+        "The total amt of time - from parking your car to ducking inside the plane could be less than five minutes.",
+        "The Swiss-made eight passenger turbo prop has a single engine and two pilots.",
+        "The longest flight between San Francisco and Los Angles would be just over an hour.",
+        "The airline originally suggested the monthly subscription price would be about $1,000.",
+        "But late last week, Surf Air said the first group of subscribers would pay a lot more - $1650 a month for an unlimited number of flights.",
+        "We are all you can fly the way old Netflix worked.",
+        "Wade Eyerly recalls that with Netflix you used to be able to order all the DVD's you wanted but could hold only a few of them at a time.",
+        "With Surf Air, you can have just four boarding passes at once.",
+        "It keeps any one member from sort of boxing everybody else out from every flight - and makes sure that there's enough sort of capacity for everyone to be able to book regularly.",
+        "Analyst Wayne Plucker who's with the firm Frost and Sullivan has been following the airline's progress.",
+        "If they can get enough subscribers and keep them happy for long enough, it's a reasonable business model.",
+        "But he cautions that the economics of any airline are tricky, and says Surf Air will need enough cushion to cover mechanical or other problems."
+      ]
+    }
+  ]
+}

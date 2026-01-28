@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "393f732b-3ce8-4cc9-a07f-c0de71fc8415",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ca3b54e7-c4c6-4920-927b-a0a07f49cc14",
+      "language": "en",
+      "utterances": [
+        "There is a natural rhythm to it, almost a wave, a rhythm.",
+        "You know, just like the sea, it's wonderful.",
+        "It's almost like poetry to me.",
+        "You know, and I have had so many people write in to me and say, you know, I like to listen to you reading it because you've got a lovely - there's a lovely rhythm to it.",
+        "And I say I always think of it as a poetical work.",
+        "Lundy, Fastnet, Irish Sea, Shannon; northwest backing west or southwest...",
+        "I have had a few cards, a few Valentine's cards, about the Shipping Forecast and things from anonymous people, which is very nice.",
+        "Valentines to you?",
+        "To me...",
+        "(LAUGHTER)",
+        "...about the Shipping Forecast.",
+        "Saying how much they love...",
+        "Yes, indeed.",
+        "Well, there was one just saying he'd gone to sleep listening to the Shipping Forecast and he awoke listening to it, and thought he'd died and gone to heaven.",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "76342983-0247-4778-b139-432d66aade57",
+      "language": "en",
+      "utterances": [
+        "And I thought, a bit over the top but how lovely.",
+        "(LAUGHTER)",
+        "Five to seven, increasing seven to severe gale 9...",
+        "The Shipping Forecast covers 31 sea areas.",
+        "That's a huge expanse of water.",
+        "They extend all the way up to - the furthest point is probably southeast Iceland, and that's the furthest northwest.",
+        "And then we've got another area right down in the far south called Trafalgar, which goes all the way right down to North Africa.",
+        "Alister McHardy of Britain's Met Office says that you can get the forecast these days on Sat Nav, mobile phone and the Internet.",
+        "Yet seafarers still often tune in to the BBC.",
+        "There's actually a piece of music which goes out called \"\"Sailing By.\"\" The reason behind using music is it's an identifier for people tuning in on long wave.",
+        "And if they're out in a vessel out on a wild windy night - say, in the middle of the North Sea - then they can tune in; if they hear that music, then they know they've actually got the right frequency and they can listen to the Shipping Forecast.",
+        "(SOUNDBITE OF MUSIC, \"\"SAILING BY\"\")",
+        "Ofeibea Quist-Arcton, NPR News, Dadaab refugee settlement, northeastern Kenya.",
+        "Chungju-si, South Korea."
+      ]
+    },
+    {
+      "dialogue_uid": "9255ead3-7744-45c3-b4ae-5263c6fee7ba",
+      "language": "en",
+      "utterances": [
+        "Medical records are a vital part of a patient's identity in the health care system.",
+        "But what if they get mixed up with somebody else's, along with their treatments and exams?",
+        "A new report by the ECRI Institute says that such patient mix-ups are actually quite common.",
+        "Dr. Hardeep Singh is a patient safety researcher at the Michael E.",
+        "DeBakey VA Medical Center and the Baylor College of Medicine.",
+        "He advised on this report.",
+        "And he joins us now from the studios of WFYI in Indianapolis.",
+        "Thanks so much for being with us.",
+        "Thank you so much for having me Scott.",
+        "How common are these mix-ups?",
+        "So the report by the ECRI Institute doesn't say exactly how common they are.",
+        "But remember, they looked at 7,000 or more reports from 180 or more hospitals.",
+        "Can you give us an example of a kind of mix-up that stays in your mind?",
+        "Yeah.",
+        "So, you know, one of the ones that ECRI talked about was when a patient who has a nasogastric tube and was not supposed to be eating was brought in a meal tray for somebody else.",
+        "And the patient tried to eat it and aspirated.",
+        "And there's another patient who was short of breath but got a cardiac clearance for another patient.",
+        "And, you know, the outcomes were not good.",
+        "Every time I've been in a hospital, which has been too much in recent years, they ask your date of birth.",
+        "Isn't that supposed to prevent this kind of mix-up from happening?",
+        "Yeah, absolutely.",
+        "So, you know, one of the things we need to be doing is making this standardized.",
+        "I've talked to many people.",
+        "They say, well, he never even checked what my, you know, date of birth said.",
+        "I think we need to go to more of a standardized approach in order to do that."
+      ]
+    },
+    {
+      "dialogue_uid": "bd4a80b7-49ea-46dd-bd96-2a8a81f07c17",
+      "language": "en",
+      "utterances": [
+        "Is there any kind of technological solution to this - I don't know - thumbprint, iris scan or something?",
+        "We have electronic health records, which are supposed to make this easier.",
+        "But remember, anytime you introduce technology within sort of a complex health care system, you know, it can also have unintended consequences.",
+        "So never before would I be sitting on a patient's, you know, medical record with three different electronic health record screens open, trying to work between, you know, different patients sitting in an emergency room.",
+        "So with new technologies come this additional complexity that we need to sort of be thinking about.",
+        "But we can also use technology to, you know, warn providers when they're entering orders, for instance.",
+        "If I'm supposed to be in Mr. James Smith and entering a complex chemotherapy order, for instance, I'd get an alert saying, are you sure?",
+        "Because there was another, you know, Mr. James Smith on the same ward in the hospital.",
+        "Are you sure you're entering orders on the right Mr. James Smith, you know, for instance?",
+        "Anything a patient can do to protect him or herself?",
+        "With electronic health records has come in a layer of additional transparency for the health care system where patients can access more information electronically than they could ever do before.",
+        "So, you know, there are programs where you can actually look into the medical record to see, hey, by the way, I didn't have my spleen taken out.",
+        "What note is this?",
+        "This note is not mine (laughter).",
+        "So - and then, you know, approach the system and say, you know, that note that is in my record from, you know, February 2 of, you know, 2014 is not really mine.",
+        "It's somebody else's.",
+        "So I think when you have an additional, new layer of patient activation where they're not only asking questions on some of these, you know, complicated procedures to make sure that you're the person who's supposed to be getting that - but also be more proactive into looking at your medical records to see, is there some information you can catch proactively to, you know, report back?",
+        "Dr.",
+        "Hardeep Singh, thanks very much for being with us."
+      ]
+    },
+    {
+      "dialogue_uid": "9462ebf1-0503-441c-9014-672e64cb1371",
+      "language": "en",
+      "utterances": [
+        "Well, thank you so much for having me.",
+        "Taiwan became a kind of life book for Chinese people fleeing the Communist Revolution there.",
+        "But the island was home to aboriginal tribes long before any Chinese people moved there.",
+        "Today, indigenous peoples are just 2 percent of Taiwan's population.",
+        "The new Taiwanese government has pledged to pay more attention to them.",
+        "NPR's Anthony Kuhn met some of Taiwan's aboriginal people and talked about their hopes.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "(Singing in foreign language).",
+        "At the inauguration of President Tsai Ing-wen on May 20, aboriginal tribesmen in ethnic costumes sang and danced on stage.",
+        "In her speech, Tsai promised to make amends for the way previous governments have treated indigenous tribes.",
+        "Tsai's Democratic Progressive Party has previously pushed for formal independence from China.",
+        "And part of that effort has been to focus on indigenous peoples in order to establish a Taiwanese cultural identity separate from that of China.",
+        "To see how her promises went over, I went to speak to some aboriginal students on the palm tree-lined campus of Taiwan University.",
+        "Chen Xi (ph) is entomology major.",
+        "He says he expects Tsai Ing-wen's party will treat aborigines better than their predecessors.",
+        "But ultimately, he says, both major parties represent the ethnic Han majority.",
+        "(Through interpreter) Han people often forget their role as colonizers when they came to this island.",
+        "Their lack of consciousness of this fact makes it even scarier.",
+        "I follow Chen and other aboriginal students to a sort of ceremony held out on a busy street corner.",
+        "They're dressed in tribal tunics, bare feet and temporary facial tattoos.",
+        "(Foreign language spoken).",
+        "The students line up and shout out their names and the names of their tribes.",
+        "Some of them weep as they recount their hardships."
+      ]
+    }
+  ]
+}

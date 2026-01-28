@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "af8a2fe4-b8d1-4308-b12f-a3bba0204afc",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7e81e3f7-d962-48fd-ae85-a842b56f1f30",
+      "language": "en",
+      "utterances": [
+        "In other words, these were not domesticated plants.",
+        "This ancient community was simply taking seeds and plants from the wild and growing them in fields.",
+        "They hadn't started breeding crops yet and selecting varieties for yield and other desirable qualities.",
+        "We do not have any clear evidence that it was very conscious in the beginning.",
+        "But 2,000 years later, they had clearly started breeding emmer wheat, so that the ears were stronger and made harvesting a lot easier.",
+        "Riehl's findings, which are published in the latest issue of the journal Science, give a rare close-up picture of the early evolution of farming.",
+        "Melinda Zeder is a curator of Old World Archaeology at the Smithsonian Museum of Natural History in Washington, D.C.",
+        "It's allowing us to push back our picture of early agriculture to these very, very initial stages, when people are beginning to play around with plants and their environment.",
+        "Zeder says the findings change our understanding of where people first started farming.",
+        "Until now, she says scientists had thought agriculture began in the western parts of the Fertile Crescent.",
+        "This new find is far to the east.",
+        "It really forces us to broaden our viewpoint on early agriculture to include this vast region of the whole Fertile Crescent.",
+        "She says the findings confirm that rather than starting in one place and spreading, farming began with many different communities experimenting with agriculture around the same time.",
+        "Rhitu Chatterjee, NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "b6407992-6035-4069-8a9a-222a456a1dbf",
+      "language": "en",
+      "utterances": [
+        "NPR's business news starts with a whole bunch of insurance plans.",
+        "(SOUNDBITE OF MUSIC)",
+        "Maybe also some auto industry stimulus here.",
+        "As many as a quarter million cars and trucks damaged when Sandy stormed up the East Coast will have to be scrapped.",
+        "That's according to the National Automobile Dealers Association.",
+        "The estimate is less than the 325,000 cars ruined by Hurricane Katrina, but it's still an awful lot of cars.",
+        "Analysts say the vehicle damage could boost sales for automakers selling replacements.",
+        "It could also help offset the automakers' own direct losses as they scrap thousands of brand new flood-damaged cars stored around the port in Newark, New Jersey.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Audie Cornish.",
+        "A new medical facility in Berlin is offering what its founders describe as the most comprehensive treatment available in Europe to victims of female genital mutilation.",
+        "Doctors say the goal of the Desert Flower Center is to help women become whole again, by ridding them of the physical and psychological pain resulting from forced circumcision.",
+        "Father's Day.",
+        "And that's news you can use.",
+        "Everybody, write it down: Sunday...",
+        "(Soundbite of laughter)",
+        "Last week, an international team of physicists reported that the proton - you know, the centerpiece of the atomic nucleus - could be smaller than we had all previously thought, not much smaller by numeric standards, only about four percent, but large enough to have physicists around the world scratching their heads.",
+        "Joining me now to talk about the implications is Brian Odom.",
+        "He's an assistant professor of physics at Northwestern University in Evanston, Illinois.",
+        "Our number: 1-800-989-8255, if you'd like to talk about it.",
+        "You can also tweet us @scifri, @-S-C-I-F-R-I."
+      ]
+    },
+    {
+      "dialogue_uid": "332263a9-a2f2-402e-b73b-373631c9d959",
+      "language": "en",
+      "utterances": [
+        "Welcome to SCIENCE FRIDAY, Dr. Odom.",
+        "Thanks, Ira.",
+        "Why is this such an important finding?",
+        "Well, there is really a surprise here.",
+        "These folks have been working on this experiment a very long time, and they expected to measure a number which was in agreement with previous measurements, the proton size.",
+        "And instead, they were very surprised to find strong disagreement.",
+        "And what does that mean to the physics world?",
+        "Well, it could be very exciting.",
+        "It could be boring.",
+        "It could be someone did an experiment wrong, or someone, you know, dropped a minus sign in a calculation, or it could be very exciting.",
+        "There could be new physics out there that we don't know about yet.",
+        "When you say new physics, you mean that we have to change our understanding about what we think the atoms are made out of?",
+        "Not exactly the atoms, but it would be - it's possible that there are new particles out there, new heavy particles.",
+        "There are perhaps super-symmetric particles that people are looking for in the Large Hadron Collider at CERN that are affecting this measurement, this very precise measurement.",
+        "So you're saying that let me see if I can parse this a bit that the proton size may be the same that it always has been, but that these other spooky particles we don't know about may be affecting the measurement of how we measure it.",
+        "That's exactly right."
+      ]
+    },
+    {
+      "dialogue_uid": "439d80ae-a4b7-4d8b-885a-409232f6bdb5",
+      "language": "en",
+      "utterances": [
+        "Wow.",
+        "Yeah, so this it's a really very interesting story here that people with relatively small experiments, sometimes tabletop-size, can get some of the same physics that we get out by building big, powerful colliders.",
+        "There are kind of two complimentary approaches to finding new physics.",
+        "So what you're saying is that they didn't need to use a big, fancy Hadron collider.",
+        "They just needed some desktop - more or less - sized physics experiment.",
+        "Well, if you can do both, that's much better - build the collider and do the precision experiments, because they both tell you different parts of the story.",
+        "Well, if you know this now, can you use those giant colliders, like the new Hadron Collider, the Large Hadron Collider, could you tweak an experiment to see, now, maybe we should look for some of that new physics?",
+        "Absolutely, yeah.",
+        "That's going to be one of the important implications coming out of whatever we find out of LHC.",
+        "Mm-hmm.",
+        "And how do we know that, you know, maybe they made a mistake in measuring here?",
+        "I imagine other people will be checking or conducting new experiments.",
+        "That's right.",
+        "So the most important thing to check first is that the theory was correct.",
+        "The experiments have been put well under control, I think, and the first place people are going to look for a boring sort of mistake is in the theory.",
+        "They have to run through a lot of very complicated calculations to extract the proton size from the laboratory measurement.",
+        "Mm-hmm.",
+        "Tell us what kind of particles they might be looking for that would affect how you measure the protons.",
+        "Well, one of the interesting possibilities are the so-called super-symmetric particles.",
+        "It's an idea that we have in physics that what we we don't really like the standard model.",
+        "It works great, but there are a lot of problems with it.",
+        "There - some of them are aesthetic.",
+        "Some of them are observational, like dark energy and dark matter.",
+        "We don't know what those things are, and so there must be something besides a standard model of physics."
+      ]
+    },
+    {
+      "dialogue_uid": "045aaf4b-00b4-4f65-8f5c-536dbd805f7b",
+      "language": "en",
+      "utterances": [
+        "One of the things that might solve some of these problems is the super-symmetry theory, which says that for every normal particle, like an electron, there's also a much heavier counterpart.",
+        "And those heavy counterparts, you can make in a collider, or you can see their effects in a precision experiment like this muonic hydrogen result.",
+        "Mm-hmm.",
+        "And so you would be looking for those particles in the collider to see if they exist.",
+        "That's right.",
+        "Can you actually predict what they might be?",
+        "That's right.",
+        "There are predictions.",
+        "Yeah, and we hope that the collider will be able to produce some of them, if they exist.",
+        "And did you have to come up with that prediction now that the measurement is off for the proton?",
+        "No, very interesting question.",
+        "That prediction has been around for a very long time.",
+        "And there have been a few hints up till now that that theory might be correct.",
+        "Another interesting hint is the measurement of the little magnet, which is embedded inside the muon.",
+        "The muon is a particle that they use in this experiment to orbit the proton instead of a normal electron orbiting a proton.",
+        "A few athletes risk prison but for many more, the issue is their legacy -the Hall of Fame, the yellow jerseys and the gold medals.",
+        "How does steroid use change your judgment on the legacy and reputation of great athletes?",
+        "So when you replace it with a muon, you can probe for this new physics in a better way.",
+        "And similarly, when you look at the muon by itself, look at what its magnet is, there's a strong disagreement with theory there, also.",
+        "So it's another tantalizing hint that there might be some new physics out there, like new particles that we'd like to see."
+      ]
+    }
+  ]
+}

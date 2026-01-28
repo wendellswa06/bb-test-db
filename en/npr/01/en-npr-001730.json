@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "1b32ffc9-0099-49e3-846a-dd0cc8cb8592",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "00db6a09-735c-42fa-a705-8ef022302d4b",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "A pickup.",
+        "Good…",
+        "Steven.",
+        "…job.",
+        "(Soundbite of laughter)",
+        "All right.",
+        "Wow.",
+        "Are you okay?",
+        "(Soundbite of laughter)",
+        "I think so."
+      ]
+    },
+    {
+      "dialogue_uid": "342fa7f2-fd5d-40cf-a2e9-c0efe7afca44",
+      "language": "en",
+      "utterances": [
+        "Yeah, yeah.",
+        "And to tell you about the gifts you'll receive for playing our puzzle today, here's NPR's Nina Totenberg.",
+        "For playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, the 11th edition of Merriam-Webster's Collegiate Dictionary and Thesaurus, the Scrabble Deluxe edition from Parker Brothers, the Puzzle Master Presents from Random House, Volume 2, Will Shortz's Little Black Book of Sudoku and Black and White Book of Crosswords from St. Martin Press, and one of Will Shortz's Puzzle Master Decks of Riddles and Challenges from Chronicle Books.",
+        "And then you won't have time to listen to the radio.",
+        "Oh yes we will, Nina, 'cause we got to find out what the puzzle is for next week.",
+        "Steven, how do you listen?",
+        "What member station do you listen to?",
+        "KWMU in St. Louis.",
+        "Well, Steven Stack from Troy, Illinois, it's been a pleasure for playing the puzzle with you today.",
+        "Thank you very much.",
+        "All right, Will, that challenge now for everyone.",
+        "Yes.",
+        "It's a word puzzle I heard from an American team member in Goa, source unknown.",
+        "Take the title candid camera.",
+        "If you write down the first appearance of each letter, ignoring any repeats, in the order these letters appear you get C-A-N-D-I-M-E-R.",
+        "Now, by doing the same thing to the title of what other well-known TV program do you get the letters S-E-A-M-T-R?",
+        "S as in Sam-E as in Emily-A as in Alice-M as in Mary-R as in Roger.",
+        "So, again, write down the first repeat of each letter, ignoring any repeats, in the order these letters appear the title of what well-known TV program is S-E-A-M-T-R?"
+      ]
+    },
+    {
+      "dialogue_uid": "8c6dc6a1-f4a9-4ce3-8a3f-e0c6e349f6a5",
+      "language": "en",
+      "utterances": [
+        "When you have the answer, go to our Web site, NPR.org/puzzle and click on the Submit Your Answer link.",
+        "Only one entry per person, please.",
+        "Our deadline this week is Thursday, 3:00 p.m. eastern time.",
+        "Please include a phone number where we can reach you at about that time.",
+        "We'll call you if you're the winner and you'll get to play puzzle on the air with the puzzle editor of the New York Time and WEEKEND EDITION's puzzle master Will Shortz.",
+        "Will, thanks a lot.",
+        "Thanks, Liane.",
+        "This is TALK OF THE NATION.",
+        "I'm Neal Conan in Washington.",
+        "No State of the Union speech can possibly address the full range of our worries and accomplishments.",
+        "Last night, President Bush spoke to the nation from inside the bubble of Washington, D.C., and many of the issues that he raised are unquestionably important to millions of Americans: health care, energy, immigration and the war.",
+        "But he spoke from his special vantage point.",
+        "Today, we're asking our guests and our callers to get past politics for an hour.",
+        "We hope to hear not reactions to what the president said or didn't say, but assessments of the state of the union from the special place where you sit, from your perspective as a businessman, a farmer, a New Yorker or a Californian, as a mom or a teacher, artist or factory worker.",
+        "What's the state of the union?",
+        "Our number is 800-989-8255, 800-989-TALK.",
+        "Our e-mail address is talk@npr.org.",
+        "And we begin with the screenwriter and director Nora Ephron, most recently the author of \"\"I Feel Bad About My Neck.\"\" She joins us from her home in New York.",
+        "Nice to have you on the program.",
+        "Thank you, Neal.",
+        "What do you think is the state of the union?",
+        "Well, you know, right before the State of the Union message went on, I was watching \"\"24,\"\" which was on my TiVo.",
+        "I don't know if you're hooked on \"\"24,\"\" Neal...",
+        "Guilty."
+      ]
+    },
+    {
+      "dialogue_uid": "c82170e2-92d0-48f8-a9f7-9f8bbb472152",
+      "language": "en",
+      "utterances": [
+        "And on \"\"24\"\" - I'm not ruining anything for anyone - a nuclear bomb has just been set off in L.A., and Kiefer Sutherland drops in on his brother, whom he hasn't seen in nine years, and they don't mention one thing about the nuclear bomb.",
+        "They're just sort of chatting amongst themselves.",
+        "And I had a little sense of that last night as I watched the president - who took, I think, 32 minutes before he got to Iraq - you know, that same kind of sense of how could you be talking about anything but this thing, which you can't spend five or 10 minutes with people without people wanting to talk about how this has happened.",
+        "And on and on he went.",
+        "I mean, you just said it's a speech where he can raise an issue.",
+        "Well, it's a speech where an issue gets raised only to be lowered in exactly 21 words, because everything is sort of one little - one-sentence hits punctuated by this insane ritual of are they going to clap?",
+        "Are they not going to clap?",
+        "Are they going to stand?",
+        "Are they not going to stand?",
+        "How many of them will stand?",
+        "How many of them won't stand?",
+        "It's quite a - in terms of assessing the disconnect between us and them, it's an amazing night.",
+        "That was some of what I was feeling as I watched it last night.",
+        "As you look at it from your perspective, the state of the country from your - you're a writer, a comedian, do a lot of different things.",
+        "Everything, you think, is colored by the war?",
+        "Well, I do feel that.",
+        "I do feel that almost - well, I don't know because I'm just living in - you know, I live in the bluest city in a blue state.",
+        "I live in New York.",
+        "So some of what I'm saying is colored by that.",
+        "But I think especially in these last few weeks, as we all had so much hope after the election, only to discover the horrifying truth that the man was still president, you know, and that he can therefore send 20,000 more people into harm's way without anybody apparently being determined to stop him.",
+        "So, yes.",
+        "I do feel that.",
+        "I feel that it's almost all that people are talking about when they're not talking about, of course, what they should have for dinner and all the things that also make our world go around.",
+        "Or if they'd ever been to Valencia, which has now been evaporated by the nuclear bomb.",
+        "Right, yes.",
+        "Never mind the oranges.",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "c9a63943-5dbf-4690-a6d6-59a56dab6013",
+      "language": "en",
+      "utterances": [
+        "Nora Ephron, thank you so much for being with us.",
+        "We appreciate it.",
+        "Well, thank you, Neal.",
+        "Nora Ephron's latest book is called \"\"I Feel Bad About My Neck and Other Thoughts on Being a Woman.\"\" We want to hear your thoughts on what the state of the union is, not necessarily a reaction to what the president had to say last night, but from your perspective as a businessman, as a teacher, whatever.",
+        "800-989-8255, 800-989-TALK.",
+        "E-mail is talk@npr.org.",
+        "And let's go to - this is Fred.",
+        "Fred's with us from Chicago.",
+        "Hi, how's it going?",
+        "Very well, thanks.",
+        "Hi Neal, thanks.",
+        "Go ahead.",
+        "Now, you're the one guest that we've arranged from inside the beltway.",
+        "Where do you think we are today as a nation?",
+        "And obviously, you must feel - while he's gone, it's an awful experience.",
+        "You must listen - every time you hear a newscast - you must flinch every time the phone rings."
+      ]
+    }
+  ]
+}

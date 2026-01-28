@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "7379d89e-f036-4b46-b6e4-f9f1fe2832d5",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "cf7f1532-e662-4f07-bf50-4493743807ad",
+      "language": "en",
+      "utterances": [
+        "NPR's Jon Hamilton reports that drug companies are already working on what could be the next big thing in sports doping: products designed to strengthen diseased muscles.",
+        "In a locked facility at Johns Hopkins University, there are a whole lot of mice that would fail a doping test.",
+        "Se-Jin Lee, the scientist who created these mice, says many of them even look like dopers.",
+        "They look bulked up.",
+        "And those mice have about twice the muscle mass of normal mice.",
+        "(SOUNDBITE OF BANGING)",
+        "Lee removes two plastic cages from a wall of caged mice.",
+        "He explains that the mice here are part of an effort to help people with muscular dystrophy and a range of other medical problems that cause muscles to waste away.",
+        "Lee says the effort began in the 1990s, when he discovered something called myostatin.",
+        "Myostatin is made by muscle cells and it really plays two distinct roles.",
+        "In a developing embryo, myostatin acts to limit the number of muscle fibers that are formed.",
+        "Later in life, it acts to limit the growth of those muscle fibers.",
+        "Lee says the amount of myostatin in the body is determined by the myostatin gene.",
+        "So, when you get rid of the myostatin gene entirely then you see more muscle fibers, and then you get bigger muscle fibers.",
+        "Lee opens the lid of one mouse cage and pulls the occupant out by its tail.",
+        "And this mouse here is a normal male mouse, about two months old."
+      ]
+    },
+    {
+      "dialogue_uid": "0068b027-c5d6-42e4-9986-27f6422d949c",
+      "language": "en",
+      "utterances": [
+        "Then Lee reaches into the second cage.",
+        "And here's one of these myostatin knockout mice.",
+        "And you can see how much larger the mouse is compared to this.",
+        "And if you look carefully, I think you can sort of appreciate how much extra muscle these mice have.",
+        "Beneath the fur is a bodybuilder's physique.",
+        "Lee says he knew from the start that his discovery was going to get a whole lot of attention.",
+        "You only have to look at those mice for 10 seconds to realize not only the potential to treat patients, but also the potential for abuse.",
+        "In 2008, the World Anti-Doping Agency banned substances that inhibit myostatin.",
+        "At the time, there weren't any on the market.",
+        "But that's probably about to change.",
+        "Drug companies have developed several different products that inhibit myostatin.",
+        "And they're being tested in people.",
+        "If they work, these drugs might help tens of thousands of patients with genetic diseases like muscular dystrophy.",
+        "The drugs also might help many more people with muscle wasting associated with cancer or kidney disease or even old age.",
+        "And Chris Mendias, at the University of Michigan, thinks drugs that inhibit myostatin could do a lot for otherwise healthy people who simply get hurt.",
+        "You'll have some sort of a joint injury.",
+        "So if you have an ACL tear or something like that, where the muscles actually itself are not injured, but just that inactivity that you have - we have to put you in a brace, you have to be non weight bearing for a time - the muscle will atrophy.",
+        "And in a lot of cases, as hard as we try, the muscle mass never comes back.",
+        "Mendias says myostatin appears to be an important factor in muscle atrophy.",
+        "Studies show that levels rise dramatically when people stop using a particular muscle.",
+        "And Mendias says he's seen the result in patients who have torn the knee's anterior cruciate ligament."
+      ]
+    },
+    {
+      "dialogue_uid": "21651d94-f68f-4423-921b-3092da5be5ec",
+      "language": "en",
+      "utterances": [
+        "It's quite amazing.",
+        "When you look at the knees of these patients and literally looks like the muscle has kind of melted away.",
+        "So what we think then is that, if you used a myostatin inhibitor for a short-term period that might actually be beneficial in preventing the atrophy later on.",
+        "Another researcher with high hopes for myostatin is Lee Sweeney, who studies muscle diseases at the University of Pennsylvania.",
+        "But Sweeney is also worried about doping.",
+        "A decade ago, he wrote an article in Scientific American warning that myostatin manipulation could become a big problem in sports.",
+        "At the time, Sweeney thought athletes might undergo gene therapy to permanently block myostatin.",
+        "Now, he says, it looks like drugs will provide an easier and more attractive option.",
+        "For one thing, Sweeney says, these products will probably leave no trace in the body once an athlete stops taking them.",
+        "They would have a finite time that they would reside in the body and then they would be cleared.",
+        "And so, unlike gene therapy, if you timed it right you might not be able to detect that they had been used.",
+        "Sweeney fears that myostatin drugs will become notorious doping agents.",
+        "Then he says doctors may hesitate to prescribe them for legitimate uses, like helping patients who can no longer walk because they have lost so much muscle.",
+        "The sort of unmet need in all these diseases far outweighs whether somebody wins a bicycle race or a sprinting event because they cheated.",
+        "If the FDA does approve a myostatin inhibitor, it will probably be for a very specific group of patients.",
+        "But once a drug is on the market, doctors can prescribe it to just about anyone.",
+        "Jerry Avorn, from Harvard Medical School, says this off-label prescribing helped the anemia drug known as EPO become a huge financial success - and a big hit with athletes.",
+        "Avorn says EPO itself wasn't the problem.",
+        "EPO is a wonderful drug.",
+        "I mean, it does fantastic things to increase the red blood cell count and to treat anemia and when used appropriately, it's one of the best drugs that's been discovered in the last 50 years.",
+        "But Avorn says no one expected this costly and potentially dangerous drug to be used by millions of people."
+      ]
+    },
+    {
+      "dialogue_uid": "edd436a0-7038-436f-85cc-56635e39e92a",
+      "language": "en",
+      "utterances": [
+        "When EPO was first approved, it was approved as an orphan drug, that is a drug that was supposed to be used by under 200,000 people total in the U.S.",
+        "It turned out to be used by enormously greater numbers of people, partly for good reasons, partly for bad reasons.",
+        "NPR's DAY TO DAY continues.",
+        "I'm Alex Chadwick.",
+        "Initially, EPO was indicated only for anemia related to kidney failure.",
+        "The FDA later added anemia associated with cancer chemotherapy.",
+        "Then, Avorn says, aggressive marketing and off-label prescribing helped EPO reach a whole lot of people who didn't have cancer or kidney disease.",
+        "I've had colleagues who have had patients come to them and say, doc, I saw an ad for this EPO stuff on TV last night and I'd like you to give me some because I'd like to have a little more oomph.",
+        "Eventually, EPO became the most successful biotech drug in history.",
+        "Global sales reached $10 billion a year, despite evidence that high doses could cause heart problems and even death.",
+        "Avorn says with so much EPO around, it's no surprise that some of it went to healthy athletes.",
+        "People, including Lance Armstrong and his forbearers, figured out that if you're in a bicycle race and you've got more red cells than the other people, then you will have more oxygen-carrying capacity and more energy and be able to bike faster.",
+        "So now the question is, will myostatin inhibitors become the next EPO?",
+        "Carlon Colker thinks it could happen.",
+        "Colker is a bodybuilder and a physician in Greenwich, Connecticut.",
+        "His practice includes professional athletes and bodybuilders.",
+        "He says bodybuilders especially have been fascinated by animals with natural mutations to the myostatin gene.",
+        "Colker says these animals include a breed of cattle known as the Belgian Blue.",
+        "DR.",
+        "CARLON COLKER: And they're huge.",
+        "I mean they're ridiculous looking.",
+        "I remember being at a county fair and seeing a Belgian Blue bull lumbering out just for everybody to sort of gawk at because it just looks - I mean, a bull is a big enough animal as it is but when you see one of these Belgian Blue bulls, it just dwarfs the standard bull in comparison."
+      ]
+    },
+    {
+      "dialogue_uid": "643f2047-6bc4-486c-945e-ff115f247691",
+      "language": "en",
+      "utterances": [
+        "Pictures of these bulls often appear in ads for dietary supplements that claim to lower myostatin.",
+        "Colker says that if the FDA approves a myostatin drug, athletes and bodybuilders will find a way to get it.",
+        "Well, there's no question.",
+        "I mean, abuse is rampant even now.",
+        "And I think when the myostatin inhibitors come along, they'll be abused.",
+        "I think there's, there's no question in my mind that athletes are going to abuse it and certainly the bodybuilding set, who's much more experimental - shall we say -will be abusing it quite a bit.",
+        "And Colker says once myostatin drugs become common, athletes will start looking for the next product that will give them an edge.",
+        "He says the doping arms race is a bit like a cartoon.",
+        "Daffy Duck comes out with a slingshot and then Bugs Bunny comes back with a bat and then Daffy Duck goes off and comes back with a gun and then Bugs Bunny goes off and comes back with a bazooka and then Daffy duck goes off and comes back with an Army tank.",
+        "It just keeps going and going and going.",
+        "No matter how many dopers get caught.",
+        "Jon Hamilton, NPR News.",
+        "(SOUNDBITE OF MUSIC)",
+        "You're listening to MORNING EDITION from NPR News.",
+        "NPR's business news starts with charges of pension fraud.",
+        "(SOUNDBITE OF MUSIC)"
+      ]
+    }
+  ]
+}

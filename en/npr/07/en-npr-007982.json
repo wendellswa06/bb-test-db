@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "aeb552c3-7ac3-4430-88d5-7b8fddf544f1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0cb19ee9-7949-4db2-b7b8-bf619c82103a",
+      "language": "en",
+      "utterances": [
+        "You know, surprisingly, you would think that everybody was all sad and somber and everything, but mostly, everybody was upbeat because you know, it was more like, everybody going to do this deployment, get this out of the way.",
+        "Well, nobody really sad.",
+        "I mean, we got out the sadness out of us when we left on the bus on a ride to the airport.",
+        "By the time we got to the airport, everybody's like let's go ahead, get this out of the way, get home and party up.",
+        "Where did you end up in the country?",
+        "Well, I really can't disclose the exact location, but we were in Iraq, though.",
+        "Did you ever find yourself in a violent situation?",
+        "That's right.",
+        "To our best guess, the Giant Impact Theory still explains a lot of the observations that we have about the Earth-moon system.",
+        "This theory suggests that a Mars-sized body impacted the newly forming Earth and ejected a material, a debris disk that circled the Earth and eventually coalesced to form the moon.",
+        "And this material should have been almost entirely molten, based on the amount of energy that we think was present in this impact, and molten material in the vacuum of space would lose its water almost instantly.",
+        "So there's the dilemma, right?",
+        "Yeah, so...",
+        "Is there an answer or a hypothesis?",
+        "Well, you know, there are a lot of other observations, really three observations that suggest that this Giant Impact Theory is correct.",
+        "The moon is revolving around the Earth at a fairly high rate of speed, and you can't achieve that high velocity simply by capturing the moon in a passive way, through gravitational capture, as it drifts by."
+      ]
+    },
+    {
+      "dialogue_uid": "98f3a11a-b640-4e5e-9105-6f32385369f0",
+      "language": "en",
+      "utterances": [
+        "There's also presence for lots of evidence on the lunar surface for a magma ocean that I think covered the lunar surface immediately after formation.",
+        "We don't know how deep it was, but certainly there was a lot of molten material on the moon, and there's no reason to think that the moon had any water at all after it formed, based on what we know about this giant impact.",
+        "So where could the water have come from?",
+        "Well, there are some suggestions that some fraction of the water on the Earth's oceans and in the Earth's atmosphere may have come from material that arrived to the Earth after the giant impact.",
+        "Comets and hydrous meteorites may have contributed to this.",
+        "But the same material should also, of course, hit the moon.",
+        "The problem with this is that the moon is 20 to 40 times less likely to capture this material because it's smaller than the Earth, and it has less gravity.",
+        "So this idea, this late veneer hypothesis, would suggest that the moon was 20 to 40 times drier than the Earth, not similar to the Earth, like our study suggests.",
+        "So people have to rethink this a little bit, or...",
+        "That's right.",
+        "I think we have some pretty good evidence, you know, from the rotational velocity of the moon, from the presence of a magma ocean on the moon.",
+        "Also, may simulations, including some folks here - my colleagues at Carnegie have studied a lot of numerical simulations and modeling about how the inner planets should form.",
+        "And these giant impacts are almost unavoidable.",
+        "So we have these other suggestions that we had a giant impact, but I think we understand it in nothing more than a superficial way, because it really would not predict any water in the lunar interior.",
+        "So the - and this backs up other recent discoveries of lots of water on the moon.",
+        "That's right.",
+        "So there - starting with the Clementine Mission back in the mid-'90s that looked into some lunar - permanently shadowed craters at the lunar poles seemed to suggest that there was water ice in the bottoms of these craters that had been there for some time.",
+        "And several missions recently, including missions originating from India, from Japan and, of course, from the United States, most recently the LCROSS Mission have gathered definitive evidence that there is water ice in the bottoms of these permanently shadowed craters."
+      ]
+    },
+    {
+      "dialogue_uid": "f0cc5bd3-2a39-441d-905d-2c93c34bc984",
+      "language": "en",
+      "utterances": [
+        "Now, the prevailing theory is that this ice formed by the de-gassing of comets and meteorites as they impacted the moon, but we suggest instead that a lot of this water could have come from volcanic eruptions.",
+        "On the moon itself?",
+        "That's right.",
+        "That's right.",
+        "If you take our measurements and use them to estimate the water content of the interior of the moon, you arrive at a volume of water that's equivalent to the Mediterranean Sea.",
+        "Now that's a fair bit of water.",
+        "Wow.",
+        "Wow.",
+        "(Soundbite of laughter)",
+        "It's about a billion times more water than is present in the crater that was bombed by the LCROSS Mission last year.",
+        "But wasn't that the original theory of how the water on Earth arrived also, through volcanic emissions, before we thought about comets bringing it to the Earth?",
+        "That's right.",
+        "That's still a pretty match.",
+        "We know that there are meteorites out in the outer asteroid belt, which are called carbonaceous chondrites, and they're called this because they are meteorites that have a lot of carbon, and they have a lot of water, too.",
+        "And if you add a percent of this material to the Earth after the giant impact, you can explain a large fraction of our oceans and atmosphere.",
+        "And the composition of isotopes in oxygen and carbon and hydrogen actually match those meteorites pretty well.",
+        "So it's a pretty good hypothesis for the Earth.",
+        "Mm-hmm.",
+        "Tell us about this grad student.",
+        "How did you - are you the one who just said: Hey, go look at the dust here, tell us what you see?"
+      ]
+    },
+    {
+      "dialogue_uid": "e4b3ada3-c81f-44be-8cc8-8771b4319ec5",
+      "language": "en",
+      "utterances": [
+        "So Tom Weinreich is the graduate student.",
+        "He's a third-year student at Brown University right now.",
+        "In his first year, he came to the lab of my friend and collaborator Alberto Saal, who's a professor at Brown University.",
+        "And Alberto put him onto this project, because Tom had really shown a lot of initiative in terms of, you know, getting things done around the lab.",
+        "And so Tom started picking through the lunar soil sample that we had obtained from our prior study in 2008.",
+        "And, you know, Tom is a very bright guy.",
+        "And so he observed a lot of interesting things that we hadn't really expected in this lunar soil, and these melt inclusions were one of them.",
+        "How many soil samples are still left that no one has really gone through?",
+        "Boy, there are dozens and dozens.",
+        "The lunar collection, at some level, has been sampled - almost every sample has been studied in some way.",
+        "And the NASA folks are very good about keeping a catalogue of the studies that have been done over time.",
+        "So it really makes it a very valuable collection.",
+        "But, you know, looking for these melt inclusions, they're basically very tiny bits of magma that are trapped in crystals that grow out of the magma before the eruption.",
+        "These melt inclusions were actually discovered in lunar samples first by a guy named Edwin Roedder back in the '70s.",
+        "He looked at these samples immediately after they came back from the moon and noted the presence of these inclusions.",
+        "He also noted in these inclusions that many of them had a vapor bubble inside of them.",
+        "But at that time, as I said, we didn't really have the technology to be able to know what was in those vapor bubbles or be able to measure such tiny inclusions.",
+        "So you think we should unlock those canisters again and go through them?",
+        "Yeah, yeah.",
+        "You know, I think it's time to really do that.",
+        "It's - you know, the technology has really come a long way in the past four decades, and we - I think we have a lot to learn about all the materials that volcanoes brought to the surface on the moon.",
+        "If you're saying that there's the equivalent of the Mediterranean Sea locked up in the lunar soil there, if that's what I heard you, is that reachable water, usable water?"
+      ]
+    },
+    {
+      "dialogue_uid": "56767612-0258-4148-820b-9892c57139b2",
+      "language": "en",
+      "utterances": [
+        "Not really.",
+        "Yeah, this is not something that you'd want to mine for water.",
+        "The amounts that we measured are very similar to the amounts that we expect for the upper mantle of the Earth, and this is the part of the Earth that gives rise to most volcanoes that you see.",
+        "The most voluminous magmas on Earth are the magmas produced at the mid-ocean ridges, and that's about the type of magma on Earth that's most similar to the lunar studies that we see.",
+        "But you can't really extract this in a really economical or meaningful way.",
+        "However, if even one percent of the water that we estimate was originally within the moon at the time that it formed, if only one percent of this material got out through volcanoes and was trapped at the lunar surface, there could be a lot more water at the poles than we think.",
+        "Really?",
+        "Yeah.",
+        "That's right.",
+        "When you say a lot, give me an idea.",
+        "Well, if even one percent of this water escaped, that's essentially millions and millions of times more water than is in the Cabeus crater that was studied at the South Pole of the moon recently.",
+        "So you're saying that the water escaped through volcanic action and then gets trapped.",
+        "It's possible.",
+        "Yeah.",
+        "The reason that water gets trapped at the poles of the moon is because the moon is cold at both the North and South poles.",
+        "At the same time, you have craters that have not seen sunlight for a very, very long time in their bottoms.",
+        "The bottoms of the crater are many hundreds of degrees colder than the freezing point of water, and that's why this water collects there.",
+        "It tends to migrate over the lunar surface toward cold areas of the moon and gradually accumulate over time."
+      ]
+    }
+  ]
+}

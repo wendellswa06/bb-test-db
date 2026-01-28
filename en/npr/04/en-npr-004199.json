@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "52300c64-90e0-430e-bcec-30346a1e71c3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "efc578f6-2ed9-455f-85a2-b89deab6e2ca",
+      "language": "en",
+      "utterances": [
+        "What do you do in Bethany?",
+        "Well, I pastor the church in a small town near Bethany and then also I work as a teacher's aide and a custodian at our local elementary school.",
+        "So, you were on your way to work.",
+        "Yes.",
+        "Do you play the puzzle on your way to work every Sunday?",
+        "Yes, we do.",
+        "I've been listening for, like, 20 years and I've recently got my wife involved in listening.",
+        "Well, now, before we continue, let's welcome the puzzle editor of The New York Times, WEEKEND EDITION's puzzle master Will Shortz.",
+        "Good morning, Will.",
+        "Good morning, Linda, and welcome back to the show.",
+        "And, Tim, congratulations.",
+        "Thank you.",
+        "Now Will, it has been a while since I played the puzzle with you and I hope you'll go easy."
+      ]
+    },
+    {
+      "dialogue_uid": "8f958f9c-d60a-4912-bf47-d86016f70bc9",
+      "language": "en",
+      "utterances": [
+        "It's actually, I think, an easy puzzle today.",
+        "We'll find out.",
+        "Well, that's good.",
+        "Tim, are you ready to play?",
+        "I'm ready.",
+        "OK.",
+        "Will, let's go.",
+        "All right, Tim and Linda.",
+        "Every answer today consists of two words that are opposites.",
+        "I'll give you rhymes for the words.",
+        "You tell me the opposites.",
+        "For example, if I said lard and loft, you would say hard and soft.",
+        "OK?",
+        "All right.",
+        "Number one is coy and curl.",
+        "Boy and girl.",
+        "That's it.",
+        "Number two is...",
+        "Fast, fast.",
+        "...should and shad.",
+        "Should and what?",
+        "Shad?"
+      ]
+    },
+    {
+      "dialogue_uid": "cd2a7593-516b-4283-93af-f6ad1579c93b",
+      "language": "en",
+      "utterances": [
+        "Shad, as in the fish.",
+        "This is preacher talk here.",
+        "Should and shad.",
+        "Good and bad.",
+        "There you go.",
+        "Good and bad is it.",
+        "Dove and date.",
+        "Love and hate.",
+        "Love and hate.",
+        "Pappy and pad.",
+        "Happy and pad?",
+        "And pad P-A-D.",
+        "What's the opposite of happy?",
+        "Sad."
+      ]
+    },
+    {
+      "dialogue_uid": "702bd83d-fdca-4f5d-ad43-b7c28dde03bb",
+      "language": "en",
+      "utterances": [
+        "That's it.",
+        "Callow and keep.",
+        "Callow and keep.",
+        "Think water.",
+        "Shallow and deep, yeah.",
+        "That's it.",
+        "Barge and ball.",
+        "Large and small.",
+        "That's it.",
+        "Smack and smite.",
+        "Smack and smite.",
+        "Black and white.",
+        "Um-hum.",
+        "Whiskey and waif, W-A-I-F.",
+        "Whiskey and waif, whiskey and waif.",
+        "Those two don't go together."
+      ]
+    },
+    {
+      "dialogue_uid": "a58630e1-fcdc-4855-b116-9fb0285fccbd",
+      "language": "en",
+      "utterances": [
+        "No.",
+        "Whiskey and waif.",
+        "Could it be something and safe?",
+        "Risky and safe, yeah.",
+        "Risky and safe, good.",
+        "Two heads worked together there.",
+        "The next one is pong and peak, P-E-A-K.",
+        "Pong and peak.",
+        "Pong and peak.",
+        "Pong.",
+        "Strong and weak.",
+        "Strong and weak, good job.",
+        "Gore and geese.",
+        "Gore and geese?",
+        "Um-hum.",
+        "Gore, sore, tore."
+      ]
+    }
+  ]
+}

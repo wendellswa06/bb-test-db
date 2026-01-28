@@ -1,0 +1,108 @@
+{
+  "challenge_uid": "94def367-bdca-4a50-b3a7-0917066c77fb",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "b9d9ef58-bcc7-4441-921e-c4c970176a6e",
+      "language": "en",
+      "utterances": [
+        "Well, you know, I think it's 50-50.",
+        "You know, I think that it's just like those credit cards that you get offered when you're in college, right?",
+        "And you have that friend who then - you may have gotten one credit card but you have that friend who signed up for all 18 that came in the mail.",
+        "No job.",
+        "And with no job.",
+        "And then all of a sudden they're like I owe $60,000, right?",
+        "David Kestenbaum, NPR News.",
+        "This is MORNING EDITION from NPR News.",
+        "I'm Renee Montagne.",
+        "And I'm Steve Inskeep.",
+        "Well, you know, when I had the creditors, when I did that, one of my creditors said, you know, it's really irresponsible of you not to pay this debt.",
+        "I was like, whoa, whoa, whoa, hold up, who's the irresponsible, the person who gave an 18-year-old who was in school with no job a $5,000 limit credit card or the person who spent the money, you know?",
+        "What I don't understand about the subprime situation is why it's so unregulated.",
+        "I mean you don't go to banks anymore...",
+        "Right.",
+        "...because they can't qualify for them."
+      ]
+    },
+    {
+      "dialogue_uid": "b1240a3c-7ee8-46e9-b527-24627486649e",
+      "language": "en",
+      "utterances": [
+        "Right.",
+        "Well, you know, there was a time when, you know, you had you had to put on your Sunday best...",
+        "That's right.",
+        "You...",
+        "Get the family and the kids all dressed up.",
+        "Every shined up - is looking good and you walked into the bank and you said, you know, we have a dream.",
+        "We've save our money, we have a down payment; but you know, now it's quick fast and easy.",
+        "Yeah, online.",
+        "Yeah.",
+        "It takes you two minutes to get, you know, a mortgage that you really shouldn't get.",
+        "And they don't ask you how much money you make?",
+        "No."
+      ]
+    },
+    {
+      "dialogue_uid": "3550d7fa-9ec7-4966-bd80-6835d053c0da",
+      "language": "en",
+      "utterances": [
+        "(Unintelligible) They'll get your name.",
+        "(Unintelligible)",
+        "(Soundbite of laughter)",
+        "Just tell us the area - the general area you live in.",
+        "(Unintelligible) drops the money, you pick it up, get your house.",
+        "Yeah.",
+        "So maybe we should all just stop fixating on houses.",
+        "Why are we so obsessed with them - about buying them, fixing them up, renovating, reselling, refine - duh duh duh.",
+        "Why don't we just think about something else?",
+        "It is our American lore.",
+        "It is our dream.",
+        "And we were told - we've been taught that since we we're itty-bitty people.",
+        "Since you're a baby.",
+        "Yes, since you were a baby.",
+        "Since we watched \"\"Little House on the Prairie."
+      ]
+    },
+    {
+      "dialogue_uid": "fbe238b7-374d-49ab-a816-36f35a3be2b3",
+      "language": "en",
+      "utterances": [
+        "Exactly.",
+        "Oh, yeah.",
+        "Everybody gets a little house; even Laura Ingalls Wilder.",
+        "Yeah.",
+        "Everybody.",
+        "Except for you.",
+        "Except for us.",
+        "Except for us.",
+        "Avert your eyes.",
+        "Don't even look at it."
+      ]
+    },
+    {
+      "dialogue_uid": "ae7fcf93-3004-4530-a961-8c120ac288db",
+      "language": "en",
+      "utterances": [
+        "You will never have it.",
+        "Don't even dream it.",
+        "Thank you both.",
+        "That's Frances Callier and Angela Shelton.",
+        "They are the comic duo Frangela.",
+        "Thank you.",
+        "Thanks.",
+        "Bloomberg has a big story out today about a tiny microchip not much bigger than a grain of rice.",
+        "The chip has been found in the type of computer servers used by at least 30 major American companies including Apple and major banks, also servers used by the Pentagon and the CIA.",
+        "Bloomberg describes this chip as, quote, \"\"a stealth doorway into any network that included the altered machines.\"\" And this doorway, Bloomberg reports, was built in China.",
+        "Michael Riley is one of the reporters who broke this story today.",
+        "Welcome.",
+        "Thank you very much.",
+        "Tell me a little bit more about this microchip and what kind of damage potentially it's capable of doing.",
+        "Yeah, so it's basically a chip that was built into a motherboard that's made by a U.S.",
+        "company called Super Micro.",
+        "Super Micro, even though most people have never heard of the company, is incredibly important in the business of making servers.",
+        "And servers are the neurons of the cloud.",
+        "It's basically the Internet - these big data centers with tens of thousands of servers on them."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "challenge_uid": "f255642f-dace-4b5d-ba52-989fefad6525",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "200ac76a-d1ce-4267-a766-0c9e9fc4c1b8",
+      "language": "en",
+      "utterances": [
+        "(As Santa's secretary) Oh, good news.",
+        "I see an opening on Santa's calendar in July.",
+        "(As Spark) July?",
+        "(As Santa's secretary) How does 5 am work for you, Spark?",
+        "(As Spark) It does not work for me.",
+        "You know how many months away that is?",
+        "(As Santa's secretary) If you want to get in here any earlier you're going to have to sit on Santa's lap.",
+        "(As Spark) Huh?",
+        "(As Santa's secretary) Just kidding.",
+        "(As Spark) Huh.",
+        "(As mall crew leader) Mall crew on sleigh 6.",
+        "I need all of my mall elves on the sleigh now.",
+        "Whoa, whoa, whoa.",
+        "What are you doing?"
+      ]
+    },
+    {
+      "dialogue_uid": "ad5844dd-0a40-4cb8-8644-c6600fc295bb",
+      "language": "en",
+      "utterances": [
+        "(As Spark) I'm just getting onto sleigh 6.",
+        "I'm on the mall crew.",
+        "(As mall crew leader) You're not on my mall crew.",
+        "(As Spark) Right.",
+        "I'm just a - I'm a trainee.",
+        "(As mall crew leader) There are no trainees on the mall crew.",
+        "(As Spark) They might just not have gotten the paperwork down to you, but...",
+        "(As mall crew leader) Listen, you think this is a game, huh?",
+        "(As Spark) No.",
+        "(As mall crew leader) You ever been to a mall with kids who are drinking hot cocoa, eating candy, and they're about to meet the most important man in the world?",
+        "(As Spark) Well, not in person, but I...",
+        "(As mall crew leader) Then you have no idea what you are in for."
+      ]
+    },
+    {
+      "dialogue_uid": "7a6ee43a-03c8-4a92-914a-a1923a98d376",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Listen.",
+        "I've got a candy cane I don't need.",
+        "And it can be your candy cane if I just get on that sleigh.",
+        "(As mall crew leader) Got any chocolate?",
+        "(SLEIGH BELLS)",
+        "(As mall crew leader) Mall express.",
+        "Sleigh number 6 to the mall.",
+        "We're going to the mall, elves.",
+        "(MUSIC)",
+        "(As girl in department store) Mommy, there's an elf in front of us.",
+        "(As mom in department store) Hmm?",
+        "(As girl in department store) There's an elf.",
+        "(As mom in department store) I know.",
+        "Are you excited to see Santa and tell him everything you want?",
+        "(As mom in department store) Shh.",
+        "Katie, that's not very nice."
+      ]
+    },
+    {
+      "dialogue_uid": "7573b29d-80e7-4fa5-baf0-58ea1fd507a0",
+      "language": "en",
+      "utterances": [
+        "(As girl in department store) He has big ears.",
+        "(As mom in department store) That's very naughty.",
+        "(As Spark) Zip it, kid.",
+        "(As girl in department store) Where's your parents?",
+        "Where's your parents?",
+        "(As Spark) I'm an orphan, OK?",
+        "Are you happy now?",
+        "(As mom in department store) Katie, you say you're sorry.",
+        "(As girl in department store) Sorry.",
+        "(As Santa) Where's the next one?",
+        "(As Daisy) Next child.",
+        "(As Spark) Yeah.",
+        "That's me."
+      ]
+    },
+    {
+      "dialogue_uid": "0c005b88-1811-4dcc-a912-193855264e7a",
+      "language": "en",
+      "utterances": [
+        "(As Daisy) Spark?",
+        "Is that you?",
+        "Spark Elgooso?",
+        "What are you doing dressed like that?",
+        "(As Spark) Please just let me through.",
+        "(As Daisy) Spark, you should be back at the North Pole.",
+        "They need you.",
+        "(As Spark) I know.",
+        "I wouldn't be here if it weren't important.",
+        "Please just tell him it's a little boy.",
+        "(As Daisy) Absolutely not, Spark.",
+        "I cannot do that.",
+        "I mean, this is Santa Claus.",
+        "This is my job.",
+        "(As Santa) Santa's got an empty lap here.",
+        "(As Daisy) I have to keep this line moving.",
+        "(As Spark) Daisy, this is bigger than both of us, OK?",
+        "(As Daisy) Santa.",
+        "This is an elf.",
+        "He's not supposed to be here, and he is leaving now.",
+        "(As Santa) Oh, no, no, no. We've got an empty Santa lap here.",
+        "Come on."
+      ]
+    }
+  ]
+}

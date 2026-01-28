@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "a4f217b6-af13-4f74-aebe-f9c7282a3a26",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "c1da1c92-b152-4d44-9606-4a6edf2713a3",
+      "language": "en",
+      "utterances": [
+        "Sally Singer is editor-in-chief of T: The New York Times Style Magazine.",
+        "Thanks very much.",
+        "Thank you.",
+        "It's MORNING EDITION, from NPR News.",
+        "Good morning.",
+        "I'm Steve Inskeep.",
+        "And I'm Deborah Amos.",
+        "In Your Health today, we'll hear about new strategies for getting people off the couch.",
+        "But first, the latest in sleep research.",
+        "NPR's Allison Aubrey reports on how getting more sleep at night can improve everything from a 40-yard dash time to the vocabulary and the math skills of preschoolers.",
+        "College is often a time of late nights and erratic sleep schedules, and athletes on campus don't seem to be much of an exception.",
+        "Stanford sleep researcher Cheri Mah studied a group of football players on her campus and found surprising levels of daytime fatigue at the beginning of the season, even though the players thought they were getting adequate sleep.",
+        "If each of them added a couple of hours of sleep per night, how might that influence their performance?",
+        "The goal is to aim for 10 hours of sleep at nighttime.",
+        "Wow.",
+        "Ten hours.",
+        "That's a lot to ask of a college football player.",
+        "Yeah?",
+        "It's difficult.",
+        "It definitely is difficult."
+      ]
+    },
+    {
+      "dialogue_uid": "68fbd72c-96a1-4812-a6f3-b843a723b279",
+      "language": "en",
+      "utterances": [
+        "Throughout the season, she definitely got players sleeping more - not always the full 10 hours, but in each case a significant extension of nighttime Z's.",
+        "And then she documented how these players performed on drills.",
+        "Take the 40-yard dash.",
+        "Early in the season, the average time was 4.99 seconds.",
+        "But after six weeks of getting more sleep each night...",
+        "We saw a drop in a tenth of a second, down to 4.89 seconds.",
+        "Hmm.",
+        "So just a tenth of a second, I guess - is that a big deal?",
+        "A tenth of a second may sound small, but for many of these athletes, a tenth of a second is a huge difference.",
+        "And it's not just sleep researchers who agree on this point.",
+        "Yeah.",
+        "I mean, in the NFL, that's millions of dollars.",
+        "That's physician Tim Church of the Pennington Biomedical Research Center.",
+        "He's both a fitness researcher and an athlete.",
+        "A tenth of a second in, you know, a 40-yard dash is a huge, huge difference from a performance standpoint.",
+        "But what Church says is just as significant is that these players' levels of daytime fatigue decreased significantly with more sleep, and their scores on vigor tests improved."
+      ]
+    },
+    {
+      "dialogue_uid": "1c037aea-6c82-4904-b40a-584aef7ab501",
+      "language": "en",
+      "utterances": [
+        "These are young individuals whose bodies have great capacity to grow and change, you know, in terms of adding muscle.",
+        "And a lot of that stuff happens when you're sleeping.",
+        "So it makes sense - you're young, you're training hard - that additional sleep's going to provide additional benefit.",
+        "So how might this connection between more sleep and improved physical performance translate to all of us who aren't collegiate athletes in top shape?",
+        "Should we be catching more Z's in order to speed up a slow jogging or walking pace?",
+        "it's hard to translate these findings.",
+        "I think the most important take-home thing is it is one more example that definitely, sleep makes a difference.",
+        "The benefits of adequate sleep extend far beyond what's now being documented on athletic performance.",
+        "And when it comes to teaching good sleep hygiene, it seems you can never start too young.",
+        "New research being presented at a conference of sleep researchers this week explores the habits of preschool-age children to see how sleep may predict academic performance.",
+        "It's a good time to look at things like early learning, brain development.",
+        "Joel Hafvenstein, welcome to the show.",
+        "I think that there's no doubt that this can be a 1,000-tower project, and maybe more.",
+        "The whole package is right here.",
+        "Does this area lack anything?",
+        "Transmission lines, in a word or two - and that's really all it lacks."
+      ]
+    },
+    {
+      "dialogue_uid": "087b0ddd-656b-455e-bc25-32276a8b16c0",
+      "language": "en",
+      "utterances": [
+        "That's why Conant and another wind developer are sitting with a couple hundred farmers in Winner Middle School.",
+        "They came to hear Joe Dudak, a vice president of ITC Holdings Corporation.",
+        "Who comes first, the generation or the line?",
+        "That's been the problem that's probably plagued the transmission industry for the last 30 years.",
+        "And that's why no transmission has been built.",
+        "For more than a decade, wind developers have been salivating over windy places like this but wouldn't build wind turbines without transmission lines.",
+        "And utilities wouldn't string the lines without the wind farms.",
+        "ITC wants to break that impasse with a $12 billion transmission project.",
+        "We think you build it first, and you're there at the same time the wind energy is there.",
+        "ITC's project would carry 12,000 megawatts of electricity from the windy Northern Plains to Chicago and points east.",
+        "That's enough electricity for about 4.5 million homes.",
+        "Dudak says the current grid isn't up to the job of bringing green power to millions of homes and businesses.",
+        "It's a patchwork of transmission lines, strung decades ago by utilities, mostly connecting big, polluting power plants to local customers.",
+        "There is no superhighway system, and there's not enough room right now.",
+        "The system is terribly constrained right now.",
+        "To build its piece of a transmission superhighway, ITC needs lots of money and both federal and state approvals.",
+        "Dudak's hoping that concerns about climate change, and new laws that mandate clean power, will translate into a green light.",
+        "It's possible we can be breaking ground in two years.",
+        "But 900 miles away, at a control room for the Midwestern Electric Grid, talk of a big increase in wind power sends chills down the spine of Rob Benbow.",
+        "He's the manager at the Midwestern Independent Transmission System Operator in suburban Indianapolis.",
+        "It's kind of like an air-traffic control tower for the electric grid for 13 states.",
+        "It's before dawn, and a few dozen grid operators are sitting in front of a massive, curved screen, 20 feet high and 150 feet long.",
+        "They're making sure enough power is being generated to match the surge in demand as the Midwest wakes up and turns on coffeemakers and hairdryers."
+      ]
+    },
+    {
+      "dialogue_uid": "5654d5ae-e998-4c93-b2c8-4189cec59c44",
+      "language": "en",
+      "utterances": [
+        "They also troubleshoot when power plants unexpectedly turn off.",
+        "This morning, that warning is someone else's problem.",
+        "But Benbow worries that when wind power makes up a significant portion of his grid's electricity, managing it will cause him frequent problems.",
+        "My biggest fear is if you see 20 percent wind on your system, and then it comes off at a time period where you don't have resources to replace it.",
+        "That's going to - could result in a blackout situation.",
+        "Wind power is not predictable.",
+        "This morning, wind is steadily producing about 3,000 megawatts, about 5 percent of the total power being used in the region.",
+        "But that's not always the case.",
+        "Benbow says he's seen wind power become more variable as more wind farms come on line.",
+        "And grid operators can't order wind plants to produce, like they can other plants.",
+        "If the wind is not blowing, you just don't have that resource available.",
+        "And when the wind is blowing, it can be hard to make wind turbines shut down.",
+        "A lot of these plants are not manned.",
+        "If we need to turn them off, we have to send a person out there to actually do that.",
+        "Lots of other things about wind frustrate the Benbows of the world.",
+        "Wind blows hardest at night when electricity demand is lowest; there currently aren't ways to store it for later use; and you can't count on it on hot, summer days when you need it most.",
+        "You can put all that wind in, but I still have to have all this other generation that I need to have available — all my coal, nuclear, all the gas — for my peak load day.",
+        "So when Benbow thinks about lots of new wind turbines and transmission lines to carry their energy towards his control room, he sees more than clean energy.",
+        "He sees a lot of headaches coming his way.",
+        "Elizabeth Shogren, NPR News."
+      ]
+    }
+  ]
+}

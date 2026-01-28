@@ -1,0 +1,126 @@
+{
+  "challenge_uid": "c45a7bf0-3e8e-4d0e-b15b-d56a41fb3b60",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "767b111c-0541-4ed1-8a2b-2bace9ecc963",
+      "language": "en",
+      "utterances": [
+        "Sudran has a permit to collect specimens, and he thought the whale bones would make a good teaching tool.",
+        "It would have been nice to get some funding for something like that, but there was no time.",
+        "I'm not going to waste time writing a grant.",
+        "You know what I mean?",
+        "'Cause that takes weeks and months.",
+        "You have to do it.",
+        "So he rallied some volunteers to collect the bones, then spent several stinky months cleaning them off.",
+        "Now he brings the entire the skeleton to schools.",
+        "The dream, he says, is to take this model of quick-and-dirty hands-on science all over the state.",
+        "So many places, I could just reel them off: Oxnard, Bakersfield, El Centro.",
+        "All places where public school science has taken a hit and could use, Sudran says, a little bit of fun.",
+        "We don't want to make our place any bigger.",
+        "We want more of them.",
+        "Next up, he hopes, the small Southern California desert town of Coachella.",
+        "For NPR News, I'm Amy Standen.",
+        "It's ALL THINGS CONSIDERED from NPR News.",
+        "I'm Guy Raz.",
+        "And I'm Robert Siegel."
+      ]
+    },
+    {
+      "dialogue_uid": "ab21cf0d-e5c7-4fd1-80b5-3e4db9e24f8b",
+      "language": "en",
+      "utterances": [
+        "If you read something on a computer today, you did it in part thanks to Dennis Ritchie.",
+        "He's known as the father of the Unix operating system and the C programming language.",
+        "Ritchie died on Saturday after a long illness.",
+        "He was 70 years old.",
+        "And as we here from NPR's Laura Sydell, Ritchie helped make modern computing possible.",
+        "It's hard to imagine today, but in the 1970s when someone wrote a computer software program, they had to limit it to working on one computer or spend a lot of time readapting it to every single device.",
+        "The work of Dennis Ritchie helped change that.",
+        "He and his colleague, Kenneth Thompson, were working at Bell Labs when they developed a computer language they called simply C.",
+        "It could be moved easily between different computers.",
+        "But in a video by Bell Labs, Ritchie said that wasn't the only reasoning behind it.",
+        "Well, what we wanted to preserve was not just a good programming environment in which to do programming, but a system around which a community could form.",
+        "Ritchie and Thompson rewrote the existing Unix operating system in C.",
+        "The descendants of Unix and C are countless, but include Linux, Android, Mac OS, Java Script and C++.",
+        "Ritchie was born in Bronxville, New York and grew up in New Jersey.",
+        "He first encountered computers at Harvard, where he earned degrees in physics and mathematics.",
+        "Then he went on to work at Bell Labs, where his father had worked.",
+        "That's where Lawrence Cowsar met Ritchie.",
+        "If you make a phone call on your cell phone or you use the Internet or make use of many applications, you will somewhere be using something that was written in the language that Dennis designed.",
+        "Cowsar says many programmers wanted jobs at Bell Labs just because they wanted to work with Dennis Ritchie.",
+        "Many of them bring in their hands sort of dog-eared copy of the book that Dennis wrote about the C programming language hoping for an autograph.",
+        "Cowsar says they met a man who was genuinely curious.",
+        "He wanted to discover and invent things and solve interesting problems.",
+        "And as a computer scientist in the 1960s and '70s, he had long hair and a beard, and even though he became a manager, Cowsar says Ritchie didn't think you should listen too much to management.",
+        "Dennis Ritchie received the National Medal in Technology in 1999.",
+        "Laura Sydell, NPR News, San Francisco."
+      ]
+    },
+    {
+      "dialogue_uid": "acec19b6-3057-4656-a8ab-c384bbcf8a66",
+      "language": "en",
+      "utterances": [
+        "One of the ways the federal stimulus plan is hoping to give a boost to the economy is by giving a boost to the amount of food stamps people get.",
+        "It's welcomed by those who have more food stamps to spend, though gauging how much it helps stimulate the economy is a challenge.",
+        "NPR's Kathy Lohr reports.",
+        "The government is spending $20 billion to increase the Supplemental Nutrition Assistance Program, or food stamps, by about 13 percent.",
+        "For Charmaine McCauley, a single mother of two in suburban Atlanta, the increase means an extra $45 a month.",
+        "You know, just the staple stuff you need like bread, milk, cheese, eggs - those little things.",
+        "That little extra can help with that.",
+        "McCauley just started getting food stamps about six months ago.",
+        "She shows me her refrigerator, which is full.",
+        "And you've got…",
+        "Vegetables, tons of vegetables, tons of fresh vegetables.",
+        "Leftovers.",
+        "This is chicken I'll be cooking tonight.",
+        "Cake pan is it.",
+        "What a citizen of Quebec carries when traveling abroad.",
+        "(unintelligible)",
+        "Or Ontario.",
+        "Oh, Canadian passport."
+      ]
+    },
+    {
+      "dialogue_uid": "95914fe5-131d-4a20-a8d1-b3d41e529a61",
+      "language": "en",
+      "utterances": [
+        "Yes, Canadian passport.",
+        "Longtime home for the San Francisco Giants.",
+        "Candlestick Park.",
+        "That's it.",
+        "Humanitarian gift that's sent abroad.",
+        "Care package.",
+        "Uh-huh.",
+        "Extra money for a soldier during war.",
+        "Pay…",
+        "Yes.",
+        "Another word for battle.",
+        "I'm seeing and not…",
+        "Combat's what we're looking for, right?",
+        "Yes."
+      ]
+    },
+    {
+      "dialogue_uid": "fccd88f6-a815-4dd5-8cfe-85f84c4c9a50",
+      "language": "en",
+      "utterances": [
+        "Combat.",
+        "Combat pay is it.",
+        "In slang, a place to sleep temporarily for free.",
+        "Crash pad.",
+        "That's it.",
+        "NFL team in Charlotte.",
+        "Oh, Charlotte Hornets?",
+        "No. Oh, God, that's not it.",
+        "Well, it is.",
+        "It's a basketball team, but that's not what he's looking for.",
+        "(Soundbite of laughter)",
+        "Oh, yeah.",
+        "You're going for football here.",
+        "First of all, where is Charlotte?",
+        "In North Carolina."
+      ]
+    }
+  ]
+}

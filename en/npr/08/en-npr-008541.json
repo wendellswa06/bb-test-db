@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "3615d505-f841-4924-b37f-2df3425ec67a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "69aece92-b527-42d1-a77c-4850c5bbd467",
+      "language": "en",
+      "utterances": [
+        "Well, by the rate of fall, you can tell by intensity on Doppler radar.",
+        "Once again, thanks to the wonders of computers, we have algorithms that can detect for us the rate of fall of the precipitation based on its intensity - how fast and how strong does the radar return - come back to the radar transmitter so we can do a quick calculation and convert that to inches.",
+        "And how much of this is affected by the amount of moisture in the snow, in terms of how much snowfall ultimately piles up?",
+        "That is really important, and that's called the snow ratio.",
+        "If, just an example, you take an inch of liquid - can't call it rain 'cause we're not turning rain to snow - but just say equivalent of an inch of liquid of water.",
+        "At normal ratios, that would produce 10 to 12 inches of snow.",
+        "But as the air is colder and the dendritic formation - the actual snowflakes as they begin to form - if it forms in a much colder, dryer environment aloft, what can happen is that ratio can climb to 20 to one, 30 to one, maybe sometimes 40 to one under ideal circumstances.",
+        "So given the same amount of liquid, what we have to do is forecast what that ratio will be.",
+        "If we have the ratio all wrong, then we're going to be completely wrong on the forecasted snow amount.",
+        "The wetter snow would be denser and more compact?",
+        "Right, more water in it.",
+        "And the dryer snow would be fluffier and would pile up more.",
+        "Here's a good example, the big weekend storm.",
+        "That was 30 inches of wet snow with high water content in the snowflakes.",
+        "When that accumulated, it started compacting.",
+        "And because of the amount of water per snowflake, the weight of that 30 inches of snow was much heavier than 30 inches of light, fluffy dry snow.",
+        "Yeah.",
+        "And having been out there shoveling it, I know.",
+        "(Soundbite of laughter)",
+        "Right.",
+        "I can tell how heavy that was.",
+        "Do you think, Doug, that this has all gotten more accurate over time?",
+        "I mean, the snowstorm this past weekend, it just seemed like it started exactly when people said it would start.",
+        "It ended just about exactly when people said it would end.",
+        "And the accumulation was just about spot-on."
+      ]
+    },
+    {
+      "dialogue_uid": "195f54ab-be79-4c08-8426-13919e6b9930",
+      "language": "en",
+      "utterances": [
+        "All of us who make our living forecasting weather are very happy with the couple of the computer models these days.",
+        "And I think any meteorologist that's being honest with you will tell you that it's the excellent performance of two particular computer models.",
+        "There are quite a few we look at, but two in particular that have been excellent for the past couple of months.",
+        "So fist bumps around the weather room after that storm?",
+        "Absolutely.",
+        "Or keyboard bumps, yes, same idea.",
+        "(Soundbite of laughter)",
+        "And what about this one?",
+        "Well, this time around, the computer models are not as much in agreement as they were on Saturday but pretty darn close to it.",
+        "Doug Hill, thanks so much.",
+        "My pleasure.",
+        "Doug Hill is chief meteorologist and vice president of weather at ABC 7 News here in Washington, D.C.",
+        "Well, one day, will you be president of weather, Doug?"
+      ]
+    },
+    {
+      "dialogue_uid": "375150bf-3f6e-402d-8abc-74a7494bf7f3",
+      "language": "en",
+      "utterances": [
+        "You know, I'm happy with what I have right now.",
+        "I don't want the extra headaches.",
+        "(Soundbite of laughter)",
+        "Okay.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Guy Raz.",
+        "The president is riding a wave of momentum from his speech to Congress this week, taking his health care message on the road today to Minnesota.",
+        "(Soundbite of crowd)",
+        "Minnesota, we are closer to reform than we've ever been before.",
+        "But this is the hard part.",
+        "This is when the special interests and the insurance companies and the folks who think, you know, this is a good way to bring Obama down.",
+        "(Soundbite of crowd)",
+        "This is when they're going to fight with everything they've got.",
+        "This is when they'll spread all kinds of wild rumors designed to scare and intimidate people.",
+        "That's why I need your help.",
+        "(Soundbite of cheering crowd)"
+      ]
+    },
+    {
+      "dialogue_uid": "460b1d20-2f43-4686-9bec-19f246d4bb8f",
+      "language": "en",
+      "utterances": [
+        "In a moment, we'll check in with opponents of Mr. Obama's health care agenda who held protests today in front of the Capitol.",
+        "First though, to NPR's Don Gonyea who's in Minneapolis.",
+        "Don, welcome.",
+        "Hi.",
+        "Glad to be here.",
+        "A friendly crowd there, lots of cheering.",
+        "The president at one point repeating a campaign slogan.",
+        "Let's listen in for a moment.",
+        "I want to know Minnesota, are you fired up?",
+        "Ready to go?",
+        "(Soundbite of cheering)",
+        "Don, it looked a little like rock concert there.",
+        "It does and it's interesting.",
+        "It's like the president is here and he's pitching his new album or his new CD, and that CD is all about health care reform.",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "f839d2f3-8cbc-401f-b4fc-86bba32bfb55",
+      "language": "en",
+      "utterances": [
+        "But as you get to the end of the event, this one lasting about an hour or so, you want to send people home with something they know.",
+        "So it's like you have to play \"\"Born To Run\"\" right at the end, or in this case: Fired up.",
+        "Ready to go.",
+        "Fired up.",
+        "Ready to go.",
+        "Don, it seemed like the president repeated a lot of the same points he made in his speech to Congress on Wednesday night.",
+        "Is that what we can expect to see in the coming weeks and months?",
+        "You know, the president sort of hammering the same arguments over and over?",
+        "Well, in a nutshell, we've come too far to turn back now, that's what the president is saying here.",
+        "And he offered some simple instructions for the people in his audience.",
+        "For Laing, it's a huge accomplishment to be here.",
+        "This is a college-level course.",
+        "She's earning credit for high school and college-level English.",
+        "And this is the norm for all of her classes.",
+        "If Laing and her classmates stay on track, they can complete up to half of their Bachelors Degree credits when they leave high school.",
+        "At Laing's school, East Allen University - but it's a high school - 20 percent of the students are Burmese refugees.",
+        "Don't forget our yearly semi-formal dance will be held on...",
+        "This is a public school.",
+        "Anyone can enroll.",
+        "But the focus is on college prep and college credit.",
+        "Students, Mrs. Irvins (ph) will be at EAU all day on Wednesday...",
+        "Principal Doug Hicks says the district started this program five years ago.",
+        "They chose a building in one of the poorest parts of the city where a growing number of refugee families live.",
+        "Hicks says they are some of his hardest working students.",
+        "They don't speak English in their household.",
+        "They didn't live in the country from day one.",
+        "They have all the strikes against them that we would think as educators that would keep people from achieving, yet they continue to do it."
+      ]
+    }
+  ]
+}

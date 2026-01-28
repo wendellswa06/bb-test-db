@@ -1,0 +1,115 @@
+{
+  "challenge_uid": "3d0243a7-cd31-49fa-bc69-ab7789742868",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "614b4b06-1423-46ae-bf80-39fbb038aabd",
+      "language": "en",
+      "utterances": [
+        "Do the actors have input into you should change this, change that in a small production like this?",
+        "Well, I think the biggest input the actors bring is just themselves.",
+        "And like every actor brings something, you know, something new to a role, and I've learned so much from this group of actors about these characters too, you know.",
+        "And I think that's kind of the fun of being a playwright, too.",
+        "Did you have to find actors who like math?",
+        "No, and actually I think our actors don't like math so much.",
+        "(Soundbite of laughter)",
+        "We did some practice math problems in rehearsal one day, and I think it was helpful for them because they felt the kind of the tension and frustration that some of the characters feel in some of the scenes in the play, but...",
+        "(Soundbite of laughter)",
+        "Do you have to have a math adviser?",
+        "Well, our dramaturge on the project, Carrie Hughes(ph), actually was on the high school math team.",
+        "So she kind of had a real - she was real adviser to us.",
+        "Also our lighting designer is also - Sarah Sedman(ph) is also a former mathlete, so.",
+        "Yeah, because you know when we talk to other playwrights and producers and directors who do science plays, they always have some science adviser saying, you know, a lab never looks like that."
+      ]
+    },
+    {
+      "dialogue_uid": "8aa3cbbd-a2d9-4da9-82be-2d7e5635f200",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "The beakers go here, this goes there.",
+        "You didn't have any real need for that kind of stuff.",
+        "Well...",
+        "But you have to know whether the math they're talking about is real or not.",
+        "It's good to - yeah, you've got to keep this real.",
+        "Yeah, I mean because that's part of the whole mystique is that, hey, they really are talking about real math.",
+        "Right, right.",
+        "And especially when she gets, you know, she starts talking about Pi to 52 places...",
+        "Mm-hmm.",
+        "So what happens next for the play?"
+      ]
+    },
+    {
+      "dialogue_uid": "b9700852-b3c7-4cd7-8192-cf3e24c42dcc",
+      "language": "en",
+      "utterances": [
+        "Well, we'll continue at the Julia Miles Theater here in New York through February 11th.",
+        "Then hopefully other theaters will want to produce it.",
+        "I mean there's a lot of theaters across the country, the regional theater network, so it would be great to see the play get done again and again.",
+        "Well, the play is a lot of fun.",
+        "Thank you, Ira.",
+        "I wish you good luck with it.",
+        "I think every high school kid would love to see - they can relate...",
+        "High school - well, I also think adults, too.",
+        "Yes, absolutely.",
+        "I think everyone.",
+        "I don't know.",
+        "It's a lot of fun.",
+        "It's a play for all ages.",
+        "Good luck to you."
+      ]
+    },
+    {
+      "dialogue_uid": "bc17a8ce-6715-443f-b03d-cf60afcc0d52",
+      "language": "en",
+      "utterances": [
+        "Great, thanks so much.",
+        "Kathryn Walat is author of \"\"Victoria Martin: Math Team Queen,\"\" a new play running now at the Julia Miles Theater in New York.",
+        "You'd just be Bond.",
+        "We're going to take a short break and come back and talk about mercury pollution in the environment and a set of hotspots of mercury in New England.",
+        "So stay with us.",
+        "We'll be right back after this break.",
+        "(Soundbite of music)",
+        "I'm Ira Flatow.",
+        "This is TALK OF THE NATION: SCIENCE FRIDAY from NPR News.",
+        "This is DAY TO DAY.",
+        "I'm Alex Chadwick.",
+        "Coming up, new restrictions on who can be a sperm donor.",
+        "New technology and the World Wide Web.",
+        "A new online search engine can find all sorts of interesting data about people you are interested in, including unlisted phone numbers, birthdays, the addresses of places where they've lived, even satellite pictures of where they're living now.",
+        "Cool, huh?",
+        "But wait a minute.",
+        "If ZabaSearch has all that stuff on them, what do you suppose it has on you?",
+        "And what about the idea of privacy?",
+        "Here's DAY TO DAY technology contributor Xeni Jardin.",
+        "A search for personal data on ZabaSearch.com tends to generate one of two reactions: curiosity or panic."
+      ]
+    },
+    {
+      "dialogue_uid": "e87d70c9-9c6c-4ea0-8886-b2b5ae8c57cc",
+      "language": "en",
+      "utterances": [
+        "It was pretty creepy.",
+        "(Soundbite of typing)",
+        "As blogger and art gallery owner Sean Bonner of Los Angeles discovered when he searched for his own name, a free query on the site returns a lot of data, some of it inaccurate, that can go back for several years.",
+        "I was pretty surprised at all the stuff that came up.",
+        "What did you see?",
+        "I saw lots of places I had lived in the past, phone numbers I used to have, from as recently as last year to as long ago as 10 years ago.",
+        "The free information can even include birth month and year, unlisted phone numbers and satellite photos of your house.",
+        "But ZabaSearch Chairman Nick Matzorkis doesn't understand the alarm.",
+        "He says all this information comes from the public domain.",
+        "When you move and you fill out a change of address form at the post office, the post office gathers all that data and sells it off to information brokers.",
+        "When you apply for a credit card--the information industry in the United States is a multibillion-dollar industry.",
+        "The reality is that the toothpaste is out of the tube.",
+        "And there's no shortage of prospective buyers.",
+        "ZabaSearch is hardly the only service of its kind.",
+        "Yahoo!'s free people search, for example, returns names, phone numbers and addresses, but only ones already in the public phone books.",
+        "Other companies sell much more sensitive information than ZabaSearch offers, including aliases, bankruptcy records and tax liens, but those services at a significant price tag that tends to discourage casual impulse snoopers.",
+        "ZabaSearch charges for detail, like background checks, and criminal history reports.",
+        "The company also plans to sell ads and other services.",
+        "That angers critics who accuse ZabaSearch of exploiting the lack of privacy protections in America.",
+        "George Washington University law Professor Daniel Solove is author of \"\"The Digital Person: Technology and Privacy in the Information Age."
+      ]
+    }
+  ]
+}

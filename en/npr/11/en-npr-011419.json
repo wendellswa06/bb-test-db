@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "8916228b-bf2c-4257-b7ed-cdb14c91f31c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8f5cfaca-1524-4685-9585-a4ced94ba1a1",
+      "language": "en",
+      "utterances": [
+        "Not enough numbers to replace those who are leaving.",
+        "There has been a large influx of foreign workers, immigrants, into this country.",
+        "People talk about the brain drain, that we bring in skilled people from all around the world.",
+        "Couldn't that make up for at least part of this loss?",
+        "Yes, and actually the United States is in a better position than some countries.",
+        "Neal, this is a global problem.",
+        "It's not just about the United States.",
+        "Companies like Germany, Italy, Spain and Japan actually face much worse demographic trends and shifts in their work force than we do.",
+        "Germany is going to lose almost 20 percent of their work force in the next 20 years.",
+        "Their entire work force is going to shrink by 20 percent.",
+        "So...",
+        "That's obviously causing problems for them down the road as they look at how to sustain their welfare state and their social safety net.",
+        "But we're talking about other issues here, about how businesses can respond.",
+        "And if you run a business or own a business, have you planned for the retirement of your boomers?",
+        "If you are a boomer or somebody approaching retirement age, what skills would your company lose if you retired, and have they been planning to replace those skills?",
+        "(800) 989-8255.",
+        "E-mail us: totn@npr.org.",
+        "And let's talk with John.",
+        "John's calling us from Little Rock, Arkansas.",
+        "John, are you there?",
+        "Hey, John...",
+        "Yes, I am.",
+        "Ah, you're on the air.",
+        "Go ahead.",
+        "Hi.",
+        "I've actually got a cabinet shop and it seems strange today, but finding skilled craftsmen is becoming more and more difficult, and most of us are in our 40s, late 40s.",
+        "And finding young people to take our place is next to impossible.",
+        "And I see myself reaching retirement age and not having anyone I can rely on to take over my business.",
+        "So there's nobody in the next generation who's got anything close to the skills that you'd think they'd need?"
+      ]
+    },
+    {
+      "dialogue_uid": "8c7c8b20-740b-43a6-99a4-b49f8ca1e181",
+      "language": "en",
+      "utterances": [
+        "Well, they're not interested in it.",
+        "We have too many businesses that are, you know, in the technology industry, and actually having craftsmen is next to impossible.",
+        "David DeLong, you hadn't mentioned craftsmen, but I guess that's a problem there, too.",
+        "Yes, absolutely.",
+        "There's a lot of fields today where young people just are less attracted to than they were historically, whether it's auto maintenance, which has become a much more complex field because of all the computers that are in cars today; electricians--there are shortages of electricians already.",
+        "There are many fields--prison guards, you know.",
+        "There are a lot of fields that just aren't appealing to younger workers coming out of school and saying, `Well, I'm going to go be a prison guard as opposed to, you know, working with technology.",
+        "So there are many fields that suffer with this problem.",
+        "Can I make one...",
+        "John...",
+        "Go ahead.",
+        "Just let me ask John a question.",
+        "We'll get back to you.",
+        "John, what are you going to do with your company?",
+        "I'm probably going to sell it when I retire.",
+        "And do you think that you'll find somebody who's willing to buy it?"
+      ]
+    },
+    {
+      "dialogue_uid": "a78ec4cc-6e5c-435c-ba2a-c6a7f18e27f5",
+      "language": "en",
+      "utterances": [
+        "I hope so.",
+        "Well, good luck to you.",
+        "Thank you.",
+        "And I'm sorry, I didn't mean to cut you off, David DeLong.",
+        "No...",
+        "Go ahead.",
+        "And have we just lost David DeLong?",
+        "Well, apparently we've lost the line to MIT, at least temporarily.",
+        "We will try to re-establish it.",
+        "In the meantime, let us turn to one company that's facing the issue of an aging work force.",
+        "That's the Platte River Power Authority in Ft.",
+        "Collins, Colorado.",
+        "Their human resources manager, David Green, joins us now on the phone from Ft.",
+        "Collins.",
+        "Nice to speak with you today.",
+        "Afternoon."
+      ]
+    },
+    {
+      "dialogue_uid": "1f73b16d-22a3-485a-8b0e-523bffcb5496",
+      "language": "en",
+      "utterances": [
+        "Do you know how many of your employees are about to reach retirement age?",
+        "Well, we surveyed our employees about a year and a half ago, and 40 percent of them told us that they were likely to stay less than five years.",
+        "Forty percent are not likely to stay longer than five years?",
+        "That's right.",
+        "So that's a huge amount of your work force that you're going to have replace?",
+        "Yeah, we have only 200 employees in total.",
+        "So that's about 90 people telling us they're going to leave.",
+        "Well, you're going to lose warm bodies, but we've been talking to David DeLong--aren't you going to be losing a lot of experience, a lot of highly specialized knowledge and institutional memory?",
+        "Yeah, we're very concerned about that, but we were able to identify some particular areas in our staff where we're the most vulnerable and we're putting some systems in place to try to address that now.",
+        "And what's your company doing to prepare?",
+        "Well, a couple of things we've done is--one is to hire a training coordinator to handle our technical training needs in our power plant.",
+        "We have a coal-fired power plant.",
+        "And we've also created a new position we call a plant assistant, and this is to prepare people for apprenticeships in either operations or maintenance.",
+        "We've hired two people into that job already."
+      ]
+    },
+    {
+      "dialogue_uid": "2e6819ff-8a74-4563-aae4-83c4eb1abd5f",
+      "language": "en",
+      "utterances": [
+        "Thank you.",
+        "Well, we're looking at that.",
+        "There are some restrictions on what you can do under pension plans.",
+        "The IRS regulations prevent us from paying them a pension and paying them to work at the same time.",
+        "But we're working on some programs where we can do that on a part-time temporary basis so we don't totally lose that experience and knowledge.",
+        "I understand you joined us today by stepping out of a meeting there at your company that's addressing these very issues.",
+        "Yeah, one of the things we're working on today is trying to develop what we're calling a Platte River Academy which will be focused more on the management and supervisory skills that we need in the organization.",
+        "The other things we've talked about this afternoon are focused more on the technical needs.",
+        "When you talk about that Platte River Academy, in other words you want to train managers?",
+        "Exactly.",
+        "People that are already on our staff who have shown potential for management or supervisory roles, and we want to help develop them.",
+        "And might some of those retirees be educators now or consultants?",
+        "That's a possibility.",
+        "We haven't gotten that far in our planning yet.",
+        "But it's more likely to be current managers and supervisors that become mentors.",
+        "Well, David Green, thanks very much for speaking with us and good luck to you.",
+        "Thank you."
+      ]
+    }
+  ]
+}

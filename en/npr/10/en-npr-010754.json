@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "4d2fbd65-8ee6-4af1-a46f-23c2a11f204a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "4d5c4a74-d282-444e-b9be-138832bf432f",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "I was working as an assistant at an agency.",
+        "Actually, I had just started actively working as an agent.",
+        "I had taken on my first few clients at that point and sold a few books.",
+        "And I was in a bookstore near the office and I ran into him and he invited me back to his apartment for a drink.",
+        "One thing led to another after a few drinks and the talk of drugs kind of surfaced.",
+        "And he asked me at one point if I'd ever freebased cocaine and I lied and said yes, because it was something I had always wanted to do, always something that sort of captured my imagination.",
+        "And I had certainly done cocaine and I had smoked a lot of pot and drank, but I had never freebased cocaine, which is the same thing as crack.",
+        "Within moments, he produced a crack pipe and that was the first time I ever did the drug.",
+        "Jim Zarroli, NPR News.",
+        "This is MORNING EDITION, from NPR News.",
+        "Good morning.",
+        "I'm David Greene.",
+        "At a hospital briefing Tuesday, family members of others who were injured during the shooting also spoke.",
+        "Penny Wilson was there with her sister, who offered support as Wilson spoke in front of the dozen or so cameras lined up.",
+        "Their mother is Mavy Stoddard, who was shot in the leg and released from the hospital Monday.",
+        "Our mother is doing quite well, actually.",
+        "She has a lot of strength and...",
+        "Courage.",
+        "...courage, and she will go forward.",
+        "She has a long road ahead of her, but her condition is good, I think.",
+        "Bill Hileman also was at the briefing to talk about his wife Susan, who brought nine-year-old Christina Green to meet Representative Giffords.",
+        "Hileman says his wife will recover from her physical wounds, but psychologically it'll be difficult."
+      ]
+    },
+    {
+      "dialogue_uid": "d46d761b-6d79-4946-90ca-2c4da3a28769",
+      "language": "en",
+      "utterances": [
+        "In her clearest-headed state, she is quite understanding that this was the act of a madman and that blame does no good for anybody.",
+        "Unfortunately, we're all human and we have dark moments where the inevitable occurs and we're going to have that as an ongoing issue to deal with.",
+        "Jeff Brady, NPR News, Tucson.",
+        "Canvassing has long been a part of the political process.",
+        "But now, new social networking technologies are changing how people go door-knocking.",
+        "Mobile apps with integrated voter registration rolls make it possible to collect and react to voter sentiment instantly.",
+        "And a new Facebook tool enables volunteers to evangelize for their candidates like never before.",
+        "From member station KQED in San Francisco, Aarti Shahani reports.",
+        "(SOUNDBITE OF TAPPING)",
+        "Local campaign director Ariel Kelley is sitting at a neighborhood cafe in San Francisco's Richmond District.",
+        "Tapping the floor with her three-inch heels, Kelley monitors her door-knocking team from a website on her MacBook.",
+        "I get to see in real-time exactly where they are, using the GPS on the cell phone that they're holding.",
+        "This is Charlie's territory right here.",
+        "Kelley traces Charlie's every move on Anza and Balboa Streets.",
+        "She sees the name, age, and party of the targeted voter and the exact time - down to the microsecond - of Charlie's visit.",
+        "His green dot turns into a red checkmark.",
+        "Kelley clicks over to a spreadsheet that tracks voter responses to Charlie's survey of ballot measures and candidates.",
+        "So if we're seeing a trend that people all of a sudden aren't supporting our candidate, or there's a strong feeling about a particular issue, we can then adapt based on that information."
+      ]
+    },
+    {
+      "dialogue_uid": "94a23237-5946-4a6b-a831-e1b8b521b847",
+      "language": "en",
+      "utterances": [
+        "If I was going to be radical, I'd say that polling is eventually going to disappear, because you're simply not going to need to sample anymore.",
+        "You'll have such immediate house-by-house data based on digital reporting.",
+        "Nicco Mele is a professor at the Harvard Kennedy School.",
+        "The door-knocking app helps candidates solve the historic problem of losing ground just because their canvassers didn't have enough time to tally paper logs.",
+        "Mele wonders which mobile technologies, if any, revamp the election toolkit enough to change outcomes.",
+        "Just like Kennedy put on makeup to go on television to debate Richard Nixon and had a real impact, the candidates and the party that figures out how to use social media and emerging technologies to their advantage will win.",
+        "The San Francisco cottage industry that's grown during the 2012 election cycle is already cashing in.",
+        "Ralph Garvin is the Stanford-trained computer scientist who designed the door-knocking app.",
+        "Kind of funny, huh, that when you save people, like hundreds of hours of work, that has dollar value associated with it.",
+        "Organizer, that's Garvin's start-up, and others like one called Votizen, have raised millions from venture capitalists with the idea that micro-messaging can one day overtake mass media.",
+        "You can go to the door and show someone a video that is tailored to that person's demographic.",
+        "The more I can send a message to you, that is about you, the higher chance I have of resonating with people that care about the issues that I care about.",
+        "(SOUNDBITE OF KNOCKING)",
+        "Hi, I'm Eric Swalwell.",
+        "I'm running for the U.S.",
+        "Congress.",
+        "And running against 40-year incumbent Pete Stark.",
+        "Candidate Swalwell is standing at a suburban doorway, which his iPhone app told him to visit.",
+        "The 31-year-old is among a pool of new candidates nationwide using technology to tackle better-known incumbents."
+      ]
+    },
+    {
+      "dialogue_uid": "4e7a207f-7257-47c2-a1c1-3131a366d57b",
+      "language": "en",
+      "utterances": [
+        "I think Congress is broken and you deserve new energy and ideas.",
+        "And...",
+        "Hopefully, if you get in, you'll continue doing what you say you're going to do because I'm noting it.",
+        "Swalwell logs the elderly voter as a yes on his phone and walks off to the next address.",
+        "We can track the higher performing voters, but not to tell us if they're home.",
+        "That would be nice.",
+        "A little intrusive, but nice.",
+        "(LAUGHTER)",
+        "To get in the door, figuratively speaking, Swalwell's team is also using a custom-made Facebook app.",
+        "As you progress through here, it gives you points.",
+        "Volunteer David Bruns logs in to scour his social network and add friends in the district to a centralized campaign database.",
+        "Bruns clicks another icon to post a Swalwell article to his wall.",
+        "A little white box turns volunteering into a game by rewarding Bruns for each personalized message.",
+        "Does that really work for you?",
+        "Do you care how many points you have?",
+        "I don't want to be last.",
+        "Somebody else that was on here was Otto that had 2,000 points or something along those lines."
+      ]
+    },
+    {
+      "dialogue_uid": "bc844db0-7c0a-4035-8fab-c08f2fad7a6f",
+      "language": "en",
+      "utterances": [
+        "I think he actually has something like 7,000 points.",
+        "(LAUGHTER)",
+        "Sorry.",
+        "(LAUGHTER)",
+        "OK, 7,000 points.",
+        "I have a lot to do, I guess.",
+        "Bruns virtually campaigns on the way to work and between meetings.",
+        "And I'm Steve Inskeep.",
+        "Over the years Tim Horton's has tried to expand into the United States without great success.",
+        "A merger with Burger King could finally give the company a real foothold in the U.S.",
+        "market.",
+        "And Baum says joining the two companies together might produce a lot of business synergies.",
+        "For instance, Tim Horton's could begin selling its coffee in Burger King.",
+        "A lot of these places now with multiple brands are trying to create efficiencies in distribution and retail scope and so forth by pairing them."
+      ]
+    }
+  ]
+}

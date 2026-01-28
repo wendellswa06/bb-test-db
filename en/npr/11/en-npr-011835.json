@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "58648e40-7262-4a44-bb5c-12587d9b66b7",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f47b880c-60d5-4eab-bf26-1221c7f7ddc0",
+      "language": "en",
+      "utterances": [
+        "Ms.",
+        "PATTY O'REGAN (Registered Nurse): Hey, Mark.",
+        "It's Patty with Dr. Couper's office.",
+        "How can I help you?",
+        "Patty O'Regan is a registered nurse and a key member of the team.",
+        "She used to sit down the hall and around the corner.",
+        "Now she sits at a desk right outside Couper's office, so they can ask and answer each other's questions more easily.",
+        "O'Regan actually quit Martin's Point a couple of years ago.",
+        "She says she couldnt handle the pace and the lack of organization.",
+        "Ms. O'REGAN: There was no question it had to change.",
+        "You couldnt keep doing it the way were doing it.",
+        "One way the new approach, this Medical Home, helped streamline things is by letting each member of the team do what they're most qualified to under law.",
+        "It's called practicing to the top of their license.",
+        "What it really means is having doctors like Doug Couper give up some control.",
+        "You know, some of this is really learning to work together and trust your team.",
+        "For example, Couper now has Nurse O'Regan do most prescription refills.",
+        "He says it's been a major time-saver.",
+        "I would get 20, 30 - Im not sure I could count how many refill requests in a given day.",
+        "The team has also worked on saving time for patients, literally.",
+        "Couper wanted to know how long it took from the time they walked in the door until the time when they were ready to walk out.",
+        "The patient was given a clipboard with a stopwatch and a pen, and they're told - keep track.",
+        "And they're all over it.",
+        "They love it.",
+        "They're like, okay."
+      ]
+    },
+    {
+      "dialogue_uid": "455e9e05-cd28-4aa5-b639-0378fe324e1d",
+      "language": "en",
+      "utterances": [
+        "But working as a team is about a lot more than efficiency.",
+        "A Medical Home is also supposed to be about improving the quality of health care.",
+        "That brings Couper to the non-human member of his team: Martin's Point's electronic medical record.",
+        "It's there in the exam room when he's seeing a patient.",
+        "And so, how is the heart been doing.",
+        "Well...",
+        "(Soundbite of clacking sounds)",
+        "No chest pains?",
+        "No chest pains.",
+        "And back in his office, Couper can really demonstrate what he can do with all that data he and others have just typed in.",
+        "Patient names, I can put a filter on here and select only Dr. Couper patients, so I can see...",
+        "With a couple of clicks, he calls up a database of all his patients with high blood pressure.",
+        "And then I can start manipulating this data.",
+        "I can get in and I can say, okay, everybody here has an elevated blood pressure.",
+        "Let's go look at their previous blood pressure.",
+        "I can..."
+      ]
+    },
+    {
+      "dialogue_uid": "7e81eaad-8149-42d5-9505-08dab134d95a",
+      "language": "en",
+      "utterances": [
+        "Now he's looking at how long it's been since theyve last been in the office.",
+        "I can say, okay, heres a couple of patients who haven't been in a couple of years.",
+        "And he'll have Patty or his medical assistant, Trisha, call to schedule an appointment.",
+        "But even that's not what gives the numbers-loving Couper his biggest thrill.",
+        "What he really wants to show off is what's just outside his office.",
+        "The Wall of Knowledge.",
+        "The Wall of Knowledge, it's where Couper really geeks-out tracking the health of his entire patient population on a pair of bulletin boards.",
+        "There's a mind-boggling series of charts and graphs.",
+        "He can tell you, for example, that 98 percent of his hypertension patients now have their blood pressure under control.",
+        "But unless Couper's patients happen to stop and look, all this is basically invisible; which explains why if you ask longtime patients like Goldie McKenney if they perceive any change, they say, no.",
+        "It's just very efficient.",
+        "Everything goes like clockwork for us.",
+        "Yeah, we're just content with all the care we get.",
+        "And Couper says that's just as it should be.",
+        "For most patients, nothing appears to have changed.",
+        "But for some patients, the medical home has meant access to services they didn't have before.",
+        "For example, Martin's Point also has health educators, people like Nurse Practitioner Alicia Greenwald.",
+        "She specializes in diabetes education."
+      ]
+    },
+    {
+      "dialogue_uid": "3800e519-7227-4996-9559-abb40b93ce76",
+      "language": "en",
+      "utterances": [
+        "Ms. ALICIA GREENWALD (Nurse Practitioner: My nickname is the Diabetes Queen.",
+        "I have a crown to prove it.",
+        "Greenwald's job is to see patients who need more time to work through medication or even social issues connected with their disease.",
+        "I didnt tell anybody, but...",
+        "Today, she's seeing a sprightly 88-year-old named Mary Coyne, who's suffering from a common diabetic complication called neuropathy.",
+        "Not bedbugs but something...",
+        "And thats exactly what a lot of people describe neuropathy to feel like to them.",
+        "It feels like bugs...",
+        "Afterwards, Greenwald says many patients just need someone to explain whats going on.",
+        "She didn't really know what the word was.",
+        "She didn't really understand that feeling like bugs were biting her was a symptom of neuropathy.",
+        "And she needed clarification on that, so that she knew it meant she didn't have bedbugs, which is what she was worried about.",
+        "But while doctors and patients may be happier and healthier in Martin's Point's Medical Home, what will really determine the success or failure of the Medical Home is whether or not it actually saves money.",
+        "That's a big concern for Lisa Letourneau.",
+        "She's heading up a separate program to build more Medical Homes in Maine.",
+        "She says many of the ongoing experiments aren't focused enough on costs."
+      ]
+    },
+    {
+      "dialogue_uid": "a14b4552-d783-4e6a-8ed4-88874c4bf743",
+      "language": "en",
+      "utterances": [
+        "But in order to really make that all happen - quality, efficiency and cost - there's going to have to be serious attitude adjustments on the part of both doctors and their patients.",
+        "Martin's Point CEO David Howes, says more doctors will have to get over the idea that they're the only ones qualified to deliver medical care.",
+        "And if we can't help physicians to move from a place where they are the center of every decision that is made, to a place where they can delegate and share decisions with trusted teammates, then this won't work.",
+        "Meanwhile, says Letourneau, patients will have to do some compromising too.",
+        "We are used to, in America, more is better.",
+        "We apply that to health care.",
+        "We assume that more health care is better, and it is not.",
+        "And, in fact, it is often dangerous to us.",
+        "Expect to see more medical homes popping up around the country.",
+        "The new health law includes funding to help more primary care providers transform their practices into care teams like those at Martin's Point.",
+        "Julie Rovner, NPR News.",
+        "And tomorrow, Julie wraps up her series with a visit to a physician assistant, along with nurse practitioners.",
+        "Physician assistants are helping to alleviate the shortage of primary care doctors in the country.",
+        "House and Senate leaders are finalizing details on a financial reform bill this week.",
+        "There are still a few sticky issues, but one thing's for sure, the legislation would create one new regulator called the Consumer Financial Protection Bureau.",
+        "And it would kill another, the Office of Thrift Supervision, or OTS.",
+        "That's the regulator for savings and loans.",
+        "Chana Joffe-Walt with our Planet Money team reports that for regulators at the OTS, this kind of change is nothing new."
+      ]
+    }
+  ]
+}

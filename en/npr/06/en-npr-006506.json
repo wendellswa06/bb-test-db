@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "058fda23-dbcb-4731-8058-153bd0c46e6d",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "d63d2e5e-77ce-4fc6-b91e-299ef49b1e25",
+      "language": "en",
+      "utterances": [
+        "That's NPR's Daniel Zwerdling.",
+        "Danny, thanks.",
+        "Melissa, thank you.",
+        "Today on All Tech Considered, with an eye on how social media is changing American life, we summon you to jury duty.",
+        "Good morning.",
+        "Good morning.",
+        "And once again, I welcome you.",
+        "I'm John Saunders...",
+        "We are in Trenton New Jersey at the Mercer County Courthouse where Mr. Saunders, who is a pastor on weekends, shepherds potential jurors on weekdays.",
+        "And much of what he tells them is about the paraphernalia of 21st century living.",
+        "While you are in this particular room, you can utilize your cell phone or your iPad while you're working here.",
+        "We realize that life does not stop.",
+        "You've come to serve the jury and we appreciate that.",
+        "But in the courtroom, it's cell phones off and the laptops and iPads stay with John Saunders.",
+        "You will get a tag like the airport.",
+        "The top half of the tag will go on your item.",
+        "Bottom half will go with you.",
+        "Unlike the airport, when you return, your item will be there.",
+        "And there will be..."
+      ]
+    },
+    {
+      "dialogue_uid": "6a492ce5-8f0e-44d7-99f6-d754d7e59bf5",
+      "language": "en",
+      "utterances": [
+        "(LAUGHTER)",
+        "...no baggage charge guaranteed for that.",
+        "In courthouses all over the country, potential jurors hear similar instructions about smartphones, tablets and laptops, And increasingly, they're hearing about what they should not do with the devices that connect them to the world.",
+        "In New Jersey, judges like Travis Francis, the Assignment Judge in Middlesex County, have adopted model instructions to jurors that sound like something out of a Best Buy catalogue.",
+        "Do not any electronic device, such as: the telephone, cell or smartphone, BlackBerry, iPhone, PDA computer, the Internet, email, any text or instant message service, any Internet chat room, blog or website such as Facebook, MySpace, YouTube or Twitter, to communicate to anyone any information about the case.",
+        "And don't do any research or investigating of the case on your own.",
+        "Just as the Digital Age has brought new meaning to words like friend and text, it has done the same to phrases that jurors have been hearing for ages.",
+        "For example...",
+        "Visiting the scene; jurors are specifically instructed not to use Google Earth or any other similar utility to visit the scene of an accident or a crime.",
+        "The instructions that Judge Francis read for us grow out of the increasing awareness of a conflict in modern life.",
+        "Jury duty requires us to limit our communications with others.",
+        "To a well-wired 21st century American, those limits might feel like solitary confinement.",
+        "You know, I used to say that we were sailing with a skeleton crew and then starting in 2007 we started throwing the skeletons overboard.",
+        "The story of the troubled housing market is increasingly a tale of two types of states.",
+        "About half of states don't require courts to oversee and approve foreclosures."
+      ]
+    },
+    {
+      "dialogue_uid": "23365912-69ca-4b2a-9678-7b72198bdf7d",
+      "language": "en",
+      "utterances": [
+        "According to research firm RealtyTrac, cases in the non-judicial state of Texas take about three months to resolve.",
+        "Compare that to states like New York and Florida, where foreclosures are handled with judicial oversight.",
+        "Judges like Haworth say this gives homeowners greater due process in foreclosure.",
+        "But it also takes longer, often much longer, because of hearings and required paperwork.",
+        "It takes more than 800 days on average - that's over two years - to resolve foreclosures in Florida.",
+        "Haworth says that's largely because he and other judges often work solo.",
+        "What we don't have are the people behind the scenes to help prepare the enormous amount of the paperwork, to set the calendars, to drill down into the statistics to see which cases are languishing so we can move those ahead on the docket.",
+        "That key infrastructure is missing.",
+        "States with judicial foreclosures are trying to address the backlog.",
+        "Florida, for example, increased its budget for next year to re-hire staff and retired judges.",
+        "In New York, where foreclosures are taking nearly three years to process, courts are trying to sift out cases where homeowners can't afford even a modified home loan to expedite those cases.",
+        "Foreclosure filings everywhere slowed down dramatically two years ago, after several big banks admitted to robo-signing paperwork to cut corners.",
+        "Last month, the five biggest mortgage companies settled that case.",
+        "And now foreclosure filings are expected to resume, adding to the foreclosure backlog in judicial foreclosure states.",
+        "The problem is that we are seeing this difference get more and more exacerbated.",
+        "Jay Brinkmann is chief economist for the Mortgage Bankers Association.",
+        "He says by many measures, national housing statistics show signs of recovery.",
+        "Even some hard-hit states like Arizona, which is a non-judicial state, are starting to show some signs of housing recovery.",
+        "We're really seeing it's not so much a national problem.",
+        "It's an Illinois problem.",
+        "It's a Florida problem.",
+        "It's a New Jersey problem.",
+        "It's not just that the non-judicial states are further along in their housing recovery.",
+        "The backlog of foreclosures in judicial states, Brinkmann says, creates a lack of certainty for potential homebuyers in those markets.",
+        "Why would you buy if you thought the market might be soon be flooded with cheap homes?"
+      ]
+    },
+    {
+      "dialogue_uid": "4d88a9ea-215d-4209-b076-54149c52bf6a",
+      "language": "en",
+      "utterances": [
+        "Also, Brinkmann says, a long drawn out mortgage process is costly for banks.",
+        "The banks have to shoulder the higher costs, not only for paperwork and lawyers, but also for the homes themselves, including property taxes, cleanup and maintenance.",
+        "Point is, all of those costs are going to be going into future mortgage rates.",
+        "But they're going to be going into future mortgage rates differentially.",
+        "Brinkmann says history has shown that in states where default and foreclosure take longer, mortgage rates increase or fewer borrowers qualify for mortgages.",
+        "But not everyone agrees that a slower process is necessarily bad.",
+        "Mark Fleming is chief economist for CoreLogic, a research firm.",
+        "He says in some ways a slower system may be helping some housing markets get back on their feet.",
+        "Is there a right or a wrong way to do this?",
+        "I don't know.",
+        "You ask your child, how do you want your band aid ripped off, fast or slow?",
+        "Some like it slow, some like it fast.",
+        "It all depends on your preferences, right?",
+        "Another thing to remember: there are many factors that shape a housing market, and the pace of foreclosure is only one of them.",
+        "Yuki Noguchi, NPR News, Washington.",
+        "You can see a map showing how long it takes to foreclose in most states by going to NPR.org.",
+        "New cholesterol guidelines are out and the bottom line is millions of Americans will be told they should be taking a cholesterol-lowering drug and millions will be told that they can stop.",
+        "The new guidance comes from the nation's two leading groups of heart specialists.",
+        "It's a big departure from the advice Americans have been getting for decades to get their cholesterol levels down to a certain number.",
+        "As NPR's Richard Knox reports, the new emphasis is on whether you fit into one of four risk groups."
+      ]
+    },
+    {
+      "dialogue_uid": "8a4ce438-4644-4611-b459-5ee345865667",
+      "language": "en",
+      "utterances": [
+        "This big change affects tens of millions of Americans.",
+        "But Dr. Sidney Smith says new evidence justifies a major course correction.",
+        "You know, if we're on the Titanic you can rearrange the deck chairs or you can change the direction.",
+        "I think it's time to change the direction.",
+        "Smith, at the University of North Carolina, was one of the guideline writers.",
+        "He says the American College of Cardiology and the American Heart Association have been sifting the evidence for four years to come up with the most up-to-date advice.",
+        "The result: The number of Americans now advised to start taking a cholesterol-lowering statin drug every day has doubled to about 31 million now.",
+        "There's some confusion about those numbers.",
+        "Some say as many as 30 million Americans are already on statins.",
+        "I don't know whether that's true or not.",
+        "But that tells me that there may be a lot of patients taking statins that don't need to take them that may not benefit from them.",
+        "So tens of millions may be advised to stop taking statins, while equal numbers are urged to start.",
+        "But Smith says the payoff will be worth it.",
+        "Overall, I would hope that we would see something in the range of a 20 percent reduction in heart attacks, strokes and premature mortality.",
+        "And that translates to around a half-million fewer heart attacks, strokes and prevented deaths per year.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "I think it's wrong.",
+        "He needs to stop saying it, and there shouldn't be any sort of ethnicity, religious or racial test for what kind of judges should hear what kind of cases."
+      ]
+    }
+  ]
+}

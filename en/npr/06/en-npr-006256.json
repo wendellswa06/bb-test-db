@@ -1,0 +1,109 @@
+{
+  "challenge_uid": "27e3f163-ecbd-4f7d-879a-27b1acdc6501",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0f8d74d5-ae02-4439-b548-390949d3abc5",
+      "language": "en",
+      "utterances": [
+        "And let me ask you, Leander Kahney, before we have to let you go.",
+        "This is the present, but what about the future?",
+        "There's something called virtualization that will let you, as I understand it, run Mac, it'll let you run the Windows program and Linux, on the machine, and toggle back and forth.",
+        "Right, and we just did a story about this today.",
+        "That seems to be a huge advantage.",
+        "Now that all these operating systems run on the same Intel-compatible hardware, you'll be able to run Mac OSX and Windows simultaneously, without shutting down and rebooting.",
+        "And unlike the old emulator programs, these virtualization systems are much faster, so there's not the kind of performance, sluggish performance that emulators in the past were plagued by.",
+        "And how long is it going to be until the day after tomorrow and this is available to everybody?",
+        "There's one available today, as a public beta that you can go and download it for free.",
+        "That will let you play around with this, and they're going to release a full version in several weeks for $50.00.",
+        "But a lot of other companies are also looking into this as well.",
+        "Yeah, the day after tomorrow keeps coming faster, doesn't it?",
+        "Indeed.",
+        "Yeah.",
+        "All of a sudden all these auctions opened up this week.",
+        "All right, well you can read about this, I guess, at Wired.com.",
+        "Leander Kahney, thanks very much for being with us today.",
+        "Thank you very much for having me.",
+        "Leander Kahney, managing editor at Wired.com, and co-author of The Cult of Mac Blog.",
+        "Well, I'm going to be away for a bit, and we'll talk to you next from San Francisco on the Centennial of the great earthquake and fire.",
+        "Michelle Martin will be sitting in for me, but of course Ira Flatow will be here tomorrow with Science Friday, as usual."
+      ]
+    },
+    {
+      "dialogue_uid": "9bb9885a-07c3-4976-bd20-6f79f2c8fff9",
+      "language": "en",
+      "utterances": [
+        "I'm Neal Conan.",
+        "This is TALK OF THE NATION from NPR News.",
+        "This weekend also kicks off the season of ever-present hyped-up holiday music.",
+        "SOUNDBITE OF \"\"THE NUTCRACKER SUITE",
+        "Whether you look forward to your local light rock station switching to all Christmas, all the time...",
+        "SOUNDBITE OF SONG \"\"SANTA BABY",
+        "(Singing) Santa baby, just slip a sable under the tree for me.",
+        "...or you shiver at the arrival of the holly jolly season of schlock...",
+        "SOUNDBITE OF SONG \"\"CHRISTMAS DON'T BE LATE",
+        "(Singing) We can hardly stand to wait, please Christmas don't be late.",
+        "...chances are you agree that tacky tunes will be pretty much inescapable for the next six weeks or so."
+      ]
+    },
+    {
+      "dialogue_uid": "e36100cb-e326-495b-9c71-f5a9b10ca55a",
+      "language": "en",
+      "utterances": [
+        "(Singing) Oh dreidel, dreidel, dreidel, I made it out of clay.",
+        "Oh dreidel, dreidel, dreidel, oh dreidel I shall play.",
+        "Well, whatever your feelings, we want to hear them.",
+        "Send us your nominations for best and worst holiday songs.",
+        "Go to npr.org, click on Contact Us, and send your choices to WEEKEND EDITION SUNDAY.",
+        "We'll bring you the results of our completely unscientific survey in a few weeks.",
+        "SOUNDBITE OF MUSIC",
+        "Oh, and don't forget, explain why you adore or abhor your soundtrack for the holidays.",
+        "SOUNDBITE OF MUSIC",
+        "President Trump is proposing deep budget cuts for many government agencies.",
+        "The Environmental Protection Agency would take the most dramatic hit, and many states are worried.",
+        "The EPA gives a lot of its money to states as grants.",
+        "Marie Cusick of StateImpact Pennsylvania reports that many state environmental departments are already strapped.",
+        "Late last year, the EPA sent Pennsylvania a letter warning its water program was so poorly staffed, it was failing to enforce federal safe drinking water standards.",
+        "State inspectors aren't checking public water systems often enough.",
+        "So this is the Conestoga.",
+        "John Holden is water production supervisor for the city of Lancaster.",
+        "He's standing on the banks of the Conestoga River, watching water rush into one of the city's filtration plants.",
+        "He shows off spaghetti-like membranes that block bacteria from getting into water for 120,000 people.",
+        "This is what separates the dirty water from the clean water."
+      ]
+    },
+    {
+      "dialogue_uid": "fa2658ae-33a3-4178-a750-c4a9918837cd",
+      "language": "en",
+      "utterances": [
+        "Holden says the state does regularly check water quality at this plant because it's so big.",
+        "But he says smaller water systems, a school in a rural area or a mobile home community, can get overlooked.",
+        "And I have to share with you.",
+        "When James said that about, you know, separated twins, I just looked at him because I had just had that exact thought.",
+        "SOUNDBITE OF LAUGHTER",
+        "Because it is like when, you know, the blend that the Everly Brothers have, or family members who sing and play together.",
+        "That's in their DNA.",
+        "To our knowledge, we don't share DNA.",
+        "SOUNDBITE OF LAUGHTER",
+        "But it feels as if we do."
+      ]
+    },
+    {
+      "dialogue_uid": "a6f00a1e-210e-46a9-8f90-e4e846c934c9",
+      "language": "en",
+      "utterances": [
+        "But we really do share very much a sort of musical vocabulary.",
+        "Our tastes and tendencies, musically, are very parallel.",
+        "What is that vocabulary, do you think?",
+        "There's some things about it that you could you mention.",
+        "We like the same kind of suspended chords.",
+        "We have a similar way of sort of voice- leading.",
+        "Given a melody line, we tend to harmonize in a similar way.",
+        "We tend to, you know, there are a lot of suspended fourths that we like to use.",
+        "It's just remarkable how in step we are.",
+        "SOUNDBITE OF LAUGHTER",
+        "Very much."
+      ]
+    }
+  ]
+}

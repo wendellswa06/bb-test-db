@@ -1,0 +1,122 @@
+{
+  "challenge_uid": "57f4a8c6-910f-4e79-af69-f34328795f3f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f9f36305-111f-4a3f-b0f0-d075a9a443de",
+      "language": "en",
+      "utterances": [
+        "Let's play.",
+        "Hi.",
+        "Can I call you Bob?",
+        "Sure.",
+        "Definitely.",
+        "All right.",
+        "Well, today's puzzle is for the birds.",
+        "I'm going to give you clues for some words.",
+        "Remove the first letter of each word and you'll get the name of a bird.",
+        "For example, if I said, `Back of a boat,' you would say, `stern.",
+        "And if you remove the S, you're left with tern.",
+        "Yes.",
+        "All right.",
+        "Number one is a container for breakfast cereal.",
+        "Bowl, owl.",
+        "That's correct.",
+        "Number two, retired general who ran for the 2004 Democratic presidential nomination.",
+        "Clark, lark.",
+        "Excellent.",
+        "Author of \"\"Around the World in Eighty Days."
+      ]
+    },
+    {
+      "dialogue_uid": "ace70840-d55b-4933-9fac-625ee0e1f80d",
+      "language": "en",
+      "utterances": [
+        "Verne, erne.",
+        "Erne is right, a bird frequently seen in crosswords.",
+        "A dam in Egypt.",
+        "Let's see.",
+        "The Suez; that's a canal.",
+        "Yeah.",
+        "Aswan, swan.",
+        "That's correct.",
+        "Snoopy, for example.",
+        "Snoopy.",
+        "Dog?",
+        "And what variety?",
+        "What breed?",
+        "Oh, OK.",
+        "Beagle, eagle.",
+        "That's it.",
+        "Have second thoughts about."
+      ]
+    },
+    {
+      "dialogue_uid": "6932d8b2-4ad9-4dfc-82c8-35b06dcb5520",
+      "language": "en",
+      "utterances": [
+        "Second thoughts.",
+        "Doubt.",
+        "No.",
+        "I would have thought that, too.",
+        "You do something and then you change your mind and...",
+        "Regret, egret.",
+        "That's right.",
+        "Cowardly.",
+        "Cowardly.",
+        "Let's see.",
+        "Scared.",
+        "No. It starts with a C.",
+        "There's also a film director named Wes by this name.",
+        "Wes Craven and raven.",
+        "That's right.",
+        "Now in the next answers, it's the last letter that's deleted to leave the bird's name, and your first one of these is royal headwear."
+      ]
+    },
+    {
+      "dialogue_uid": "6ca68721-d6e1-4be6-b50e-4699c49efc27",
+      "language": "en",
+      "utterances": [
+        "Royal headwear.",
+        "Crown and crow.",
+        "Good.",
+        "Capital of Delaware.",
+        "Delaware.",
+        "Dover and dove.",
+        "That's right.",
+        "A dry streambed where rainwater runs off.",
+        "A dry train bed...",
+        "It's a five-letter word starting with--I'll tell you it ends with Y.",
+        "It sounds like I'll have to tell you.",
+        "It's a gully.",
+        "A gully.",
+        "I should have known that.",
+        "Of course.",
+        "Me, too.",
+        "Gosh."
+      ]
+    },
+    {
+      "dialogue_uid": "d4106805-57ff-4c90-8236-7ffd80cf09c4",
+      "language": "en",
+      "utterances": [
+        "All right.",
+        "Try this.",
+        "Putting on judges' apparel.",
+        "Putting on judges' apparel.",
+        "Robes.",
+        "Action.",
+        "That's right.",
+        "And your last one has the middle letter deleted to leave the bird's name, and your clue is very surprising or shocking.",
+        "Shocking.",
+        "It's a nine-letter word.",
+        "It starts with an S.",
+        "Oh.",
+        "Oh.",
+        "Liane?",
+        "Is it startling and starling?",
+        "Start..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "691cc5d9-d486-4fcb-b1a7-4c8e53cb89cf",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "81a5b8d1-d62d-40b0-bc8a-8013db55f8cd",
+      "language": "en",
+      "utterances": [
+        "Schwarzenegger runs for re-election next year.",
+        "He won last time in part because everyone knew who he was.",
+        "After these past couple of years in office, voters may not be so sure.",
+        "Ina Jaffe, NPR News, Los Angeles.",
+        "This one ecological.",
+        "On the savannahs of Africa, giant elephants are pitted against angry ant swarms that live in trees.",
+        "And according to a new study, one of the worst things that could happen in this conflict is for the two sides to find peace.",
+        "NPR's John Nielsen has more.",
+        "If trees could feel emotions, there is nothing that would scare them more than the sight of an approaching elephant, according Todd Palmer, an ecologist with the University of Florida at Gainesville.",
+        "Elephants eat trees.",
+        "They don't eat parts of trees, they don't eat - they can eat a tree much like we would eat a cupcake.",
+        "We reached Palmer on a cell phone at his research site in Kenya.",
+        "That's where he goes to study a small African tree that has found a way to repel hungry elephants.",
+        "Palmer says these trees ooze tasty sap that attracts nasty ants and then makes the ants even nastier.",
+        "He says a single of these trees can hold 100,000 of the ants, which is very bad news for any elephant that decides to chow down on a branch.",
+        "So imagine 100,000 ants streaming across the tree towards this point of disturbance.",
+        "At some point, enough is enough and you're going to have a face covered in these biting, stinging ants.",
+        "Palmer says he's watched these ants charge straight into an elephant's trunk, which is famously sensitive.",
+        "Now, scientists call this kind of ant-tree alliance a mutualism, which has a kind of peaceful ring to it.",
+        "But not in this case, according to Palmer.",
+        "It's a co-evolutionary war.",
+        "People think of mutualisms as are the friendly sort of situation where species are helping each other out but it - what really is a battlefield."
+      ]
+    },
+    {
+      "dialogue_uid": "155ecb9c-3b21-4897-b872-973eb892a111",
+      "language": "en",
+      "utterances": [
+        "And on this particular battlefield, a tiny insect trumps the biggest land animal on earth.",
+        "But that got Palmer wondering.",
+        "What would happen to the ant-tree alliance if the common enemy - elephants - was gone?",
+        "To find out, he put great big fences up around some of his trees, which are known locally as whistling thorns.",
+        "And then he watched them for 10 years.",
+        "Palmer expected these trees to flourish with no elephants around but no. Some of them grew half as fast as before and many died and all of them stopped producing that tasty sap.",
+        "That drove off all the ants that had once guarded them from the elephants.",
+        "These trees, in the absence of herbivores, decided, well, the herbivores are gone so it doesn't make a lot of sense to pay these ant- bodyguards, so let's reduce the salaries.",
+        "In essence, they were paying these bodyguards.",
+        "Palmer says the sap productions turned out to be a big mistake.",
+        "That's because the guard ants were quickly replaced by other insects that attacked the trees, digging lots of ugly holes and tunnels.",
+        "It's like the trees riddled with cancer or something, it's basically when you cut open a cross-section of a tree, it's all it is, is just this torn up inside with massive numbers of tunnels and dead branch systems everywhere.",
+        "This is an experiment that shows just how powerful and complicated natural alliances can be, says Mark Bertness, a biologist with Brown University in Providence, Rhode Island.",
+        "But more importantly, he says, it shows that you never know what you are going to get when you mess with Mother Nature.",
+        "This is a great example of how, without these mutualisms, the community collapses.",
+        "Bertness says it's possible that similar collapses could take place in other parts of Africa, where elephant populations are now in trouble.",
+        "John Nielsen, NPR News, Washington.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Robert Siegel."
+      ]
+    },
+    {
+      "dialogue_uid": "ce052d4f-5bd6-464c-badb-2e963e97b9f2",
+      "language": "en",
+      "utterances": [
+        "And I'm Melissa Block.",
+        "The environmental organizations, I mean, their goal is to challenge any coal plant.",
+        "Another regulation just gives them another avenue to make another challenge.",
+        "Attorney Cale Jaffe from the Southern Environmental Law Center has been fighting the plant.",
+        "Now, finally we've got the rules that are beginning to require power companies to account for their global warming pollution.",
+        "That's an historic turn of events.",
+        "Jeffrey Holmstead, who headed EPA's air pollution office under President Bush, predicts the new requirements will increase energy costs and halt industrial construction.",
+        "That's because there's no clear rule book.",
+        "Officials will evaluate each project to see what technologies could cut its pollution.",
+        "It slows everybody down 'cause nobody has any idea what the rules are going to be.",
+        "Holmstead, who now represents energy companies as a lawyer, says companies that do try to get permits will be stymied by red tape and challenges from environmental groups.",
+        "That is a huge part of the problem.",
+        "There are multiple opportunities for it to be challenged and held up.",
+        "We'll be able to issue these permits.",
+        "We will not slow down the economy.",
+        "Gina McCarthy now heads EPA's air pollution office.",
+        "She says agency and state officials will only require companies to use existing technologies, but in ways that make plants as energy efficient as possible."
+      ]
+    },
+    {
+      "dialogue_uid": "c7031360-82d8-47fe-a86b-91326ec6e561",
+      "language": "en",
+      "utterances": [
+        "So that the pollution they emit is as minimal as possible to get the job done.",
+        "Elizabeth Shogren, NPR News, Washington.",
+        "The Federal Reserve is under attack.",
+        "Some Republicans want to strip it of part of its mandate.",
+        "To find out more, we turn now to our Fed watcher and frequent guest David Wessel.",
+        "He's economics editor of The Wall Street Journal.",
+        "Good morning.",
+        "Good morning, Renee.",
+        "So just a little background, David - what's the Fed's job now and what do the Republicans want to change?",
+        "Well, for more than 30 years, Congress has charged the Fed with aiming at two things: maximum employment and stable prices.",
+        "Now a few Republicans, Bob Corker in the Senate, Michael Pence in the House, are reviving an old proposal and say they want to strike the unemployment part of the mandate and make clear that fighting inflation is Fed job number one.",
+        "So why now?",
+        "Why try to do this now?",
+        "Well, it does seem kind of strange timing, with unemployment at 9.6 percent and not expected to fall anytime soon.",
+        "The Republicans who are doing this are unhappy with the Fed's recent decision to buy $600 billion worth of Treasury bonds.",
+        "The Fed justified that by saying unemployment was too low -unemployment was too high and inflation was too low.",
+        "The Republicans say they are worried that the Fed is making a mistake here, is going to overdo it and create more inflation than it wants, so it wants to make clear that it expects the Fed to keep inflation low and let something else worry about unemployment."
+      ]
+    },
+    {
+      "dialogue_uid": "67ea3ee9-891a-4ff8-8c19-d25448636185",
+      "language": "en",
+      "utterances": [
+        "But would changing the law make any practical difference?",
+        "That's a good question.",
+        "It's very hard to see any instance in the past several years, including this one, where a different mandate would've produced or higher or lower interest rates.",
+        "Ben Bernanke, the Fed chairman, says the reason he is buying, or one reason he's buying $600 billion worth of bonds is that inflation in his mind is too low.",
+        "It's below the two percent that he defines as price stability.",
+        "Mr. Bernanke and Mr. Greenspan before him have always argued that the best way to get to maximum employment in the long run is to aim for price stability.",
+        "But there are some academics and other analysts who say that at a time like this, when the Fed is experimenting so much and the markets are worried about the Fed overdoing it, that the markets would be calmer and maybe the bond market would be happier and long-term interest rates lower if people knew that the Fed had a clear mandate in the long run not to let inflation get out of control.",
+        "You know, David, how much of this move is based on an economic argument and how much of it is, you know, frankly, just politics?",
+        "Well, it's both here.",
+        "There's an economic case to be made, it's been made by - in forums at the Federal Reserve and in academic monetary, economics departments for years - but I think it's surfaced now really because of politics.",
+        "The Fed has once again found itself a whipping boy for what's wrong with the economy.",
+        "A number of Republican economists; Sarah Palin, the potential presidential candidate, are beating up on the Fed and saying that they're doing the wrong thing, and this has become a vehicle for them to express their anger.",
+        "And what has Fed chair Ben Bernanke been saying about this?",
+        "Well, in a speech in Boston a couple of weeks ago, he defended the dual mandate.",
+        "He said if the Fed aimed exclusively at keeping unemployment low, we'd get too much inflation, but if they aim exclusively at inflation, we'd have more and deeper recession.",
+        "So he's in favor of keeping the mandate as it is.",
+        "He argues, as many other economists do, that over the long run the Fed can only influence inflation.",
+        "But in the short run its policies have an impact on both unemployment and inflation, and that's as it should be.",
+        "After all, even banks with an inflation-only mandate tend to worry about unemployment too.",
+        "David Wessel, economics editor of The Wall Street Journal.",
+        "Thanks.",
+        "You're welcome."
+      ]
+    }
+  ]
+}

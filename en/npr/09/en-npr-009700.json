@@ -1,0 +1,116 @@
+{
+  "challenge_uid": "ff11295d-bc01-4bca-82fe-3e89b4cbe0cc",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "72be4741-4b06-4699-ac2d-06c095b6c4ce",
+      "language": "en",
+      "utterances": [
+        "Ann Peacock is a puberty education teacher in this classroom at Redwood Heights Elementary.",
+        "Ask the teacher to go to the bathroom.",
+        "OK?",
+        "(SOUNDBITE OF CHATTER)",
+        "She recommends that every fifth grade girl carry a personal pouch containing pads, and a fresh pair of underwear, since periods can start at anytime for girls this age.",
+        "My personal view is that we should do some form of sexuality education from kindergarten onwards, and that they are made to feel comfortable.",
+        "Yeah, I feel like it's important to learn but it's sort of like an awkward lesson.",
+        "That's another girl named Isabel, also in fifth grade last spring at Flynn Elementary School in San Francisco, talking on the playground the week she and her friend Mila were about to start puberty class.",
+        "I heard that while having your period you can get very moody.",
+        "You can get really grouchy...",
+        "Yeah.",
+        "...like a rollercoaster."
+      ]
+    },
+    {
+      "dialogue_uid": "118f68ee-276a-4cf0-a743-30fdecbdc4b2",
+      "language": "en",
+      "utterances": [
+        "Yeah, I heard that you have like a lot of different like feelings at the same time.",
+        "Like, you're sad and suddenly you're happy and suddenly you're angry.",
+        "I'm worried some of my friendships are going to be on the line.",
+        "Yeah.",
+        "Why not talk to your parents about this stuff?",
+        "It's just one of those things that it's like you don't want to talk to your mom about.",
+        "It's like boyfriends, you don't want to talk to your mom about your boyfriend.",
+        "Like, you don't want to tell them about it because then they might be like: Oh, my God - you're growing up...",
+        "But we are growing up.",
+        "Oftentimes way before we hear the word puberty in class.",
+        "DR. LOUISE GREENSPAN: I really feel like I'm on a mission now to make sure that people understand that teaching kids about puberty in fifth grade is way too late.",
+        "Dr.",
+        "Louise Greenspan is a pediatric endocrinologist at Kaiser in San Francisco, who is studying the causes and effects of early puberty.",
+        "To be clear, Greenspan is not saying little kids should be learning about sex in school.",
+        "Instead, she says they should get the message that being physically mature doesn't mean they're ready for adult relationships.",
+        "To Greenspan, kids who start puberty early don't necessarily have a medical problem.",
+        "But is it a disorder, as in there's something wrong with our environment or there's something wrong with what's happening in the world, maybe.",
+        "Something's changed.",
+        "So the girls don't have a disorder but maybe our world does."
+      ]
+    },
+    {
+      "dialogue_uid": "a4c45999-779e-41a2-899c-413b0f6db29c",
+      "language": "en",
+      "utterances": [
+        "While scientists try to find what's causing early puberty, schools are left to deal with what looks like a new normal.",
+        "In the meantime, kids are left wondering.",
+        "(SOUNDBITE OF SONG, \"\"NIGHTMARE ON PUBERTY STREET\"\")",
+        "UNIDENTIFIED CHILD #3: (Rapping) Normal, am I normal?",
+        "UNIDENTIFIED CHILD #4: (Rapping) Am I normal?",
+        "UNIDENTIFIED CHILD #5: (Rapping) Am I normal?",
+        "For NPR News, I'm Donisha Dansby",
+        "(SOUNDBITE OF SONG, \"\"NIGHTMARE ON PUBERTY STREET\"\")",
+        "(Rapping) I really hope I'm normal.",
+        "That story was produced by Youth Radio.",
+        "This is NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "9fa08e27-eec7-4fd7-b833-519040a9bf49",
+      "language": "en",
+      "utterances": [
+        "This is MORNING EDITION from NPR News.",
+        "Good morning.",
+        "I'm Renee Montagne.",
+        "From Jackson Hole, Wyoming, NPR's Scott Horsley reports.",
+        "Fiscal watchdog Maya MacGuineas has attended several of these meetings.",
+        "She says it's not just the view of the Grand Tetons that makes them special.",
+        "Joining me now is writer Joel Shurkin.",
+        "He's author of the book, Broken Genius: The Rise and Fall of William Shockley, Creator of the Electronic Age, recently published by Palgrave Macmillan.",
+        "He joins us from our NPR studios in Washington.",
+        "Good to talk with you, Joel.",
+        "Hi, (unintelligible), how are you?",
+        "How are you?",
+        "I'm doing fine.",
+        "So - that's great.",
+        "Tell us who, for people who don't know, you know, the history of William Shockley and the transistor, give us a little thumbnail sketch of his involvement with it.",
+        "Well, he was a team leader at Bell Labs in the mid-1940s.",
+        "The AT&T - better known as Ma Bell - was trying to find a technology for telephony that replaced the vacuum tube, and they were going to employ solid-state physics to do it.",
+        "Shockley was the team leader, and Brattain and Bardeen worked for him.",
+        "And they did it, not without some fuss, though.",
+        "Mm-hmm.",
+        "Did they do it, his two collaborators, or did Shockley have a whole lot of input into that, also?"
+      ]
+    },
+    {
+      "dialogue_uid": "3625d71e-7f94-48e5-a9b8-c37f3978bd43",
+      "language": "en",
+      "utterances": [
+        "Well, that's a really good question and somewhat controversial.",
+        "The answer is yes, they did it.",
+        "However, there's actually two transistors.",
+        "There's the junction transistor and a point-contact transistor.",
+        "The very first transistor was the point-contact transistor, and that was Bardeen and Brattain.",
+        "Shockley, in an absolute fury because he had been aced by his own team, went into a hotel room in Chicago and in several furious days produced what became the junction transistor.",
+        "The transistor that you and I use, the zillions of them surrounding us right now...",
+        "Mm-hmm.",
+        "...descend from Shockley's junction transistor.",
+        "But I - you write in your book that his name was not even on the original patent for the transistor, if I read that correct.",
+        "That's correct.",
+        "It was not.",
+        "It was on the second patent, the patent for the junction transistor.",
+        "Mm-hmm.",
+        "People are still talking about that now.",
+        "Yeah, there is a - and about him, what kind of guy was he?",
+        "Ha."
+      ]
+    }
+  ]
+}

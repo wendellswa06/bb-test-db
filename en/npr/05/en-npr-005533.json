@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "dc8f13b8-223f-4f6a-899a-70d5f53a8dfc",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8d214238-2a2e-4430-a759-7ceceadfafa4",
+      "language": "en",
+      "utterances": [
+        "(LAUGHTER)",
+        "He was right on time.",
+        "Well, Sir Richard Branson of Virgin Air and Richard Anderson, I gather you go as Richard B.",
+        "and Richard A.",
+        "(LAUGHTER)",
+        "No, he is - I am Dull Richard.",
+        "(LAUGHTER)",
+        "I see.",
+        "I see.",
+        "He is Dashing Richard.",
+        "He's big brother.",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "9a4666b2-c63e-4ec0-b204-4ad1c92a68de",
+      "language": "en",
+      "utterances": [
+        "I wouldn't have gone there.",
+        "But Richard Anderson and Richard Branson, thanks to both of you...",
+        "Thank you very much.",
+        "Thank you.",
+        "...talking about the partnership between your airlines.",
+        "Thank you.",
+        "Thank you.",
+        "We've heard a lot about how the Affordable Care Act has affect the insurance side of the health care world.",
+        "But there are potentially big changes happening behind the scenes at hospitals, as well.",
+        "And these changes could transform the way doctors and nurses care for us.",
+        "It's the part of the law that's meant to rein in the nation's exploding health care costs.",
+        "And it's doing it by creating hundreds of little experiments in which hospitals around the country have volunteered to participate.",
+        "Lisa Chow, of NPR's Planet Money Team, went to one hospital in Ohio where doctors are preparing for a new way of doing business.",
+        "Michael Firstenberg is a heart surgeon at Summa Akron City Hospital.",
+        "And like a lot of doctors, he knows there's something a little funny about the way he gets paid.",
+        "If a patient comes in for a bypass operation, Dr. Firstenberg earns a certain amount of money for the hospital.",
+        "DR.",
+        "MICHAEL FIRSTENBERG: However, if that patient that night has to go back for bleeding, then I get paid for that procedure as well.",
+        "And everybody is happy because look at all the revenue I'm generating, independent of the quality."
+      ]
+    },
+    {
+      "dialogue_uid": "490be646-8b46-48b3-967f-486d98f98ed4",
+      "language": "en",
+      "utterances": [
+        "Ken Berkovitz is a cardiologist at the hospital.",
+        "DR.",
+        "KEN BERKOVITZ: Everybody in the health care system gets rewarded for doing more, rather than rewarded for doing the right thing.",
+        "And more is expensive.",
+        "But how do you create a less expensive system that still provides good care?",
+        "To test one possible answer, the federal government, starting January 1st is changing the way Medicare pays this hospital and these doctors.",
+        "Rather than paying for that bypass operation and then paying again for bleeding, Medicare will pay one lump sum upfront to cover not only the surgery, but any complications that occur after surgery - that's it.",
+        "If the patient doesn't have any complications within 30 days of being discharged from the hospital, the doctors could actually make more money than they do today, but they stand to lose money if there are lots of problems after surgery.",
+        "This shift in how providers get paid is changing a lot about the way things are done here at Summa Akron City Hospital.",
+        "Change number one, the checklist.",
+        "All our open heart surgery patient have this.",
+        "I'm flowing Eric Espinal, a surgeon, as he does his morning rounds.",
+        "And this piece of paper he's showing me, it's a pretty old and simple idea.",
+        "Did the patient get her antibiotics on time?",
+        "Check.",
+        "Did the catheter come out on time?",
+        "Check.",
+        "All that is listed here.",
+        "Research has long shown that documenting simple steps can significantly reduce medical error.",
+        "And yet hospitals have a hard time implementing checklists, because doctors don't really like them.",
+        "I got to admit, as a physician, when we came up with this, I kind of felt a little silly for the first few weeks following a sort of checklist or menu.",
+        "But Espinal says, pilots and NASCAR drivers use checklists.",
+        "They reduce complications, better for patients and, now, better for the bottom line.",
+        "Change number two is a change in culture.",
+        "In the old world, Medicare pays the hospital separately from the surgeon, separately from the anesthesiologist.",
+        "In the new world, as this hospital, Medicare will pay the entire team together, which encourages more collaboration because now everyone shares in the savings or costs of the surgery."
+      ]
+    },
+    {
+      "dialogue_uid": "a19ec13f-13ab-4a92-8313-50957ea24b95",
+      "language": "en",
+      "utterances": [
+        "Ken Berkovitz says this change hasn't been easy for everyone.",
+        "Physicians are a dedicated, strong-willed independent lot, and many of them went into the practice of medicine because traditionally you've been able to be the captain of your ship, and that's not always equated to good care.",
+        "So changes number one and two deal with hospital staff.",
+        "Change number three involves patients, specifically what happens in the month after their leave the hospital.",
+        "How's her activity level?",
+        "Does she get up and walk?",
+        "Hatoon al-Fassi is a professor of women's history.",
+        "She's also the general coordinator of the women's rights group the Baladi Initiative.",
+        "Thanks so much for talking with us.",
+        "You're welcome.",
+        "Well, there's a lot of people here where I work that enjoy the puzzles, but I also, you know, enjoy going online to blogs and trying to figure out the answer each week.",
+        "I didn't realize people get on blogs and try to figure out the answers.",
+        "All right, well, now it's just you and me and the millions of people listening.",
+        "Are you ready?",
+        "Sure am.",
+        "All right.",
+        "Will, you've met Chris.",
+        "Let's play."
+      ]
+    },
+    {
+      "dialogue_uid": "ad435981-e750-42ce-9d4e-93a8b5caab70",
+      "language": "en",
+      "utterances": [
+        "All right, Chris and Liane.",
+        "Today's puzzle is called REC Center.",
+        "Each answer is a familiar two-word phrase that has the consecutive letters R-E-C inside it.",
+        "For example, if I gave you the clue \"\"text that comes from the Associated Press or Reuters,\"\" you would say \"\"wire copy,\"\" which has R-E-C in consecutive letters inside it.",
+        "And I'll tell you the first word of the phrase always ends in R-E, and the second word starts with C.",
+        "OK.",
+        "OK.",
+        "Number one, what B.C.",
+        "means in a date?",
+        "Before Christ.",
+        "That's right.",
+        "Number two, container for a pirate's jewels and gold.",
+        "Treasure Chest.",
+        "Numismatists find.",
+        "Numismatists, this is a coin collector.",
+        "There's your C.",
+        "Rare coin."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "challenge_uid": "8ec1dca0-eb1a-475f-9445-656396b44eb3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "bb54c16a-d882-4cec-81ea-bd1d1eae5dfe",
+      "language": "en",
+      "utterances": [
+        "Yeah, so that's a great question which of course we can't answer, because we don't have the data.",
+        "The sun itself has changed a lot over the centuries and the millennia.",
+        "We know that there have been times when solar activity was very, very low, that (unintelligible) minimum several hundred years ago, and even solar maxima had very small numbers of sun spots and that sort of thing.",
+        "It was probably a case that the solar wind was weaker then, but it wasn't being measured, so there's really no way to know for sure.",
+        "It is the case of course, but all of the solar winds and all of the energy of the solar is driven by the sun, so if the sun is putting out less power into the corona, you know, that will manifest itself as less energy in the solar wind.",
+        "Now, we're used to seeing the energy from the sun being invisible.",
+        "Sunlight, it heats us up, we see it every day.",
+        "Where does the solar wind come from?",
+        "So, of course the vast majority of the energy, the sun, is actually invisible light, which heats the earth...",
+        "Mm-hm.",
+        "And all the things that we're used to.",
+        "The energy of the solar wind probably comes from this magnetic file which is produced in the dynamo down inside the sun.",
+        "Now the dynamo is this fusion reaction?",
+        "(Unintelligible)",
+        "No. The dynamo is motion in a conducting material.",
+        "In this case it's a plasma...",
+        "Mm.",
+        "It's a cyanized gas.",
+        "And when you have motion in this conducting gas, you basically can generate magnetic fields"
+      ]
+    },
+    {
+      "dialogue_uid": "1167690f-9071-4a37-b8ea-304c8203ce48",
+      "language": "en",
+      "utterances": [
+        "Mm-hm.",
+        "By the motion and the charged particles.",
+        "The sun is a big ball of gas.",
+        "It's a big ball of gas, and there are motions inside of it...",
+        "Mm-hm.",
+        "Which generate magnetic fields.",
+        "And I mean, interestingly, I mean, the solar cycle that we see, the direction of the sun's magnetic fields flips over every 11 years.",
+        "And so, for 11 years it points south and for 11 years, it points north, and back and forth.",
+        "So there's something very interesting going on inside the sun, generating this dynamo.",
+        "Mm.",
+        "And as that magnetic field is generated, some of it leaks out, and is submitted out into open magnetic field in the corona which then can be converted in to power in the solar wind.",
+        "Mm-hm.",
+        "This is Talk of the Nation: Science Friday from NPR News.",
+        "Talking now with David McComas, principal investigator for the SWOOPS experiment.",
+        "Talking about the sun, and I guess, what you're saying is that there's less we know about the sun than we thought we did?"
+      ]
+    },
+    {
+      "dialogue_uid": "40aa57a6-a4d9-4cf3-b810-22ad73bae4b0",
+      "language": "en",
+      "utterances": [
+        "Yeah, that of course is one of the really interesting things about science.",
+        "When you start to get data and observations, and start to understanding things better, almost always you find that the problems are harder and deeper than you thought when you started.",
+        "And you know, you work your way down through them...",
+        "Mm-hm.",
+        "And eventually come to a good understanding.",
+        "Mm-hm.",
+        "But we're certainly not there yet as far as the sun goes or the solar wind.",
+        "OK.",
+        "What about the future?",
+        "Can you get a new probe that might answer some of those questions?",
+        "So, there are new probes going up every, you know, every few years that study different sorts of things.",
+        "As far as the three-dimensional structure of the solar wind and the heliosphere goes, Ulysses has really been unique.",
+        "And right now, while there are things that we scientists talk about as possible replacements someday, there's nothing really planned to go into a similar orbit over the poles of the sun.",
+        "And I think participation should be determined by some generalized definition of international influence, which means, yes, economy, money, but also military power and willingness to act on the global scene as sort of a responsible shareholder of the larger system.",
+        "On the other hand in less than a month, right now scheduled for October 19th, there's going to be a new space probe launched by NASA called the Interstellar Boundary Explorer or IBEX for short, which instead of going and traveling out to this interstellar boundary, it's actually able to make images of the interstellar boundary from the inside looking out.",
+        "And it will be the first time that we'll be able to actually see this interaction between the solar wind and the galaxy.",
+        "And we'll be able to see that looking all directions in space from an earth orbiting satellite.",
+        "It's about where Voyager is now."
+      ]
+    },
+    {
+      "dialogue_uid": "109c0956-5255-416e-9829-5517208279f4",
+      "language": "en",
+      "utterances": [
+        "The Voyagers have actually - are actually out in this region, this interaction region, close to the boundary, the edge of the heliosphere, just inside the edge of the heliosphere.",
+        "And so they're making really great measurements, both Voyager One and Voyager Two, but as we were just talking about with the sun, actually the biggest that we've learned from the Voyager One and Two observations is, we didn't understand that nearly as well as we thought we did.",
+        "We've mostly taken data which has, you know, caused great surprises and mysteries.",
+        "You know, things we thought we understood, all of a sudden we realized, boy, it doesn't work like we thought.",
+        "(Soundbite of laughter)",
+        "And so this combination of having the two Voyager spacecraft out there simultaneously with the IBEX observations looking all directions, and getting sort of the global interaction, will be just a tremendous boom for really understanding...",
+        "Mm.",
+        "This global interaction between our sun and the galaxy for the very first time.",
+        "So tonight at dinner when people talk about this sun and the experiment, you can actually say there is something new under the sun.",
+        "Yes, there is.",
+        "This time and it's - and it talks about how when you just - when you think you know everything, there's always that other rock, something under the rock, that's when you turn it over.",
+        "It surprises you.",
+        "Absolutely.",
+        "And the IBEX will be launched in October."
+      ]
+    },
+    {
+      "dialogue_uid": "82dd9c00-22e3-4147-8f65-ab9f29e68eab",
+      "language": "en",
+      "utterances": [
+        "In October.",
+        "And when does it go into orbit and start working?",
+        "Takes us about five weeks to get it up into its final orbit and get the instruments turned on.",
+        "And then it takes six months to make the first all-sky image, because we actually use the motion of the earth around the sun to make the measurements in all the different directions.",
+        "We've actually put a little video up on your Science Friday website if people are interested in the IBEX mission, that they can see how we form the images and that sort of thing.",
+        "Yeah.",
+        "Go to sciencefriday.com and that's our second video, sort of \"\"Pick of the Week\"\" this week.",
+        "And you'll be making a three-dimensional image or getting three...",
+        "Right.",
+        "Wow.",
+        "Right.",
+        "We'll be making an image from the inside looking out, covering all - you know, all directions in the sky.",
+        "So, it'll be a complete sky coverage.",
+        "Will we be able to look at that image ourselves, and moving around, you know, like a virtual reality image.",
+        "I - we haven't gotten there yet, but...",
+        "(Soundbite of laughter)"
+      ]
+    }
+  ]
+}

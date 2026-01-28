@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "2116e540-357d-4090-9de0-b7f3f700e41c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "83d3ebbf-0ab4-449c-8aef-ab3f32ff2f24",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "I said name something you might order in a restaurant - two words, eight letters all together, four letters in the first word, four letters in the last.",
+        "I said drop the last letter.",
+        "The remaining seven letters will read backward and forward the same.",
+        "What is this thing you might order?",
+        "What is this thing I might order?",
+        "Well, it's a side dish.",
+        "Get rid of the H and the rest of the letters are palindromic.",
+        "Well, we had more than a thousand correct entries this week.",
+        "And our randomly selected winner is Rick Blumenfeld(ph) of Albuquerque, New Mexico.",
+        "Welcome to the puzzle, Rick.",
+        "Hi.",
+        "What do you do in Albuquerque?",
+        "I'm a staff attorney at the state district court house.",
+        "Okay.",
+        "How long have you been playing our radio puzzle?",
+        "Oh, back when you accepted postcards.",
+        "We had someone the other week said, you know, since the creation of the Earth.",
+        "I mean, it feels that long.",
+        "Sounds like you're ready to play now."
+      ]
+    },
+    {
+      "dialogue_uid": "fa0c2cc1-87d8-42e4-8908-3a7dd9b26559",
+      "language": "en",
+      "utterances": [
+        "I guess so.",
+        "Yep.",
+        "As ready as we're ever, ever going to be when we do this.",
+        "All right.",
+        "Please, Will, meet Rick; Rick meet Will.",
+        "Let's play.",
+        "Hi, Will.",
+        "All right.",
+        "Hi, Rick.",
+        "I'm going to give you some words.",
+        "For each word, take two consecutive letters and change them to one letter to name a country.",
+        "For example, if I said cubic C-U-B-I-C, you would say Cuba...",
+        "Okay.",
+        "...as you're changing I-C to one letter.",
+        "All right.",
+        "Here is number one: Ape Men A-P-E M-E-N.",
+        "Uh, Yemen.",
+        "Yemen is right.",
+        "Number two is indict, I-N-D-I-C-T.",
+        "India.",
+        "Good.",
+        "Gibbon, G-I-B-B-O-N."
+      ]
+    },
+    {
+      "dialogue_uid": "a741eed2-3a89-4d5d-8da0-6a094546411f",
+      "language": "en",
+      "utterances": [
+        "Gabon.",
+        "Good.",
+        "Strain, S-T-R-A-I-N.",
+        "Spain.",
+        "That's it.",
+        "Chin up, C-H-I-N U-P.",
+        "China.",
+        "Um-hum.",
+        "Tongue, T-O-N-G-U-E.",
+        "Could you say that again?",
+        "Yeah, tongue, what's on the tip of your tongue, T-O-N-G-U-E.",
+        "Oh, Tonga.",
+        "Tonga is it.",
+        "Sudden, S-U-D-D-E-N."
+      ]
+    },
+    {
+      "dialogue_uid": "6fe9b0b1-08b9-44d5-bc90-9821c41633f7",
+      "language": "en",
+      "utterances": [
+        "Sudan.",
+        "That's right.",
+        "Neural, N-E-U-R-A-L.",
+        "Nepal.",
+        "No.",
+        "Sean McAlinden is with the Center for Automotive Research.",
+        "He says until recently the South Koreans have kept their auto market locked up tight.",
+        "There was a point not too long ago that if you bought an import of any kind, that guaranteed you a federal tax audit that would obviously prevent a lot of import sales.",
+        "McAlinden says South Korea has been under tremendous pressure to open its markets to trade, and recently it has.",
+        "The South Koreans have already signed a free trade deal with the European Union and eight other countries.",
+        "And with its huge middle class, McAlinden says South Korea is a market Detroit must tap.",
+        "Sales growth in the auto industry in the United States and Europe is essentially stagnant.",
+        "The growth in the next 20 years will be almost entirely in the developing world or in the new markets.",
+        "The three Detroit car companies agree.",
+        "So do top Republicans in Congress.",
+        "The United Auto Workers Union is backing the plan because of the major concession won for the auto industry.",
+        "Other unions like the steelworkers union say they've been left out in the cold.",
+        "Thea Lee is with AFL-CIO, the nation's largest labor organization.",
+        "She says this is just the latest in the long string of bad trade deals."
+      ]
+    },
+    {
+      "dialogue_uid": "b4731934-2989-4ff2-af86-7789f0ab8a11",
+      "language": "en",
+      "utterances": [
+        "It's an economically significant deal with a very powerful exporting country.",
+        "And we didn't do enough to protect American jobs.",
+        "Lee says while the auto industry may be helped by the deal, the trade pact will only encourage U.S.",
+        "manufacturers to move to South Korea in the race to find cheaper wages.",
+        "The companies are mobile; they can move production all around the world.",
+        "They can make money wherever they are.",
+        "American workers have to make a living on American soil.",
+        "And so we need a different kind of trade agreement than a lot of the multinational corporations, and that's really the dividing point.",
+        "Recent polls have shown Americans increasingly skeptical of free trade, but the administration and congressional Republicans say approving the Korean trade deal will be a top priority in the new year.",
+        "Sonari Glinton, NPR News, Washington.",
+        "So the markets might be sputtering but we can at least tell you that cargo is moving smoothly through the nation's largest port today.",
+        "That's thanks to a contract settlement that avoids a strike by hundreds of clerical dockworkers.",
+        "Here's NRP's Scott Horsley.",
+        "A strike deadline came and went last week, but dock clerks and shipping companies in Long Beach and Los Angeles kept talking.",
+        "And yesterday they reached an agreement on a new three-year contract.",
+        "During that time, dock clerks will see a 14-percent increase in pay and benefits, while shippers will get new flexibility to reduce staffing through attrition.",
+        "Shippers negotiator Steve Berry calls the deal a victory for consumers since it avoids a strike that might have left imported Christmas gifts stranded on the shipping dock.",
+        "The cargo that's coming in right now is destined for holiday shelves in retail stores.",
+        "And had the strike occurred, that cargo would have backed up and would have impacted the holiday shopping season.",
+        "Forty percent of all the goods we receive as imports into the U.S.",
+        "come through this harbor."
+      ]
+    }
+  ]
+}

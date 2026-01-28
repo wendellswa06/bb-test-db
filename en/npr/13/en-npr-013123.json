@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "4ebfea70-aa0a-428b-91b4-ded398f03cb2",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8519f43e-690b-4487-9350-30f1e7495ca8",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "Well, you know…",
+        "That's the quantum world, isn't it?",
+        "Thank you.",
+        "…yes, that's the quantum world, and it's a computing world, too.",
+        "You know, one of the great features of computers is that they can simulate each other.",
+        "And this is very familiar.",
+        "You can get a version of Word that runs on a PC and you can get a version of Word that runs on a Mac.",
+        "Any program that runs on one computer can be translated to run on another computer.",
+        "So computers can effectively simulate each other's actions.",
+        "And when I say the universe is a giant quantum computer, on the one hand I'm speaking completely literally because, as I mentioned earlier, its been known for really almost a century and a half, that every little tiny piece of the universe is storing bits of information.",
+        "And every time two pieces or elementary particles collide, those bits flip.",
+        "So, the fact that the universe computes, has actually been known for a long time.",
+        "But the fact that it can be used to, say, build a universe or quantum computer, or the fact that it itself is a universal computer, is something that people have only begun thinking about over the last few decades.",
+        "And it has some remarkable and interesting consequences.",
+        "Give me one of them."
+      ]
+    },
+    {
+      "dialogue_uid": "6fcd6791-5f28-432e-8bd3-bd605a104c5e",
+      "language": "en",
+      "utterances": [
+        "I was waiting for you to ask me that, Ira.",
+        "I'm playing straight in this hour.",
+        "You're doing very well.",
+        "Go ahead.",
+        "I thought you were just going to go ahead and, you know, you were on a roll there, so…",
+        "Ira, every other time I've been on this show, you peppered me with these great questions and told all these great jokes.",
+        "So I was worried, I was hoping I wouldn't have to tell any.",
+        "So, okay.",
+        "So, one of the consequences that, you know, quantum computers allow us to understand: the weird and funky nature of quantum mechanics.",
+        "They are essentially little laboratories that allow us to create quantum weirdness and explore its features.",
+        "Like, we're looking into the possibilities of, for instance, teleporting a rubidium atom from one place to another, using a strange quantum phenomenon called entanglement.",
+        "So that's a nice feature of quantum computers.",
+        "They're a laboratory for exploring quantum weirdness in the universe.",
+        "And we've…",
+        "That's one of my favorite subjects is entanglement.",
+        "I know you like quantum weirdness, Ira.",
+        "We're--and I do, too.",
+        "It's so spooky at a distance.",
+        "You know, it's so hard to believe that, you know, you entangle two particles and they never separate or… You can separate them any distance--you know, we talked about people actually carry them across rivers, now--but they could be on the other side of the universe.",
+        "And if something instantaneous happens to them, they influence each other instantaneously, right?",
+        "Well, Ira, I have to share with you a discovery I made since we last talked about quantum weirdness--this apparent spooky action at distance that Einstein called it."
+      ]
+    },
+    {
+      "dialogue_uid": "ec9a3136-bb4a-4eca-ad5a-ad6902ac0389",
+      "language": "en",
+      "utterances": [
+        "So I recently, together with some other researchers, found that you could use this spooky action at a distance, this funny quantum entanglement, to escape from black holes--assuming you happen to find yourself caught in one.",
+        "I'm glad to hear that.",
+        "Yes, so in fact, if you have this funky entanglement between the inside and outside of a black hole--which you do because Stephen Hawking showed decades ago, that black holes radiate--and, in fact, this radiation that comes out of a black hole is entangled with what's going on inside the black hole.",
+        "Under the right conditions, something that falls into the black hole--a spaceship or my TV set or, indeed, I've had several computers that ended their lives as black holes--what falls into the black hole might, in fact, be able to escape in a transformed form.",
+        "So you might, in fact--you might even be able to use a black hole itself as a computer if you could figure out the right way to program that.",
+        "Yes, but can the geeks fix it is the…",
+        "Yes.",
+        "And also, let me say that as this theory has not been tried out in practice, I feel obliged to warn the radio audience not to try this at home yet.",
+        "Do not jump into a black hole just now.",
+        "We can't guarantee the results.",
+        "Yes.",
+        "Black holes are intimately connected with entanglement.",
+        "And, in fact, this process of escape from a black hole, if it does work, works by a process akin to quantum teleportation--as on Star Trek, where, well, in fact this is something that could easily happen on Star Trek--Kirk is teleported, falls into a black hole, and teleports out at the last moment, before he hits the singularity.",
+        "Wow.",
+        "1-800-989-8255.",
+        "I want to ask you about monkeys at a typewriter, but first let me take a call from a listener."
+      ]
+    },
+    {
+      "dialogue_uid": "10e387b2-2ac7-4021-9f20-84d2cb732dc5",
+      "language": "en",
+      "utterances": [
+        "Rhonda in Columbus, hi Rhonda.",
+        "Hi.",
+        "Are we hurting your hair this hour?",
+        "What?",
+        "Are we hurting your hair this hour?",
+        "(Laughs) Yeah.",
+        "I think so.",
+        "Well, here's the deal.",
+        "First of all, it keeps, this all makes me think about, as a mom, talking about, you know, it's sufficiently advanced technology is indistinguishable from magic.",
+        "This is all just way cool magic.",
+        "I'm a poet.",
+        "My deal is, I want to know what the new questions are.",
+        "I don't think we're going to be using quantum mechanics or quantum computers to, you know, do our checkbooks.",
+        "What are the new questions that these things are going to be able to address?",
+        "How are we going to be different people thinking about different things because of this?",
+        "Glad to have a poet with that perspective.",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "607cec61-398e-437a-b8fd-f52182c38a6c",
+      "language": "en",
+      "utterances": [
+        "(Laughing)",
+        "Seth, you up to the challenge?",
+        "Oh…well, I don't know.",
+        "So, I actually regard quantum computers as being kind of poetic.",
+        "You know, after you've talked with atoms for awhile and get on their wavelength and learn to listen to what they're saying back.",
+        "Well, what they're saying has a certain strange and unearthly poetry of its own.",
+        "And, indeed, you might imagine trying to use a quantum computer to compose a poem that says many things at once.",
+        "Except, in fact, poetry often does that.",
+        "One of the beautiful things about poetry, of course, is that words have many meanings.",
+        "Exactly.",
+        "That's right.",
+        "And so maybe we could say that poetry is already kind of quantum mechanical.",
+        "And it certainly has spooky action at a distance.",
+        "Oh absolutely.",
+        "But I just hope we don't end up being the same old people with this great new thing that we can do.",
+        "Yeah, how would we look at ourselves differently?",
+        "That's a good question.",
+        "If we do ever, you know, get to the point where quantum computers are common, what kind of different view of the universe would we have, and how would it affect our daily lives?",
+        "Can you speculate on that, Seth?",
+        "Yeah, that's a good question.",
+        "You mean apart from being able to get on eBay and buy used ski boots and things like that?",
+        "Public key cryptography?"
+      ]
+    }
+  ]
+}

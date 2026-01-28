@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "d4253888-69d2-47bf-94b9-bdb7a419d53c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "d46ddbb6-c282-499f-aaa7-ff6223daa33b",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "(unintelligible)",
+        "It turns out Fitzmaurice had a history with Benetta Mansfield, although she didn't know it.",
+        "Years ago, Mansfield disqualified one of Fitzmaurice's friends from a union election.",
+        "Fitzmaurice told his secretary Barbara Casey that Benetta Mansfield would have to go.",
+        "I said, you know, what do you mean she's going to have to go?",
+        "Well, she deep-sixed a good buddy of mine in Texas.",
+        "Fitzmaurice never forgot what Mansfield had done.",
+        "I've since come to know him as someone who's perfectly happy to lay in the weeds and wait for his chance again.",
+        "This is Frank Dugan, the man who brought Fitzmaurice to the National Mediation Board.",
+        "Change that last R.",
+        "Thomas is an artist and an amateur radio astronomer, and for the past 20 years, he's been listening to the skies, making and sharing recordings from his home observatory in Santa Fe, New Mexico.",
+        "Thomas Ashcraft, welcome to the program."
+      ]
+    },
+    {
+      "dialogue_uid": "a0e9e0de-f72e-42d9-b2df-5de8906ab8d5",
+      "language": "en",
+      "utterances": [
+        "Happy to be here.",
+        "First of all, describe what a radio astronomer is.",
+        "A radio astronomer studies the sky at radio frequencies rather than optical frequencies.",
+        "So, the optical sky, the visual sky, is just a very small slice of the full electromagnetic spectrum.",
+        "So, there's much more to see and study in radio astronomy than there is in mere visual optical astronomy.",
+        "Because normally we think of, you know, the sort of photographs from the Hubble Telescope, these incredible dramatic photos of far away galaxies and stars and planets.",
+        "You aren't actually always looking at things; you are listening to things.",
+        "Yeah, listening, that's my forte - is listening and recording.",
+        "And actually, most radio astronomers don't listen to sound.",
+        "They see the radio input on spectrographs or charts.",
+        "So, to me, if you tune into radio astronomy spectrographs, they can be extremely beautiful, just as beautiful as Hubble images.",
+        "So, what have you been hearing this past week?",
+        "Well, the past week's been incredibly special.",
+        "As you mentioned, we're coming out of a very long and almost a weird sunspot minimum.",
+        "But in the past week, a few active regions appeared on the sun.",
+        "And one region grew incredibly fast, like in a manner of two to three days and started flaring ferociously.",
+        "I'm listening to this and I'm wondering when do you actually get sleep because it sounds like it's been very, very active.",
+        "Well, it's kind of nice not to get sleep.",
+        "I mean, I get sleep but I tend to get up quite early before the sun so I could meet it.",
+        "So, it's as exciting time.",
+        "I was a little bit flat before this.",
+        "Now, Thomas Ashcraft, I should mention that there's an article about you at wired.com.",
+        "And in that article there's a photograph of your backyard, and it's this sort of network of wires that are strung through the trees.",
+        "Can you describe what that setup is and how you actually record the sound of space and of the sun?"
+      ]
+    },
+    {
+      "dialogue_uid": "0f573506-3302-4ff7-8b65-9c7f96b15abd",
+      "language": "en",
+      "utterances": [
+        "Those are dipole antennas.",
+        "So, those wires that you can see are then coming into my observatory into a series of short-wave radios.",
+        "And actually, I'm using old-fashioned VCRs as my audio recorders because they make an eight-hour-long tape and...",
+        "Oh, yeah.",
+        "...I don't have to attend to them.",
+        "So, I have an incredibly simple radio astronomy observatory built out of simple wires, castoff short-wave radios, old VCRs that they don't even take at the Salvation Army any more, I don't think.",
+        "You actually use your observatory to make recordings of other phenomena:",
+        "(Soundbite of recording)",
+        "Okay.",
+        "To me, that sounds like being on the ride Space Mountain at Disneyworld.",
+        "Okay.",
+        "What is that sound.",
+        "Well, that sound is - now, we're switching phenomena into meteor and space dust.",
+        "So, what happens is when a meteor hits the ionosphere, it makes a trail of ionization.",
+        "That trail or that cone of ionization has a capacity to reflect in a far-off TV or radio transmitter.",
+        "So, what that was was the reflections of distant video carriers of TV transmitters.",
+        "You've got to be very careful because I suspect that DJs will start to sample your sounds."
+      ]
+    },
+    {
+      "dialogue_uid": "ca3ca9c1-c115-40c0-b2fd-f63ee63fc337",
+      "language": "en",
+      "utterances": [
+        "I think that that's all right.",
+        "I know that people find it musical.",
+        "You can dance to some of it.",
+        "Well, I do.",
+        "(Soundbite of laughter)",
+        "That's Thomas Ashcraft.",
+        "He's an amateur radio astronomer in Santa Fe, New Mexico.",
+        "Thomas Ashcraft, thanks so much for joining us.",
+        "Well, you're very welcome.",
+        "Thank you kindly.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Michele Norris.",
+        "And I'm Melissa Block.",
+        "President Obama has been using one metaphor a lot lately.",
+        "It's a football metaphor to describe the health care debate.",
+        "He says his planned overhaul is just a few yards short of the goal line.",
+        "So far though, he and his fellow Democrats have been unable to score.",
+        "That's why in an interview on CBS just before last night's Super Bowl, Mr. Obama called what he hopes might be a game-changing play."
+      ]
+    },
+    {
+      "dialogue_uid": "17ce8cbb-ed5f-49c1-9474-77a0cf45e6a6",
+      "language": "en",
+      "utterances": [
+        "NPR's Scott Horsley reports.",
+        "President Obama told CBS's Katie Couric he wants to host a bipartisan summit meeting on health care when lawmakers return from their President's Day recess later this month.",
+        "I want to come back and have a large meeting, with Republicans and Democrats, to go through, systematically, all the best ideas that are out there, and move it forward.",
+        "This isn't the first such effort.",
+        "Mr. Obama hosted a White House summit last year to kick off the health care debate.",
+        "And the Senate Finance Committee spent months behind closed doors trying to fashion a bill that would win bipartisan support.",
+        "Republicans, who've just gotten an extra defender on their team thanks to last month's special election in Massachusetts, had little incentive to cooperate with Democrats.",
+        "But Tennessee Senator Lamar Alexander says he and other Republicans are willing to talk health care with the president.",
+        "If that's what Mr. Obama wants.",
+        "We can re-earn the trust of the American people on this.",
+        "We ought to start over and may be what the president means when he says step by step is doing just that.",
+        "We'll just have to see.",
+        "Here to help us follow the money is Nancy Birdsall.",
+        "She's president of the Center for Global Development.",
+        "Thank you for coming in.",
+        "If you're going online looking for flights for this summer, you might be in for a surprise, because the average cost of airline tickets was up more than 10 percent in March compared to the same month one year ago.",
+        "Usually the airlines have a lot of trouble making fare increases stick, but maybe not this time.",
+        "Last week, United introduced a fuel surcharge of 5 percent on all domestic flights.",
+        "And several other airlines moved to match that.",
+        "Maybe it's time to pack up the SUV and drive, since airlines say they have not choice but to raise prices and other fees.",
+        "It's a Technicolor wonder show of music and mirth with a wealth of comedy and romance.",
+        "(SOUNDBITE OF MUSIC)",
+        "My grandmother actually has an answer to that question: Betty Grable."
+      ]
+    }
+  ]
+}

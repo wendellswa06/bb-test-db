@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "2983dc3f-d2ed-4cac-8896-976cdd812026",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "9874c6b5-e5cc-4676-bb41-bf32fedf10a0",
+      "language": "en",
+      "utterances": [
+        "But what we know now is that behind closed doors, he was on the internet, he was attracted to fascism.",
+        "He saw himself as a white supremacist.",
+        "He was online talking to other people around the world who shared his views.",
+        "He researched how he would kill Jo, and then on that day when she was going about her business, he carried this terrible act out.",
+        "Do you believe that those white supremacist, neo-Nazi views are growing in the U.K.?",
+        "Well, there's no doubt that there is concern.",
+        "I understand from our security services around 1 in 10 of the referrals to them relate to far-right activities, and we can see around Europe the rise of more extremist far-right parties within democratic countries, whether that's in Scandinavia or whether that's in France.",
+        "But also I think, Ari, there is something about the internet, which can be a wonderful thing, but I am afraid that people like Thomas Mair operate online, communicating in others, reinforcing racist, fascist attitudes that create an echo chamber, but also an encouragement for this sort of act that Thomas Mair did, and that should worry us all.",
+        "Do you see any parallels with the American political moment that we're in right now?",
+        "I think what's concerning is, you know, we have these people out right there, like Thomas Mair, who are full of hatred, looking to blame something or someone.",
+        "And I have to say, what I saw of the American presidential election was actually the main protagonists involved in such vitriol and extreme language as well.",
+        "The main protagonist meaning Donald Trump.",
+        "Yeah.",
+        "I mean, in terms of the sort of both the campaigns, in terms of what they said about each other.",
+        "You can't put that in a box at the end of a campaign and say, oh, that was just the campaign.",
+        "Some of that will be heard by people who will not just be able to say that's just about political campaigning.",
+        "They will take it to heart.",
+        "Just to conclude, how are you remembering your friend Jo Cox today?",
+        "I think, Ari, that remembering Jo is best summed up by what her husband Brendan said."
+      ]
+    },
+    {
+      "dialogue_uid": "185bc670-a2bb-437a-8bd4-16e09bb565a6",
+      "language": "en",
+      "utterances": [
+        "He said, (reading) to the world, Jo was a member of Parliament, a campaigner, an activist and many other things.",
+        "But first and foremost, she was a sister, a daughter, an auntie, a wife and above all, a mum to two young children who love her with all their being.",
+        "All their lives they've been enveloped in her love, excited by her energy and inspired by her example.",
+        "We try now not to focus on how unlucky we were to have her taken from us, but how lucky we were to have her in our lives for so long.",
+        "I think Brendan sums up for many people what they're thinking today after the verdict in the court.",
+        "Caroline Flint, British member of Parliament, thank you so much for joining us.",
+        "Thank you.",
+        "Good morning, I'm David Greene.",
+        "The 1946 Christmas classic \"\"It's a Wonderful Life,\"\" starring Jimmy Stewart, has a miracle ending.",
+        "An angel named Clarence saves Stewart's character, George Bailey, from suicide.",
+        "The townsfolk of Bedford Falls save George from financial ruin.",
+        "Now, the Jimmy Stewart Museum in Pennsylvania has gotten a reprieve.",
+        "With few visitors, its doors were about to shut.",
+        "But fans sent in donations.",
+        "Some were big but one envelope contained a single dollar - the return address marked: Clarence.",
+        "It's MORNING EDITION.",
+        "Apple, Google and Amazon are all racing to build computers we can talk to, that'll understand us.",
+        "Steve Henn of our Planet Money team says they face competition from a surprising place - small entrepreneurs using software they're getting for free.",
+        "Hello.",
+        "I am MARA.",
+        "I'm a mostly audio running assistant.",
+        "MARA, the mostly audio running assistant, is an app that was built by this guy."
+      ]
+    },
+    {
+      "dialogue_uid": "532b7cd3-82d3-41b8-bc7c-936ba9841c93",
+      "language": "en",
+      "utterances": [
+        "Let's go for a five-mile run.",
+        "Do you want to warm up first?",
+        "Yes, I do.",
+        "Joel Wetzel is a software developer in Seattle.",
+        "OK.",
+        "I am ready.",
+        "But, MARA is not something he built at work.",
+        "Play something by the Beatles.",
+        "Joel built his talking app on the side - weekends and evenings.",
+        "Lots of really smart people in Silicon Valley believe that the company that finally teaches computers to really listen to us - to understand human speech, could end up ruling the technology universe.",
+        "Let's a play little more Beatles.",
+        "But, right now, there's one problem.",
+        "Despite the fact that giants like Apple and Google have spent hundreds of millions of dollars, and collected billions of pieces of data, today, most voice-recognition programs kind of suck.",
+        "Call my mom."
+      ]
+    },
+    {
+      "dialogue_uid": "01288f13-e4b0-4d0a-bec0-6e1f38fc84c5",
+      "language": "en",
+      "utterances": [
+        "Sorry there is no mom number for Stephen Henn.",
+        "(Laughter) I've tried to teach Siri that I do actually have a mom.",
+        "You can use one of these instead.",
+        "So how can that runner, Joel Wetzel, working on a hobby project by himself on nights and weekends, possibly compete when Google and Apple and Microsoft are struggling?",
+        "The key, is Joel Wetzel isn't really working on this alone.",
+        "Play Michael Jackson.",
+        "This is Laurent Landowski, one of the cofounders of a company called Wit AI.",
+        "So that's just a very basic set up.",
+        "It's good Michael, too.",
+        "(LAUGHTER)",
+        "It's a good one - yes, it's a good one."
+      ]
+    },
+    {
+      "dialogue_uid": "1a309d86-44f6-45d8-a78d-50ea4c665658",
+      "language": "en",
+      "utterances": [
+        "Wit AI makes the voice-recognition software Joel uses in his app.",
+        "And they gave it to him for free.",
+        "They're giving lots of computer programmers the same software for free.",
+        "Well, why did you quit playing softball?",
+        "More than 5,000 developers use the platform from 12-year-old kids to very large consumer electionics companies.",
+        "Alex Lebrun is Wit AI's CEO.",
+        "So if it works with our French accents, it will work with everything in the world.",
+        "In some settings, he claims his software understands you better than Siri - better than Google.",
+        "So why give it away for free?",
+        "Because right now the goal is to get as many people talking to this software as possible.",
+        "All those runners talking to MARA...",
+        "I'm a multi-audio running assistant.",
+        "...Are actually teaching MARA to get better.",
+        "It's kind of like training a dog to understand commands.",
+        "The more language it gets to hear, the more positive reinforcement it receives, the smarter it will get.",
+        "So, meet my dog Zephyr.",
+        "Why don't you get the treats 'cause Zephyr doesn't listen without treats.",
+        "Zeph knows a half-dozen commands."
+      ]
+    }
+  ]
+}

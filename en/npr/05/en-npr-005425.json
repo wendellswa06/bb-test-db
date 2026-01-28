@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "c8bba7af-8393-4375-a534-601e2a77c046",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "c5731010-e2c7-4a4b-830b-3fceec81d20d",
+      "language": "en",
+      "utterances": [
+        "You're welcome.",
+        "(SOUNDBITE OF GALT MACDERMOT SONG, \"\"COFFEE COLD\"\")",
+        "You know, on the show, we've been talking about new ways to cover food.",
+        "After all, it's something many of us talk about often.",
+        "So we asked one of our correspondents at the NPR food blog The Salt to come by and surprise us with a story.",
+        "And I swear, at this moment here, I had no idea what was about to happen.",
+        "Hello.",
+        "Allison Aubrey.",
+        "I come bearing gifts.",
+        "You come bearing something...",
+        "I come bearing gifts.",
+        "...Looking like a dessert.",
+        "A chocolate cake, I made it this morning."
+      ]
+    },
+    {
+      "dialogue_uid": "61fe34ce-9418-4ee8-a819-8ac01709be6f",
+      "language": "en",
+      "utterances": [
+        "Really?",
+        "Yeah.",
+        "For me?",
+        "Yeah, sort of.",
+        "Oh, cool.",
+        "Well, that's generous.",
+        "Yeah, this is really going to help tell our story here.",
+        "OK.",
+        "So, you know, it's sort of the January doldrums, right?",
+        "Yeah, I'm feeling them.",
+        "It's a time when New Year's resolutions might sort of fade away.",
+        "But a lot of people are still trying to lose weight, get in shape.",
+        "So I'm going to ask you a personal question, David."
+      ]
+    },
+    {
+      "dialogue_uid": "776049cd-b004-4c31-8e7b-90faaa40da8b",
+      "language": "en",
+      "utterances": [
+        "Anything.",
+        "Would you put yourself into this category?",
+        "I've been in that category for the past year or longer or maybe my whole life, so yes.",
+        "OK, so one of the latest strategies for weight loss...",
+        "Is chocolate cake.",
+        "No, is actually getting paid to lose weight.",
+        "How much are we talking about?",
+        "Well, here.",
+        "I am going to get out my checkbook here.",
+        "I'm going to write you a check.",
+        "OK, 2016.",
+        "This is - look, I don't want to distract you from this process.",
+        "OK, so this is $1,500 to David Greene.",
+        "But you don't get it yet."
+      ]
+    },
+    {
+      "dialogue_uid": "2903d901-0b5d-42fa-a750-034f77db8ef9",
+      "language": "en",
+      "utterances": [
+        "That's cruel.",
+        "(Laughter) And do you want to know what you'd have to do?",
+        "Yes.",
+        "Well, to find out, I want to introduce you to this guy.",
+        "OK.",
+        "He's a schoolteacher in Indiana.",
+        "His name is Ben Carnes.",
+        "He's in his early 30s.",
+        "He was a lacrosse and football player.",
+        "But then his weight started to really creep up to more than 350 pounds, and he had tried almost every diet he'd heard of.",
+        "Now he was really starting to get worried.",
+        "Doctors had already put him on lots of medicines that were related to his weight and to diet.",
+        "Across the U.S., from Pennsylvania to Texas to California, there are millions of abandoned wells, their locations unmapped or poorly mapped.",
+        "Rob Jackson is a researcher at Stanford University.",
+        "He says keeping track of them is a low priority.",
+        "When a state sees a well is plugged, they typically put a checkmark by that well in a database or in a file somewhere.",
+        "And they don't do anything for the most part.",
+        "Unless a well starts leaking fluids or a house blows up, the assumption is that everything is fine.",
+        "Jackson says it's partly an issue of states not having the resources to monitor.",
+        "But I also think the states aren't that interested in some cases - in many cases, in the data.",
+        "I'm not sure that they really want to know."
+      ]
+    },
+    {
+      "dialogue_uid": "baf7fcbc-a369-4f2f-ad9c-7af2798180b1",
+      "language": "en",
+      "utterances": [
+        "In the Canadian province of Alberta, it's a different story.",
+        "Theresa Watson is an engineering consultant and former Alberta energy regulator.",
+        "Back in the early 2000s, she started pushing for better tracking, monitoring and regulation of abandoned wells as people started to move in to rural areas that were once oil and gas fields.",
+        "If you don't measure it, you don't know what kind of risk you have.",
+        "I mean, ignorance is bliss, I guess.",
+        "But I think most people will tell you that they'd want to know.",
+        "Which is why Watson recommended not only monitoring abandoned wells near homes, but an outright prohibition on building on top of them.",
+        "From a public safety perspective, even a slow leak into a building can cause an explosion hazard.",
+        "Alberta now has a 15-foot no-build zone around abandoned wells.",
+        "But similar rules are lacking in most of the U.S.",
+        "Even as we can see in places like the Front Range of Colorado, new development is encroaching on old oil and gas fields.",
+        "State oil and gas regulators say the situation is out of their hands.",
+        "Stuart Ellsworth is the engineering manager for the Colorado Oil and Gas Conservation Commission.",
+        "We'd really try to discourage construction on top of old wells.",
+        "But he says any actual prohibition is up to local governments who permit development.",
+        "In turn, many of those local governments see abandoned wells as the state's problem.",
+        "Somebody needs to be held accountable for it.",
+        "That's Rick Kinder again, the construction worker who was injured in the well explosion.",
+        "To me, the most important thing is it doesn't happen to somebody else.",
+        "It doesn't need to happen to somebody else."
+      ]
+    }
+  ]
+}

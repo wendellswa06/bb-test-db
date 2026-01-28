@@ -1,0 +1,113 @@
+{
+  "challenge_uid": "9f29cd61-0b9b-48a0-a80a-925eaa931d67",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "901c7550-84a7-484b-b69e-f728e274c4ae",
+      "language": "en",
+      "utterances": [
+        "You do know the drill.",
+        "So now comes the part that you can't prepare for and you're not going to be able to write it into your notebook until it's over.",
+        "You ready?",
+        "Are you ready to play?",
+        "I'm all ready, yes.",
+        "Oh, excellent.",
+        "Well, Will, meet Margaret.",
+        "Let's play.",
+        "Hi, Will.",
+        "Hi, Margaret.",
+        "Every answer today is a familiar four-word phrase in which the middle two words are `of the' and the first word starts with the letter S, as in summer.",
+        "For example, if I gave you the clue, `A small silly error in speech,' you would say, `Slip of the tongue.'",
+        "OK.",
+        "Number one is Capricorn, Leo, Aquarius, etc.",
+        "Signs of the zodiac.",
+        "Excellent.",
+        "Number two, a hot dish before an entree that a waitress announces especially.",
+        "Soup of the day."
+      ]
+    },
+    {
+      "dialogue_uid": "d3bf967b-a884-4262-9b2d-2023a58bc71b",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "Subject for an annual presidential address in Congress.",
+        "State of the Nation.",
+        "Another word instead of nation.",
+        "State of the...",
+        "State of the Union.",
+        "That's it.",
+        "State of the Union is the usual phrase.",
+        "Congressional bigwig.",
+        "Senator of the House.",
+        "That's not...",
+        "Of the House is right.",
+        "Speaker of the House.",
+        "Speaker of the House.",
+        "Good.",
+        "Cabinet officer in charge of monetary matters.",
+        "Secretary of the Treasury."
+      ]
+    },
+    {
+      "dialogue_uid": "500452dc-cb91-488e-a838-0d60a7fe121b",
+      "language": "en",
+      "utterances": [
+        "That's it.",
+        "Area marked off with police tape.",
+        "Scene of the crime.",
+        "Yes.",
+        "What you say when someone you've been talking about suddenly shows up.",
+        "Slip of the tongue?",
+        "What do you say?",
+        "You're talking about...",
+        "Speak of the devil.",
+        "Speak of the devil.",
+        "That's it.",
+        "The wee small hours as sung about by the Five Satins.",
+        "The wee small hours?",
+        "Yeah.",
+        "Something \"\"of the Night."
+      ]
+    },
+    {
+      "dialogue_uid": "ede14ddd-7251-4fc1-8254-8f7a3404199e",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "In the...",
+        "Dah, dah, dah.",
+        "I'm not singing it.",
+        "No, something \"\"of the Night.",
+        "I'll help you.",
+        "Go ahead.",
+        "It's \"\"Still of the Night.",
+        "Still of the Night,\"\" that's it.",
+        "Mexico to the United States.",
+        "South of the border.",
+        "That's right.",
+        "Nickname for a camel."
+      ]
+    },
+    {
+      "dialogue_uid": "dadce946-579f-44c9-8080-f7560148435f",
+      "language": "en",
+      "utterances": [
+        "Something of the something.",
+        "Ship of the desert.",
+        "That's right.",
+        "1991 Jodie Foster-Anthony Hopkins film with `The'.",
+        "The Something of the Lambs.",
+        "Yes.",
+        "Silence of the Lambs.",
+        "Silence of the Lambs,\"\" good.",
+        "Sudden time when you decide to do something.",
+        "Time when you decide to do something.",
+        "Just on a whim.",
+        "Do you know, Liane?",
+        "Spur of the moment.",
+        "You're going to do it on the spur of the moment."
+      ]
+    }
+  ]
+}

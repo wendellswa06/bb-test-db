@@ -1,0 +1,121 @@
+{
+  "challenge_uid": "8ff9caad-fd00-4806-a8ab-d68a5d893db8",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "209f9050-12f6-4be6-ae48-3a0225f0391f",
+      "language": "en",
+      "utterances": [
+        "Yes, exactly.",
+        "(LAUGHTER)",
+        "Leila Takayama says, wouldn't it be helpful if this robot could show us that it's thinking.",
+        "Sometimes it's hard to tell, like, is it trying to get through the door.",
+        "Is it trying to go down the hallway?",
+        "Is it waiting for something?",
+        "It's like it looks the same when its thinking really hard, as when it's doing nothing at all.",
+        "Can we do something about that?",
+        "So, Leila has been working with an animator at Pixar to come up with ways to make these robots more humanoid.",
+        "Maybe it's adding a gesture, like having the robots scratch its head to show that it's concentrating or adding sounds.",
+        "Along with the Pixar's sound designer, she's developed a sound library.",
+        "(SOUNDBITE OF ELECTRONIC WHIRRING SOUND)",
+        "That one is one of my favorites for getting people's attention.",
+        "(LAUGHTER)",
+        "So this is, Hey.",
+        "(SOUNDBITE OF ELECTRONIC WHIRRING SOUND)"
+      ]
+    },
+    {
+      "dialogue_uid": "cd878660-8f90-4c27-b8f9-5cddde586f1a",
+      "language": "en",
+      "utterances": [
+        "And that's sad, sad.",
+        "(SOUNDBITE OF ELECTRONIC SOUND)",
+        "Oh.",
+        "Yeah, I feel kind of bad for him.",
+        "(SOUNDBITE OF ELECTRONIC SOUND)",
+        "Ran out of battery.",
+        "(LAUGHTER)",
+        "Please help.",
+        "Takayama says she'd love it if the robot could lean in and out from hips, not just roll back and forth.",
+        "That would show expression and engagement.",
+        "And another robot movement should love to see...",
+        "A pop.",
+        "And that's when you sort of just sort of sit up really fast.",
+        "Right, and that's like I'm very interested or I'm curious, or I want attention.",
+        "And that's dangerous to do in a real robot design because you're launching several hundred pounds of weight up really quickly."
+      ]
+    },
+    {
+      "dialogue_uid": "cdf27d05-9c26-4169-a990-60c97dfc8a8a",
+      "language": "en",
+      "utterances": [
+        "(LAUGHTER)",
+        "Are there times when your perspective, as somebody with a background in psychology, butts up against the engineers...",
+        "Oh yeah, absolutely.",
+        "Like I don't care if it's (unintelligible), I want it to do this.",
+        "Yeah.",
+        "So when we're designing PR2, a lot of the perception research folks wanted as many cameras as we could put on the head, right?",
+        "Because then you've got lots and lots of data.",
+        "And so, the original design had this sort of pile of cameras stacked high on top of each other, on top of the robots head.",
+        "And that, to me, read as tarantula that's 500 pounds.",
+        "(LAUGHTER)",
+        "And if you have a person who's not a roboticist interacting with a robot that looks like a gigantic tarantula, that's a problem.",
+        "They're never going to get anywhere near it",
+        "Meanwhile, back at the fridge, Jake - ever patient - has inched toward the door.",
+        "You can see dents where the robot's gripper hands has slammed into it trying to master this task.",
+        "And finally, a breakthrough.",
+        "Well, look at that.",
+        "Jake has opened the door - a little bit.",
+        "Now, he's got to aim for the juice bottle.",
+        "Oh, and now the fridge is opened, then it's slowly rotating down."
+      ]
+    },
+    {
+      "dialogue_uid": "86d674c1-b0e8-41be-8cb5-7a63b507354a",
+      "language": "en",
+      "utterances": [
+        "Spend time with robots, Leila Takayama says, and you start to see the world differently.",
+        "I like that.",
+        "Like, it's really nice to be able to appreciate.",
+        "You know, the human hand is an amazing thing, especially after you spend the whole day watching this gripper try to grab a bottle...",
+        "(LAUGHTER)",
+        "...for hours.",
+        "It's hard.",
+        "It's really hard.",
+        "And it's amazing that we can do what we do as humans.",
+        "That's really fun.",
+        "It's also neat to see just how people react to these things.",
+        "Right?",
+        "I get used to being around roboticists who are sort of bored with robots, because we see them every day.",
+        "But when I get to bring in people from outside of the building, that's really interesting to me, because these are new technologies and we've got old brains.",
+        "What's the big picture here, Leila, do you think 10 years from now, 15 years from now, how different is your expectation going to be of what a robot should be doing?",
+        "I want robots to be unremarkable.",
+        "I hope that in 15 years we'll be at a place where people don't say: Oh, look, it's a robot, and then go right over to it.",
+        "You know, it should just - they just should be there.",
+        "Hopefully, they're so useful and so just sort of faded into the background that we don't notice that they're there all the time.",
+        "(SOUNDBITE OF MACHINERY)",
+        "Whoop.",
+        "Woo, so the...",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "deb004c7-45e2-4d95-80ab-90ef8447bbaf",
+      "language": "en",
+      "utterances": [
+        "(Unintelligible) made a dive for something.",
+        "But it missed.",
+        "And 40 minutes into Jake's refrigerator venture, his human handler across the room calls it quits.",
+        "Anybody waiting for that juice would surely have given up by now, and the food in the open fridge would be headed for spoilage.",
+        "Jake has almost successfully close the refrigerator door.",
+        "But never did get his juice.",
+        "Yeah.",
+        "(LAUGHTER)",
+        "He did it.",
+        "(LAUGHTER)",
+        "When he just shut the refrigerator door, which becomes a very exciting event...",
+        "(LAUGHTER)"
+      ]
+    }
+  ]
+}

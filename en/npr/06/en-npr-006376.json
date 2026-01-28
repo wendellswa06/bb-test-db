@@ -1,0 +1,118 @@
+{
+  "challenge_uid": "9bd5fffb-4213-4956-8773-96ce345fb933",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ec6f4083-2f7b-408c-84fb-f26870ae0344",
+      "language": "en",
+      "utterances": [
+        "Yes, there are clocks in all the cells of your body.",
+        "Wow.",
+        "It's kind of stunning.",
+        "Yes.",
+        "That is a discovery that's literally surprised us, I must say.",
+        "Turek says think of all these clocks in our bodies as instruments or players in an orchestra.",
+        "The idea that the heart has a clock.",
+        "Think of it as a drum.",
+        "(SOUNDBITE OF BEATING DRUM)",
+        "And the kidneys?",
+        "The kidneys have a clock - two clocks, one in each kidney.",
+        "Maybe they're the horns."
+      ]
+    },
+    {
+      "dialogue_uid": "f9b7d074-4c5d-41cc-9e2d-1dd8dca42bfc",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF BLOWING HORNS)",
+        "Then there's the pancreas.",
+        "Yes, the pancreas has a clock.",
+        "That's the flute.",
+        "(SOUNDBITE OF FLUTE PLAYING)",
+        "Now, the master clock in our brains is like the symphony conductor keeping all of the players in sync.",
+        "(SOUNDBITE OF VIOLINS TUNING UP)",
+        "Once the conductor comes on, everybody's in synchrony and it sounds beautiful.",
+        "(SOUNDBITE OF SYMPHONY PLAYING)",
+        "The idea that your body is functionally - normally when everybody's in synchrony with the master conductor in your brain."
+      ]
+    },
+    {
+      "dialogue_uid": "08fbcd81-31ed-404c-aa28-d4ef56d3b19d",
+      "language": "en",
+      "utterances": [
+        "You're sleeping well, eating regularly and feeling good.",
+        "But what if the clocks get out of sync?",
+        "(SOUNDBITE OF DISJOINTED ORCHESTRA)",
+        "(Laughter).",
+        "It sounds - you sound so bad, right?",
+        "And, Turek says, something like this may happen in our bodies.",
+        "So think back to Tom, the overnight nurse.",
+        "The master clock in his brain, which is set by the 24-hour, light-dark cycle, is like the conductor cueing all the other clocks in the body that it's night.",
+        "So for example, his digestive organs are not expecting food.",
+        "The clock in the brain is sending signals out.",
+        "Do not eat.",
+        "Do not eat.",
+        "And this is where things get out of whack.",
+        "(SOUNDBITE OF DISJOINTED ORCHESTRA)",
+        "Tom has to eat something on his overnight shift, and when he does, research suggests this meal may reset the clock in his digestive organs.",
+        "So instead of being in sync with the master clock, the clock in, say, the pancreas, which has to start releasing insulin to deal with the meal, is getting competing time cues.",
+        "The pancreas is listening to the signals related to food intake, but that's out of synchrony with what the brain is telling it to do.",
+        "So if you are sending signals to those organs at the wrong time of day, such as eating at the wrong time of day, we're upsetting the balance.",
+        "Now, it's still early days for circadian science.",
+        "But there's growing evidence that different organs and systems in the body are programmed to do different things at different times.",
+        "For instance, doctors have long known that the time of day you take a drug can influence its potency, and Turek says part of this is that the liver may be better at detoxifying at certain times of day."
+      ]
+    },
+    {
+      "dialogue_uid": "8d3080e6-1bb6-4691-9c2e-e1e7b90d748d",
+      "language": "en",
+      "utterances": [
+        "You take a drug at one time of day, it might be much more toxic than at another time of day.",
+        "And consider a recent weight-loss study by a circadian scientist at Harvard named Frank Scheer.",
+        "He found that the timing of meals may influence how much weight people can lose.",
+        "The finding was that people who ate their main meal earlier in the day were much more successful at losing weight.",
+        "In fact, early eaters lost 25 percent more weight than later eaters.",
+        "So quite a surprisingly large difference.",
+        "Now Northwesterners Fred Turek says his hope is that down the road circadian science will make a big difference to the practice of medicine.",
+        "We would like to be in a position where we'd be able to monitor hundreds of different rhythms in your body and determine if they're out of synchrony with each other, and then we would try to normalize them.",
+        "Now, whether or how quickly this may happen is hard to say.",
+        "But what is clear is that the study of the biology of time is exploding.",
+        "What we're doing now in medicine is what Einstein did for physics at the beginning of the last century.",
+        "He brought time to physics.",
+        "We are bringing time to biology.",
+        "That's - that's new.",
+        "The irony is that this insight comes at a time when more and more of us seem to be ignoring our internal clocks.",
+        "Allison Aubrey, NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "04572c91-3125-43b3-b8d2-2b24f82ed6c8",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF PIANO PLAYING)",
+        "Comes at a time when we're ignoring our clocks?",
+        "That's what she said.",
+        "If you're having a hard time imagining all these clocks ticking away inside you, we have an animated explanation at NPR's health blog, Shots, which is available any time, day or night.",
+        "Brickhouse is referring to the disappearance of Malaysia Airlines Flight 370 on March 8 of last year, an event the professor at Embry-Riddle Aeronautical University calls unprecedented and shocking.",
+        "For many, it is still hard to fathom how, in this day and age, the Boeing 777 just vanished without a trace.",
+        "So international aviation regulators, safety advocates and airline executives are meeting in Montreal this week to establish new flight-tracking protocols.",
+        "And we developed very quickly a standard which calls for an aircraft to be tracked within 15 minutes, no matter where it is around the world, whether it's in radar coverage or not.",
+        "This is Nancy Graham, director of the Air Navigation Bureau at the U.N.'s International Civil Aviation Organization.",
+        "She says planes will be required to check in every 15 minutes during normal operations, and there's an additional standard for planes in distress.",
+        "If it gets into trouble, if it goes beyond its flight plan or in a very quick dissent or something that's in trouble, it will begin to broadcast once every minute, which allows us to locate the aircraft, in the event that it goes down, within six nautical miles.",
+        "And Graham says these tracking systems will be tamper-proof.",
+        "The member states participating in the aviation safety summit agreed to enact this new tracking standard with a target date for full implementation of November, 2016.",
+        "But the airline industry stops short of promising to meet that deadline.",
+        "Tony Tyler is director general of the International Air Transport Association.",
+        "Certainly, the industry is not sort of sitting back and waiting.",
+        "A number of airlines are and are planning to improve and work to new ways of tracking their aircrafts in flight.",
+        "And, in fact, experts say such tracking technology already exists in most planes, and it shouldn't be too costly for airlines to implement.",
+        "Still, some, including Malaysia's government and the NTSB, are calling for real-time, minute-by-minute flight tracking.",
+        "Air safety investigator Anthony Brickhouse agrees that would be the ideal.",
+        "But he adds...",
+        "I know that 15 minutes doesn't seem like a lot.",
+        "But compared to what we have now, where planes can be out of radar contact for hours, I think the 15 minutes is a good start."
+      ]
+    }
+  ]
+}

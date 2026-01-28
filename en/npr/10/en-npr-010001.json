@@ -1,0 +1,107 @@
+{
+  "challenge_uid": "5b8cd15d-e5a1-47da-aab2-dc31891e9ffa",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ef2a2620-1cfd-415f-aad8-1d90ad92e51c",
+      "language": "en",
+      "utterances": [
+        "Good.",
+        "Russia.",
+        "Good.",
+        "Denmark.",
+        "Good.",
+        "And Sweden.",
+        "And Sweden.",
+        "Sweden.",
+        "Good job.",
+        "Boom, boom, boom.",
+        "OK.",
+        "Next category is street and highways signs.",
+        "Yield.",
+        "Good."
+      ]
+    },
+    {
+      "dialogue_uid": "b881074f-53be-46fb-bc9f-e2621ea2f9c7",
+      "language": "en",
+      "utterances": [
+        "Yield is good.",
+        "Stop, right?",
+        "Stop.",
+        "Stop is the perfect S, yes.",
+        "A-R and D.",
+        "Detour.",
+        "Ooh, good.",
+        "Detour - excellent.",
+        "Good one.",
+        "A and R.",
+        "Have a weird one for A but I don't know if that would work."
+      ]
+    },
+    {
+      "dialogue_uid": "11838077-ff46-4889-95b7-bbaf1c618fb0",
+      "language": "en",
+      "utterances": [
+        "Go ahead.",
+        "What about avalanche warning?",
+        "(LAUGHTER)",
+        "Avalanche warning - I'm not sure I've ever seen that sign.",
+        "I've seen that sign.",
+        "You know, I'm going to give you avalanche warning.",
+        "I was thinking of alternate route.",
+        "All right.",
+        "Need an R.",
+        "OK.",
+        "You need an R.",
+        "Road construction, road closed?",
+        "Yes.",
+        "Road construction ahead, rough road, road work ahead, railroad crossing, right turn only - any of those work.",
+        "OK.",
+        "And your last category: fill in the blank.",
+        "Blank book."
+      ]
+    },
+    {
+      "dialogue_uid": "db544657-9626-429e-8007-8d65525741a5",
+      "language": "en",
+      "utterances": [
+        "Yellow book.",
+        "Yellow book is good.",
+        "Yearbook.",
+        "OK.",
+        "Art book.",
+        "Art book, OK.",
+        "Address book also works.",
+        "R-D and S.",
+        "And R is something a referee would have to follow.",
+        "Oh.",
+        "Rule book?",
+        "Yeah.",
+        "A rule book is good.",
+        "A D is something you might make notes in.",
+        "Date book.",
+        "A date book or a day book work."
+      ]
+    },
+    {
+      "dialogue_uid": "2c158ffb-26fb-4d58-98fb-4ff9728f7d07",
+      "language": "en",
+      "utterances": [
+        "Oh, a date book, OK.",
+        "And all you need is an S.",
+        "Something you might collect notes in about your son.",
+        "A scrapbook?",
+        "Yeah, scrapbook.",
+        "Yeah, that would be a scrapbook.",
+        "(LAUGHTER)",
+        "That is in Santa Monica, California.",
+        "Nataliya Chernis, of Los Angeles, California, Nataliya, thanks so much for playing the puzzle.",
+        "Thank you so much.",
+        "OK.",
+        "Will, what's the challenge for next week?",
+        "Yes, it comes from listeners Mike Morton of Lyme, New Hampshire, and Barry Hayes of Palo Alto, California - but who right now is working in Antarctica."
+      ]
+    }
+  ]
+}

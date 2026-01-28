@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "26c43e9a-9136-4595-b69a-f0aac8cffa73",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "a018600c-020c-488a-9886-3451efd946d0",
+      "language": "en",
+      "utterances": [
+        "I'm sorry, I was feeding my baby.",
+        "Garin told the crowd that this shot, the world's first dengue vaccine, would save thousands of kids.",
+        "The vaccine had been tested in a huge trial with more than 30,000 kids globally.",
+        "The results were published in the prestigious New England Journal of Medicine.",
+        "But halfway around the world, in a D.C.",
+        "suburb, one scientist was worried.",
+        "When I read the New England Journal article, I almost fell off the chair.",
+        "To be honest with you, I was quite shocked.",
+        "That's Dr. Scott Halstead.",
+        "He spent more than 50 years studying dengue with the U.S.",
+        "military.",
+        "He says when he looked at the data, right away, he knew the vaccine had a problem - that it was putting some kids at risk for a potentially deadly side effect where your blood vessels start to leak, like with Ebola.",
+        "The trouble is that it occurs very rapidly - just a matter of hours.",
+        "And this is what's so scary because, you know, there's nothing on the outside of the body that tells you, oh, that's a person that's leaking fluid inside.",
+        "A child can go into shock.",
+        "Then everything gets worse, and you - maybe it's impossible to save your life.",
+        "It's a complication called plasma leakage syndrome.",
+        "Halstead says the risk is small, but still, he was so worried, he started writing editorials to scientific journals, even warned the Filipino government about the problem.",
+        "I just say, no, you can't give a vaccine to somebody - some perfectly normal, healthy person - and now put them at risk for the rest of their lives for plasma leakage syndrome.",
+        "You can't do that.",
+        "Sanofi Pasteur, the vaccine manufacturer, disagreed, and the Philippines campaign continued.",
+        "Then, in November 2017, more than a year after kids started getting their shots, the vaccinations came to a screeching halt."
+      ]
+    },
+    {
+      "dialogue_uid": "b94d9bdd-cd61-4210-8835-6a0cd67e53f4",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF MONTAGE)",
+        "Outrage and fear in the Philippines.",
+        "Suspends the sale of the controversial Dengvaxia dengue vaccine for a year.",
+        "Manufacturer Sanofi warned that the vaccine could trigger severe illness.",
+        "Data confirmed Halstead's fears.",
+        "The vaccine does raise the risk of hospitalization and plasma leakage syndrome for some kids.",
+        "There were claims the vaccine killed 10 kids.",
+        "Protests erupted across the country.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "(Foreign language spoken).",
+        "The Philippines Congress launched investigations.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Good morning everyone.",
+        "This hearing of the committee on accountability..."
+      ]
+    },
+    {
+      "dialogue_uid": "c9755e84-f2ab-42da-86e5-d30c8c60007a",
+      "language": "en",
+      "utterances": [
+        "Here's the problem.",
+        "For children who have already been exposed to dengue, the vaccine is safe and works pretty well.",
+        "But there is an unusual thing about the dengue virus.",
+        "The second infection can be a lot worse than the first.",
+        "So for kids who have never had the disease, the vaccine acts as the first exposure.",
+        "So if they are exposed to dengue later on, they're at a higher chance of having this severe reaction.",
+        "The increased risk is small.",
+        "Out of a million kids in the Philippines, the vaccine could cause about a thousand kids to be hospitalized.",
+        "And Dr. Isabel Rodriguez at the University of California, San Francisco says parents were never told about this risk.",
+        "What bothers me the most about this whole story is risk communication.",
+        "Rodriguez, who studies dengue in South America, says Sanofi didn't acknowledge a potential risk until after 800,000 kids were vaccinated.",
+        "There was a lot of uncertainty.",
+        "That, we knew from the beginning.",
+        "But you need to communicate that explicitly.",
+        "People need to be aware of that.",
+        "Dr. Su-Peing Ng is global medical head of Sanofi Pasteur.",
+        "We've always been very transparent in sharing the results of our research.",
+        "And I just want to stress that we have full confidence in our vaccine as it's been approved by regulatory agencies in over 20 countries.",
+        "In hindsight, given what's known now with the new data and everything, would you guys have done anything differently with this vaccine?",
+        "No.",
+        "We have been very, very close to the dengue research community, working closely with them over the last 20 years in the effort to find a solution for public health need.",
+        "The Philippines government has indicted 14 government officials over the deaths of 10 children.",
+        "The government said the officials acted with, quote, \"\"undue haste in launching the campaign.\"\" Six Sanofi officials were also indicted for not properly helping children who had serious reactions to the shot.",
+        "Sanofi disputes this, adding in a written statement to NPR, there is no clinical evidence that any reported fatalities were causally related to vaccination."
+      ]
+    },
+    {
+      "dialogue_uid": "d9555994-9711-43d5-8e5e-c8f0e877bd81",
+      "language": "en",
+      "utterances": [
+        "Dr. Keymanthri Moodley directs the Center for Medical Ethics and Law at Stellenbosch University.",
+        "She says there is so much at stake in these situations.",
+        "There can be deaths and other far-reaching consequences.",
+        "The problem that arises with a vaccine that goes wrong is that it creates fear and anxiety in terms of the public, especially the parents.",
+        "And it can impact negatively on the established immunization programs that are actually safe and work very well.",
+        "Which is what is happening in the Philippines.",
+        "Many parents are now wary of getting their kids vaccinated for any disease.",
+        "As a result...",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "This is San Lazaro Hospital in Manila.",
+        "...The country is facing a massive measles outbreak.",
+        "So far, there have been more than 26,000 cases.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "At least 60 children have already died of measles in this hospital alone over the last month.",
+        "And the situation is getting worse.",
+        "This weekend marks 60 years since Billboard introduced the Hot 100 chart.",
+        "This is DAY TO DAY.",
+        "I'm Madeleine Brand."
+      ]
+    },
+    {
+      "dialogue_uid": "88a2ad0f-2c35-4cdf-b72a-3c28c8a4a2ef",
+      "language": "en",
+      "utterances": [
+        "No problem.",
+        "That's Al Jazeera reporting in February shortly before the country launched an emergency measles vaccination campaign.",
+        "Back in the U.S., the FDA yesterday approved Dengvaxia for use here with one important restriction.",
+        "Doctors must have proof of a prior dengue infection to ensure the vaccine is safe for a child - a safeguard Filipino families never had.",
+        "Michaeleen Doucleff, NPR News.",
+        "(SOUNDBITE OF ASO'S \"\"B URSELF\"\")",
+        "People cross the U.S.-Mexico border daily for work and school.",
+        "We're going to go now to El Paso, where President Trump's threats to shut down the border earlier this week created anxiety and uncertainty among many residents.",
+        "Mallory Falk has this report from El Paso.",
+        "Step onto the campus at the University of Texas, El Paso, known as UTEP, and it doesn't take long to find students who live in El Paso's sister city Juarez and commute across the border to school like these two study buddies.",
+        "My name is Carlos Medina.",
+        "My name is Alejandra Salcido.",
+        "They sit in a campus coffee shop prepping for an exam.",
+        "Like nearly 1,000 other students here, Medina and Salcido have to cross an international bridge to get to class.",
+        "Lately, that hasn't been easy.",
+        "Before all of the chaos happened with our border, it took me around 20 minutes to an hour depending on the day and the hour.",
+        "But now it takes me from three to five hours."
+      ]
+    }
+  ]
+}

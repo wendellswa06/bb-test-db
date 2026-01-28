@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "7eeaa96e-a4ab-413d-a4c1-676e3131912b",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "73da3caa-58d1-4e8b-80f1-b2de9891b827",
+      "language": "en",
+      "utterances": [
+        "Bill Woodward, I believe it is.",
+        "Woodward is right.",
+        "What's his first name?",
+        "I think it's Will or Bill or Bob.",
+        "Bob, there you go.",
+        "Bob Woodward is right.",
+        "Readily wrote essays.",
+        "Let's see, readily wrote essays.",
+        "Oh, Ralph Waldo Emerson.",
+        "Nice job.",
+        "Constructed hotels.",
+        "Oh, yes.",
+        "Paris' dad - Conrad Hilton.",
+        "Conrad Hilton is it.",
+        "Well done."
+      ]
+    },
+    {
+      "dialogue_uid": "100c619a-cd88-4696-b87d-eb82c68f59ce",
+      "language": "en",
+      "utterances": [
+        "Knows Republicans.",
+        "Oh yes, Karl Rove.",
+        "Karl Rove, nice job.",
+        "Married Schwarzenegger.",
+        "Oh, Maria Shriver.",
+        "Um-hum.",
+        "Advised lovelorn.",
+        "Ann Landers.",
+        "Um-hum.",
+        "Painted prolifically.",
+        "Oh, yes, Pablo Picasso.",
+        "Nice.",
+        "Authored classic detective.",
+        "Classic detective.",
+        "Now, that's one I might have a little trouble with."
+      ]
+    },
+    {
+      "dialogue_uid": "b8c8276d-7871-48dd-a87a-8fabbc89be68",
+      "language": "en",
+      "utterances": [
+        "No, you know this one.",
+        "Authored classic detective.",
+        "Who's the most classic, who's the biggest detective of fiction?",
+        "Oh, OK.",
+        "Way back, OK.",
+        "I was thinking the '40s, noir.",
+        "That would be Doyle.",
+        "Arthur Conan Doyle, right?",
+        "That's right.",
+        "Excellent.",
+        "Supplies Christmas.",
+        "Santa Claus.",
+        "Um-hum.",
+        "Fashioned depression recovery.",
+        "Good old FDR.",
+        "That's it.",
+        "Franklin Delano Roosevelt.",
+        "And your last one is asks trivia.",
+        "Asks trivia.",
+        "Now, that wouldn't be you.",
+        "Oh, Alex Trebek."
+      ]
+    },
+    {
+      "dialogue_uid": "98eda785-2827-4fc0-a832-6a347f8ee062",
+      "language": "en",
+      "utterances": [
+        "Alex Trebek, nice job.",
+        "Allan, just knocking it out of the park.",
+        "Well done.",
+        "Well, the only hard one was the Doyle, I think.",
+        "Well, that was pretty much a home run, as far as I'm concerned.",
+        "And for playing our puzzle today, you'll get a WEEKEND EDITION lapel pin and you get puzzle books and games.",
+        "You can, of course, read all about it at npr.org/Puzzle.",
+        "And, Allan, before we let you go, tell us which public radio station you listen to.",
+        "I listen currently to WABE in Atlanta and I just recently joined it.",
+        "And before that, I was a member at WJCT in Jacksonville.",
+        "And before that, at WUSF in Tampa.",
+        "Allan Richardson of Marietta, Georgia, thanks for playing the puzzle this week.",
+        "Thank you very much.",
+        "OK, Will.",
+        "What's our challenge for next week?",
+        "Yes, it comes from listener Peter Persoff of Piedmont, California.",
+        "Think of a common three-letter word and five-letter word that together consist of eight different letters of the alphabet.",
+        "Put the same pair of letters in front of each of these words, and you'll have the present and past tense forms of the same verb.",
+        "What words are these?",
+        "So again, a common three-letter word and five-letter word, together they have eight different letters of the alphabet.",
+        "Put the same pair of letters in front of each of these words, and you'll have the present tense and past tense forms of the same verb.",
+        "What words are these?"
+      ]
+    },
+    {
+      "dialogue_uid": "6a996875-267b-4498-80d3-cbc9f94c6d5f",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "I got to go do \"\"The View\"\" and then I get to go to sleep.",
+        "Oh, that'll be fun, right?",
+        "OK.",
+        "When you have the answer, go to our website, npr.org/puzzle and click on the Submit Your Answer link - just one entry per person, please.",
+        "And our deadline for entries is next Thursday at 3 P.M. Eastern Time.",
+        "Please include a phone number where we can reach you at about that time.",
+        "And if you are the winner, we'll give you a call, and you'll get to play on the air with the puzzle editor of The New York Times and WEEKEND EDITION's puzzlemaster, Will Shortz.",
+        "Thanks so much, Will.",
+        "Thanks, Rachel.",
+        "Aircraft make loud sonic booms when they fly faster than the speed of sound.",
+        "That thunderclap is one of the main reasons supersonic planes aren't used commercially today.",
+        "Now NASA is building a test plane to evaluate ways to reduce that boom.",
+        "NPR's Joe Palca has more.",
+        "The supersonic test plane doesn't look all that different from a more conventional plane except for a long, pointy nose.",
+        "Supersonic aircraft tend to be long and slender anyway.",
+        "Low-boom supersonic aircraft is that to an extreme.",
+        "Peter Coen manages NASA's Commercial Supersonic Technology Project.",
+        "When he says low boom, Coen means low sonic boom.",
+        "So instead of a bang, you just hear a thump."
+      ]
+    }
+  ]
+}

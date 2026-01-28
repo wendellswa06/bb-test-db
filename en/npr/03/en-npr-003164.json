@@ -1,0 +1,118 @@
+{
+  "challenge_uid": "66c1e0fe-59d8-40fb-b9a1-89a267e87005",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "393b04fa-a96a-418d-bb3c-0120806e13ce",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of music)",
+        "(Foreign language sung)",
+        "And this is WEEKEND EDITION.",
+        "(Credits)",
+        "I'm Scott Simon.",
+        "A month ago, we began an experiment.",
+        "We pitted two political journalists against a computer.",
+        "Today on All Tech Considered - the results.",
+        "(SOUNDBITE OF MUSIC)",
+        "The challenge was to predict what controversies would dog each of the major party presidential candidates over the course of a month.",
+        "NPR's Laura Sydell tells us now who did better, humans or machine.",
+        "The two humans and the computers each got to predict five issues per presidential candidate that would get a lot of coverage between September 12 and October 12.",
+        "That means it covers only a few days of the release of the Donald Trump lewd comments about women.",
+        "Given that, the top of the list wasn't dominated by that controversy.",
+        "Here's a taste of the contest - predictions from Jonah Goldberg of the National Review, Simon Maloy of Salon and the computer.",
+        "First, Trump..."
+      ]
+    },
+    {
+      "dialogue_uid": "6c7afc26-abbb-4c8a-a212-e953359ef3c8",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF ARCHIVED BROADCAST)",
+        "A lot of discussion about his tax return.",
+        "I think Trump will at some point say something sexist about Hillary Clinton.",
+        "Building the wall along the Mexican border.",
+        "...And now Clinton...",
+        "(SOUNDBITE OF ARCHIVED BROADCAST)",
+        "Debate mishap - I think it would be inappropriately laughing at something she shouldn't laugh at.",
+        "There'll be a ton of coverage the moments that Clinton makes her first public comments on her health status.",
+        "And No. 1 for Hillary is her email scandal of course.",
+        "(SOUNDBITE OF BELL)"
+      ]
+    },
+    {
+      "dialogue_uid": "da43e0d8-05ad-4b97-9a4c-089c15277597",
+      "language": "en",
+      "utterances": [
+        "Actually the computer was wrong.",
+        "By volume of coverage, the No. 1 issue that plagued Clinton was her health, giving Simon Maloy the edge.",
+        "Simon was actually winning for the first five days.",
+        "He's this green line here.",
+        "Dan Buczaczer is with Quid, the data-analytics company that created the software for this contest.",
+        "He's standing in front of a chart with the winning predictions color coded.",
+        "But the contest wasn't about just one prediction.",
+        "Each contestant made five of them.",
+        "And when that's taken into account...",
+        "(SOUNDBITE OF BELL)",
+        "...The winner actually was Quid.",
+        "So the computer wins an NPR T-shirt - not sure what size.",
+        "The computer won despite a whole lot of stuff about the last month that was not predictable - Trump's attacks on Miss Universe, the leaked NBC tape.",
+        "Simon Maloy thought Trump would say something sexist about Hillary Clinton.",
+        "But that wasn't quite right.",
+        "Buczaczer says the computer showed a general trend of sexist comments, but Quid didn't think that was enough to make a detailed prediction.",
+        "We'd seen a lot of information about controversies between Trump and women, but we did not realize that there was a tape on a bus with Billy Bush that was about to be released.",
+        "Ultimately the contest was judged by whose predictions got the most coverage.",
+        "Both humans got some things totally wrong.",
+        "The computer did better.",
+        "Buczaczer says the edge the computer has is that it looks back over a long period of time and sees which issues keep coming up.",
+        "And that...",
+        "Well I'm going to quote you something that you've said, that I hope is an accurate quote.",
+        "But here I go.",
+        "I think of dance as being movement, any kind of movement."
+      ]
+    },
+    {
+      "dialogue_uid": "2cf8372d-012c-4daf-bd26-fba32d4838d2",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "And that it is as accurate and impermanent as breathing.",
+        "Yes.",
+        "I think it is.",
+        "So does that mean that you will be dancing, in effect, right to that last breath?",
+        "Well, probably.",
+        "As long as you live, you'll be dancing.",
+        "Yes, or I can call it dancing.",
+        "(Soundbite of laughter)",
+        "Even if nobody else does.",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "884611bd-052f-4c53-baa3-e37fe8c067da",
+      "language": "en",
+      "utterances": [
+        "Merce Cunningham, thank you very much for joining us.",
+        "Well, thank you.",
+        "Merce Cunningham's company will perform his newest work, called \"\"eyeSpace,\"\" in Miami this winter.",
+        "You can see images from Merce Cunningham Dance Company performances and hear other stories in this series at npr.org.",
+        "It's MORNING EDITION from NPR News.",
+        "Good morning, I'm Steve Inskeep.",
+        "And I'm Lynn Neary.",
+        "Eleven people have been hacked to death in Sri Lanka.",
+        "Government officials say the victims were from the island's Muslim minority living in the east.",
+        "It's the latest in a growing list of atrocities that have coincided with renewed fighting between government forces and Tamil Tiger rebels.",
+        "Fighting's flared up again around Jaffna in the north.",
+        "For weeks, the city - which is under Tamil Tiger control - has been more or less cutoff.",
+        "NPR's Philip Reeves sent this report.",
+        "Ms.",
+        "RATANANNE RATANSWARI(ph) (Refugee, Vavuniya, Sri Lanka): (Speaking foreign language)",
+        "This woman just wants to go home.",
+        "Her name's Ratananne Ratanswari(ph).",
+        "She's been stranded here for more than a month, cutoff by war.",
+        "She says while she's been away, her husband took ill and died.",
+        "Today, she's come here to a military base to plead with the Sri Lanka, army to escort her home so that she can bury him."
+      ]
+    }
+  ]
+}

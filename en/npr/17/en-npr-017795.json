@@ -1,0 +1,126 @@
+{
+  "challenge_uid": "23045c94-9570-4abb-aad6-f5653e2115d7",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "a2f7bf62-a7a9-4560-ad2b-df1d07567ee3",
+      "language": "en",
+      "utterances": [
+        "Unidentified Man #17: ...indivisible with liberty and justice...",
+        "Also in this week's news, several dozen dolphins and sea lions trained to use their extraordinary sonar to detect undersea mines or invaders may be sent to patrol a naval base in the Puget Sound.",
+        "People for the Ethical Treatment of Animals object, not because they consider it cruel but because they say dolphins and sea lions are easily distracted and unreliable.",
+        "Why don't they just work for the airlines?",
+        "Robert Adler has died.",
+        "In 1956, he and fellow Zenith engineer Robert Polley invented the television remote control.",
+        "He received his last patent on February 1st of this year at the age of 93.",
+        "Sometimes you stand to salute someone.",
+        "Robert Adler might have preferred that you stay in your seat and have another corn chip.",
+        "And finally, the University of Illinois is retiring Chief Illiniwek after 81 years.",
+        "The school's war-whooping Indian mascot was considered defamatory by many in the NCAA had banned Illinois from playing tournament games.",
+        "No word as to who the new Illinois mascot will be, or whether Michael Richards is giving them advice.",
+        "Looking for an apartment or room with three or less, cool, straight, laid-back people.",
+        "Looking for Christian female roommate.",
+        "Those are just a couple of classified ads taken from the housing section of Craig's List, ads you would not see in a printed newspaper.",
+        "That's because newspapers subscribe to laws that forbid excluding possible tenants on the basis of race, gender, religion, or other protected categories.",
+        "The Chicago lawyers committee for several rights, under the law, thinks the same rules should apply to the internet.",
+        "This week they filed a lawsuit against Craig's list, claiming violations of the federal fair housing act.",
+        "Do you agree?",
+        "Should online advertising abide by the same laws that govern print?",
+        "Give us a call, 800-989-8255, or email us, talk@npr.org.",
+        "Joining us now by phone from Pasadena is Michael Overing, an adjunct professor at the University of Southern California who specializes in internet law.",
+        "Thanks very much for being with us today.",
+        "Thanks, nice to be here.",
+        "Tell us a little bit about this case."
+      ]
+    },
+    {
+      "dialogue_uid": "dde8684e-3dfa-4669-8f03-8451f5bd9a0a",
+      "language": "en",
+      "utterances": [
+        "Well, basically what they are alleging is that Craig's List is allowing these advertisements which then become an opportunity to advertise for particular racial groups, or religious groups, not to apply to housing.",
+        "And, under the federal Fair Housing Act, from 1968, discrimination in housing is prohibited, and it's one of those things that's pernicious and we don't want to see people's civil rights being abridged in housing.",
+        "And I think, in their argument, the Chicago lawyers Committee for Civil Rights under the law said, basically, you can now evade the law by just advertising on the internet.",
+        "Well, it's an interesting issue because what they're saying is that Craig's List knows that this is occurring on their classified advertising, and that, as a consequence of them knowing about it, they should have some responsibility in making sure this doesn't happen.",
+        "It would be more like a regular print newspaper then, say, an internet service provider.",
+        "Well, at this point, I don't really know the internal operations of newspapers either, but I can't imagine that the electronic transfer of a classified ad is given a great deal more scrutiny in a newspaper than it is in Craig's List.",
+        "Well there's a big issue here about whether or not this is something that is part of their editorial policy and whether or not Craig's List is actually policing the advertisements that it accepts.",
+        "If you go down to your normal newspaper and you fill out the form, they're going to read through it and they're going to make a decision about whether or not to accept your ad.",
+        "And also going to count the letters to know how much to charge you.",
+        "Yeah, exactly.",
+        "And the difference here is that on Craig's List the user is off-site, and just fills out the form and it goes up and there is very little editorial control.",
+        "And the courts have taken the position that the more editorial control you exert, the more they are going to hold you responsible for what's in the advertising.",
+        "We're talking about classified ads, Fair Housing Act, and the internet.",
+        "You're listening to TALK OF THE NATION, from NPR News.",
+        "Is there any precedent to cover this?",
+        "Well, there's a considerable amount of precedent of the Fair Housing Act, applying to prevent discrimination, and we read that Act very expansively.",
+        "The courts do everything they can to safeguard individuals' rights."
+      ]
+    },
+    {
+      "dialogue_uid": "4e0820fa-4e4f-4435-8491-3fc480f3291b",
+      "language": "en",
+      "utterances": [
+        "In the case of an online communication, if you're an internet service provider, and it's merely transitory distribution of someone else's content, there's immunity under the Communications Decency Act.",
+        "And, as a consequence of that, ordinarily, you would expect that there would be no liability.",
+        "Mm-hmm.",
+        "Has that been tested in court?",
+        "That has been tested in court, you've probably heard a couple of these cases: there was the Zaren case, which came out of Oklahoma against America Online, where a man's telephone number was being broadcast and he wasn't part of the political issue, which was the Oklahoma bombings, but he received a lot of hate phone calls, and so he sued AOL.",
+        "They found there that AOL was not responsible under the CDA.",
+        "And, similarly, in the Drudge vs. Bloomenthal, an AOL case, they also found that...",
+        "That would be Matt Drudge and Sydney Bloomenthal?",
+        "Exactly.",
+        "And, there as well, they found that the exemption provisions from, based on the Communications Decency Act, it's transitory in nature, it's somebody else's content, you're not responsible for it if it's just merely being distributed by you.",
+        "The question is editorial control, and if Craig's List is spending time going through these online classifieds and making decisions about what can and cannot be posted, chances are they're going to be held responsible.",
+        "Let's get a caller on the line.",
+        "Todd, Todd calling from San Francisco.",
+        "Unidentified Man #18: ...for you, for you.",
+        "And Gregory, I hope you had a chance to wipe your eyes and clear out the sinuses since we last talked.",
+        "Pressure built on the White House to say something about guns, and in March, the president wrote an op-ed column in the Arizona Daily Star newspaper.",
+        "In a classic Obama turn of phrase, he called on Americans to, quote, get beyond wedge issues and stale political debates to find a sensible, intelligent way to make the United States of America a safer, stronger place.",
+        "Since then, there has been near silence from the White House on this issue."
+      ]
+    },
+    {
+      "dialogue_uid": "3a629f83-a914-46da-9b29-f997d9ed7020",
+      "language": "en",
+      "utterances": [
+        "Mark Glaze directs the group Mayors Against Illegal Guns, which is sending a critical letter to the president today.",
+        "We know that the White House is doing a serious policy review being conducted by serious people, and we have no reason not to take them at their word that they want to get to the right solution and make a difference.",
+        "But the fact that we're now six months out, there's not been a single step from the White House, there's not been a single congressional hearing on Tucson or the policy problems that made it possible is not encouraging.",
+        "He says there are steps the president could take that would make a difference now without waiting for Congress to act.",
+        "For example, the military and federal agencies are required to report people with mental health and drug problems to the criminal background check system, but they often don't.",
+        "That's something gun control advocates say the president could fix.",
+        "White House spokesman Jay Carney said yesterday, the administration has a working group looking at these issues.",
+        "That process is well underway at the Department of Justice with stakeholders on all sides working through these complex issues and we expect to have some more specific announcements in the near future.",
+        "There could be another reason for the White House's inaction: In this political season, President Obama needs every swing state voter he can get, including gun owners.",
+        "Bill Clinton himself said that the issue cost Democrats the House of Representatives in 1994 and cost them the presidency in 2000.",
+        "Dave Kopel is research director at the libertarian think tank the Independence Institute.",
+        "The appropriate lesson drawn by Democratic political strategists would be twice burned, thrice careful."
+      ]
+    },
+    {
+      "dialogue_uid": "3abe56cd-d1b7-4fa6-886b-2971b5f08448",
+      "language": "en",
+      "utterances": [
+        "And the National Rifle Association echoes that warning.",
+        "Public affairs director Andrew Arulanandam says existing gun laws are sufficient, and his group is ready for a hard-fought campaign against those who feel otherwise.",
+        "We will make sure that every voter, every gun owner, every hunter knows exactly where the president stands on guns and whoever the candidate is on the Republican side, too.",
+        "One of the staunchest gun control advocates in Congress is Representative Carolyn McCarthy of New York.",
+        "A gunman killed her husband and wounded her son on the Long Island Railroad almost 20 years ago.",
+        "I have spoken to the president.",
+        "He is with me on it, and it's just going to be when that opportunity comes forward that we'll be able to go forward.",
+        "Since the Giffords shooting, McCarthy has introduced two major gun control bills that have gone nowhere, but she says she's patient.",
+        "She also says, if you've noticed, it's not just guns, an awful lot of things have not been getting done in Washington.",
+        "Ari Shapiro, NPR News, the White House.",
+        "It's WEEKENDS on ALL THINGS CONSIDERED from NPR News.",
+        "I'm Jacki Lyden.",
+        "Coming up this hour, a climate change rally on the National Mall.",
+        "And later, the 100th anniversary of the income tax.",
+        "We'll also check out a security app that destroys sensitive data and hear our second Three-Minute Fiction entry.",
+        "First, though...",
+        "(SOUNDBITE OF VARIOUS NEWS REPORTS)",
+        "UNIDENTIFIED MAN #1: There is a scandal that is rocking Europe."
+      ]
+    }
+  ]
+}

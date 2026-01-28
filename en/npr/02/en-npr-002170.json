@@ -1,0 +1,100 @@
+{
+  "challenge_uid": "474ac7dc-88e5-4413-b4eb-cb6256879991",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6fb19a3f-2dfe-4035-9804-3bd3e9841e94",
+      "language": "en",
+      "utterances": [
+        "Here's your next category: parts of a car.",
+        "Lights, ignition...",
+        "Lights - I'm not going to take lights because that's our word, light.",
+        "But ignition's good, yeah.",
+        "Try another L.",
+        "Lug nut.",
+        "There you go, lug nut.",
+        "Lug nut.",
+        "Gas tank.",
+        "Lock, license plate and left turn signal.",
+        "Gas tank, good, yes.",
+        "H and T.",
+        "Does headlights count?",
+        "Headlights, all right.",
+        "Also hood."
+      ]
+    },
+    {
+      "dialogue_uid": "6690d58b-036b-4904-bd91-8597f8cf3fed",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "Hood, taillight.",
+        "Trunk, tachometer, all right.",
+        "See, what you don't see is I'm writing all the, hey, I'm writing all these things down and sliding them across the table.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "Okay.",
+        "What else?",
+        "Your next category is islands.",
+        "Okay.",
+        "Long Island.",
+        "Yes.",
+        "Guam, Hawaii.",
+        "Guam, good."
+      ]
+    },
+    {
+      "dialogue_uid": "e0da33c0-5e42-4994-a2ee-80c0d650cb93",
+      "language": "en",
+      "utterances": [
+        "Tahiti.",
+        "Yes.",
+        "Indonesia.",
+        "Wait, I have one for you.",
+        "Well, that's a collection of islands.",
+        "Okay.",
+        "How about a single island?",
+        "Think St. Patrick's Day.",
+        "Oh, Ireland.",
+        "Ireland, yes."
+      ]
+    },
+    {
+      "dialogue_uid": "2cf6f6f8-f937-479c-9386-9f98526ea017",
+      "language": "en",
+      "utterances": [
+        "That's a country also, yes.",
+        "And Iceland also works.",
+        "Excellent, man.",
+        "Well, your next category is things in a hotel room.",
+        "A lamp.",
+        "Lamp, good.",
+        "A tub.",
+        "A tub, good.",
+        "Icebox for...",
+        "The ice machine down the hall.",
+        "Ice bucket would work, ironing board or iron.",
+        "G and H.",
+        "G and H.",
+        "Well..."
+      ]
+    },
+    {
+      "dialogue_uid": "cb8b7f97-ead1-4a68-931a-29364dfdacbb",
+      "language": "en",
+      "utterances": [
+        "You know, in some of them they have a garden area.",
+        "You know, like...",
+        "I'm thinking in a room.",
+        "In a hotel, oh.",
+        "In the room, in the room.",
+        "In the room, in the room.",
+        "Leave G alone for a second, but H.",
+        "Oh.",
+        "Rattling my paper.",
+        "Heater.",
+        "Heater, okay.",
+        "Heater, hair dryer and hangers would work."
+      ]
+    }
+  ]
+}

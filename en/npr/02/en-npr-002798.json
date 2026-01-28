@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "cfa1c57b-9f2f-4709-9aa6-f82a6d5ae327",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "49fe3ed0-4de0-44cb-8eb5-ce8c31851ce5",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of music)",
+        "You're listening to SCIENCE FRIDAY.",
+        "I'm Ira Flatow.",
+        "We're talking this hour about dark flow.",
+        "What is that?",
+        "Could it be real?",
+        "We're going to now talk about the alpha, the fine-structure constant called alpha, with my guest Michael Turner, director of the Kavli Institute for Cosmological Physics, professor of physics at the University of Chicago.",
+        "Michael, this has been quietly been talked about, this constant alpha.",
+        "Why is alpha so important?",
+        "So when you look at fundamental constants in nature, alpha would be number one on your list.",
+        "And let me tell you a little bit about alpha.",
+        "So it is a dimensionless number that you get when you combine the square of the charge of the electron and divide it by Plank's Constant that's the constant that describes quantum mechanics, and the speed of light.",
+        "And is has the value one over 137.07.",
+        "And for a while, it looked like it was one over 137, and people were trying to figure out why it was that value, and this is the constant that is fundamental to all of chemistry, and it's a very, very important constant.",
+        "It determines the atomic lines and how chemistry takes place.",
+        "So it's probably, arguably, in terms of life on this planet, the most important of all of the constants.",
+        "So if it were a little bigger or a little smaller, then all things would be different.",
+        "So in fact if you ask how big or how small could it be without changing life on Earth, I think it can't have been different than one over 137 by more than about 10 or 20 percent.",
+        "Otherwise, life as we know it wouldn't exist."
+      ]
+    },
+    {
+      "dialogue_uid": "aba6614d-d570-45c3-a45e-df92d3a2d013",
+      "language": "en",
+      "utterances": [
+        "So it's very, very important, and it's attracted a lot of attention over the years.",
+        "And so now we have this new information from two physicists who are suggesting that the constant, as they look out into the universe, may actually vary in different parts of the universe.",
+        "Yeah, so that's really interesting because when you think about the 2,600 years of science, the idea that there are laws of physics and that they don't change with time, we take those for granted.",
+        "But those are very big, very, very big assumptions.",
+        "And alpha is something that we can measure at distant places in the universe and thereby back in time by looking at these atomic spectral lines.",
+        "And so for about 10 years Webb and his colleagues have been doing this, and what they found five years ago or so was, they thought, a variation in alpha with time at the level of about five parts in a million - so tiny, tiny variation, nothing on the order that would change the existence of life or anything like that, but a small, small variation.",
+        "And so those observations were followed up, and what happened in following up those observations is often what happens in science, is it looks like they no longer have evidence for alpha varying in time, but more remarkably it looks like when they look in one direction, they see alpha being slightly bigger, and when they look at the opposite direction, they see alpha being slightly smaller, so a variation in space.",
+        "Wow.",
+        "And again, this tiny, tiny level, about five parts in 10 to the sixth.",
+        "And the first thing I would say, which is stunning about this, which, you know, is not going to go away, is my goodness.",
+        "Over billions of light years and looking back billions of years in time, we now know that the fine-structure constant hasn't changed any more than about .001 percent.",
+        "That's one of the best tests we have of the constancy of the laws of physics.",
+        "But it has changed in different directions, a certain amount.",
+        "But it may have changed in different directions, and that discovery would really be a game-changer because if indeed that holds up - and again, this is a result that doesn't quite reach the gold standard yet, and I'll come back to that - but if this result changes, holds up, that would mean that the laws of physics are not constant in space and time.",
+        "And we have one theory, M theory or string theory, suggests that the constants of nature are pegged to fields that can vary across space in time.",
+        "So that could - and again, we're really, I'm going out on a limb here, if this holds up, that could be evidence not only that the laws of nature are changing a little bit in space and time but evidence for M theory or string theory."
+      ]
+    },
+    {
+      "dialogue_uid": "c9d75da3-7778-43e6-acc2-16cfafdd998d",
+      "language": "en",
+      "utterances": [
+        "But not great evidence for it.",
+        "Not great evidence, and I think we shouldn't jump too much right now because the measurements again, I'll come back to this five parts in a million, that's a very precise measurement.",
+        "Normally when or 10 years ago, if an astronomer told you that he was making measurements to a precision of five parts in a million, you would just laugh.",
+        "Hi.",
+        "My name is Ann Marina(ph).",
+        "I love your show.",
+        "The term that we coined a few years ago, precision cosmology, used to be an oxymoron.",
+        "And so now we're making much more precise measurements, and when an astronomer comes along and says I think I see this change, we take it seriously, but if you look at it very carefully, they make these measurements using the best spectrographs in the world, both on the Keck telescopes and on the European VLT, very large telescope.",
+        "And when you look at how accurate these spectrographs are, these measurements are really pushing these instruments to the limits of their accuracy.",
+        "And so there have been a couple of papers suggesting or calling into question whether or not the measurements are as accurate as they seem.",
+        "Or put another way: Could it just be an instrumental effect?",
+        "You mentioned before, when we talked about dark flow, that extraordinary claims require extraordinary evidence.",
+        "Would that be the same here also?",
+        "Oh, even more so.",
+        "Even more so.",
+        "I mean, if this holds up, this would just absolutely be revolutionary.",
+        "For 2,600 years, we thought the laws of physics were the same at all times and everywhere in space, and now we would have evidence that they aren't.",
+        "And I think the follow-up here will probably not come from the astrophysical observations, although I may get in trouble with my I may lose my union card in astrophysics here, but I think we're really pushing things to the limit of astrophysical measurements.",
+        "But they may come in the laboratory."
+      ]
+    },
+    {
+      "dialogue_uid": "4e8615ef-0daa-49f0-adad-b554ecf50870",
+      "language": "en",
+      "utterances": [
+        "So this fine-structure constant is something that we can measure in the laboratory much, much more accurately, but we don't have the same time base.",
+        "We can't measure it over billions of years or over billions of light years, but we can measure it to very, very high precision in the laboratory.",
+        "And so it may well be that laboratory experiments that look for a tiny variation in the fine-structure constant, either over time of a year or while we orbit the sun - because while we orbit the sun we're moving through space, or as the sun moves through the galaxy we're also moving.",
+        "So it may be that the confirmation will come from laboratory experiments.",
+        "Would that be with particular accelerators or from new devices we'd have to make?",
+        "So these are high-precision atomic physics experiments in an ordinary laboratory on a we call this tabletop experiments, so the kind of experiments that you've heard about where people trap atoms, very high-precision measurements, made by atomic physicists who didn't really think they were doing astrophysics or particle physics, but their measurements will be very relevant to both.",
+        "And so this is a very important thing.",
+        "I mean, as you say, in 2,600 years we've had one view of the universe and the laws of physics, and if these measurements bear out, we have to change that whole view again about - that the laws are not constant everywhere.",
+        "Yeah.",
+        "I mean, this would really be a game-changer, and this would be a stunner, and of course coming back to we haven't quite gotten to the Sagan standard of extraordinary evidence, and because it would be such an Earth-shattering revelation, we really have to we're not there yet.",
+        "And so we I think in particular, having measurements made in the laboratory, so you're coming at it an entirely different way, where the potential biases and errors would be very different.",
+        "So I think if these precision laboratory measurements would find changes that are consistent with that, that would be very strong evidence.",
+        "One last question, Michael, and I'll let you go.",
+        "Are there any other constants that we know of that seem to change in other parts of the universe?",
+        "No, not yet.",
+        "Every once in a while, people say, gee, you know, maybe this is consistent with a change in the constants, but this would be the very first, and it would just change our view of the laws of nature.",
+        "But if we do verify it, might we not then question the other constants that we took for granted as not being changeable?"
+      ]
+    },
+    {
+      "dialogue_uid": "2866c4f7-146f-4a52-b1c6-b10f0afbea77",
+      "language": "en",
+      "utterances": [
+        "Oh, absolutely, because this would be a real boost to the idea in M theory that the fundamental constants are set by fields of nature that can vary in space and time.",
+        "And I think people would start looking to see, well, maybe other dimensionless ratios like the ratio of the mass of the electron to the mass of the proton are changing.",
+        "I love it when truth is stranger than fiction.",
+        "There you go.",
+        "(Soundbite of laughter)",
+        "Thank you, Michael, for taking time to be with us.",
+        "Have a good weekend.",
+        "It's always a pleasure.",
+        "Same to you.",
+        "Same to you.",
+        "Michael S.",
+        "Turner is director of the Kavli Institute for Cosmological Physics and a professor of physics at the University of Chicago.",
+        "This is DAY TO DAY from NPR News.",
+        "I'm Alex Chadwick.",
+        "Coming up, what's a mother to do?",
+        "Two takes on Madonna's African adoption.",
+        "First, North Korea nukes, and there are a couple of developments here.",
+        "At the U.N., the Security Council has reached a deal on a resolution imposing sanctions on North Korea for its claimed nuclear test this week.",
+        "There's a council vote scheduled for tomorrow.",
+        "At the same time, the Associated Press is quoting an unnamed U.S.",
+        "intelligence official saying an air sample taken after the test shows no presence of radioactive particles.",
+        "The official says the test results do not absolutely rule out a nuclear explosion.",
+        "Reuters has a similar story."
+      ]
+    }
+  ]
+}

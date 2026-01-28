@@ -1,0 +1,119 @@
+{
+  "challenge_uid": "a9216ec3-0100-4ab5-b3d8-d9cc2a6323eb",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "067f74a1-54e5-482f-8a95-0e675787c1ff",
+      "language": "en",
+      "utterances": [
+        "Lindsey Buckingham.",
+        "You're listening to NPR News.",
+        "This is WEEKEND EDITION from NPR News.",
+        "I'm Scott Simon.",
+        "Joining us now from the American Crossword Puzzle Tournament in the beautiful borough of Brooklyn, New York is puzzlemaster Will Shortz.",
+        "Hello, Will.",
+        "How are you?",
+        "Hi, Scott.",
+        "I'm doing great.",
+        "Yeah, well, you are.",
+        "You got all the answers.",
+        "(Soundbite of laughter)",
+        "It's the rest of us who have nightmares.",
+        "You know, there's this story I've been meaning to tell you.",
+        "Yeah?",
+        "Meaning, I mean, you know, thinking, dreading that one day I would be in this position having to do the puzzle with you.",
+        "Last summer, I was getting some eye surgery.",
+        "And just as the surgeon, you know, with local anesthetic, was about to begin the procedure, which doesn't use knives these days, but lasers, he said to me, did you see, Mr. Simon?",
+        "You were a clue in the Sunday New York Times crossword puzzle.",
+        "And I said, oh, that's wonderful to note, doctor.",
+        "Just make certain I'm not in the obituaries next week."
+      ]
+    },
+    {
+      "dialogue_uid": "e009e1ea-a702-4de8-808a-3d2610ef76fe",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "Nice.",
+        "There is a lady who wrote me once.",
+        "She was going into brain surgery.",
+        "Yeah?",
+        "And when she came out, the first thing she did was the New York Times crossword.",
+        "And when she was able to do it she knew that the surgery had been successful.",
+        "All right.",
+        "Well, okay.",
+        "So speaking of brain surgery, remind us of the challenge you left us with last week.",
+        "Yes, it came from listener Rich Silvestri of Valley Stream, New York.",
+        "Name an item often found on an office desk.",
+        "It's a hyphenated word.",
+        "Add an S to the beginning of each part to get two synonyms.",
+        "What is the item?",
+        "Am I supposed to give the answer?",
+        "Well, I'll give the answer.",
+        "Yeah, okay.",
+        "Actually, they prompted me with that.",
+        "So can I look smart for a moment?",
+        "Yes."
+      ]
+    },
+    {
+      "dialogue_uid": "9111bd7e-407b-4585-a5ab-e5334b17c076",
+      "language": "en",
+      "utterances": [
+        "In-tray, sin-stray.",
+        "That is right.",
+        "In-tray and you put the S in front, you get sin and stray, which are two synonyms.",
+        "Oh, okay.",
+        "All right, well, now this week, Will, we only received just over 750 correct entries.",
+        "And we selected Jeremy Sicking of Cincinnati, Ohio to play the puzzle over the air with us today.",
+        "Jeremy, may I call you Jeremy?",
+        "Yes.",
+        "Nice to talk to you.",
+        "How are you?",
+        "All right.",
+        "What do you do there in Cincinnati?",
+        "Right now I just got a job grading standardized tests.",
+        "Oh, whoa.",
+        "Okay, I think we have a ringer here.",
+        "Good."
+      ]
+    },
+    {
+      "dialogue_uid": "dce9adf4-9303-45a8-9ef2-bc3d05020aee",
+      "language": "en",
+      "utterances": [
+        "Before we go any further, how do you like your four-way chili?",
+        "I like the five-way chili, which includes both the onions and the beans.",
+        "Oh, okay.",
+        "Will, that's a local specialty there in Cincinnati.",
+        "Uh-huh.",
+        "Gold Star chili, right?",
+        "Well, I…",
+        "Or Skyline.",
+        "I prefer the Skyline.",
+        "I prefer Skyline.",
+        "Yeah, well, you sound like just the man to play the possible today.",
+        "You ready?",
+        "All right."
+      ]
+    },
+    {
+      "dialogue_uid": "8a343f33-2dd4-4e7a-a00c-c4c8f7272d00",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "All right, Jeremy and Scott, every answer today is the name of a character in Shakespeare.",
+        "I'll give you anagrams, you name the characters.",
+        "Okay.",
+        "For example, if I said real, R-E-A-L, you would say Lear, as in King Lear.",
+        "I was just going to say that.",
+        "Excellent.",
+        "All right, yeah.",
+        "Number one is Moore, M-O-O-R-E.",
+        "Rearrange the letters of M-O-O-R-E.",
+        "Now, can I go ahead?",
+        "Let's see."
+      ]
+    }
+  ]
+}

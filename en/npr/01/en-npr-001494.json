@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "e74e2995-bcf8-4b03-841d-fd3cd48553f5",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "45a16ed3-a63c-4ae4-8805-236e66f5f9d9",
+      "language": "en",
+      "utterances": [
+        "I'm going to try that for all my problems.",
+        "(Laughter).",
+        "OK.",
+        "Well, are you ready to play The Puzzle?",
+        "Yes.",
+        "All right.",
+        "Take it away, Will.",
+        "All right, Deborah.",
+        "I'm going to give you some six-letter words.",
+        "Insert two letters in the exact center of each one to complete a common, uncapitalized eight-letter word.",
+        "For example, if I said accent, A-C-C-E-N-T, you would say accident, which puts I-D right in the middle.",
+        "So here's number one.",
+        "Number one is barque, spelled B-A-R-Q-U-E.",
+        "OK.",
+        "So would that be barbecue?",
+        "Barbecue is right.",
+        "Good.",
+        "Callus, C-A-L-L-U-S.",
+        "OK.",
+        "Callus.",
+        "OK.",
+        "This one's not really - OK.",
+        "A class you take in high school."
+      ]
+    },
+    {
+      "dialogue_uid": "f133f245-b798-4608-b4ed-426ecdf71e63",
+      "language": "en",
+      "utterances": [
+        "There you go.",
+        "That was going to be my clue.",
+        "Oh, calculus.",
+        "Calculus is right.",
+        "Corral, C-O-R-R-A-L.",
+        "Corporal?",
+        "Corporal, yes.",
+        "Evince, E-V-I-N-C-E.",
+        "Evidence?",
+        "That's right.",
+        "Homage, H-O-M-A-G-E.",
+        "OK.",
+        "Homage.",
+        "It's actually a compound word.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "6899be59-b571-4a7a-9693-a376c4feb733",
+      "language": "en",
+      "utterances": [
+        "When you're online, you go to NPR's...",
+        "Homepage.",
+        "Homepage is it.",
+        "Good clue.",
+        "Innate, I-N-N-A-T-E.",
+        "Innovate?",
+        "Nice.",
+        "Intact, I-N-T-A-C-T.",
+        "Interact?",
+        "Nice.",
+        "Oblate, O-B-L-A-T-E.",
+        "Obliterate?",
+        "Not quite.",
+        "That has too many letters.",
+        "OK.",
+        "Too many letters.",
+        "OK.",
+        "OK.",
+        "Obligate?"
+      ]
+    },
+    {
+      "dialogue_uid": "d9cab542-176f-4184-9a63-ed759c60b023",
+      "language": "en",
+      "utterances": [
+        "Obligate is it.",
+        "Panama, P-A-N-A-M-A.",
+        "Panorama?",
+        "Good.",
+        "Rosary, R-O-S-A-R-Y.",
+        "Rotisserie?",
+        "No.",
+        "Not quite.",
+        "Something you might have in your kitchen.",
+        "Oh.",
+        "Rosemary.",
+        "Rosemary is it.",
+        "Stover, S-T-O-V-E-R.",
+        "And if you're on a trip...",
+        "OK.",
+        "...This might be something along the way.",
+        "A stop over?"
+      ]
+    },
+    {
+      "dialogue_uid": "9e1d6116-f08b-496e-bd66-08d503842bb7",
+      "language": "en",
+      "utterances": [
+        "A stop over is it.",
+        "And your last one is vanish, V-A-N-I-S-H.",
+        "OK.",
+        "How about vanquish?",
+        "How about vanquish.",
+        "Good job.",
+        "Good job.",
+        "Glad that's over (laughter).",
+        "Yeah.",
+        "You did well.",
+        "Thank you.",
+        "You're being - you're so kind.",
+        "For playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, as well as puzzle books and games.",
+        "You can read all about it at npr.org/puzzle.",
+        "Deborah, which member station do you listen to?",
+        "WLRN.",
+        "And we are a member in West Palm Beach.",
+        "Great.",
+        "Well, thank you so much, Deborah."
+      ]
+    }
+  ]
+}

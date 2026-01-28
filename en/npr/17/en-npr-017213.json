@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "6db8e219-e33a-4ce5-bc1d-1abcdda14044",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6b887bde-1a81-45de-9f11-1b3afa736f80",
+      "language": "en",
+      "utterances": [
+        "Camille, thanks very much for the call.",
+        "Appreciate it.",
+        "Thank you.",
+        "And Geoffrey Pullum, thanks for your time.",
+        "I'm very glad to be here, Neal.",
+        "Nice to talking to you.",
+        "Geoffrey Pullum at the University of Edinburgh.",
+        "His article, \"\"50 Years of Stupid Grammar Advice,\"\" appears in this week's Chronicle of Higher Education.",
+        "You could find a link to it at our Web site.",
+        "Scientists recently made headlines when they announced they had figured out how to edit DNA in human embryos for the first time.",
+        "This week, the scientists invited NPR health correspondent Rob Stein into their lab in Portland, Ore., to watch them edit the genes of these human embryos.",
+        "He is the first journalist to do this.",
+        "And I am so glad he's in the studio right now because I cannot wait to hear more about this.",
+        "Hey, Rob.",
+        "Oh, hey, Ailsa.",
+        "So you got the first invite as a reporter to watch them do this.",
+        "What was that like?",
+        "Yeah, Ailsa.",
+        "It was fascinating.",
+        "I mean, scientists are doing things that have simply never been done before.",
+        "And this is some of the coolest but also some of the most controversial research going on in the world today.",
+        "And the reason is is they're making changes in human DNA that can be passed down for generations.",
+        "So they...",
+        "It's literally made hereditary."
+      ]
+    },
+    {
+      "dialogue_uid": "f69211b8-37c9-40d7-9707-b9ff93cb5b88",
+      "language": "en",
+      "utterances": [
+        "That's right.",
+        "Every generation to come could inherit whatever changes they make in the DNA.",
+        "Wow.",
+        "And what they did is they let me watch every step of the process.",
+        "They let me watch as they created embryos in their lab specifically with genetic mutations so they can then go ahead and fix the mutations and make the embryos healthy.",
+        "Wait, so how exactly do you edit the DNA in an embryo?",
+        "Well, it all starts with human eggs, which the researchers get from women who donate them for their experiments.",
+        "And so I started my day at a big glass building at the Oregon Health and Science University...",
+        "We're on the 13th floor.",
+        "...In a lab with Amy Koski.",
+        "She's the lab manager.",
+        "And she just got a call from a fertility clinic three floors downstairs.",
+        "I've been instructed from the fertility clinic that they have an egg that we're ready to go pick up.",
+        "Should we just go do this thing?",
+        "Great.",
+        "Let's go.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "ef1501a9-155f-4e4a-aa2b-a99f4854d182",
+      "language": "en",
+      "utterances": [
+        "She grabs a metal box that looks sort of like a lunchbox and we head for the elevator.",
+        "Going down.",
+        "This is our portable incubator which keeps the eggs warm while we're moving up and down the elevators.",
+        "Tenth floor.",
+        "We rush to the clinic.",
+        "Doctors there are removing eggs from a woman going through IVF to try to have a baby.",
+        "You want to keep the eggs very happy and warm.",
+        "And when you're jostling them or moving them, they get a little unhappy.",
+        "When we get downstairs, a doctor in scrubs opens a big incubator to get what was collected just a few moments ago from the donor in a nearby room and gently places a dish inside Koski's portable incubator.",
+        "Thank you.",
+        "And we're going to very carefully transfer from the traveling incubator into what we call our waffle makers, which are just benchtop incubators for embryos.",
+        "Moments after the eggs are safely inside, the door opens again."
+      ]
+    },
+    {
+      "dialogue_uid": "4cab361c-bf0e-48fb-b0f5-c87200d89c83",
+      "language": "en",
+      "utterances": [
+        "Hello.",
+        "Hi, how are you?",
+        "Good, thank you.",
+        "Nice to meet you - Shoukhrat.",
+        "It's Shoukhrat Mitalipov.",
+        "He's a biologist born in the Soviet Union who runs the lab.",
+        "Good to have you.",
+        "So this is our small room.",
+        "But that's where usually lots of big science happen.",
+        "Big science?",
+        "What do you mean by that?",
+        "We believe this room is really magic in terms of science.",
+        "And lots of big discoveries came in this room, particularly this microscope.",
+        "He points to a big microscope where another scientist is positioning a petri dish.",
+        "She flicks on a light that makes it glow in the dark.",
+        "Everything she's doing is projected onto a computer screen.",
+        "She's loading now eggs.",
+        "You see?",
+        "That's a human egg.",
+        "That's a human egg?"
+      ]
+    },
+    {
+      "dialogue_uid": "a5e27a53-19fe-4f26-b270-3073c57dda5c",
+      "language": "en",
+      "utterances": [
+        "Yep, yep.",
+        "That's a mature human egg.",
+        "And you can see it's moving - so actually, two of them there.",
+        "See?",
+        "So that's two healthy human eggs?",
+        "Right.",
+        "They look like round, shimmering, silvery blobs.",
+        "Suddenly, a bunch of tiny ovals flit across the screen.",
+        "These are sperm.",
+        "You see?",
+        "Floating sperm - and they twitching.",
+        "Oh, yeah.",
+        "They're like - have a little tails and, like, swimming.",
+        "Yeah, yeah.",
+        "So yeah, that's how we know that sperm is feeling well and it's swimming.",
+        "But these aren't just any sperm.",
+        "They're carrying a genetic mutation that causes a potentially fatal heart condition.",
+        "The scientists are fertilizing the eggs to create embryos that carry this mutation to see if they can fix them.",
+        "A long, thin, pointy glass rod appears on the screen.",
+        "Can you see this pipette - tiny pipette?",
+        "A pipette is like a needle?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "3ba21061-ff11-4260-accc-bfac7d857232",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "08979249-1251-4445-a45a-154c64d584f2",
+      "language": "en",
+      "utterances": [
+        "Two or three hundred bucks, yeah, depending on the version you get.",
+        "But then it won't run both operating systems at the same time.",
+        "If you want to switch you've got to, you know, log off.",
+        "That's right.",
+        "They have to shut it down and re-start into the other operating system.",
+        "But the --",
+        "And -- go ahead.",
+        "But there are, well there are advantages and disadvantages to that.",
+        "The advantage is, is that it's a very fast machine.",
+        "It's a native Windows box, at that point.",
+        "You get a lot of, you know, you get the speed benefits.",
+        "And, we were saying this only is useable on the Mac machines that have the Intel chip?",
+        "Right.",
+        "The newest machines.",
+        "The whole line is going to be switched over this year.",
+        "So anyone who buys a new Mac from now on will be able to do this.",
+        "We're talking with Leander Kahney, the managing editor at Wired.com and author of The Cult of Mac Blog.",
+        "If you'd like to join us, 800-989-8255, 800-989-TALK, e-mail is talk@npr.org.",
+        "We don't care which kind of computer you send it from.",
+        "This is TALK OF THE NATION from NPR News."
+      ]
+    },
+    {
+      "dialogue_uid": "a4ae3c73-224f-45fb-9f57-376a991bb256",
+      "language": "en",
+      "utterances": [
+        "And let's see if we can get a caller on the line.",
+        "This is Gary.",
+        "Gary's with us from Portland.",
+        "Hi Neal, thanks for taking my call.",
+        "Sure.",
+        "I just had a comment.",
+        "I wanted to say that this is a horrible idea, because Macs are for creative people, and now we're going to have stuffy business people using our machines.",
+        "There's definitely that.",
+        "Some people are very afraid of that reaction, that they're no longer special anymore.",
+        "They're just another bean counters' computer.",
+        "And they're going to have the suits -- the suits, of all people -- using Macs.",
+        "Right.",
+        "But I don't think it's in any danger of becoming a commodity PC anytime soon.",
+        "I mean, when you have two to four percent of the market, there's a long way to go before you become commonplace.",
+        "Well thank you.",
+        "Gary, thanks very much for the call.",
+        "There are, of course, a fair number of programs that you really have a lot of problems running on a Mac."
+      ]
+    },
+    {
+      "dialogue_uid": "9c39a134-ebc4-4b98-9902-38b4f244a282",
+      "language": "en",
+      "utterances": [
+        "Well, I think that's one of the old myths that people say, that there's no software for the Mac.",
+        "And there's less software for the Mac, and it's only very specialist applications that aren't, and there's probably hundreds of them.",
+        "But it's things like dental billing or certain construction programs.",
+        "There's not much mainstream software that's not also available for the Mac.",
+        "All right, let's get another caller on line.",
+        "This is Jeff.",
+        "Jeff's with us from Sullivan, Indiana.",
+        "Yeah, good afternoon.",
+        "Afternoon.",
+        "Yeah, we went ahead, based on that news, and bought a Mac mini.",
+        "We did it for one real reason, and that's because of the viruses out there, and that way at least, you know, two percent of the market is Mac, and very few viruses are written for the Mac.",
+        "And we figured that was the way to boost our protection, via e-mail, and not get a virus.",
+        "Leander Kahney, viruses are written a lot for Windows programs, so if you're running Windows on a Mac, are you virus-proof?",
+        "No, not at all.",
+        "It's just as vulnerable as Windows on any other machine.",
+        "As long as you're running XP.",
+        "But if you're running the Apple software, then there shouldn't be any cross platform transfer of the virus, the way I understand it.",
+        "Right, that's absolutely right.",
+        "If you're running Mac OSX, yeah, you're not going to be infected by a Windows virus.",
+        "Yep."
+      ]
+    },
+    {
+      "dialogue_uid": "92bdb1b8-9d0e-4a80-94f9-8333e3137198",
+      "language": "en",
+      "utterances": [
+        "In fact my inbox is bombarded with them daily, and I can open them up with immunity, nothing happens.",
+        "Sometimes we'll get 700 e-mails a day, and we're a small business, and most of them have viruses in them.",
+        "Right.",
+        "Indeed.",
+        "Yeah.",
+        "That's why we made the switch.",
+        "It won't protect you from SPAM, though, or phishing scams.",
+        "A lot of that, yeah.",
+        "Everything else, pretty much.",
+        "But yeah, the viruses, you know, it's definitely one of the major advantages.",
+        "I mean, these big virus pandemics will shut down entire networks, you know, big corporations.",
+        "Shepard?",
+        "We're concerned about the zero-day thing happening.",
+        "But yeah, that, all we're doing that for is for the e-mail, for kind of our poor man's protection against viruses besides the firewalls and the virus software.",
+        "And that's why we went this route.",
+        "It's a good strategy.",
+        "I think a lot of small businesses are looking at Macs for exactly the same reason.",
+        "Now they run Windows, it's one less reason for companies not to switch."
+      ]
+    },
+    {
+      "dialogue_uid": "bbb1ad06-0d50-4542-9b17-a41ecc20e463",
+      "language": "en",
+      "utterances": [
+        "Jeff, thanks for the call.",
+        "Good luck.",
+        "Thank you.",
+        "Appreciate it.",
+        "Let's talk with Eric.",
+        "And Eric's with us from Athens, Ohio.",
+        "Hi.",
+        "Hi, Eric.",
+        "Go ahead.",
+        "I'd just like to say that I love the idea of the Boot Camp software, because, being a student, it's really hard to integrate my Mac with other Microsoft-based systems on-campus and other places.",
+        "And that could be a problem for a lot of people, Leander Kahney?",
+        "Yeah, I think that this is very true.",
+        "It's going to make that networking seamless for when you have to get into those systems, like using VPN or a special database or special e-mail software that corporations standardize on, like Lotus Notes and stuff like that.",
+        "Yeah, these are, that's going to remove all those headaches.",
+        "You just boot into Windows for the period of time that you need to get certain tasks done, and then back to the Mac for everything else.",
+        "Eric, thanks for the call.",
+        "Good luck to you.",
+        "Thank you."
+      ]
+    }
+  ]
+}

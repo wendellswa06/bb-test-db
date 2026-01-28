@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "ccb5369e-45b0-47a8-a74f-064f4a1eab4b",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8604df2a-6774-4328-b68b-6a5e480ac3c3",
+      "language": "en",
+      "utterances": [
+        "Hi, Liane.",
+        "I know Stoughton.",
+        "That's a nice old town.",
+        "What do you do there?",
+        "I'm a database analyst at a local credit union.",
+        "Okay.",
+        "Are you a longtime Wisconsin person?",
+        "I lived here all my life, so 30 years now.",
+        "How long have you been playing the puzzle?",
+        "Well, I've been listening for a couple of months but this is actually the first time I've played.",
+        "No kidding.",
+        "Yes.",
+        "Oh, you're not nervous at all, are you?"
+      ]
+    },
+    {
+      "dialogue_uid": "0b73be9c-dcf9-4fc1-96ab-4caf069fd6b2",
+      "language": "en",
+      "utterances": [
+        "No.",
+        "No, good.",
+        "Glad to hear it.",
+        "Sounds like you're ready to play.",
+        "So Will, meet Tim.",
+        "Let's play.",
+        "All right.",
+        "Tim and Liane, this is a good two-person puzzle.",
+        "Every answer today is a word starting with the letter V as in victory.",
+        "I'll give you an anagram of it, you tell me the word.",
+        "For example, if I said serve, S-E-R-V-E, you would say verse.",
+        "All right.",
+        "Number one is rival, R-I-V-A-L.",
+        "Viral.",
+        "Mm-hmm.",
+        "Viral.",
+        "Good.",
+        "Lovely, L-O-V-E-L-Y.",
+        "Volley?",
+        "Volley, yes.",
+        "Caveat, C-A-V-E-A-T.",
+        "And it means to leave or depart.",
+        "Vacate.",
+        "Vacate is right.",
+        "Devote, D-E-V-O-T-E.",
+        "This one is a past tense verb ending in ed."
+      ]
+    },
+    {
+      "dialogue_uid": "4e863e21-f494-43f1-a602-cbe9bb8a8594",
+      "language": "en",
+      "utterances": [
+        "All right.",
+        "It's what the president did to a bill.",
+        "Vetoed.",
+        "Vetoed is right.",
+        "Yeah.",
+        "Irving, I-R-V-I-N-G.",
+        "It's a name of an airline and it's also blank islands.",
+        "Virgin.",
+        "Virgin is right.",
+        "Livery, L-I-V-E-R-Y.",
+        "And this is a word that feels biblical to me.",
+        "I think it comes up in the Bible and it ends in a Y.",
+        "Hmm.",
+        "Vilery(ph)?"
+      ]
+    },
+    {
+      "dialogue_uid": "3284978a-eb4f-4f72-a81c-f62e28cd0243",
+      "language": "en",
+      "utterances": [
+        "Verily?",
+        "Verily.",
+        "Verily is it.",
+        "Try this one, selves, S-E-L-V-E-S.",
+        "Elves.",
+        "Not quite.",
+        "First of all, it has to start with a V.",
+        "Oh, right.",
+        "That's right.",
+        "Think of a ship, a general word for a ship.",
+        "Vessel.",
+        "Vessel is it.",
+        "Latvian, L-A-T-V-I-A-N.",
+        "And this is an adjective that would describe a knight.",
+        "Or a prince.",
+        "You know, the comic strip."
+      ]
+    },
+    {
+      "dialogue_uid": "1ffb57f1-c957-4e91-a22c-2279176e5380",
+      "language": "en",
+      "utterances": [
+        "Hmm, I guess I'm…",
+        "You know Hal Foster's comic strip, Prince…",
+        "Valiant?",
+        "Yeah.",
+        "Prince Valiant\"\" is it.",
+        "Saviour, S-A-V-I-O-U-R.",
+        "Various.",
+        "Various.",
+        "Ooh, that was fast.",
+        "It was a word from last week, Will.",
+        "Okay.",
+        "(Soundbite of laughter)"
+      ]
+    }
+  ]
+}

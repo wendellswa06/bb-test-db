@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "9fef9ef4-c503-4488-8ba9-5ffe03a1d1a1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "2bb3f127-9187-4aad-b772-bc28889d2635",
+      "language": "en",
+      "utterances": [
+        "Yeah, we don't ever want to do away with that!",
+        "(Laughing)",
+        "Yeah, you know, that is a good question.",
+        "And, every time human beings have made a new kind of technology or machine, it has always ended up transforming human beings in ways that were unexpected and very hard to predict.",
+        "As a scientist, and a quantum mechanic, for me one of the most remarkable machines was the clock.",
+        "When clocks were first invented they had a huge effect on how people saw the world.",
+        "And they began to see the world as if it were clockwork.",
+        "And although that sounds kind of silly now, the world is clockwork, this mechanistic view of the universe, the idea that it's a machine, was extremely powerful and indeed, you can think of it as a basis for all science.",
+        "Particularly looking at biology right now, which is uncovering the mechanistic mysteries of cells.",
+        "So I actually think that, in learning to view the universe, not just as a machine, but as an information processing machine and specifically as a quantum information processing machine, we're likely to see the world very differently and come to new understandings of it.",
+        "And I don't know what those understandings are going to be.",
+        "And you as a poet, maybe, are the person to tell us those.",
+        "For me, those understandings come for a better understanding for, you know, how to build quantum computers, and how to make them compute.",
+        "And then maybe also we can understand things about how life began or how the universe became so complex by looking at quantum computation.",
+        "But, you know, predicting the future, the technological future, is a mug's game, so I better stop there.",
+        "Okay, thanks.",
+        "What do you say Rhonda?",
+        "You happy with that answer?",
+        "We'll see how it plays out.",
+        "I'll write a poem, see what comes up."
+      ]
+    },
+    {
+      "dialogue_uid": "30f3f1a6-9f51-4e22-b94f-084aeb879747",
+      "language": "en",
+      "utterances": [
+        "Send it us.",
+        "Lee Frelich heads the University of Minnesota Center for Forest Ecology.",
+        "Send it to us!",
+        "We'll put it on our website.",
+        "Okay, thank you.",
+        "All right.",
+        "Thanks a lot Rhonda.",
+        "1-800-989-8255.",
+        "I want to get to a part in your book which really exposed a fallacy that we've been hearing about for many, many years, and that's the idea that if you put a monkey in front o a typewriter and give it enough time it could type, you know, randomly typing at the keys, it could type out all of Shakespeare.",
+        "You say that's impossible.",
+        "Well not impossible.",
+        "But you say that with the quantum computer you can get there a little faster.",
+        "(Laughing) Absolutely.",
+        "Not impossible Ira, but just really unlikely."
+      ]
+    },
+    {
+      "dialogue_uid": "76ba005c-165a-456b-aa7a-8507a6b582ab",
+      "language": "en",
+      "utterances": [
+        "So that image of monkeys typing into a typewriter, it took me awhile to track that down.",
+        "But it originated in the first decade of the twentieth century.",
+        "The great French mathematician, Emile Borel(ph), who was a probablist(ph) and componotorist(ph), created the image of a million monkeys typing ten characters a second.",
+        "And he pointed out that these monkeys, which he, of course he wrote this in French, so he called them, solge de tiligraffic(ph), which somehow sounds better…",
+        "Of course.",
+        "Me we(ph).",
+        "(Laughs) Me we!",
+        "These monkeys had a chance, albeit an extremely small one, of typing out all the books in all the libraries in the world.",
+        "Of course, he then went on to point out that their chances of doing this were infinitesimally small, and so small as to be effectively impossible.",
+        "And indeed, in my book, \"Programming the Universe,\" I calculated just how much of Hamlet monkeys could have typed if every elementary particle in the universe was a monkey and they'd all been typing at the maximum possible rate allowed by the laws of physics since the universe began, and the answer I got was something, let's say if they were trying to type Hamlet's soliloquy, was something like \"To be or not to be.",
+        "That is the…",
+        "That's all they could type?",
+        "Every monkey, if every particle, every atom was a monkey typing on a typewriter, that's as far as they'd get?",
+        "It's just extremely unlikely to type Hamlet on a typewriter if you're a monkey.",
+        "And if you were…(laughing).",
+        "If you were using a word processor could you get any further?",
+        "(Laughing) Well then of course…no, because then the word processor would be constantly interrupting you to tell you that you had mis-capitalized and misspelled things, so you'd never get anywhere.",
+        "(Laughing)",
+        "But there is a way you could get there, and it's…",
+        "The blue screen of death!",
+        "Yeah, absolutely.",
+        "(Laughs) There is a way you get there, and I would say that this is probably the way that we did get here.",
+        "If the monkeys are typing, not into a word processor or a typewriter, but into a computer, if they're programming the computer, say, in Java, with random programs; so just typing random bits, which the computer then interprets as instructions to do something."
+      ]
+    },
+    {
+      "dialogue_uid": "ddc1b68c-9519-41dd-bc42-3b29e1731f94",
+      "language": "en",
+      "utterances": [
+        "Remember bits for a computer mean, do this or do that.",
+        "And then the next bit says do this other thing.",
+        "So if these bits are interpreted rather than just let it sit there, then you can prove, mathematically, that the computer has a very good chance of producing essentially any kind of mathematical pattern that you like; say, the laws of physics and chemistry, or the computer, with a very short program that the monkeys could type in by chance, could start proving all possible mathematical theorems or driving all possible mathematical structures.",
+        "Anything that could be described using numbers or words could e produced by this computer, and indeed, would be likely to be produced by this computer.",
+        "So you could say that if monkeys typing into a typewriter produce almost nothing, you also say that monkeys typing into a computer could produce everything.",
+        "Wow.",
+        "We're talking with Seth Lloyd, author of \"Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos,\" on TALK OF THE NATION Science Friday from NPR News.",
+        "I'm Ira Flatow.",
+        "Is this connected to quantum computing, or just with the normal computer that we have?",
+        "Well, of course you can have monkeys type on a normal computer, and indeed a group in Nottingham did just that in the Nottingham Zoo.",
+        "They gave the monkeys computes, which luckily they covered with plastic sheets, because after the monkeys had defecated and urinated on the computers a number of times, they finally figured out they could type stuff.",
+        "And as the researcher said, they exhibited a fondness for the letter S.",
+        "Yeah, so?",
+        "No, but I think - yeah, I think with Tarvaris, he just wasn't playing aggressively enough, that's what the coach said.",
+        "The quarterback of the Minnesota Vikings, for the audience who may not know that, who's black also.",
+        "However, if the computer is a quantum computer, then you have this feature that I described earlier, that if the bits going into this computer are quantum bits, then the computer, the quantum computer is guaranteed to do this and that at the same time.",
+        "And a quantum computer that's programmed with lots of quantum bits, and you can think of these quantum bits as being like monkeys, it will start producing all possible mathematical structures in this quantum parallel way, in the way I just described.",
+        "And so, I claim in the book, and actually, and I think that this is a scientifically verifiable claim, that if you take a computer and, we have a computer, because the universe is computing, and it's a quantum computer.",
+        "And if you take a bunch of monkeys and hear the monkeys are these little tiny quantum fluctuations that tell the universe to do this or that, that you know, say, let's form a galaxy here, or that say, oh let's split this piece of DNA here over in this other place, that these little accidents programmed the universe."
+      ]
+    },
+    {
+      "dialogue_uid": "61afb23a-d4f8-4486-82ce-948649204b42",
+      "language": "en",
+      "utterances": [
+        "And it's this process of programming the universe with quantum fluctuations that gives rise to the computation we see around us, which produces all sorts of complexity and structure and beautiful things and horrible things, and most of all, amazing things.",
+        "Very, very eloquent.",
+        "That's almost poetic there.",
+        "Well I did have practice, writing the book, Ira.",
+        "(Laughs) That's a good image.",
+        "And it explains a lot.",
+        "And in about a minute and a half left, can you give us, Seth, a roadmap of where quantum computing might go in the next five, ten, twenty, thirty, years?",
+        "Oh absolutely, Ira.",
+        "So I think that these giant quantum computers that are going to break these codes and strike fear in the hearts of the NSA are a decade or two away, at the earliest.",
+        "Again, it's very hard to predict technological progress.",
+        "Indeed, I guess, I think that it's far too early, for instance, to start some kind of mini-Manhattan project to build these.",
+        "I think we'll be better off having, sharing openly our scientific advances with other scientists around the world to build them.'",
+        "However, these quantum simulators, that can simulate chunks of the universe and that can construct new understanding of how complex quantum systems can behave, we can build simple versions of those already, ones with a few billion-billion atoms, and investigate the properties of matter.",
+        "And I think that for simulating more stranger things, and for investigating quantum weirdness, I think we're just going to have a string of ever more powerful quantum computers.",
+        "And indeed, looking out there right now since the last time we talked a few years ago, the number of quantum computes in the world has gone up by a factor of a hundred or so.",
+        "People are computing with atoms, molecules, superconducting circuits, quantum dots, electrons, et cetera.",
+        "Basically, anything out there that you can shine light on in the right way you can make it compute.",
+        "So, it's a pretty exciting time for quantum computing Ira.",
+        "That's a great way to end, Seth.",
+        "Thank you very much for taking time to talk with us.",
+        "You've given us a lot to think about."
+      ]
+    }
+  ]
+}

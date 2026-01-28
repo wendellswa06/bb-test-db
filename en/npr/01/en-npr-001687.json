@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "22111681-5eec-4a21-9e1c-1f16466cd904",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8b9709e1-48bb-42e0-914f-5428d8767ada",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF MUSIC)",
+        "And it's time to play The Puzzle.",
+        "(SOUNDBITE OF MUSIC)",
+        "Joining us as always is Will Shortz.",
+        "He's puzzle editor of The New York Times and WEEKEND EDITION's very own puzzlemaster.",
+        "Good morning, Will.",
+        "Good morning, Lulu.",
+        "So remind us of last week's puzzle.",
+        "Yeah.",
+        "It came from listener Henrik Strandskov (ph) of Luck, Wis.",
+        "I said name a major professional sports team.",
+        "The first and last letters of the team's name specify something that is an anagram of its interior letters.",
+        "What team is it?",
+        "The answer is Red Sox.",
+        "The first and last letters are R, X, as in prescription.",
+        "And the interior letters can be rearranged to spell dose, which is what a prescription specifies.",
+        "Now, I tell you, a number of listeners sent in Padres because the first and last letters spell P.S., as in postscript.",
+        "And the interior letters spell read.",
+        "I guess a postscript could sort of specify read.",
+        "But I don't know.",
+        "That felt a little stretchy to me.",
+        "We had about 800 responses.",
+        "And the winner is Mary Tod of Baltimore, Md.",
+        "Congratulations, and welcome to the program.",
+        "Hi.",
+        "So describe where you are right now.",
+        "I've been told that you're somewhere interesting."
+      ]
+    },
+    {
+      "dialogue_uid": "1b6f9700-4647-4615-afcf-ebb9c6ea0246",
+      "language": "en",
+      "utterances": [
+        "I'm on the road.",
+        "I'm traveling between Baltimore to Ithaca, N.Y.",
+        "And currently, I'm outside the Country Cupboard in Lewisburg, Pa.",
+        "Sitting on a park bench.",
+        "Sitting on a bench, yes...",
+        "(Laughter).",
+        "...Outside the restaurant.",
+        "I also heard you have an interesting hobby.",
+        "Yes.",
+        "And that's what I'm going up to Ithaca to do - is to make lace.",
+        "How beautiful.",
+        "I'm taking a class to learn how to design my own lace, actually.",
+        "Oh, how fantastic.",
+        "All right.",
+        "Are you ready to play The Puzzle?"
+      ]
+    },
+    {
+      "dialogue_uid": "3ac655eb-7e57-4d9b-800c-6ac3aad53b04",
+      "language": "en",
+      "utterances": [
+        "Sure.",
+        "All right, Will.",
+        "Take it away.",
+        "All right, Mary.",
+        "Every answer today is a two-syllable compound word in which the vowel in each half is a short I.",
+        "For example, if I said a person who spends as little money as possible you would say skinflint.",
+        "Two-syllables, compound word, short I in each syllable.",
+        "Your first one is slang for a football.",
+        "Oh, pigskin.",
+        "Pigskin is right.",
+        "Number two - what Don Quixote tilted against.",
+        "Windmills.",
+        "That's right.",
+        "Make tiny criticisms.",
+        "Nitpick.",
+        "Good.",
+        "A bit of makeup in a tube.",
+        "Lipstick."
+      ]
+    },
+    {
+      "dialogue_uid": "d12a5204-1234-4ce2-aa61-3ad5bf633306",
+      "language": "en",
+      "utterances": [
+        "Lipstick is it.",
+        "An article for measuring the amount of oil in an engine.",
+        "A dipstick.",
+        "Silent Circle set up their service in Canada, a country with more privacy friendly laws than the U.S.",
+        "So for now, at least, as long as you're in the circle, your information is silent and safe.",
+        "(SOUNDBITE OF MUSIC)",
+        "By the way, if you want to check out silentcircle.com, their visitor log is burned every seven days, so no one will ever know that you were there.",
+        "(SOUNDBITE OF MUSIC)",
+        "This case raises a lot of interesting legal and law enforcement issues, and we're going to talk them through with NPR's justice correspondence, Carrie Johnson.",
+        "Hi, Carrie.",
+        "Hi, Steve.",
+        "Why is it that law enforcement officials are using this technology, putting these GPS devices on cars?",
+        "They just don't have the resources to dispatch agents to follow somebody 24/7 in terms of visual surveillance.",
+        "And so GPS devices placed inside or underneath a suspect's car allow them to track somebody in a sort of failsafe way for 24 hours a day.",
+        "And it often works better than visual surveillance, where suspects can be lost."
+      ]
+    },
+    {
+      "dialogue_uid": "097b3b2b-8431-4f7f-856e-960d23af5310",
+      "language": "en",
+      "utterances": [
+        "So when you say failsafe way, I'm thinking of the case of Faisal Shahzad, the attempted would-be Times Square bomber who was lost by the law enforcement officials at one point, wasn't he?",
+        "Exactly, Steve.",
+        "Remember, authorities had narrowed the list of suspects down and they were tracking Shahzad, except that he escaped their scrutiny for some period of time, and they eventually caught up with him on an airplane, where he was set to take off for the Middle East.",
+        "So maybe a GPS device there might have actually made a difference in the case.",
+        "They say so.",
+        "And so they are using this other instances.",
+        "How common is it that law enforcement authorities are using GPS devices, sticking them on people's cars?",
+        "There are no clear statistics about this.",
+        "But in a recent Federal Court brief, prosecutors say the Justice Department is using this GPS tracking technique with increasing frequency.",
+        "They say it's a very important investigative technique for them.",
+        "Are they only using it in terrorism cases?",
+        "The court cases that have come up involving this issue so far have mostly involved drug traffickers and drug dealers, not national security threats of the sort that you mention with Faisal Shahzad, for instance.",
+        "Okay.",
+        "Now, when you talk to the FBI, when do they say they are allowed to stick a device on somebody's car?",
+        "What evidence do they have to have in order to start doing that?",
+        "The FBI says as part of its normal investigative practice, it can use GPS devices without a warrant.",
+        "That means that they don't need to go to a judge, in most cases, and prove that they have probable cause to track a suspect."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "challenge_uid": "07de89f5-5239-4e3b-9c4d-8a1ff8af409a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "45842e09-6182-43ae-bd06-8a751d6573a7",
+      "language": "en",
+      "utterances": [
+        "Got it.",
+        "Lansbury is it.",
+        "Number two is Barbra inserts ad.",
+        "Barbra inserts ad.",
+        "Inserts ad.",
+        "That's B-A-R-B-R-A, Barbra.",
+        "Oh, Streisand.",
+        "Barbra Streisand is it.",
+        "That's the clue, not the anagram, right?",
+        "That's the big clue, right.",
+        "Susan ran no ads.",
+        "Oh dear.",
+        "Susan ran no ads."
+      ]
+    },
+    {
+      "dialogue_uid": "6df7a322-5f6c-4818-a852-2750fb53062a",
+      "language": "en",
+      "utterances": [
+        "It's not...",
+        "You're looking for...",
+        "...it's not Stamberg.",
+        "...no - you're looking for an actress again.",
+        "Susan...",
+        "Well...",
+        "Ran...",
+        "...(unintelligible) actresses.",
+        "Yeah, let me see.",
+        "N-O-A-D-S.",
+        "Susan Sarandon.",
+        "Sarandon.",
+        "Good, you got it."
+      ]
+    },
+    {
+      "dialogue_uid": "689f3716-9260-4653-96d1-750705d77064",
+      "language": "en",
+      "utterances": [
+        "I know why you put that in there 'cause she plays table tennis.",
+        "She co-owns a table tennis club in New York City, that's right.",
+        "Try this one: William shares a peek, P-E-E-K, William shares a peek.",
+        "And you're looking for a famous writer.",
+        "Oh, Shakespeare.",
+        "Shakespeare is it.",
+        "Steven beeps girl - that's Steven with a V - Steven beeps girl.",
+        "He's a film director.",
+        "Spielberg.",
+        "Yeah.",
+        "Spielberg is it.",
+        "Bruce sings repent.",
+        "Sings repent?",
+        "Um-hum.",
+        "Sings a lot of other stuff too, right?"
+      ]
+    },
+    {
+      "dialogue_uid": "7b4bc9f6-2b41-4290-9113-a5a40aea5f86",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "And the first name again?",
+        "Bruce.",
+        "Springsteen.",
+        "Yeah.",
+        "Bruce Springsteen is it.",
+        "Try this one: John bites neck.",
+        "John...",
+        "Bites neck.",
+        "Writer?",
+        "You're looking for a writer."
+      ]
+    },
+    {
+      "dialogue_uid": "ee7ccf3e-939e-4763-95a5-a47a60897580",
+      "language": "en",
+      "utterances": [
+        "Steinbeck.",
+        "That's it.",
+        "Julie wanders, W-A-N-D-E-R-S.",
+        "She wanders through the Alps singing?",
+        "Good.",
+        "Yeah, oh yeah, Julie...",
+        "What's her name?",
+        "...\"\"Sound of Music.",
+        "Yeah, Andrews.",
+        "Nice job.",
+        "We made a good team.",
+        "Well, we do have celebrity to tell you what youre taking home for playing our puzzle today.",
+        "He's actually from the online world.",
+        "We met him at South by Southwest, the Interactive Festival in Austin, Texas.",
+        "And here is the CEO of the Digg Web site, Jay Adelson.",
+        "For playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, the \"\"Scrabble Deluxe Edition\"\" from Parker Brothers, the book series \"\"Will Shortz Presents KenKen,\"\" Volumes 1, 2 and 3 from St. Martin's Press, one of Will Shortz's \"\"Puzzlemaster Decks of Riddles and Challenges\"\" from Chronicle Books, and a CD compilation of NPR's Sunday Puzzles."
+      ]
+    }
+  ]
+}

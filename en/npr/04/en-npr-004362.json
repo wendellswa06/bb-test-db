@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "c464ca9d-d53f-44f4-b218-8bf08efc17ba",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "521b4c55-1f08-4a6c-993c-2c8c66244bc2",
+      "language": "en",
+      "utterances": [
+        "SOUNDBITE OF MUSIC",
+        "Arthur Godfrey left no great movie classic or recording, no reruns to live in perpetual syndication, as Andy Rooney says, only the intense but fragile fame of a broadcaster.",
+        "For NPR News, this is John McDonough.",
+        "You are listening to ALL THINGS CONSIDERED from NPR News.",
+        "It's been a year since President Bush confirmed that the National Security Agency was eavesdropping on American phone calls without court oversight.",
+        "NPR's Ari Shapiro reports on what's ahead.",
+        "In the big picture, everybody agrees about domestic spying.",
+        "Everyone wants to listen in on the terrorists.",
+        "Everyone sees a role for the courts.",
+        "Everyone thinks the law that oversees domestic spying, FISA, is out of date.",
+        "It's analog rules in a digital world, according to one expert."
+      ]
+    },
+    {
+      "dialogue_uid": "8c42b0e3-f626-4bea-aaaf-a03d2051dbf4",
+      "language": "en",
+      "utterances": [
+        "Some top Republicans and Democrats, who rarely agree in public, all sounded like they were reading from the same script at a recent American Bar Association conference.",
+        "This was Benjamin Powell, the head lawyer for the director of National Intelligence.",
+        "FISA was simply not designed with our current worldwide communications structure in mind.",
+        "And here's the top Democratic lawyer on the House Intelligence Committee, Jeremy Bash.",
+        "We were and I think we are and will be prepared to update FISA, to make it technology neutral, to bring it into the 21st century, as they say.",
+        "The Department of Justice is on board, too.",
+        "Ken Wainstein runs the DOJ's new national security division.",
+        "I know there's a strong desire on the part of the administration, on part of the department, to get legislation - whatever form - on whatever legislated vehicle it comes that will help to bring FISA into the 21st century.",
+        "And it's sort of a catch phrase, but it's actually very meaningful.",
+        "So if everybody agrees, what's the holdup?",
+        "Well, put on your decoder ring as we go behind that show of goodwill.",
+        "Here's Powell from the Director of National Intelligence office.",
+        "All communications that touch U.S.",
+        "soil should not have to be treated equally.",
+        "We do not enhance our civil liberties by requiring a FISA court order to collect communications between two persons overseas that happened to get routed or touched U.S.",
+        "facilities.",
+        "For example, imagine somebody in Saudi Arabia sends an e-mail to someone in Pakistan, if they're both using Yahoo!",
+        "accounts, the communication is technically based in the United States.",
+        "Today, the government would need a FISA warrant to eavesdrop.",
+        "The administration thinks that's unnecessary.",
+        "That may seem like something everyone could agree on.",
+        "But Michael Woods, who used to be chief of national security law of the FBI, says reality is never as simple as the hypothetical scenarios."
+      ]
+    },
+    {
+      "dialogue_uid": "09e31663-1a8e-45aa-a526-64e604a86f7b",
+      "language": "en",
+      "utterances": [
+        "It's never one guy in Pakistan, one guy in Saudi Arabia, and you know that.",
+        "He says more often investigators will know that one guy is in Pakistan and they'll know he's communicating with someone else over Yahoo!.",
+        "But we don't exactly know where that person is accessing their Yahoo!",
+        "account from.",
+        "We don't know exactly who they are, so are we really dealing with foreign to foreign?",
+        "It could be a person accessing from - you know, there's always nuances.",
+        "Which introduces the risks of eavesdropping on people in the United States.",
+        "Jim Dempsey is policy director for the Center for Democracy and Technology.",
+        "Modernization should not equal a diminishment in the rights of American citizens.",
+        "Yes, the Internet is global, of course, but that doesn't mean that every American that uses the Internet should be subject to warrantless government surveillance.",
+        "Oh, yes, warrantless government surveillance - the elephant in the room.",
+        "Although in this case, most decision makers have not been allowed to see the elephant.",
+        "In Congress, only the House and Senate intelligence committees have been briefed on what the administration calls the terrorist surveillance program.",
+        "Vermont Senator Patrick Leahy will chair the Senate Judiciary Committee when Congress reconvenes.",
+        "He says he wants to amend FISA, but he won't do it in the dark.",
+        "I don't think it's possible to craft laws under FISA that really work if we don't know what they're doing.",
+        "I mean, you can't have a - say we'll pass a law that we have no way of knowing whether you're following the law once we pass it.",
+        "And that could be a major sticking point with the administration.",
+        "When Senator Arlen Specter chaired the Judiciary Committee, he fought hard to get briefed on the program and the White House wouldn't budge.",
+        "And he was a Republican.",
+        "Specter proposed legislation anyway.",
+        "The White House negotiated and accepted it, but it was never taken up in the waning months of the Congress.",
+        "If Democratic leaders insist on briefings and the White House keeps refusing, it could be very difficult to pass any kind of legislation modernizing FISA, which means even though everybody agrees that its time to change the law, the 110th Congress could leave things just where the 109th did."
+      ]
+    },
+    {
+      "dialogue_uid": "1bc8cd89-1f38-4a86-a5b7-8f891e7bae48",
+      "language": "en",
+      "utterances": [
+        "Ari Shapiro, NPR News, Washington.",
+        "This ALL THINGS CONSIDERED from NPR News.",
+        "I'm Debbie Elliott.",
+        "You've heard a lot over the last couple of weeks about the strides women have made in public office.",
+        "Democrat Nancy Pelosi will soon be the first female speaker of the House in U.S.",
+        "history.",
+        "Alabama just elected the state's first woman chief justice.",
+        "Some say these achievements are the natural progression of decades of work opening up opportunities for women, opportunities that were unheard of four decades ago when the National Organization for Women started.",
+        "Well, certainly in 1966, we were really just trying to get into the game.",
+        "Kim Gandy is president of NOW.",
+        "Women had a very hard time getting into college and especially law school, medical school.",
+        "You look at some very prominent women, who coming out of law school at the top of their class couldn't even get a job as a lawyer.",
+        "Sandra Day O'Connor, for example, the only job she could get - having graduated near the top of her class from Stanford law - was as a legal secretary.",
+        "Gandy became active in NOW as a young college graduate in 1973, when she landed her first job in Baton Rouge, Louisiana.",
+        "She soon discovered that under the state's head and master law, her husband owned her paycheck.",
+        "And I'm Steve Inskeep.",
+        "But that doesn't mean there weren't plenty of marketers vying for attention.",
+        "No government shutdowns and no defaulting on the debt.",
+        "Turns out, McConnell made good on that promise.",
+        "But Democrats, like Dick Durbin of Illinois, say Republicans shouldn't be congratulated for that."
+      ]
+    },
+    {
+      "dialogue_uid": "21530d4a-48df-4ef4-9e0b-13aae8411ebf",
+      "language": "en",
+      "utterances": [
+        "That's like saying.",
+        "you know.",
+        "they didn't blow the top off the Capitol, so clearly Republican leadership is in touch with America.",
+        "No, it takes more than that.",
+        "So what does it take to be a governing majority?",
+        "It means compromise.",
+        "It means getting stuff done.",
+        "And as the year wraps up, Republicans are going around saying that's exactly what they did.",
+        "What do you have in your hand right here?",
+        "t",
+        "I have in my hand a list of bipartisan accomplishments.",
+        "Republican Lamar Alexander of Tennessee is holding a double-sided card listing 24 legislative accomplishments.",
+        "He's printed this list up into a whole stack of cards that he's carrying around in his jacket pocket.",
+        "Are you distributing these cards to your colleagues?",
+        "I have done that because I think that, you know, our Republican candidates for president are running around saying we don't get anything done when, in fact, we've gotten a lot done.",
+        "They did get a lot done.",
+        "Right before they adjourned, they passed a trillion-dollar spending bill and hundreds of billions of dollars of tax breaks.",
+        "And before that, they overhauled education laws on public schools, passed a long-term bill to fund roads and bridges and ended the NSA's bulk surveillance program.",
+        "They also beefed up cybersecurity, made it easier to do trade deals and renewed a health care program for 9/11 responders."
+      ]
+    }
+  ]
+}

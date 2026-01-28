@@ -1,0 +1,126 @@
+{
+  "challenge_uid": "79eb5cd8-a313-48c6-b1b1-6602573e4b0a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "efe7d626-b05c-431d-8b6a-b2868f68f522",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "I fooled around a little bit with it yesterday.",
+        "I noticed that it allows you to use the Google apps very easily.",
+        "Their own apps, you know, the web bro - the applications that they make that you use in the clouds, so to speak.",
+        "Mm-hm.",
+        "And that is indeed their intent here.",
+        "If you are looking for a sort of a Google tie-in, it's simply that Google is making a big business out of providing applications that run off the web, rather than running off, you know, software you've installed on your computer.",
+        "And they really want to make sure that you have a good experience in that.",
+        "And as you can imagine, a lot of the testing that they would have done with this would have been using their own apps and tweaking it and tuning it.",
+        "It should work fine for a lot of other web apps that are out there as well, if you go with what Google is saying.",
+        "Mm-hm.",
+        "But for people who are making a lot of intensive usage of websites, and a lot interactivity, this is definitely something you want to take to look at.",
+        "Mm-hm.",
+        "Is this an open-source browser?",
+        "It is and it isn't.",
+        "So, when Google put it out, they said this is open-source, and I think a lot of people had a real feel-good thing off of that.",
+        "Look, it's - Google's not tying it to themselves.",
+        "But they actually have released two sort of things.",
+        "Google Chrome itself is Google's browser, and it'll get changed, and altered, and fixed in whatever way Google decides it wants to do, and then people use it.",
+        "And we don't - as you pointed out - have a version for the Mac or for Linux yet.",
+        "They've promised both of those, but there's no timeline for when they'll come.",
+        "Apple's having some big announcement on Tuesday or something like that.",
+        "Maybe they'll have part of that in there.",
+        "They also released the code for anybody else to use the code and incorporate.",
+        "So potentially Microsoft could say, hey, Internet Explorer 9, we're we're just going to use all the Google Chrome code, and build it up that way.",
+        "So it's open source in that regard that anybody can make use of it, but it's not exactly open in that not everybody is going to suddenly change the distribution that Google puts out."
+      ]
+    },
+    {
+      "dialogue_uid": "e6ee9791-b16d-49f0-a232-1d4b0724d99d",
+      "language": "en",
+      "utterances": [
+        "And for the people like with Firefox, that, you know, this - the rival browser that you have a whole community that's been building, it's not like they just can instantly take Google's Chrome and plug it into their existing browser.",
+        "Mm-hm.",
+        "You know, they would have to do lots and lots of reengineering and make use of it, so it doesn't just sort of flow into it that way.",
+        "Mm-hm.",
+        "David in Auburn Hills, Michigan.",
+        "Yes, Hi.",
+        "Thanks for taking my call.",
+        "Mm-hm.",
+        "I just - I had a comment and a question.",
+        "First, I want to just add that I - say I that I just started using Chrome the other day, and I really like it.",
+        "It's really fast and that is really, really helpful.",
+        "But I wanted to ask you're guest what he thought about the Google end user license agreement, where if you're not in incognito mode, at first, they said anything you put into the address bar up top was basically there's to keep and to do whatever with, and I'll take his response hereof the air.",
+        "Thanks.",
+        "Thanks.",
+        "They quickly took that out, and also said that they would resend it for anybody who used it.",
+        "It seems that what happen was Google - they have this thing basically as you said, whatever you go to, we get a copy right to it as well, and we can do what we want with it."
+      ]
+    },
+    {
+      "dialogue_uid": "6ab8c237-6c06-4e77-81e2-8876a44fc6a1",
+      "language": "en",
+      "utterances": [
+        "And it turns out that they used the same kind of licensing agreement there that they used for other products or maybe that is more applicable, and they just kind of did a copy and paste.",
+        "So, you know, it's kudos to them for when people pointed that out.",
+        "Quickly getting it removed and trying to reassure everybody, but it's still a little bit alarming, because you're thinking, you've put this browser out there, you told us you've done all this thought, all this concern.",
+        "You look at all these different types of things and then you'd...",
+        "Yeah.",
+        "Nobody looked over your legal agreement that you put in their...",
+        "(Soundbite of laughter)",
+        "So did you miss anything else that we need to be covering along the way.",
+        "Right.",
+        "Right.",
+        "Is this a sneak attack on Microsoft's applications like Word, and Excel, and things because, you know, this may send you toward the cloud ones that Google makes.",
+        "Well, it doesn't cause you to automatically use their thing - their application.",
+        "So it's not like you load it up and it says, hey, you should be using Gmail and Google docs, there's no buttons or anything.",
+        "Right.",
+        "So it's not, I guess, a sneak attack in that respect.",
+        "But it' certainly is Google getting even more behind those products, by trying to ensure that you have an operating system if you will, your browser, that runs dependably for them.",
+        "And what I think you'll see happen down the line is, you'll be a user of one of those products."
+      ]
+    },
+    {
+      "dialogue_uid": "214f6d68-29c0-43ca-894a-6502ee1b50a1",
+      "language": "en",
+      "utterances": [
+        "You'll go to say Google docs and you'll see something that says, hey, try Google Docs or Google Chrome, it runs faster, or design for Google Docs.",
+        "So you'll download that without really realizing your downloading a browser.",
+        "You may just feel like this is an extension to Google Docs, and suddenly now you're using another browser, and a browser that you may like.",
+        "And if you were using Internet Explorer...",
+        "Mm-hm.",
+        "Perhaps it starts tempting you away for the particular application...",
+        "Mm-hm.",
+        "than attempting you away from it period.",
+        "Mm-hm.",
+        "Because you say this is used with the same kit that Safari - the Mac browser - is made with.",
+        "Can the two be eventually ported to one another, or additions and modifications made in one pack, perhaps show up in the other?",
+        "Oh, between Safari and Yahoo?",
+        "Yeah.",
+        "Yeah.",
+        "Potentially, you can move stuff and that goes back to the open source thing that Google's saying, anything we put out there, you can use.",
+        "But they've also said that they've built this entire new browser from scratch, so I guess it's kind of like saying, hey, you know, your - that model T you're driving, well...",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "e6076696-3627-4f5e-a640-c64453fc8b4c",
+      "language": "en",
+      "utterances": [
+        "We've got this new, you know, full - fuel injection engines, so if you want to drop it in, feel free.",
+        "Right.",
+        "And we're still in Beta on this, where we actually have the product in real numbers?",
+        "Yeah, we're in Beta, and it's, you know, the typical Google Beta where they might as well just call it, you know, version 1.0.",
+        "Yeah.",
+        "At some point they'll take the Beta label off.",
+        "It may not make any difference, they may not have changed anything.",
+        "It just kind of gives them an excuse if there's glitches to say, oh well, you know, it's a Beta.",
+        "Yeah.",
+        "We'll see.",
+        "OK, Danny.",
+        "Thanks for taking your time to be with us.",
+        "You're very welcome.",
+        "Thanks for having me."
+      ]
+    }
+  ]
+}

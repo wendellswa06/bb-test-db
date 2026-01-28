@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "28a97fbd-e8ba-49ec-b242-d42348bc263c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0a078281-505e-4a45-9368-c603bce5339a",
+      "language": "en",
+      "utterances": [
+        "And as NPR's Joe Palca tells us, a new study sheds light on that.",
+        "This is a story that starts a long time ago.",
+        "It's believed life started around four billion years ago, and the first evidence of multicellularity is a little over two billion years ago.",
+        "John Koschwanez is a researcher at Harvard.",
+        "He's investigating how those first cells joined together.",
+        "We can't take a time machine back two billion years ago to find out exactly what happened, but instead we can do a couple things in the lab.",
+        "One of those things is to see if there any benefit for cells that are normally loners to gather their pals and form a clump.",
+        "Koschwanez tried this with yeast.",
+        "A single yeast cell has a problem.",
+        "It can get energy from sugar, but it spills lot, so it doesn't make the most efficient use of the sugar around it.",
+        "But if the yeast clump together into a group, instead of spilling the sugar on the floor, as it were, they're all spilling it on their neighbors.",
+        "So in essence all the cells within the clump of cells are feeding each other.",
+        "So Koschwanez tried growing loners and clumpers in conditions where sugar was scarce.",
+        "And we compared the single cells against a group of cells.",
+        "Sure enough, as Koschwanez reports in the journal Plos Biology, the clumpers beat the loners hands-down.",
+        "So if in the course of evolutionary time a group of yeast cells did happen to clump together, they would probably stick around and thrive."
+      ]
+    },
+    {
+      "dialogue_uid": "239cbc64-8e74-46ab-b757-f6e44e6bfe01",
+      "language": "en",
+      "utterances": [
+        "Rick Grosberg is a biologist at the University of California Davis.",
+        "He says the new study shows you don't need some unique and strange event two billion years ago to encourage cells to form into groups.",
+        "The conditions that really promote group formation in organisms as simple as yeast are very simple conditions.",
+        "There's nothing complicated or surprising or special about them.",
+        "They must have been very general conditions.",
+        "Now there is multicellularity, and then there is multicellularity.",
+        "Nicole King is at the University of California, Berkeley.",
+        "There are simple forms of multicellularity, in which cells typically are living on their own but they can come together under certain environmental conditions.",
+        "But King thinks more interesting is the kind where different cells take on different tasks within a single organism.",
+        "In the case of humans, that would mean heart cells or brain cells or something specialized like that.",
+        "That's the kind of multicellularity that most of us think about, and know and love.",
+        "And how that happened is really complicated.",
+        "In her work, King studies tiny single-celled organisms called choanoflagellates.",
+        "These are organisms that have already begun to develop special bits, like a kind of tail for swimming around on a collar of tentacles to grab bacteria for dinner.",
+        "Yeah.",
+        "All of them are single-celled, but the exciting thing is that some of them can form little multi-celled colonies as well.",
+        "Inside the colonies, individual cells can start to take on these specialized functions, like swimming or digesting.",
+        "King doesn't know precisely how that happens, but she does know one thing.",
+        "If you compare the genomes of these tiny single-celled creatures with the genomes of some of the first true animals, they look remarkably similar."
+      ]
+    },
+    {
+      "dialogue_uid": "ff394592-4f1d-48b7-abe8-70c5b8166c6d",
+      "language": "en",
+      "utterances": [
+        "So we in fact think that a cell that looked like a choanoflagellate was probably the ancestor of animals.",
+        "In other words, we all have some pretty humble origins.",
+        "Joe Palca, NPR News, Washington.",
+        "Some patients with serious health problems - like cancer and heart trouble -depend on a drug that terrorists would love to get their hands on.",
+        "It's called molybdenum-99, or moly-99 for short.",
+        "This drug has been problematic for two reasons: first, doctors have had trouble to getting a reliable supply, and second, it is made with nuclear material, material that could also be used as a weapon.",
+        "A new production technique could solve both of those problems, and the first shipment has just arrived in the United States.",
+        "NPR's Tovia Smith reports.",
+        "About 50,000 times a day, a patient in the U.S.",
+        "is injected with a very small dose of radioactive material that can show doctors, for example, if a heart is pumping well or whether a cancer has metastasized.",
+        "It's basically a radioactive tracer that's made of material milked from moly-99, which in turn is made in a process that starts with highly enriched uranium.",
+        "And it's no small irony that the very same stuff doctors use to save millions of lives a year is exactly the stuff terrorists would use for the opposite effect, if they could steal it from a processing plant.",
+        "It's a sitting duck for al-Qaida, because these facilities are not guarded like military facilities, but they have bomb-grade uranium.",
+        "Alan Kuperman, an expert in nuclear proliferation at the University of Texas, says the highly enriched uranium used to make moly-99 is a nuclear terrorist's dream.",
+        "I am talking about the identical material that's used in U.S.",
+        "nuclear weapons.",
+        "And, in fact, it has higher enrichment even than the Hiroshima atom bomb."
+      ]
+    },
+    {
+      "dialogue_uid": "71165a98-e9d5-4c14-8ac7-bd4dff257764",
+      "language": "en",
+      "utterances": [
+        "And that's only part of the problem.",
+        "There's no moly-99 made in the U.S.",
+        "Most comes from two old, somewhat cranky reactors in Canada and the Netherlands.",
+        "So when they both happened to shut down at the same time last summer, for example, doctors and their patients were left in the lurch.",
+        "The situation was very bad.",
+        "Very bad.",
+        "Dr. Marcelo Di Carli is chief of nuclear medicine at Brigham and Women's Hospital in Boston.",
+        "We were pretty much going day by day, how are we going to do the tests tomorrow?",
+        "Moly-99 can't be stockpiled because of its short half-life.",
+        "During shortages, many tests are delayed, or doctors may resort to invasive surgery to see what's going on in a patient.",
+        "And some patients have to settle for some other kind of test.",
+        "Obviously, a question is: Is that second test as good as the first test?",
+        "Which becomes a little bit uncomfortable.",
+        "Because they're not equivalent anymore.",
+        "They're not equivalent.",
+        "This is why we're doing the other test.",
+        "In recent years, shortages have also been caused by everything from striking workers to the volcanic eruption in Iceland that blocked delivery from Europe.",
+        "But federal officials hope those supply issues and their worries about nuclear proliferation will soon become a thing of the past, since scientists in South Africa have just figured out how to mass-produce moly-99 using low-enriched uranium instead of the weapons-grade stuff.",
+        "It was a tremendous eureka moment, and it's one of these almost once-in-a-lifetime achievements."
+      ]
+    },
+    {
+      "dialogue_uid": "5755a29c-3f5e-468b-aded-70f341887c6b",
+      "language": "en",
+      "utterances": [
+        "Dr.",
+        "Parrish Staples is with the government's National Nuclear Security Administration that helped finance the breakthrough.",
+        "He says that will now hasten domestic production of moly-99 from low-enriched uranium, and could soon end the risk of nuclear proliferation from the medical isotope industry.",
+        "I would say by three to seven years, we should be extremely optimistic that the international producers will get away from the use of highly enriched uranium for medical isotope production.",
+        "Others, however, say that's too optimistic.",
+        "Professor Alan Kuperman says producers will drag their feet to avoid the cost and effort of conversion unless the U.S., which buys more moly than any other country, taxes or bans the import of isotopes made with bomb-grade uranium.",
+        "The companies would make the argument that they are not in the business of preventing nuclear proliferation.",
+        "They're not in the business of stopping nuclear terrorism.",
+        "They're in the business of producing pharmaceuticals.",
+        "And so it's up to the U.S.",
+        "government to provide the right market incentives for these companies to act responsibly.",
+        "But some in the industry disagree.",
+        "Everything I've seen is that the corporate will is there.",
+        "Steve Littlejohn is a spokesman for Covidien, one of the major moly producers.",
+        "He says the industry does understand that making isotopes without bomb-grade uranium is the future.",
+        "To the extent that it doesn't happen overnight, it's because we're working to make the science work, rather than some kind of foot-dragging.",
+        "In fact, Littlejohn says, Covidien is already invested in one of several domestic production ventures underway.",
+        "The federal government is offering some startup money to help, and doctors are keeping their fingers crossed.",
+        "As one put it: We talk about reducing U.S.",
+        "dependence on foreign oil.",
+        "Relying on foreigners for this is just crazy.",
+        "Tovia Smith, NPR News, Boston."
+      ]
+    }
+  ]
+}

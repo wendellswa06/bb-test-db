@@ -1,0 +1,108 @@
+{
+  "challenge_uid": "f502a30d-415f-4622-abcd-fd35e4fd480f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "bbfdd478-d7ec-40d8-806f-e08b7dbdc568",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Thank you.",
+        "(As Santa) Come on up here.",
+        "You've been a nice, little elf all year long?",
+        "(As Spark) Guess I've tried to be good, but...",
+        "(As Santa) Come on up here.",
+        "(As Spark) That's so comfy.",
+        "(As Santa) Ho, ho, ho.",
+        "(As Spark) So Santa, this isn't actually about me or any present for me or anything.",
+        "(As Santa) Oh?",
+        "(As Spark) I actually work in the Naughty or Nice Division.",
+        "(As Santa) Ho, ho, ho."
+      ]
+    },
+    {
+      "dialogue_uid": "8f50dee0-b06c-4b9b-8686-6ed3a3e735aa",
+      "language": "en",
+      "utterances": [
+        "(As Spark) I'm new and I just started learning the system.",
+        "And I am so surprised and worried about how it works.",
+        "(As Santa) Is there a problem with the new infrared cameras?",
+        "(As Spark) Those are just fine, actually.",
+        "They work well, particularly at night.",
+        "But the problem is not with the technology.",
+        "The problem is the system itself.",
+        "(As Santa) Oh?",
+        "(As Spark) You know, I and all the other elves in that division, we spend our whole day watching the surveillance videos of these kids.",
+        "(As Santa) Of course.",
+        "(As Spark) Pushing the naughty button or the nice button.",
+        "(As Santa) Ho, ho, ho.",
+        "(As Spark) Can I just ask, how do you tell?",
+        "(As Santa) You have to look at the child, and the child is either naughty or nice."
+      ]
+    },
+    {
+      "dialogue_uid": "ac3b0c62-0c55-4fec-af18-9945ab7d372b",
+      "language": "en",
+      "utterances": [
+        "(As Spark) But here's the thing.",
+        "They are all nice and naughty.",
+        "Every kid is both.",
+        "(As Santa) I see.",
+        "(As Spark) Life is nuanced.",
+        "Right?",
+        "And we're reducing it to this yes or no thing.",
+        "And what is that teaching kids?",
+        "(As Santa) I see the problem here.",
+        "(As Spark) You do?",
+        "(As Santa) Yes.",
+        "And you are a very perceptive little elf.",
+        "(As Spark) Really?",
+        "(As Santa) Bring me my mobile phone.",
+        "(As Spark) You can fix this?",
+        "(As Santa) Yes, I can.",
+        "Ho, ho, ho."
+      ]
+    },
+    {
+      "dialogue_uid": "b20737fd-9b2b-49c4-941a-92b344d76987",
+      "language": "en",
+      "utterances": [
+        "(As Spark) I knew that...",
+        "(As Santa) Ho, ho, ho.",
+        "(As Spark) Santa, it's just an honor to even talk to you.",
+        "(As Santa) Merry Christmas to you.",
+        "(As Spark) Merry Christmas, Santa.",
+        "(As Santa) Merry Christmas.",
+        "(As Spark) Merry Christmas.",
+        "(As Santa) Ho, ho, ho.",
+        "(As Bell) Hi, Spark.",
+        "Can you have a seat?",
+        "Thank you for coming in.",
+        "(As Spark) Sure, what's up?"
+      ]
+    },
+    {
+      "dialogue_uid": "0b2463b0-a849-4a31-862d-304c36814bba",
+      "language": "en",
+      "utterances": [
+        "(As Bell) Well, we got a call from Santa yesterday",
+        "(As Spark) That doesn't surprise me because I met with Santa yesterday.",
+        "And it turns out that he is not pleased with how the naughty or nice system is being implemented.",
+        "(As Bell) Tomorrow you are going to report to toy factory 19.",
+        "(As Spark) No, but I just - I met with Santa yesterday, and he said...",
+        "(As Bell) OK.",
+        "Well, there are 50 million children in the United States alone.",
+        "And if we spend all of our time poring over the nuances for each individual child, we'll never get through our list.",
+        "(As Spark) Of course we have to think about the nuances.",
+        "How else could we make these judgments?",
+        "(As Bell) See, Spark, you don't trust your instincts.",
+        "In this department, we need elves who can trust their instincts.",
+        "(As Spark) Trust?",
+        "I trusted that the system was fair, and now I don't because I've seen inside it, and it's just a bunch of flawed elves watching a bunch of flawed people deciding who is actually flawed and who's...",
+        "(As Bell) We can't let kids go without consequences.",
+        "If we do that, they'll grow up to be monsters.",
+        "We are here to teach kids a lesson.",
+        "(As Spark) I saw Santa meet with a coal lobbyist."
+      ]
+    }
+  ]
+}

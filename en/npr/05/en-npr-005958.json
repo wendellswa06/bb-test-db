@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "d6da961a-0511-4808-af05-e84590f5d9eb",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "03a1c89c-43a0-4ade-9653-cc84c1c372b9",
+      "language": "en",
+      "utterances": [
+        "(As Spark) OK.",
+        "Right.",
+        "I'm sorry.",
+        "(As Bell) This is Christmas.",
+        "(As Spark) Yeah.",
+        "(As Bell) Enjoy yourself.",
+        "(As Spark) Thanks, Bell.",
+        "Merry Christmas.",
+        "Hey, Dad.",
+        "It's Spark.",
+        "(As Spark's dad) Spark.",
+        "Hey, how are ya?",
+        "How's my bigshot elf?",
+        "(As Spark) I'm good.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Sitting there making all your naughty, nice decisions, office down the hall from Santa himself?",
+        "(As Spark) Well, it's not like right next to Santa, but...",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Well, you're up there.",
+        "You're in an office, kiddo.",
+        "You don't punch a clock, do you?"
+      ]
+    },
+    {
+      "dialogue_uid": "634e4787-cdff-4f11-bbb3-dfcb9ededdec",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Salary man.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Well, I'm proud of you.",
+        "What's going on?",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Oh, yeah.",
+        "Yeah, that was you.",
+        "What a turnaround, huh?",
+        "(As Spark) I guess, but I remember getting Christmas presents every year.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Oh, well, you know, you were mostly good.",
+        "I mean, even if you didn't deserve them, I still love ya.",
+        "(As Spark) See, this is - I don't want to complain about this job.",
+        "But I'm sitting there all day, looking at like 30 seconds of video of a kid, and then they're breathing down my neck to make an instant decision, like, this kid's naughty; this kid's nice.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Yeah.",
+        "You'll get good at it.",
+        "(As Spark) Listen.",
+        "No, it's...",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Somebody's got to make the call.",
+        "(As Spark) I don't know.",
+        "I really don't think this is how Santa would want it to run."
+      ]
+    },
+    {
+      "dialogue_uid": "065ef8e0-4430-4d54-82d5-429b5e66d3e6",
+      "language": "en",
+      "utterances": [
+        "E.",
+        "HERBSTMAN: (As Spark's dad) OK.",
+        "Yeah.",
+        "Well, you need to talk to Santa.",
+        "(As Spark) Right.",
+        "Oh, hey, Santa, just need an hour of your time.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) No, no, no. You know, once he came to the toy factory, talked to every single worker.",
+        "(As Spark)Yeah?",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) That's not how he wants things where you can't say anything.",
+        "He's a very jolly man, but he's very reasonable.",
+        "(As Spark) Dad, he has layers of managers.",
+        "I've literally never run into him in the elevator.",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) Talk to Santa.",
+        "He'll fix it.",
+        "(As Spark) Talk to Santa?",
+        "E.",
+        "HERBSTMAN: (As Spark's dad) And when you talk to him...",
+        "(As Spark) Yeah?"
+      ]
+    },
+    {
+      "dialogue_uid": "74a11043-dda5-4d6a-9072-b4af701da624",
+      "language": "en",
+      "utterances": [
+        "E.",
+        "HERBSTMAN: (As Spark's dad) ...You got to remember everything, and then I want you to tell me everything that he said.",
+        "(As Spark) (Laughter) OK.",
+        "Hi.",
+        "I put in for a meeting with Santa today.",
+        "(As Santa's secretary) OK, great.",
+        "And you are?",
+        "(As Spark) I'm Spark.",
+        "Spark Elgooso (ph).",
+        "(As Santa's secretary) Excellent.",
+        "So what we're going to do is I'm going to alert your department as soon as there's an opening to meet with Santa.",
+        "(As Spark) I really need to meet with him today.",
+        "So I don't mind waiting.",
+        "(As Santa's secretary) I'm sure that Santa is dying to meet with you as well...",
+        "(As Spark) (Laughter) OK.",
+        "(As Santa's secretary) ...He's just superduper busy with all the children's wish lists."
+      ]
+    },
+    {
+      "dialogue_uid": "a8e8a751-9669-4369-af0b-f6fdd87ba913",
+      "language": "en",
+      "utterances": [
+        "(As Spark) What if I just sit down on the couch, and as soon as he pops out, that's - oh.",
+        "(As Santa) Thanks for coming by.",
+        "(As coal lobbyist) Remember the magic number is 2000 tons.",
+        "(As Santa) And have a Merry Christmas.",
+        "(As coal lobbyist) If this works out we'll all have a Merry Christmas.",
+        "(As Santa) Ho, ho, ho.",
+        "(As Spark) Excuse me, Santa?",
+        "Who was that with Santa?",
+        "(As Santa's secretary) He happens to be the most influential lobbyist for the coal industry and a very, very good friend of Santa's.",
+        "(As Spark) Coal lobbyist?"
+      ]
+    }
+  ]
+}

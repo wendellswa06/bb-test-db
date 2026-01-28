@@ -1,0 +1,118 @@
+{
+  "challenge_uid": "76110d18-43fb-40cc-9317-6510260cf434",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "d06981ba-b13e-4d98-b777-db7b3a37d8f5",
+      "language": "en",
+      "utterances": [
+        "In Truvada, he saw a drug that allows gay men to feel more secure than he had about sex.",
+        "So you think you felt a little bit bitter?",
+        "I did, and it was mostly out of just being a hater, just jealousy.",
+        "Ponce de Leon is in a committed relationship, so he doesn't use Truvada.",
+        "But now he understands and supports others who do.",
+        "Adrian Florido, NPR News.",
+        "Back in the 1970s, Congress didn't think the conventions needed any outside money at all.",
+        "It voted to provide public financing, so the parties wouldn't solicit corporate funds.",
+        "Energy economy was supposed to be a major legislative issue this year, but in this election year Congress has pushed what could be called energy reform light, measures with more modest goals.",
+        "NPR's Christopher Joyce examines one such measure.",
+        "It's called Cash for Caulkers.",
+        "That's caulk, as in the gluey stuff you use to seal cracks in your house.",
+        "Formerly known as HOMESTAR, Cash for Caulkers would put up to $6 billion of federal money into the hands of homeowners and contractors who make homes more energy efficient.",
+        "That's if Congress decides to pass it.",
+        "To see what Home Star would subsidize, I visited a crew from Wellhome, an energy retrofit company.",
+        "So what we have here is what's called a blower door."
+      ]
+    },
+    {
+      "dialogue_uid": "d4d555e9-697e-44dc-b975-358bfbe72cc5",
+      "language": "en",
+      "utterances": [
+        "Glenn Dickey has opened the front door of a suburban Maryland house, and then sealed the opening with a canvas flap.",
+        "There is a big fan built into the flap.",
+        "What we're going to do is turn the fan on, draw the air through the house.",
+        "This will give us an opportunity to find the leaks.",
+        "Dickey trains retrofit workers to get certified by the Building Performance Institute.",
+        "Today he's on the hunt for the enemy, air leaks.",
+        "When the fan turns on, that lowers the interior air pressure, not enough to suffocate us, he promises, but enough so that hot air from the outside will leak into the cooler house through any cracks or holes.",
+        "Dickey's partner here is Rush Fleshman.",
+        "He uses an infrared camera to find those streams of air.",
+        "They will lead back to cracks and holes in the walls and windows, and he finds plenty.",
+        "What we're seeing here is warm air infiltration washing down these walls right here.",
+        "That would be behind the wall - behind the drywall.",
+        "That's coming down from the attic?",
+        "Yes.",
+        "The camera shows shimmering images of air flows even behind the walls.",
+        "That could be because insulation is pulled away from the wall, or because there's an opening somewhere up to the attic.",
+        "Meanwhile, Wellhome auditor Michael Hogan throws a barrage of questions at the homeowners, Jay and Dorothy Murdoch.",
+        "Does your house have any cold or hot areas?"
+      ]
+    },
+    {
+      "dialogue_uid": "c84307c1-54fa-418e-8fef-a70370a73128",
+      "language": "en",
+      "utterances": [
+        "This goes on for a while.",
+        "Is there any drafty areas in your home?",
+        "Do you ever close off any rooms to prevent from heating them?",
+        "Do you have any moisture problems anywhere in the home?",
+        "Do you have any musty smells in your home?",
+        "And sometimes the questions hit a sore sport.",
+        "When was the last time that you had your furnace cleaned or serviced?",
+        "Oh...",
+        "Thats the answer.",
+        "(Soundbite of laughter)",
+        "So then that would be three years?",
+        "It hasn't been serviced since it was installed.",
+        "We do a better job with servicing our cars than our house."
+      ]
+    },
+    {
+      "dialogue_uid": "db6fa7e0-02c9-4442-a4ca-8fc365efbe33",
+      "language": "en",
+      "utterances": [
+        "Yeah, we're bad.",
+        "This is more than just tough love for homeowners - it's the Gold Star treatment.",
+        "Thats a top-of-the-line energy efficiency overhaul.",
+        "Homeowner Jay Murdoch is actually in this business - he works for Wellhome.",
+        "He volunteered for this work-over after he reached the limit of his own handyman skills.",
+        "We think that there are some things in the house that we dont see right now that we can do that are cost effective.",
+        "Some fixes only require a change of behavior.",
+        "This house has five computers, for example, and sometimes they're all drawing electricity at once.",
+        "Hogan also spots some things that aren't so obvious.",
+        "A cell phone charger.",
+        "You know, usually everybody leaves them plugged into the wall.",
+        "That actually has a draw on it.",
+        "Meanwhile, Glenn Dickey heads up into the attic.",
+        "In a well-insulated home, attics are supposed to be sealed off from the rest of the house.",
+        "As we pull the insulation back on one of the transition walls that we looked at with the infrared, we find that the wall is open down into the house.",
+        "Which allows unwanted air to dribble back down.",
+        "A two-by-four should be enough to seal that off - no big deal.",
+        "But downstairs, Hogan and the infrared camera have ferreted out a mysterious draft filtering down a wall.",
+        "Right at the moment, I'm stumped."
+      ]
+    },
+    {
+      "dialogue_uid": "ed820b3a-93a3-448e-887b-392bd56563db",
+      "language": "en",
+      "utterances": [
+        "Thats cool.",
+        "No, it's not.",
+        "(Soundbite of laughter)",
+        "What's stumping you?",
+        "Well, we've got this air thats circulating down around this paneling in the little den space here, and the air is cool, which would indicate that it's not coming from the attic.",
+        "After a couple of hours of this, the homeowners are contemplating several thousand dollars worth of work.",
+        "Our house is a sieve?",
+        "Our house is a sieve.",
+        "But it's good to know that.",
+        "And we're waiting to see what their action plan is going to be.",
+        "The Murdochs are willing to pay for this because it will lower their bills.",
+        "But if HOMESTAR happens, the federal government could subsidize the work with as much as $8,000 for a single home.",
+        "Some states already pay homeowners for retrofits.",
+        "So did president's stimulus plan last year.",
+        "But Jeff Genzer, of the National Association of State Energy Officials, says the stimulus money was mostly for low-income families.",
+        "HOMESTAR is for all homeowners."
+      ]
+    }
+  ]
+}

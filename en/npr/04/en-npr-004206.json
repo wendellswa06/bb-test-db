@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "5a55c1e9-92ff-48c2-96a9-5e548a09765f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7ca1ca2f-9e3a-48f1-9aec-710a08546616",
+      "language": "en",
+      "utterances": [
+        "Cokie Roberts with David Greene.",
+        "You can tweet us your questions @morningedition with the hashtag #askcokie or email your questions to askcokie@npr.org.",
+        "This is SCIENCE FRIDAY.",
+        "I'm Ira Flatow.",
+        "It is the most wonderful time of the year, and to that I mean when birders all over America get out their binoculars and their notebooks and their warm clothing to talk up all the birds they see for Audubon's annual Christmas bird count.",
+        "And then we always like to check in on the count at this time of the year to see how the purple finches, the red-breasted nuthatches and all their pals are doing.",
+        "And we want to hear what you've seen too.",
+        "Spotted anything good, or maybe you're a little bit mystified by something you saw fluttering through the trees?",
+        "Maybe we can help you figure it out.",
+        "Give us a call.",
+        "Our number is 1-800-989-8255, 1-800-989-TALK.",
+        "You can always tweet us @scifri, @-S-C-I-F-R-I.",
+        "Joining us now is Greg Butcher, director of bird conservation for the National Audubon Society in Washington.",
+        "Welcome back.",
+        "Thanks a lot.",
+        "Hi, Ira, how are you doing?",
+        "Hey, how the bird watch going?",
+        "Oh, it's going great.",
+        "You must have been doing your homework because red-breasted nuthatches and purple finches are the big news in the East this fall.",
+        "No kidding?"
+      ]
+    },
+    {
+      "dialogue_uid": "70d12957-f98f-43b7-a379-1a723df22635",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "Wow, tell me about that.",
+        "Well, those are eruptive species.",
+        "So some winters we don't see any, and some winters we see a bunch.",
+        "So this is a relatively good year for both those species.",
+        "Any guess why that is?",
+        "Well, these are birds that sometimes they winter in Canada, if there's a good enough food supply for them.",
+        "But this year there doesn't seem to be enough seats to keep them all happy in Canada, so they come visit us in the states.",
+        "Now, the bird count isn't really a complete census, is it?",
+        "Well, no. If you think of a complete census, like they did - the Bureau of the Census just did for the country, we don't try to count every bird.",
+        "It's really just a sample of what's out there every year.",
+        "And it goes on all over the country, correct?",
+        "Oh, my goodness, we have more than 2,000 places every year where we count birds, all across the U.S., southern Canada, and most of the Western Hemisphere.",
+        "Is it too late to get in on this?"
+      ]
+    },
+    {
+      "dialogue_uid": "0dbdf633-fc68-4abd-b2ba-b8eefa86a2cd",
+      "language": "en",
+      "utterances": [
+        "Oh, not at all.",
+        "We go till January 5th.",
+        "So you can actually go on our website.",
+        "If you Google Christmas bird count and you can find a location near you.",
+        "We've got a location finder.",
+        "And so what kind of results have you gotten so far this year?",
+        "Well, the results are we've had some record counts.",
+        "So it's interesting.",
+        "Even though where I am in Washington, D.C., it's pretty chilly, it's kind of concentrating the birds.",
+        "So we've seen some record numbers.",
+        "Wow, and in any part of the country where you're seeing more than others?",
+        "Well, basically it's good all across the country, and every state kind of has its own special birds this year.",
+        "Now, you were just down on a count in Ecuador, right?",
+        "Tell us about that.",
+        "Oh, I was on a birder's dream.",
+        "I couldn't believe it.",
+        "(Soundbite of laughter)",
+        "I went to the number one Christmas bird count in the world.",
+        "So I got to go to Mindo, Ecuador, and I was within inches of the equator, in the Andes Mountains and in the place where they see more birds on Christmas bird counts than any other place.",
+        "Wow.",
+        "Let's go to the phones, to Darcy(ph) in Kansas City.",
+        "Hi, Darcy."
+      ]
+    },
+    {
+      "dialogue_uid": "21eb96d2-88d8-47d7-aedb-968a1215aaf7",
+      "language": "en",
+      "utterances": [
+        "Hi, I'm in Kansas City, Kansas.",
+        "How are you doing, Ira?",
+        "Fine.",
+        "I love your program.",
+        "Everything's up to date today, right?",
+        "Something like that.",
+        "Yeah.",
+        "I put out birdfeeders every winter because I like to see little birds come and get what they need to survive over the season.",
+        "And, oh, I've seen flickers, a tufted-headed titmouse, various(ph) sparrows, male and female downy woodpeckers.",
+        "But I've also seen a golden flicker.",
+        "He's come back.",
+        "A golden flicker(ph).",
+        "Yes.",
+        "All right, Geoff.",
+        "Thanks so much."
+      ]
+    },
+    {
+      "dialogue_uid": "4612c575-3c65-4dc9-9283-aa0205b449e5",
+      "language": "en",
+      "utterances": [
+        "Well, first of all, I think they want a basic indication that they are on his radar screen.",
+        "I mean, bear in mind, this is a German pope who is intellectual background is very much tied up with European culture and European history.",
+        "But, secondly, I think what they're hoping for is a papal vote of confidence in the pastoral line of the church in Latin America, which above all, would have at a part the struggle for social justice, for economic justice, for development, for some kind of fair deal for the impoverished masses of South America and that the Catholic is going to support that and commit itself to it.",
+        "I think that's what they want to hear.",
+        "John Allen is a Vatican correspondent of the National Catholic Reporter.",
+        "John Allen, thank you very much for being with us today.",
+        "A pleasure.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Debbie Elliott.",
+        "Less than a week into a fragile ceasefire in the Middle East, fighting flared up again today in Lebanon.",
+        "Israeli commandos raided a Hezbollah stronghold deep inside the country.",
+        "One Israeli soldier was killed.",
+        "The fighting does not appear to be escalating, but it does complicate the United Nations peacekeeping mission.",
+        "In a statement, U.N.",
+        "Secretary General Kofi Annan said he was deeply concerned about what he called a violation of the U.N.-backed truce.",
+        "But Israel calls the attack defensive and designed to stop suspected arms shipments from Iran and Syria.",
+        "NPR foreign correspondent Jamie Tarabay is in Tyre, Lebanon.",
+        "Jamie, what can you tell us about this Israeli raid?"
+      ]
+    }
+  ]
+}

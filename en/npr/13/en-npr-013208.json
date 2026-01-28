@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "423af7f8-cc4c-4a76-8076-5384b1372458",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7076ca95-1dd5-49b5-b0ad-9324f5e42371",
+      "language": "en",
+      "utterances": [
+        "Actually, this one came very quickly because I got \"\"sense.\"\" I thought, well, \"\"sense\"\" has two \"\"SE's\"\" and I tried to think of some combinations with \"\"sense,\"\" and \"\"horse sense\"\" came pretty quickly.",
+        "Oh, good logic.",
+        "How long have you been playing Puzzle?",
+        "Well, I don't always send an entry, but I've been listening at least 10 years.",
+        "Good for you.",
+        "Well, you know what happens now, right?",
+        "Yes.",
+        "Yes, and now are you ready to play?",
+        "Ready as I'll ever be, I guess.",
+        "Okay.",
+        "Will, meet Diane.",
+        "Let's play.",
+        "All right, Diane.",
+        "This puzzle sounds a little more complicated than it is.",
+        "I'm going to give you some words.",
+        "For each one, take the last two letters, reverse them, then think of a word starting with these two letters that can follow mine to complete a familiar two-word phrase.",
+        "For example, if I said \"\"flat,\"\" you would take the last two letters, \"\"AT,\"\" reverse them to make \"\"TA,\"\" and then say \"\"tacks\"\" as in \"\"flat tacks."
+      ]
+    },
+    {
+      "dialogue_uid": "b8337054-cc74-4207-bf71-928431afe11c",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "Number one - and your answers here are three letters long - first one is Faberge.",
+        "Faberge…",
+        "Faberge blank.",
+        "Egg is all I can come up with.",
+        "That's it.",
+        "Faberge, famous Faberge eggs, is right.",
+        "Number two is martial, M-A-R-T-I-A-L.",
+        "Law?",
+        "Martial law is right.",
+        "Carrot.",
+        "Top.",
+        "Carrot top is right.",
+        "Now your next answers are four letters long.",
+        "And the first one of these is mad, M-A-D."
+      ]
+    },
+    {
+      "dialogue_uid": "5c7f049f-684e-4ffd-9225-8b623b539a94",
+      "language": "en",
+      "utterances": [
+        "Mad.",
+        "Mad dog.",
+        "Mad…",
+        "It has to start with \"\"DA.",
+        "And it has to relate to the first word, Will?",
+        "Yeah - complete the familiar phrase.",
+        "Mad blank - something you might do if you're in a hurry, something you might make…",
+        "Dash.",
+        "Mad dash is right.",
+        "Daytime.",
+        "This is an award that Susan Lucci won.",
+        "Emmy.",
+        "Daytime Emmy is right.",
+        "Liquid.",
+        "Diet?",
+        "Liquid diet is right.",
+        "Honor."
+      ]
+    },
+    {
+      "dialogue_uid": "6a521e1f-719d-4727-9e5e-936bb99292a3",
+      "language": "en",
+      "utterances": [
+        "Roll?",
+        "Honor roll is good.",
+        "Glow, G-L-O-W.",
+        "Worm.",
+        "Glowworm.",
+        "That was fast.",
+        "Now your next answers are all five letters long.",
+        "And the first one is scrap, S-C-R-A-P.",
+        "Paper.",
+        "Scrap paper is right.",
+        "Hot, H-O-T.",
+        "Hot Totty?",
+        "That's right.",
+        "Also hot topic, I would have taken either one.",
+        "How about blood?",
+        "Donor.",
+        "Blood donor is right.",
+        "Detroit."
+      ]
+    },
+    {
+      "dialogue_uid": "f2d68947-9816-4e44-a220-b2c4d20d9a35",
+      "language": "en",
+      "utterances": [
+        "Tigers.",
+        "Detroit Tiger is right.",
+        "Air, A-I-R.",
+        "Air.",
+        "Hmm.",
+        "Something you would shoot with.",
+        "Rifle.",
+        "Air rifle is right.",
+        "Now your next answers are six letters long.",
+        "The first one of these is human.",
+        "Human nature.",
+        "Human nature.",
+        "Good.",
+        "How about cedar, C-E-D-A-R?",
+        "Rapids?",
+        "Cedar Rapids, uh-huh.",
+        "Wonton, W-O-N-T-O-N."
+      ]
+    }
+  ]
+}

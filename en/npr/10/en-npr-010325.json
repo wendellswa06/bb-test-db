@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "6878c4cb-dfd0-4e3f-8ca7-f147fedbb8ce",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "da815a76-133f-4be6-a2f9-e8bdde4f2dd1",
+      "language": "en",
+      "utterances": [
+        "In a moment, we're going to talk with a reporter for Curbed about what's going on.",
+        "First we're going to try out some of these little vehicles.",
+        "Our first stop is a scooter company called Bird.",
+        "And there's one not far from here.",
+        "We're going to head that way.",
+        "(SOUNDBITE OF ESQUIVEL'S \"\"CIELITO LINDO\"\")",
+        "OK, scooter's here.",
+        "It's black.",
+        "It says Bird.",
+        "We're going to use the app to unlock it.",
+        "(SOUNDBITE OF BEEPING)",
+        "I'm going to take this one for a ride around the block and try not to kill myself.",
+        "What makes it go?",
+        "(SOUNDBITE OF MUSIC)",
+        "How'd it go?",
+        "I did not fall.",
+        "I did get some strange looks.",
+        "I did not feel like I was going to die.",
+        "It was a nice little ride around the block.",
+        "Next up, Capital Bikeshare.",
+        "This is a program that's been in Washington for a few years and lots of other cities, too.",
+        "The bikes all go into docking stations, so there isn't the same problem with sidewalk clutter."
+      ]
+    },
+    {
+      "dialogue_uid": "5f327d4a-9f40-4549-9c9a-f8568ad115a8",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF BEEPING)",
+        "It's a beautiful day for a bike ride.",
+        "(SOUNDBITE OF ESQUIVEL'S \"\"PRIMAVERA\"\")",
+        "OK, our last ride of this little tour is an electric scooter company called LimeBike.",
+        "We are in a rundown housing complex.",
+        "I can't find the Lime scooter.",
+        "The app says there's a Lime scooter right here, but it is nowhere to be seen.",
+        "So I guess this is one of the kinks to be worked out in this new technology.",
+        "We're going to head back to the studio and talk with Patrick Sisson, a journalist who's been writing about this for the website Curbed.",
+        "(SOUNDBITE OF ESQUIVEL'S \"\"TICO TICO\"\")",
+        "Hi, Patrick.",
+        "Hey, Ari.",
+        "We just heard a little bit of what it's like here in Washington, D.C.",
+        "You're in California.",
+        "There has been a lot of drama in San Francisco and Santa Monica.",
+        "Tell us what's going on there.",
+        "Yeah.",
+        "It's what some have called scootergeddon (ph).",
+        "In San Francisco especially, people have been complaining quite a bit about these scooters, that they're blocking the right of way.",
+        "San Francisco has issued a lot of declarations and passed laws that are looking for permitting of the scooters.",
+        "They're actually even asking scooter riders to take photos of where they park their scooters to make sure they're not blocking the right of way.",
+        "In Santa Monica, the company Bird settled for $300,000 with the city after being fined for safety violations and blocking the right of way."
+      ]
+    },
+    {
+      "dialogue_uid": "81ad6b21-952d-40e7-9d0a-24399d8ee230",
+      "language": "en",
+      "utterances": [
+        "People are clearly annoyed.",
+        "There's a lot of #ScootersBehavingBadly on Twitter.",
+        "Yeah, exactly.",
+        "And this is also spreading to cities like Washington, D.C., and Austin where people are having the same complaints.",
+        "Around the world, people recognize that preschool is important, but what's not as clear is, what makes a good preschool?",
+        "For example, in Ghana's capital city of Accra, an estimated 80 percent of kids - 80 percent - are enrolled in preschool by age 3.",
+        "This is what you might hear in one of those schools.",
+        "Shoe.",
+        "All of you say shoe.",
+        "Shoe.",
+        "Shoe.",
+        "Shoe.",
+        "Shoe.",
+        "The teacher is holding up flashcards.",
+        "Nose."
+      ]
+    },
+    {
+      "dialogue_uid": "c4db0423-b671-4efe-ab63-ff374a1798bf",
+      "language": "en",
+      "utterances": [
+        "Nose.",
+        "Nose.",
+        "Nose.",
+        "Preschools in Accra use a system of call and response.",
+        "The trouble is that tests suggest the kids aren't actually learning very much.",
+        "As part of our series How to Raise a Human, NPR's Nurith Aizenman reports from Ghana on an experiment to change that and the unexpected obstacle teachers face.",
+        "Now, Herbert.",
+        "Yes.",
+        "Herbert Agbavor has been in preschool since he was 1 year old.",
+        "He's 5 now.",
+        "Every night, his father, Herman, goes over his homework.",
+        "Daddy's tired.",
+        "And sometimes dad's patience wears thin, like when they get to a tracing exercise.",
+        "T-R-A-C-E - what does it mean?"
+      ]
+    },
+    {
+      "dialogue_uid": "d7bd242f-3c9e-4fc1-97b1-46476628c2a3",
+      "language": "en",
+      "utterances": [
+        "T-R-A-C...",
+        "You've got to learn how to read.",
+        "It's very important.",
+        "Herman is worried about his son.",
+        "He thinks he's not learning to read at the pace he should.",
+        "I get a sense of why this matters after the homework is done when I sit down with little Herbert to draw pictures with some colored pencils.",
+        "Oh, this is your daddy.",
+        "Yes, I draw him big - smiling.",
+        "Smiling.",
+        "Oh, look at all his teeth.",
+        "He's happy.",
+        "He's happy?",
+        "Yes.",
+        "Why is he happy?"
+      ]
+    }
+  ]
+}

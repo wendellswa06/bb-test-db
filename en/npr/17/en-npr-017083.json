@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "71cc986e-9895-4f2b-97f3-d08878b1b84f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "2add939e-2078-4ab9-b647-5f207ed99435",
+      "language": "en",
+      "utterances": [
+        "Neil Armstrong took his first small step for man on the moon 50 years ago tomorrow.",
+        "And when he did it, he walked on into the history books.",
+        "Andrew Chaikin is with me now.",
+        "He wrote the book \"\"A Man On The Moon: The Voyages Of The Apollo Astronauts.\"\" Good morning.",
+        "Good morning.",
+        "So how did the landing play out?",
+        "Well, landing on the moon is basically a controlled fall out of orbit.",
+        "Wow.",
+        "And you only have enough fuel for one try.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Eagle, Houston.",
+        "You are go to continue powered descent.",
+        "You are go to continue powered descent.",
+        "The onboard computer, which was absolutely primitive by today's standards, had had about 37,000 words of memory, although those were very...",
+        "(Laughter)."
+      ]
+    },
+    {
+      "dialogue_uid": "34e2aaf5-9ab2-41f1-950d-fff104f63a6b",
+      "language": "en",
+      "utterances": [
+        "...Well-chosen words.",
+        "But the computer was critical.",
+        "It was absolutely the third crew member in that lander.",
+        "And everything pretty much went OK until about five minutes into the final descent to the moon...",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Got the Earth right out our front window.",
+        "...When, all of a sudden...",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Program alarm.",
+        "It's a 1202.",
+        "1202",
+        "...Something was wrong with the computer.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)"
+      ]
+    },
+    {
+      "dialogue_uid": "148bd72e-97de-405d-aea1-b8e0079300c8",
+      "language": "en",
+      "utterances": [
+        "Give us a reading on the 1202 program alarm.",
+        "Some of the people who were really caught up short by these alarms were the people who had actually written the software for the computer, and they were at MIT in Cambridge, Mass.",
+        "And one of the main authors of that software was a young computer engineer named Don Eyles.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "We looked at each other with sort of blank faces.",
+        "Something was going on in the computer that we didn't understand.",
+        "If it had been up to me, I would have called an abort.",
+        "That is absolutely terrifying.",
+        "So why did they not abort?",
+        "Well, one of the heroes here is the flight director, Gene Kranz.",
+        "Couple of weeks before the mission, they had done a simulation in which computer alarms had come up, and they had not been ready for them.",
+        "Kranz said to his computer guys, I want you guys to be prepared for every conceivable computer alarm that might come up.",
+        "So when these alarms came up, there was one guy in a back room.",
+        "He was only 24 years old.",
+        "His name was Jack Garman.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "It's executive overflow.",
+        "If it does not occur again, we're fine.",
+        "It's continuous that makes it no-go.",
+        "If it reoccurs, we're fine.",
+        "He's so calm.",
+        "We're fine.",
+        "We're fine.",
+        "It's absolutely amazing to hear him.",
+        "(Laughter) It's just one of these stunning examples of the amazing performance of these young people who were given awesome responsibility during these missions."
+      ]
+    },
+    {
+      "dialogue_uid": "1541cac7-4544-48f8-9696-8043c4ee27f9",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "You're looking great to us, Eagle.",
+        "So they're still about 3,500 feet above the moon when Gene Kranz pulls his flight controllers and then finally gives them the go-ahead to continue the landing.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "OK.",
+        "All flight controllers, go, no-go for landing.",
+        "Retro.",
+        "UNIDENTIFIED PERSON #1: Go.",
+        "FDO.",
+        "We had four more of those alarms before we actually got to the surface.",
+        "And at one point, the display went blank for a period of about 10 seconds.",
+        "Armstrong laughed about it afterwards.",
+        "I guess if you're going to have a - if you're going to have to go through that, have a sense of humor, right?",
+        "Oh, you know, this is exactly what Armstrong had signed up for.",
+        "But by the time that Armstrong actually got to look out the window and see where the computer was taking them, he saw they were headed for a crater the size of a football stadium.",
+        "And it was completely surrounded by boulders, which were themselves the size of small cars."
+      ]
+    },
+    {
+      "dialogue_uid": "229527f9-eed1-404a-a799-93151b606133",
+      "language": "en",
+      "utterances": [
+        "Wow.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Pretty rocky area.",
+        "So he took over semi-manual control to fly past the crater and head on and look for a safer spot.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "Altitude-velocity, light.",
+        "Down in Mission Control, nobody knew about the big crater in the boulders.",
+        "For Gene Kranz and his controllers, this was getting very, very tense.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "During all of our training exercises, we had normally landed by this time.",
+        "And from this time on, all we do is give him readouts on fuel remaining.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "challenge_uid": "30ee95b9-cea0-4f7e-b0a7-2a82020f46cf",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "73a3a89d-c36a-4455-b3c6-03f45c4f0d00",
+      "language": "en",
+      "utterances": [
+        "Hey, David.",
+        "Good morning.",
+        "Congratulations, Matt.",
+        "That was not an easy puzzle, so I'm impressed.",
+        "It was fun.",
+        "It was a lot of fun.",
+        "You know, Will, before we go on - I mean, it's nice to play the puzzle with you but I have to stop for one second, because I have to tell you, you were on my vacation recently.",
+        "And I have a clip of tape to prove it.",
+        "Listen to this.",
+        "Hey, Will, ten-letter word for diminutive egg-based torte.",
+        "Mini-quiche.",
+        "Where?",
+        "(SOUNDBITE OF LAUGHTER)",
+        "Will, what is that?",
+        "That is \"\"How I Met Your Mother.\"\" I was on that sitcom two years ago.",
+        "That's right.",
+        "I was watching it on the plane ready to come back and host WEEKEND EDITION.",
+        "I'm like there's Will Shortz.",
+        "He's with me already.",
+        "You can't escape me."
+      ]
+    },
+    {
+      "dialogue_uid": "111cd0f3-6914-48de-adec-d20b36a36d36",
+      "language": "en",
+      "utterances": [
+        "As I say, indeed.",
+        "Will, let's - so let's get back to business.",
+        "Matt, are you ready to play?",
+        "I hope so.",
+        "OK.",
+        "Will, let's do it.",
+        "Yes.",
+        "Matt, every answer today is a familiar three-word phrase in which the second word is and, and the first word starts with the letter L.",
+        "I'll give you the third word of the phrase - that is the end - you tell me the first word, starting with L.",
+        "For example, if I said master, you would say lord, as in lord and master.",
+        "OK.",
+        "I think I've got it.",
+        "All right.",
+        "Number one is order.",
+        "Law.",
+        "Law and order is right.",
+        "Number two is learn.",
+        "Live.",
+        "Uh-huh.",
+        "Right, R-I-G-H-T."
+      ]
+    },
+    {
+      "dialogue_uid": "da757b24-ab8b-4708-901b-c15e895d7b8d",
+      "language": "en",
+      "utterances": [
+        "Left.",
+        "Left and right.",
+        "Found.",
+        "Lost.",
+        "Uh-huh.",
+        "Clear.",
+        "Something and clear.",
+        "Clear.",
+        "I hear you...",
+        "Loud.",
+        "Loud and clear is it.",
+        "Small.",
+        "Large.",
+        "Um-hum.",
+        "Clark."
+      ]
+    },
+    {
+      "dialogue_uid": "4d2c34b2-f26d-4b76-8d5d-7d313ec82cc7",
+      "language": "en",
+      "utterances": [
+        "Clark?",
+        "That's it - the name Clark.",
+        "Like a Clark bar?",
+        "Am I hearing that right?",
+        "Like a Clark bar, yeah.",
+        "Lewis.",
+        "Lewis and Clark is it.",
+        "It comes to you.",
+        "Width, W-I-D-T-H.",
+        "Length.",
+        "Uh-huh.",
+        "Inside.",
+        "Low.",
+        "Oh, that's a good one.",
+        "Gentlemen."
+      ]
+    },
+    {
+      "dialogue_uid": "7770320e-9579-4843-aba8-a4e94e33fb74",
+      "language": "en",
+      "utterances": [
+        "Ladies.",
+        "Uh-huh.",
+        "Hardy, H-A-R-D-Y.",
+        "Laurel.",
+        "That's right.",
+        "McCartney.",
+        "Lennon.",
+        "Uh-huh.",
+        "Times.",
+        "Times.",
+        "Life.",
+        "Life and times is it.",
+        "Key, K-E-Y.",
+        "Lock.",
+        "Uh-huh.",
+        "Kisses."
+      ]
+    }
+  ]
+}

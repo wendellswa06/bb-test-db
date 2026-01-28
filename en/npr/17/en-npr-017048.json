@@ -1,0 +1,113 @@
+{
+  "challenge_uid": "776d29ca-2dd9-47e8-8963-c153dac4d523",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "9912ff26-44d6-4d81-b33b-a28f3d59fde8",
+      "language": "en",
+      "utterances": [
+        "You play percussion in an afro-beat band.",
+        "Is that right?",
+        "Yes, I do, afro-fusion band, yeah.",
+        "And I think we have a surprise for you because we have a little bit of your music that we wanted to play on the air here.",
+        "OK.",
+        "(SOUNDBITE OF MUSIC)",
+        "How long have you been playing music like that?",
+        "Oh, I've been playing for most of my life.",
+        "I just moved here to join this band about eight months from the other side of the continental divide.",
+        "Good luck with the band, but enough chit-chat.",
+        "I guess it is time to play the puzzle.",
+        "Are you ready?",
+        "I guess we'll find out, won't we?",
+        "Yeah, I'm ready.",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "dc4b0cd9-767a-4b20-a8c0-694679899e8a",
+      "language": "en",
+      "utterances": [
+        "I guess we will.",
+        "OK.",
+        "Will Shortz, take it away.",
+        "All right, Laine and David, every answer today is the name of a Major League Baseball team.",
+        "I'll give you anagrams of their names - each with one letter added - you name the teams.",
+        "For example, if I said dress D-R-E-S-S, you would say Reds.",
+        "All right?",
+        "Number one is steam S-T-E-A-M.",
+        "The Mets.",
+        "Mets is right.",
+        "Years Y-E-A-R-S.",
+        "Oh, the Rays.",
+        "The Rays.",
+        "Very nice.",
+        "Tampa Bay Rays is right.",
+        "Scuba S-C-U-B-A.",
+        "The Cubs.",
+        "That it.",
+        "Adverbs A-D-V-E-R-B-S."
+      ]
+    },
+    {
+      "dialogue_uid": "417e2855-9008-4802-b29d-11c38d3857d6",
+      "language": "en",
+      "utterances": [
+        "The Braves.",
+        "The Braves is right.",
+        "Gristle G-R-I-S-T-L-E.",
+        "Let's see.",
+        "That one's stumping me so far.",
+        "I'll give you a hint - drop the L.",
+        "Drop the L.",
+        "You know this one, David?",
+        "I think I do.",
+        "Not Lions but some other kind of animal maybe.",
+        "Yeah, from Detroit.",
+        "Tigers, yeah.",
+        "The Tigers is it, good."
+      ]
+    },
+    {
+      "dialogue_uid": "32cd017d-9530-46ec-ad0f-a0f2dafa3cc4",
+      "language": "en",
+      "utterances": [
+        "Oh, the Tigers.",
+        "OK.",
+        "Your next one is costars C-O-S-T-A-R-S.",
+        "OK.",
+        "Oh, the Astros.",
+        "Fast work.",
+        "The Astros is right.",
+        "Sparked S-P-A-R-K-E-D.",
+        "Sparked, OK.",
+        "Oh, the Padres.",
+        "The Padres is right.",
+        "All right.",
+        "How about snake eye S-N-A-K-E-E-Y-E.",
+        "Oh, the Yankees.",
+        "The Yankees is it.",
+        "How about stockier S-T-O-C-K-I-E-R.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "7e69f220-1d15-4478-bb56-40342e4dd09a",
+      "language": "en",
+      "utterances": [
+        "All right, I guarantee this is a team you know well.",
+        "Oh, the Rockies.",
+        "The Rockies, yes.",
+        "Rose oils R-O-S-E-O-I-L-S.",
+        "Oh, the Orioles.",
+        "The Orioles is it.",
+        "Here's your last one: stitchable S-T-I-T-C-H-A-B-L-E.",
+        "Can you spell that again?",
+        "Stitchable, like that shirt is stitchable with five stitches.",
+        "S-T-I-T-C-H-A-B-L-E.",
+        "Stitchable, got you.",
+        "It's a team on the West Coast.",
+        "That's a tough because they always go by just their name the A's."
+      ]
+    }
+  ]
+}

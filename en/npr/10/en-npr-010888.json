@@ -1,0 +1,115 @@
+{
+  "challenge_uid": "fdc8dfd8-2292-4b2d-938c-98e7ec044d02",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "a68664c6-eeb4-4f5c-be45-883fbb9bac30",
+      "language": "en",
+      "utterances": [
+        "Sorry, shad - S-H-A-D.",
+        "Race and dash.",
+        "That's it.",
+        "Bake - B-A-K-E - and ones - O-N-E-S.",
+        "Beak and nose.",
+        "That's it.",
+        "Drag - D-R-A-G - and maul - M-A-U-L.",
+        "Grad and alum.",
+        "That's it.",
+        "Rate - R-A-T-E - and nerd - N-E-R-D.",
+        "Tear.",
+        "Yes.",
+        "Yes, and rend."
+      ]
+    },
+    {
+      "dialogue_uid": "4cef048d-5e6d-49c9-8257-5439b77b3a08",
+      "language": "en",
+      "utterances": [
+        "That's it.",
+        "Good one.",
+        "Thank you, Elise.",
+        "Leap - L-E-A-P - and grin - G-R-I-N.",
+        "Let's see, rang.",
+        "G-R-I-N, so it would be ring.",
+        "Ring, OK, and peal.",
+        "That's it.",
+        "Leap again - L-E-A-P - and shay - S-H-A-Y.",
+        "Would that be pale and ashy?",
+        "That's it.",
+        "Tope - T-O-P-E - and drab - D-R-A-B.",
+        "Poet and bard."
+      ]
+    },
+    {
+      "dialogue_uid": "5e51ff47-eb17-4f23-80cb-e9b755c4af8b",
+      "language": "en",
+      "utterances": [
+        "Good.",
+        "Cool - C-O-O-L - and stun.",
+        "Loco and nuts.",
+        "Rare - R-A-R-E - and shut.",
+        "Would that be rear and...",
+        "Tush.",
+        "Your tush is right.",
+        "Oh, very good.",
+        "Good one, Elise.",
+        "And here's your last one.",
+        "Lath - L-A-T-H - and post - P-O-S-T.",
+        "Halt and stop.",
+        "That is correct.",
+        "And, Ron, I have a feeling you are a Scrabble player."
+      ]
+    },
+    {
+      "dialogue_uid": "2961303c-179c-4bdb-b624-cea987d073ab",
+      "language": "en",
+      "utterances": [
+        "(Laughter) Yes, I am.",
+        "You know your anagrams.",
+        "Ron, you were so fast at that.",
+        "I was trying to be more competitive.",
+        "(Laughter).",
+        "(Laughter) Great job.",
+        "And for playing our puzzle today, you're going to get a WEEKEND EDITION lapel pin, as well as puzzle books and games.",
+        "You can read all about it at npr.org/puzzle.",
+        "Ron, tell us your public radio station.",
+        "WLSU here in La Crosse.",
+        "Ron Malzer of La Crosse, Wis., thanks for playing.",
+        "Thank you.",
+        "OK, Will, what's the challenge for next week?",
+        "Yes, it comes from listener Ed Pegg Jr. who conducts the website mathpuzzle.com.",
+        "Take the four four-letter words limb, L-I-M-B, area, cork and knee.",
+        "Write them one under the other, and the four columns will spell four new words, lack, iron, mere and bake.",
+        "And this is called a double-word square.",
+        "I'd like you to find a double word square with six-letter words.",
+        "And specifically, your square must include the words ponies, accept, seared, caviar.",
+        "Ponies is spelled the way you'd think, accept is A-C-C-E-P-T, seared is S-E-A-R-E-D, and caviar.",
+        "These four words must be among the 12 common uncapitalized six-letter words in the square.",
+        "Can you do it?"
+      ]
+    },
+    {
+      "dialogue_uid": "2ab29129-c69e-40c6-9d9e-e3d76b77554d",
+      "language": "en",
+      "utterances": [
+        "Well, when you have the answer, you can go to our website, npr.org/puzzle and click on the submit your answer link.",
+        "Just one entry per person, please.",
+        "And our deadline for entries is Thursday, August 4 at 3 p.m. Eastern.",
+        "Please include a phone number where we can reach you at at about that time.",
+        "If you're the winner, we'll give you a call and you'll get to play on the air with the puzzle editor of The New York Times and WEEKEND EDITION's puzzle master, Will Shortz.",
+        "Thanks again, Will.",
+        "Thanks, Elise.",
+        "In Democratic Republic of Congo, the provisional result of a long-awaited presidential election had hardly been announced and the outcome was contested.",
+        "The election commission declared one opposition frontrunner, Felix Tshisekedi, the winner of a vote on December 30.",
+        "Another opposition contender says those results were rigged.",
+        "NPR's Ofeibea Quist-Arcton reports from Kinshasa that this vote was supposed to herald Congo's first democratic and peaceful transfer of power.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "(Speaking French).",
+        "(Cheering).",
+        "After a long night of waiting, Congo's embattled election chief Corneille Nangaa eventually declared the provisional winner of the highly anticipated presidential vote.",
+        "Monsieur Tshisekedi (unintelligible)...",
+        "(Cheering)."
+      ]
+    }
+  ]
+}

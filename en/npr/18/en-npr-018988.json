@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "32738ab9-7a1c-497f-b52c-c0eacb8848e4",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "c28d31a1-9c38-451f-90e4-7eec06d8c59f",
+      "language": "en",
+      "utterances": [
+        "Thanks for having me.",
+        "This is WEEKEND EDITION from NPR News.",
+        "I'm Rachel Martin.",
+        "What's a six-letter word that starts with P?",
+        "Yep, it's time for the puzzle.",
+        "(SOUNDBITE OF THEME MUSIC)",
+        "Joining me now is WEEKEND EDITION's puzzle-master Will Shortz.",
+        "Good morning, Will.",
+        "Good morning, Rachel.",
+        "So, what's going on in your world?",
+        "Anything exciting happening in the world of Will Shortz?",
+        "Well, something unusual.",
+        "Well, I'm going to be on TV this week on the \"\"Artie Lange Show.\"\" It's a sports comedy show.",
+        "Tapes Wednesday night - I think it airs Thursday morning on the Audience Network, and it's also online.",
+        "Besides talking about puzzles, I'm going to play table tennis on the air with Artie.",
+        "Wow.",
+        "So, that's kind of pressure.",
+        "Have you played table tennis on TV before?",
+        "No.",
+        "(LAUGHTER)"
+      ]
+    },
+    {
+      "dialogue_uid": "b7dbeb12-6a70-47f0-b3bf-c1e0d5fd1388",
+      "language": "en",
+      "utterances": [
+        "I bet you're going to do great.",
+        "OK.",
+        "So, refresh our memory.",
+        "What was last week's challenge?",
+        "Yes.",
+        "It came from listener Al Gori of Cozy Lake, New Jersey.",
+        "And the challenge was to name a famous American man - first and last names.",
+        "I said change the first letter of his first name from T to H and the result will sound like a term for an attractive person.",
+        "And the answer was Ted Turner to head turner.",
+        "OK.",
+        "And this week about 750 listeners got it right.",
+        "Our randomly selected winner if Vernon Cole of Brownsboro, Alabama.",
+        "He's on the line now.",
+        "Hi, Vernon.",
+        "Congratulations.",
+        "Hi.",
+        "Thank you.",
+        "So, how'd you figure this one out?",
+        "My wife and I did it jointly actually.",
+        "She got it in the end.",
+        "But we went through common names that began with T, trying to think of what we could replace the T with the H and get a meaningful word.",
+        "And when we got to Ted, it popped right out.",
+        "Great.",
+        "So, what do you for a living in Brownsboro?",
+        "I'm an engineer at a contract research and development firm, a small business that does R&D in a number of areas.",
+        "I focus mostly on models for how batteries and fuel cells work and how batteries age.",
+        "And what's Brownsboro like?",
+        "It's a small town adjacent to Huntsville, which is probably more likely you've heard of Huntsville with all the rocket development history."
+      ]
+    },
+    {
+      "dialogue_uid": "fd3264e5-dfdb-49a9-8baa-f7355b755d30",
+      "language": "en",
+      "utterances": [
+        "Sure.",
+        "So, yeah, very, very pleasant place to live, good amount of arts and outdoor activities with the climate.",
+        "So, we really have enjoyed it here.",
+        "Well, that sounds like a lovely place.",
+        "Vernon, are you ready to play the puzzle?",
+        "I hope so.",
+        "All right.",
+        "Let's do it, Will.",
+        "All right, Vernon.",
+        "For this week's puzzle, you'll have to put on your thinking cap, or more accurately your thinking hat.",
+        "Every answer is a familiar two-word phrase or name in which the first word starts with H-A and the second word starts with T.",
+        "For example, if I said track and field event that involves a heavy weight, you would say hammer throw - hammer starting H-A and throw starting with T.",
+        "OK.",
+        "Vernon, you have it?",
+        "Yes.",
+        "All right.",
+        "Let's do it.",
+        "Number one: an informal woman's garment tied around the neck leaving the arms, shoulders and back bare."
+      ]
+    },
+    {
+      "dialogue_uid": "259e05fe-aec4-4862-9532-cb1c2101a7bc",
+      "language": "en",
+      "utterances": [
+        "A halter top.",
+        "That's right.",
+        "Number two: a small item on a rod in the bathroom.",
+        "Hanging - hand towel.",
+        "Hand towel is it.",
+        "To perform a tricky surfing maneuver.",
+        "To hang ten.",
+        "Hang ten is it.",
+        "International court situated in the Netherlands.",
+        "The Hague comes to mind, but what the second part would be...",
+        "Hague is right, yeah.",
+        "Now you need the T.",
+        "Tribunal.",
+        "Hague Tribunal, good.",
+        "Liable to be set off by the slightest thing, as a temper.",
+        "Someone who gets angry really fast and easy would be said to have a blank temper."
+      ]
+    },
+    {
+      "dialogue_uid": "21a23878-d225-498b-9a24-1d5c368f0eaa",
+      "language": "en",
+      "utterances": [
+        "Hairpin trigger.",
+        "Hair trigger is it, good.",
+        "Statement that's only partly accurate.",
+        "A half-truth.",
+        "Um-hum.",
+        "Theme song of the \"\"Roy Rogers Show.",
+        "Happy Trails.",
+        "That's it.",
+        "All right.",
+        "How about this: woolen fabric used in traditional sports coats.",
+        "Harris tweed.",
+        "Harris tweed, good.",
+        "Well done, Vernon.",
+        "Words before the chief in a presidential salute."
+      ]
+    }
+  ]
+}

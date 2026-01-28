@@ -1,0 +1,104 @@
+{
+  "challenge_uid": "c6c6081b-e24f-4293-aa0e-bcba994fecea",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ed468bb7-8cbd-499e-8a6c-b24754b29757",
+      "language": "en",
+      "utterances": [
+        "OK, Will, let's play.",
+        "All right, John and Rachel, with spring in the air, I brought a flower puzzle.",
+        "Every answer is the name of a flower, which I'd like you to identify from their anagrams.",
+        "For example, if I said Rishi - R-I-S-H-I - minus H, you would say Iris.",
+        "OK, you got it, John?",
+        "I think so.",
+        "All right, let's give it a go.",
+        "Number one is store - S-T-O-R-E - minus...",
+        "How about rose?",
+        "Oh, fast.",
+        "He didn't even need the minus.",
+        "Number two is filly - F-I-L-L-Y - minus F.",
+        "Lily."
+      ]
+    },
+    {
+      "dialogue_uid": "644199bf-b632-49f6-ab5e-cfe82cb19d29",
+      "language": "en",
+      "utterances": [
+        "That is it.",
+        "Openly minus L.",
+        "Peony.",
+        "Good.",
+        "That's it.",
+        "Snappy - S-N-A-P-P-Y - minus one of the Ps.",
+        "Pansy.",
+        "That's it.",
+        "Dismay - D-I-S-M-A-Y - minus M.",
+        "Daisy.",
+        "That's it.",
+        "Pulpit - P-U-L-P-I-T - minus one of the Ps.",
+        "Tulip.",
+        "Uh huh.",
+        "Streak - S-T-R-E-A-K - minus K."
+      ]
+    },
+    {
+      "dialogue_uid": "bd28c516-81ba-4e66-8177-f53504e0b932",
+      "language": "en",
+      "utterances": [
+        "Aster.",
+        "That's it.",
+        "Outlive - O-U-T-L-I-V-E - minus U.",
+        "Violet.",
+        "Uh huh.",
+        "Measuring - M-E-A-S-U-R-I-N-G - minus S.",
+        "They're getting harder.",
+        "Is it geranium?",
+        "Geranium.",
+        "Geranium.",
+        "Oh, I'm impressed.",
+        "Oh, good job, John.",
+        "Bargained - B-A-R-G-A-I-N-E-D - minus B as in boy."
+      ]
+    },
+    {
+      "dialogue_uid": "6a078a35-b1e7-42da-b7f0-84f4325a5990",
+      "language": "en",
+      "utterances": [
+        "Let's see.",
+        "I'm thinking - I'm seeing garbanzo.",
+        "It's clearly not that.",
+        "(Laughter).",
+        "(Laughter) Garbanzo flower.",
+        "Try the - it does start with a G, though.",
+        "Oh, it does?",
+        "In fact, it starts G-A.",
+        "Gar...",
+        "Yeah.",
+        "We've exhausted my flower...",
+        "Gardenia.",
+        "Oh, gardenia."
+      ]
+    },
+    {
+      "dialogue_uid": "cb45e6de-a47d-4b51-b1db-4f6bc7bc91a6",
+      "language": "en",
+      "utterances": [
+        "Gardenia.",
+        "Good, good.",
+        "Good.",
+        "How about contrarian - C-O-N-T-R-A-R-I-A-N - minus R.",
+        "Minus R.",
+        "And this is a flower you might wear.",
+        "Might wear - oh, a carnation.",
+        "Carnation is it.",
+        "And here's your last one.",
+        "It's underflows - U-N-D-E-R-F-L-O-W-S - minus D as an dog.",
+        "Minus D - sunflower.",
+        "Sunflower.",
+        "Sunflower is it.",
+        "Congratulations."
+      ]
+    }
+  ]
+}

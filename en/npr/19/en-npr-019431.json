@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "e4999a64-c5c0-40f9-8aef-be7374ba9740",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "53ea99ef-90ac-4294-bf9d-697c5fe465f2",
+      "language": "en",
+      "utterances": [
+        "According to Stars and Stripes, the profiling's been going on for at least three years.",
+        "The newspaper, which is funded by the government but editorially independent, broke the story in a series of articles this past week.",
+        "The lead reporter on those stories, Charlie Reed, is on the line with us from Tokyo.",
+        "Charlie, welcome to the program.",
+        "Thanks, Guy.",
+        "Explain this rating system to us.",
+        "Well, it appears from documents we've obtained that the rating consists of looking at journalists' work and applying some sort of matrix to how those stories factor in against the military's mission objective.",
+        "I'm not quite sure exactly how that's done.",
+        "However, it results in a positive, negative or neutral rating, which is then filtered to the public affairs officials who are facilitating these embeds with journalists.",
+        "This is being done by an outside contractor for the Pentagon called the Rendon Group.",
+        "You write about them in your articles.",
+        "Can you tell us about the Rendon Group?",
+        "The Rendon Group, as far as I know, has had a long time affiliation with the U.S.",
+        "government which goes back to I believe the Gulf War.",
+        "They...",
+        "The first Gulf War in 1991?",
+        "Yes.",
+        "They're pretty tight-lipped firm.",
+        "I mean they're a global strategic communication company.",
+        "They've worked with the military in Afghanistan for several years, I think, at least going back to 2005 from the contracts I could find and from what Rendon told me themselves.",
+        "We've been told - I was told that there's a Rendon official on the ground in Afghanistan with the public affairs shop in Kabul.",
+        "So...",
+        "With the U.S.",
+        "military public affairs shop there."
+      ]
+    },
+    {
+      "dialogue_uid": "b0be00b6-bd2b-45bd-8ae5-7351934c9107",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "Charlie, we called up Army Colonel Wayne Shanks.",
+        "He's a public affairs officer for U.S.",
+        "and NATO troops in Afghanistan.",
+        "We asked him how these profiles affect, you know, which reporters are granted access where and here's what he said.",
+        "Take a listen.",
+        "We have never ever denied anybody a, you know, their access that they've requested out here because of one of these reports.",
+        "Charlie, based on your reporting for this story, for these stories, is that accurate?",
+        "We have a reporter by the name of Heath Druzin who was denied an embed in Iraq just a few months ago because he quote, \"\"refuse to highlight positive coverage of the unit he wanted to embedded with.\"\" He had embedded with the unit, gone on to do some reporting on some other units, had requested an embed with the previous unit, and was denied apparently because he had not published positive stories about this unit.",
+        "I believe the military - and this is in Iraq.",
+        "So it seems that this practice is happening in all the combat zones.",
+        "But whether it's institutional or whether it's a sort of dependent on the public affairs person working the embed is unclear.",
+        "Well, out of just curiosity, I mean a lot of people will hear this story and they'll say, well, you know, any corporation would do this, any institution would do this.",
+        "They would look at the background of a reporter to determine whether that reporter might be hostile in his or her coverage.",
+        "What's the big deal?",
+        "The embed guidelines dictate that the military will not try and prevent derogatory or negative news from - coming from these embeds.",
+        "So, to know where a reporter is coming from and to try and gauge what he or she may be pursuing is one thing.",
+        "But to use a system by which their reporting is rated and then steer them away from things that they may want to cover seems to not jive with that policy.",
+        "Charlie Reed is a reporter for Stars and Stripes.",
+        "She broke the story about the Pentagon's ratings systems for reporters who cover the military in Afghanistan.",
+        "Charlie Reed, thanks so much."
+      ]
+    },
+    {
+      "dialogue_uid": "4a33c3bd-628d-44c3-9ad7-f9c584cec27b",
+      "language": "en",
+      "utterances": [
+        "Thanks, Guy.",
+        "And Pentagon spokesman Bryan Whitman told us the Department of Defense will take an informal look at the program to determine whether any rules have been violated.",
+        "(Soundbite of music)",
+        "You're listening to ALL THINGS CONSIDERED from NPR News.",
+        "In Sri Lanka, it's estimated that tens of thousand of civilians are trapped.",
+        "Many caught in the crossfire as government forces battle the rebel group, the Tamil Tigers.",
+        "Shelling over the past week has killed hundreds of civilians, including about a 100 people killed in strikes on a makeshift hospital.",
+        "U.N.",
+        "spokesman Gordon Weiss joins us from the Sri Lankan capital, Colombo.",
+        "Thanks for being with us.",
+        "Thank you very much.",
+        "NPR's Robert Smith in New York.",
+        "US cities have stepped up security measures for rail and mass transit systems after today's explosions in London.",
+        "This is NPR News.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Melissa Block.",
+        "And I'm Michele Norris."
+      ]
+    },
+    {
+      "dialogue_uid": "75ad18a5-eb75-4c42-a4d7-f73e40dbd50b",
+      "language": "en",
+      "utterances": [
+        "Today, the White House refused to provide Congress with subpoenaed documents and testimony about the firing of U.S.",
+        "attorneys.",
+        "On behalf of the president, White House counsel, Fred Fielding, invoked executive privilege contending that the congressional demands for information were unreasonable.",
+        "He said they represent a substantial intrusion into presidential prerogatives.",
+        "NPR's Nina Totenberg reports.",
+        "Fielding's letter virtually dared Congress to go to court.",
+        "And at the White House briefing, spokesman Tony Snow contended that the administration has already provided Congress all the information that it could possibly need about the U.S.",
+        "attorney firing scandal.",
+        "More than eighty-five hundred pages of documents, we've pointed out, have been produced and we have also offered for extensive interviews of the key players people want to hear from.",
+        "So the question is, do you want the information?",
+        "The sticking points between the White House and Congress are these: the White House wants its officials to testify off the record, behind closed doors, without any transcript, and without taking an oath to tell the truth.",
+        "Additionally, the White House has refused to itemize each document it's withholding and to describe why.",
+        "The White House claims that would be tantamount to giving Congress the very information it wants.",
+        "The ranking Republican on the Senate Judiciary Committee, Senator Arlen Specter, who's been willing to agree to some but not all of the White House demands, got so frustrated over the weekend that on CNN's \"\"Late Edition,\"\" he said he would be willing to agree to all the White House demands as a first step, and that the committee could later follow up with subpoenas for transcribed and sworn testimony.",
+        "But committee chairman Patrick Leahy reminded Specter about the all-encompassing nature of the White House terms.",
+        "Unfortunately, they said there's no way we have to agree to do no follow-ups so they can just - two minutes into thing, get up and walk out.",
+        "And we…",
+        "I agree with you that we cannot give away our authority for follow up."
+      ]
+    },
+    {
+      "dialogue_uid": "9f1eccbc-dcb0-4712-af61-ae860f282099",
+      "language": "en",
+      "utterances": [
+        "I think - you know, the problem we have, Arlen, I've asked the White House several times if they have any - wanted to give any given in this at all, they say, absolutely not.",
+        "This is a take-it-or-leave-it offer.",
+        "And…",
+        "Patrick…",
+        "Yes, sir?",
+        "One thing we haven't done is asked for a meeting with the president.",
+        "For now, Specter said he backs Leahy's plan to go ahead this week with the questioning of Sara Taylor, the former White House political director, and Harriet Miers, the former White House counsel.",
+        "In a letter to the committee, Taylor's lawyer said his client wants to testify and has participated in no wrongdoing.",
+        "But he said that if the White House instructs Taylor not to talk - and it now has - she would have to defer to the president's directive unless a court rules otherwise.",
+        "Senator Leahy, speaking from a payphone in Vermont, said that Taylor can answer plenty of questions about the U.S.",
+        "attorney scandal, questions that are unrelated to President Bush.",
+        "This woman had about 60,000 e-mails on a Republican National Committee e-mail account.",
+        "I don't see how you get executive privilege out of that.",
+        "Leahy knows that the White House initially contended it could not provide the e-mails sent from the White House to the Republican National Committee because they've been deleted and lost forever in computer space.",
+        "Later, however, the e-mails were retrieved but the White House still has refused to provide them.",
+        "If the standoff between the White House and Congress cannot be resolved, it will, in all likelihood, eventually go to court.",
+        "While Republicans could filibuster a contempt citation in the Senate, that would not be true in the House."
+      ]
+    }
+  ]
+}

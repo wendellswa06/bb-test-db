@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "1f88284a-5ebd-45a4-b2ed-46795a5161d6",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "5764a0a0-31bd-4358-a577-95a504049d43",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "I'm not going to give you any more validation than he did because he knows his stuff, but that was really amazing.",
+        "That was really, really good.",
+        "Well, thank you.",
+        "You should be proud.",
+        "When you come back to your high school students, you can say that you dominated on The Puzzle.",
+        "I'll have a listening station where they can listen to the segment.",
+        "Exactly.",
+        "For playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, as well as puzzle books and games.",
+        "You can read all about it at npr.org/puzzle.",
+        "And Jacob, which member station do you listen to?",
+        "You're listening to TALK OF THE NATION SCIENCE FRIDAY.",
+        "I'm Ira Flatow.",
+        "Up next the flu season; you know it's under way.",
+        "It's been traveling around the country and flu vaccines may prevent you from getting the flu but once you get it doctors rely on different drugs to fight the flu.",
+        "And this week, they have two less drugs in their arsenal.",
+        "The Centers for Disease Control and Prevention announced last week that two popular antivirals should not be prescribed anymore because the predominant flu strain has developed resistance to them.",
+        "Here to talk about this recommendation and what it means for the rest of the flu season is David Shay.",
+        "Dr. Shay is a medical epidemiologist in the influenza branch at the National Center for Infectious Disease at the CDC.",
+        "Welcome to the program Dr. Shay.",
+        "DR.",
+        "DAVID SHAY (Epidemiologist, National Center for Infectious Disease):",
+        "Thanks for having me."
+      ]
+    },
+    {
+      "dialogue_uid": "bd2b796b-7bc2-4b7c-b695-47e7da07829c",
+      "language": "en",
+      "utterances": [
+        "Tell us about, let's make clear from the outset we're not talking about drugs, the flu vaccine here right?",
+        "That's still being recommended for people to get.",
+        "Absolutely, absolutely.",
+        "We're talking about drugs as you said in your introduction that are used to treat influenza or used as prophylactics in those at high risk were exposed were influenza.",
+        "So these are medications and not vaccines, that's correct.",
+        "So if you got the flu and you're having trouble getting rid of it and there's complications or whatever.",
+        "Your doctor says it's time to give a flu drug now that you've had the drug.",
+        "We're talking about that kind of medicine.",
+        "That's correct.",
+        "And what are the two medicines that you're saying are being overly used and are resistant?",
+        "The two medications are what are called adamantane class antivirals and that includes amantadine and rimantadine.",
+        "It's important to note though we're not necessarily saying that this resistance developed because they were being overused.",
+        "What we're saying is the viruses that are circulating in the United States right now that over 90 percent of those that we've tested thus far are demonstrating resistance to these two medications so that they shouldn't be used.",
+        "We can't yet take that next step and say that the reason for this is because the drugs were overused in the past.",
+        "Do we know what the reason might be?",
+        "That's a tough question.",
+        "We do know, for instance, in areas of the world where these medications might be available in over the counter, non-prescription type cold remedies.",
+        "That there's reason to suspect that high use of the drugs could have resulted in resistance.",
+        "But that's not the case in the United States where these medicines have and always have been prescription only drugs.",
+        "It's also possible because this resistance is mediated by a single mutation or singly substitution in the amino acid chain of the M protein of influenza.",
+        "It's possible that the predominant strain of influenza that's circulating this year just happens to have that mutation in it."
+      ]
+    },
+    {
+      "dialogue_uid": "08f327aa-e3c7-4e06-a2ec-ea6a28da3aaf",
+      "language": "en",
+      "utterances": [
+        "And it's not because there's been a dramatic change in the use of the medications but just that there's random mutation has occurred and is in the predominate strain of the virus.",
+        "I noticed that one of the drugs you did not include is Tamiflu.",
+        "That's right.",
+        "Tamiflu is still effective?",
+        "It is.",
+        "Olsetamivir, otherwise known as Tamiflu, and zanamivir or relenza are another class of anti-flu medications called Neuraminidase inhibitors.",
+        "They act by an entirely different mechanism than the adamantane class drugs.",
+        "And we have not tested any viruses at CDC this year from the United States that have demonstrated resistance to either of those two drugs so that they should continue to be effective for the treatment of influenza this season in the United States.",
+        "I guess then you could only speculate why Tamiflu is still working in the other ones or not?",
+        "That's true, that's true there are a number of underlying reasons though that makes it potentially less of a problem.",
+        "One is that the mutation that results in resistance to Amantadine and rimantadine doesn't impair the virus anyway.",
+        "In other words it can still transmit from person to person.",
+        "It can still cause disease just as easily as any other influenza virus.",
+        "We know that the mutations that are necessary to confer resistance to the neuraminidase inhibitors do appear to have some selective disadvantage for the virus.",
+        "In other words it's kind of a hindrance for the virus to carry around those mutations such that those viruses are less likely to be transmitted among people and perhaps less likely to cause disease once they infect people.",
+        "It all comes back to this case the specific mutations and what they do.",
+        "Right, let's go to Joseph in Charlotte, North Carolina.",
+        "Hi, Joseph, welcome to SCIENCE FRIDAY.",
+        "Hi.",
+        "Thanks for taking my call.",
+        "With this resistance to, you know, viruses coming up or the methods to alleviate suffering.",
+        "How is this similar to how antibiotics are having trouble with disease resistant bacteria?",
+        "I known antibiotics and antivirals are a little bit different but are we looking at the same thing with what we're having with antibiotics?"
+      ]
+    },
+    {
+      "dialogue_uid": "3416cad0-6ac4-4379-ac82-52dff7ca403f",
+      "language": "en",
+      "utterances": [
+        "That's a difficult question to answer.",
+        "Quickly, the easy answer is we're in a situation now where we've got four drugs that are available to fight influenza infections.",
+        "And we've just said that two aren't going to be effective this year among the viruses we've seen in the United States.",
+        "So you can look at it one way in we lost half of the potential drugs that we had available to fight the flu and so that's a big deal.",
+        "We've seen similar cases in terms of certain drug resistant bacteria where a good number of the drugs previously effective are no longer affected.",
+        "A little bit more difficult thing to say and that's what I as eluding to before is that we know that in many cases we can, for antibiotic resistance among bacteria, we can link overuse or in appropriate use of the drug to the development of the resistance problem.",
+        "In this particular instance, with these viruses that appear to be resistant to this class of drugs it's not as easy to make that assessment because again it only takes one mutation in the amino acid chain of the virus to result in this resistance profile.",
+        "Good question, Joe.",
+        "And any other reasons that might have led rather than simple overuse of the drug to our present situation.",
+        "How do we fix it if I can ask that question?",
+        "Well that's ...",
+        "Well, that's the most difficult question of them all.",
+        "There's not much that we can do to fix the problem because again it's a single mutation that doesn't impair the fitness of the virus if you will in any way shape or form.",
+        "But the good new is you have the other two drugs still available that do work.",
+        "That is true."
+      ]
+    },
+    {
+      "dialogue_uid": "077572b3-5f3b-4ee5-a3b8-d93f9f01f15b",
+      "language": "en",
+      "utterances": [
+        "That's right and the resistance to this class of drug in no way implies or leads to is along the pathway that might result in resistance to the other two drugs.",
+        "Maybe you just need to keep coming up with new drugs?",
+        "We hope so.",
+        "Thanks for calling, Joe.",
+        "Thank you for taking my call.",
+        "Have a good weekend.",
+        "Do we know that these all four drugs will work against the different kind of flu?",
+        "The bird flu that is out there, are they still effective against that?",
+        "We know that many of the viruses that have been circulating, the H5N1, avian influenza or bird flu viruses that have been circulating and for instance Vietnam and Thailand also demonstrate resistance to this class of drugs; to amantadine and rimantadine.",
+        "There are other H5N1 avian flu viruses circulating in Indonesia that don't necessarily contain the mutation that confers resistance.",
+        "So many of the viruses that we've tested, that are H5, show resistance but not all of them.",
+        "But they do show, the amantadine and rimantadine still work in the bird flu?",
+        "It works in some strains of the bird flu that we've seen but by no means the majority.",
+        "That's something to worry about.",
+        "Yes it is because these are relatively inexpensive drugs that are compared to the other two drugs that are easier to manufacture so yeah."
+      ]
+    }
+  ]
+}

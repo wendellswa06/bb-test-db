@@ -1,0 +1,116 @@
+{
+  "challenge_uid": "41b3d3ce-aa74-48d4-b509-90238ce299e3",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8ce7596d-357a-4ae1-a929-7b0cf31430b7",
+      "language": "en",
+      "utterances": [
+        "Other callers encouraged us to think big.",
+        "Kathleen in Cape Cod.",
+        "Hi, Kathleen.",
+        "Hi, Ira.",
+        "Hi, there.",
+        "I think I'm going to go join bunker boy.",
+        "That sounds better than what I get to do tonight.",
+        "What are you doing tonight?",
+        "I am a psychiatric nurse.",
+        "Yeah.",
+        "And I'm working the 11-7 shift...",
+        "Wow."
+      ]
+    },
+    {
+      "dialogue_uid": "731cd32d-c282-4012-9838-2376969587fc",
+      "language": "en",
+      "utterances": [
+        "...on a unit that not only takes in psychiatric patients, but substance abuse.",
+        "So - I mean, revelers that go over the edge a little.",
+        "Wow.",
+        "So I'm just - I liked what that one woman said a little while ago about this being a time of connection instead of a time of the fear-mongers and people working up fragile human beings into a frenzy.",
+        "And I just had a call from brother from California who wanted to wish me a happy millennium because it had just turned the millennium in Kolkata.",
+        "And I thought, that was a nice, little...",
+        "(Soundbite of laughter)",
+        "I'd rather focus on that.",
+        "So are you worried?",
+        "If you're working in a hospital...",
+        "Yeah.",
+        "...in a psychiatric ward there?",
+        "We're very low-tech.",
+        "So you're not worried about Y2K at all?"
+      ]
+    },
+    {
+      "dialogue_uid": "84a5e3b7-a5fb-4090-acfa-672766db60fe",
+      "language": "en",
+      "utterances": [
+        "No. I would be really worried if I worked in an ICU or something that had a lot of machinery.",
+        "Peter, let me ask you.",
+        "Do you check any of these - is there any, in your experience, to worry about in embedded computer chips in devices and things like that?",
+        "Quite a lot in the past.",
+        "I did not work with it myself, but I have some associates that have worked with testing medical equipment, and it's extremely tough.",
+        "If you have a heart-lung machine, you don't want it to stop, not even for a minute.",
+        "Hmm.",
+        "And some embedded chips cannot be easily tested.",
+        "However, I read that good - most of the hospitals have tested everything.",
+        "And, in fact, one interesting report yesterday was from a hospital - I think it was from Colorado - that is giving whistles to their patients just in case the bells to call nurses at night or during the day fail.",
+        "That is low-tech.",
+        "That's definitely low-tech.",
+        "Yes.",
+        "Well, good luck to you, Kathleen.",
+        "Well, thank you.",
+        "And what I'm going to do with my patients is we're all going to get together and we're going to say, may peace prevail on Earth."
+      ]
+    },
+    {
+      "dialogue_uid": "8155d310-793a-424f-af51-978b35bb6762",
+      "language": "en",
+      "utterances": [
+        "Amen.",
+        "Amen.",
+        "Amen.",
+        "Have a good, Happy New Year.",
+        "Oh, thank you.",
+        "Bye-bye.",
+        "Bye-bye.",
+        "And the end of the world, of course, did not end that night.",
+        "Both sides took credit.",
+        "Those who were worrying too much said: See, we told you so.",
+        "Those who worked on the problem said: See, our hard work prevented it.",
+        "And if you'd like to hear the full, unedited version of the 1999 broadcast, visit our website at sciencefriday.com for a link to the complete podcast of that.",
+        "We're going to say goodbye, and a have a healthy and happy and a Merry Christmas."
+      ]
+    },
+    {
+      "dialogue_uid": "a6b1f74a-fb02-4641-bfb1-4bba326541cc",
+      "language": "en",
+      "utterances": [
+        "I'm Ira Flatow.",
+        "We'll see you New Year's Eve in New York.",
+        "This is TALK OF THE NATION.",
+        "I'm Neal Conan in New York City this week for the start of the 65th United Nations General Assembly.",
+        "We're going to spend most of this hour focused on what actually gets accomplished here this week and how, but at the last minute, we've gotten the opportunity to spend a few minutes with Tony Blair, the former British prime minister, now author.",
+        "His new book is titled \"\"A Journey: My Political Life,\"\" and if you have a question for the prime minister about his book or the issues it raises, give us a call, 800-989-8255.",
+        "Email us, talk@npr.org.",
+        "He's only got a few minutes, so be quick about it.",
+        "President GEORGE W.",
+        "BUSH: It's disturbing to people.",
+        "And it's disturbing to the Iraqi people.",
+        "But it reminds me of how important it is for us to help them succeed.",
+        "If you think the violence is bad now imagine what it would look like if we don't help them secure the city, the capital city of Baghdad.",
+        "NPR national political correspondent Mara Liasson was watching the president.",
+        "She joins us now.",
+        "Mara, welcome back to the show.",
+        "Thank you, Alex.",
+        "It's nice to be here.",
+        "And so along with Iraq, the president also talked about Iran and the reports this week about increasing evidence that Iran is supplying a weapons and maybe advisors to the Shiite militias in Iraq, specifically the components of these roadside bombs.",
+        "And Mr. Bush specifically mentioned what is called the Qods Force.",
+        "Here he is.",
+        "The Qods Force is a part of the Iranian government.",
+        "Whether Ahmadinejad ordered the Qods Force to do this, I don't think we know.",
+        "But we do know that they're there.",
+        "And I intend to do something about it."
+      ]
+    }
+  ]
+}

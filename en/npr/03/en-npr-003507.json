@@ -1,0 +1,131 @@
+{
+  "challenge_uid": "d207878f-de22-4af5-8d20-eeb8c3a3ab2f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "8744faca-a526-47bf-9d5d-bf27cdae1cfa",
+      "language": "en",
+      "utterances": [
+        "We can't spread out, but occasionally people do follow us, and there's already people who are there, and we try to work with them, but we also ask, as much as we can, for them to help us by getting out of our way and at least giving us a place to park by the side of the storm.",
+        "(Soundbite of laughter)",
+        "It's that crowded?",
+        "It sometimes gets that crowded.",
+        "Wow.",
+        "We're going to take a break and come back and talk lots more with Don Burgess and Greg Carbin.",
+        "Our number, 1-800-989-8255.",
+        "We have a couple of microphones out here, set up to take your questions, talking about tornadoes right here in Oklahoma.",
+        "So stay with us.",
+        "We'll be right back.",
+        "(Soundbite of music)",
+        "You're listening to SCIENCE FRIDAY from NPR.",
+        "I'm Ira Flatow.",
+        "We're in Norman, Oklahoma, talking about tornadoes this part of the hour, with Don Burgess, who is a research scientist at the University of Oklahoma and Greg Carbin, who is at the NOAA Storm Prediction Center here in Norman.",
+        "Our number, 1-800-989-8255.",
+        "A question from the audience here?",
+        "Unidentified Man #1 (Audience Member): Yeah, hi.",
+        "My question is about Oklahoma and tornadoes in general.",
+        "I've lived here almost all my life, and of course, people from other states go, well, tornadoes here.",
+        "Why the hell don't you just move away from them?",
+        "But more recently, I've heard a lot more reportage of tornadoes all over the U.S., in Ohio and all sorts of places.",
+        "And I'm wondering, is that a recent phenomenon, or is that just an aspect of reportage?",
+        "It's an aspect of reportage for the most part.",
+        "The attention that some of these programs and research, but mostly Hollywood, have given to tornadoes and severe weather, have brought people out, and the Weather Service, the National Weather Service, including trainspotters throughout the country to report severe weather back to their National Weather Service office, and we're just seeing an increase in the number of people involved in that endeavor.",
+        "So that's probably what you're seeing."
+      ]
+    },
+    {
+      "dialogue_uid": "1d5279b9-0a74-4601-ba97-be2772ba57a4",
+      "language": "en",
+      "utterances": [
+        "Thanks.",
+        "Unidentified Man #1: Thanks.",
+        "Let's go to the phones, to John(ph) in Index, Washington, is it, John?",
+        "Yeah, that's it.",
+        "Go ahead.",
+        "Well, I think maybe your screener should've worked a little harder here, but how about firing bottle rockets, you know, with sensors of some sort?",
+        "You know, you've got the drones, and that sounds like you've got it covered.",
+        "All right, let's see if we can get an answer.",
+        "Thanks for calling because both Don and Greg are shaking their heads on this.",
+        "Don, you want to take it?",
+        "We've tried rockets and shooting them from light aircraft near the storm to try to hit the tornado.",
+        "And attempt to do what, break it up?",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "a46f5345-b60c-4346-ac39-222ff6d75189",
+      "language": "en",
+      "utterances": [
+        "No, no, not to break it up.",
+        "The - although some farmers out there thought we were trying to do that.",
+        "(Soundbite of laughter)",
+        "Thought we were practicing weather modification.",
+        "All we're really trying to do is get more information with sensors you can put in the rocket.",
+        "But it's a very turbulent environment.",
+        "It's very difficult for the plane to fly, and actually, it was very hard to try and aim those rockets.",
+        "These were the small rockets.",
+        "The much larger rockets you could probably get through there, but the big rocket's going to land someplace, and you might have a negative effect from that.",
+        "(Soundbite of laughter)",
+        "Yeah, I remember watching cloud-seeding experiments 30 years ago in Florida, and they had to stop that because the public was wondering what was going on.",
+        "If you had - let me give you the blank-check question.",
+        "If you had a blank check to create an instrument or some technology that you don't have, and you think you would really need, what would it be?",
+        "What would you like to have to study the tornadoes or the clouds better?",
+        "Greg, do you have an answer while Don's thinking about it?",
+        "Well, I think if we had more computing capability, I mean, we're using some of the fastest computers in the world to simulate the atmosphere on a day-to-day basis, but we're still short when it comes to trying a variety of different approaches in terms of the computer models that we have, and it's really limited by computing capacity and computers - these computers - are not cheap.",
+        "So I need a blank check for that.",
+        "I'm an observationalist.",
+        "So I'm going to say more observation and particularly above the ground.",
+        "We get a lot of information right at the ground, including in Vortex2, but we struggle to get the temperature, dew point, wind field, precisely above the ground.",
+        "That sounds great."
+      ]
+    },
+    {
+      "dialogue_uid": "8a243777-15ea-4550-a043-9d0903267589",
+      "language": "en",
+      "utterances": [
+        "It's improved dramatically, actually, in just a relatively short term.",
+        "In terms of the large-scale conditions favorable for thunderstorm development, there have been amazing advances in the last decade and a half or so, especially with the use of simulations and computer models.",
+        "Our ability to understand those conditions when storms will form have improved quite a bit.",
+        "Now, the weather changes from day to day, and some patterns are more predictable than others, and when we're in the winter season and early spring, we're usually in a pattern where, if we're going to see a large outbreak of tornadoes, we're going to see that a couple, few days in advance.",
+        "When we get into summer, the pattern gets a little less predictable, and we may not have a lot of lead time.",
+        "So it varies during the year.",
+        "So what would be an ideal prediction you would like to make, an hour or two hours, six hours?",
+        "Well, our tornado watches are designed to be out two hours prior to the occurrence of the tornado event.",
+        "We don't always do that.",
+        "Don't always do that.",
+        "Okay, let's go to this gentleman right here.",
+        "Yes.",
+        "Unidentified Man #2 (Audience Member): Here in central Norman, we don't have a large of occurrence of tornadoes tracking directly across the town, but we see several going to the south through Purcell, Noble and particularly more in the Edmund area, but would the curvature of the Canadian River cause a tornado to track differently?",
+        "There's no evidence of that.",
+        "There's a lot of energy that's associated with that storm, and to disrupt it is going to take an equal component of energy and apply it somehow.",
+        "Even more hilly, mountainous areas are susceptible to tornadoes.",
+        "People would like to believe or think they're protected by a river or a hill or something, but...",
+        "Indian legend."
+      ]
+    },
+    {
+      "dialogue_uid": "e2d42d6c-c9c2-4ab9-9c76-42defc3d20b1",
+      "language": "en",
+      "utterances": [
+        "An Indian legend.",
+        "(Soundbite of laughter)",
+        "I wouldn't count on that if there's a storm coming.",
+        "All right, thank you.",
+        "Here's a question from Second Life, where folks are gathering - interesting question - and it comes from LaCursorFactor(ph), a scientist.",
+        "How do El Nino and La Nina affect Oklahoma's weather or just tornadoes in general?",
+        "Let me expand that.",
+        "There are connections.",
+        "The connections are somewhat tenuous, but it does appear as if - well, the first thing we're talking about here with El Nino and La Nina are rather large-scale features of the globe, Pacific Ocean causing impacts on the jet stream.",
+        "And so we're looking on a different scale at those features, and when we get down to the scale of a tornado, that's a much different environment.",
+        "So it's difficult to make a strong connection from one to the other.",
+        "There have been studies to suggest that the La Nina, which is the cool phase of the oscillation, has in the winter months and early spring played a role in perhaps more active severe weather.",
+        "El Nino, and we're in one right now, and we've been in El Nino through the winter months, may be a suppressor in some areas, but at the same time, there have been El Nino events during the cool season, in the winter, that have ended up with devastating tornado outbreaks along Florida.",
+        "So Florida's had susceptibility to tornadoes during El Nino years, but this year they did not.",
+        "So there may be connections there, but they're not solid, and they're not the only thing going on.",
+        "Let's go down here, yes.",
+        "Unidentified Man #3 (Audience Member): Hi.",
+        "I was wondering if there was a scale that measured the strength of tornadoes, like...?"
+      ]
+    }
+  ]
+}

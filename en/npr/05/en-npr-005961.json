@@ -1,0 +1,126 @@
+{
+  "challenge_uid": "15f8c4aa-08ff-4917-a043-ab0dde7c6cba",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6a76b3c8-b4f6-4a39-8155-2db38d868c8a",
+      "language": "en",
+      "utterances": [
+        "(As Bell) Well, Spark, that's his job.",
+        "Do you - do you know how much cheaper a piece of coal is than a toy?",
+        "Think about it.",
+        "It's just the economics of Christmas.",
+        "(As Spark) Cheaper than a toy?",
+        "That means...",
+        "(As Bell) I heard you sat on Santa's lap.",
+        "(As Spark) Yes, because he said I could, and he was nice.",
+        "And it was soft.",
+        "(As Bell) I need you to hand in your access card.",
+        "You'll have time to gather your personal items, your slippers, whatever you need.",
+        "But tomorrow, you're going to report to toy factory 19.",
+        "(As elf at the factory) Green, red, red, green, red, green, green, green, green.",
+        "Spark, are you paying attention?",
+        "(As Spark) Yeah, I'm watching.",
+        "Yeah.",
+        "(As elf at the factory) Take hold, buddy.",
+        "It's up to you.",
+        "(As Spark) OK.",
+        "All right.",
+        "Red, red, red, red, green, red, red, red.",
+        "(As elf at the factory) Beautiful, beautiful.",
+        "You're done.",
+        "You're done.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "cabfcb08-3ade-46d9-b321-ced377b0d2b2",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Thank you.",
+        "(As elf at the factory) See?",
+        "Just let yourself get into a rhythm.",
+        "And that's it.",
+        "That's the whole job.",
+        "(As Spark) So just one question, I guess.",
+        "What happens if I pull the wrong cable?",
+        "(As elf at the factory) Just pull the right cable.",
+        "That's the whole job.",
+        "(As Spark) Yeah.",
+        "I get that, but, I mean, just by accident.",
+        "(As elf at the factory) Remember, green cable, pre-assigned gifts.",
+        "Red cable, coal.",
+        "(As Spark) Red cable, coal.",
+        "Yeah.",
+        "(As elf at the factory) So just do the job.",
+        "(As Spark) I know, but if I accidentally were to pull the wrong one...",
+        "(As elf at the factory) A good kid would get a piece of coal."
+      ]
+    },
+    {
+      "dialogue_uid": "19dc5137-0955-432e-812d-0cbd51f09a2b",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Or a bad kid gets a present?",
+        "(As elf at the factory) Don't do that.",
+        "(As Spark) Right, right.",
+        "I will not...",
+        "(As elf at the factory) Listen, you're the last line between the gifts and the kids, OK?",
+        "You put in the wrong thing, the kids are going to feel it.",
+        "(As Spark) Right.",
+        "I will not pull the wrong cable by accident.",
+        "And these boxes are wide open.",
+        "Anything could fall in there, right?",
+        "(As elf at the factory) Yeah.",
+        "Just don't let that happen.",
+        "(As Spark) Right.",
+        "I will...",
+        "(As elf at the factory) Just coal or a gift.",
+        "That's it.",
+        "(As Spark) ...Certainly not let anything fall in by accident.",
+        "(As elf at the factory) Welcome aboard, Spark."
+      ]
+    },
+    {
+      "dialogue_uid": "945f7a51-f528-4abc-a128-26a537f838a7",
+      "language": "en",
+      "utterances": [
+        "(As Spark) Thank you.",
+        "(As elf at the factory) Keep it up.",
+        "Keep smiling.",
+        "(As Spark) Thank you.",
+        "(As elf at the factory) And stay away from the conveyor belt.",
+        "(As Spark) Yes.",
+        "(As elf at the factory) Elf jelly.",
+        "(As Spark) OK, thanks.",
+        "(MUSIC)",
+        "(As Santa) Merry Christmas.",
+        "Ho, ho, ho.",
+        "B.",
+        "HERBSTMAN: (As Michael's sister) Eek.",
+        "It's Michael turn."
+      ]
+    },
+    {
+      "dialogue_uid": "d889b9f2-ecf0-4ae5-ba9d-546e147980a7",
+      "language": "en",
+      "utterances": [
+        "(As Michael's mom) Oh, honey, he doesn't have anything under the tree.",
+        "It's all over.",
+        "A.",
+        "HERBSTMAN: (As Michael Simmons) Here's one for me.",
+        "(As Michael's mom) What?",
+        "(As Michael's dad) What?",
+        "A.",
+        "HERBSTMAN: (As Michael Simmons) It says from Santa.",
+        "(As Michael's dad) Huh.",
+        "(PAPER RIPPING)",
+        "(As Michael's dad) Wow.",
+        "B.",
+        "HERBSTMAN: (As Michael's sister) What is it?",
+        "A.",
+        "HERBSTMAN: (As Michael Simmons) Look, it's just what I wanted."
+      ]
+    }
+  ]
+}

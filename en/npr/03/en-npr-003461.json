@@ -1,0 +1,109 @@
+{
+  "challenge_uid": "fde37d39-2bf7-4fdd-b6d5-20bcae7b4cbf",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "59147e23-6b89-4f79-a227-a637a662d339",
+      "language": "en",
+      "utterances": [
+        "(Laughter) He means the past with a capital Pl.",
+        "The literal path.",
+        "Yeah.",
+        "Well, good for you.",
+        "David, do you have a question for Will Shortz?",
+        "Will, what do you have in common with Neil Diamond?",
+        "(Laughter) I love that question.",
+        "What do I have in common with Neil Diamond?",
+        "I've long wondered.",
+        "You have the same thing in common with Brad Pitt and Tiger Woods...",
+        "Oh, my gosh.",
+        "This is a puzzle.",
+        "...And Holly Hunter and lots of other famous people."
+      ]
+    },
+    {
+      "dialogue_uid": "80722fa9-dd91-4eb2-a53c-38f2f1d89404",
+      "language": "en",
+      "utterances": [
+        "How do I not know this?",
+        "All of them and you have names made of common English words - will, shorts, kneel, diamond, brad, pit, tiger, woods, holly, hunter.",
+        "Oh, good.",
+        "Hey, good job.",
+        "There's a puzzle in there somewhere.",
+        "I've got a long list.",
+        "That's nice.",
+        "I can make a rebus puzzle out of that.",
+        "Well, David, are you ready to do this?",
+        "You bet.",
+        "All right.",
+        "Will, let's play the puzzle.",
+        "All right, David and Rachel.",
+        "The theme today is May.",
+        "Every answer is a familiar two-word phrase or name in which the first word starts M-A and the second word ends with Y.",
+        "For example, if I said an alcoholic beverage made from fermented mash, you would say malt whiskey.",
+        "OK.",
+        "I think we're ready, Will."
+      ]
+    },
+    {
+      "dialogue_uid": "eead3da3-7a0e-4b3d-8515-937a0d48a7a0",
+      "language": "en",
+      "utterances": [
+        "All right.",
+        "Number one, Republicans or Democrats vis-a-vis libertarians.",
+        "Majority party.",
+        "Yeah, or major party.",
+        "An opener that works on all locks.",
+        "Master key.",
+        "That's right.",
+        "Title for a female member of a president's cabinet.",
+        "Title for a female member of the president's cabinet.",
+        "Well, first of all, what do you call almost anyone in the president's cabinet?",
+        "A secretary - Madame Secretary.",
+        "Yep.",
+        "That's right.",
+        "Madame Secretary is it.",
+        "A red item often put on top of an ice cream sundae."
+      ]
+    },
+    {
+      "dialogue_uid": "5837912c-6c21-4964-bf25-624d1e804210",
+      "language": "en",
+      "utterances": [
+        "A maraschino cherry.",
+        "That's it.",
+        "Oh, delicious.",
+        "Postal Service.",
+        "Mail delivery.",
+        "Good.",
+        "Lover of Cleopatra.",
+        "Mark Anthony.",
+        "Uh-huh.",
+        "Singer who was once married to Jennifer Lopez.",
+        "And Marc Anthony.",
+        "Marc Anthony is it.",
+        "Best actor Oscar winner for \"\"Dallas Buyers Club."
+      ]
+    },
+    {
+      "dialogue_uid": "520cb1c8-baa8-42f9-9119-89eb2420facd",
+      "language": "en",
+      "utterances": [
+        "Matthew McConaughey.",
+        "Excellent.",
+        "Religious commemoration three days before Easter.",
+        "Three days before Easter.",
+        "Maundy Thursday.",
+        "Maundy Thursday is it.",
+        "Title M.D. of 1970s TV.",
+        "Marcus Welby.",
+        "There you go.",
+        "Good.",
+        "Complete the title - \"\"The Bridges of blank.",
+        "Madison County.",
+        "Uh-huh.",
+        "Number one Rod Stewart hit with the lyric \"\"It's late September..."
+      ]
+    }
+  ]
+}

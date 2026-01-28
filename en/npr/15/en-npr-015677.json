@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "e29b4a7b-0719-427f-bc1d-5737438ae1b0",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "b7796c56-9551-42f3-b0b6-75897e94e8d7",
+      "language": "en",
+      "utterances": [
+        "Near miss.",
+        "Rhythm and blues, rock and roll or rap.",
+        "Some kind of music.",
+        "Yeah, what kind?",
+        "Not classical.",
+        "I don't know.",
+        "Could it be popular?",
+        "Popular.",
+        "Popular music is it.",
+        "Try this one: a tree whose sap is used to used to make pancake syrup.",
+        "Sugar maple.",
+        "That's right.",
+        "Company that produces Havanas.",
+        "Cigar maker?"
+      ]
+    },
+    {
+      "dialogue_uid": "ea656feb-dee5-4a6c-aad0-b18f8bbd088a",
+      "language": "en",
+      "utterances": [
+        "A cigar-maker or manufacturer.",
+        "Something you wear in the winter to keep the sides of your head warm.",
+        "Ear muffs.",
+        "That's right.",
+        "A monument that honors fallen soldiers.",
+        "War memorial.",
+        "Excellent.",
+        "A big manufacturer of bologna.",
+        "Oscar Mayer.",
+        "Uh-huh.",
+        "A selection of dishes at a restaurant costing exactly 100 cents.",
+        "Dollar menu?",
+        "Uh-huh.",
+        "Meter or rod, for example.",
+        "Map is right, and what are those little things in the sky that twinkle?"
+      ]
+    },
+    {
+      "dialogue_uid": "f0c363bd-fdf5-4efe-a9fd-bf1cb2e5fbe5",
+      "language": "en",
+      "utterances": [
+        "Star map.",
+        "Star map is right.",
+        "Radioactive stuff from a reactor.",
+        "Is it radar something?",
+        "No.",
+        "I'm blanking now.",
+        "Nuclear.",
+        "Ah, nuclear - material?",
+        "Nuclear material, nuclear matter, either one, and your last one: an exclamation meaning alas.",
+        "Dear me.",
+        "Dear me is correct."
+      ]
+    },
+    {
+      "dialogue_uid": "c0d70b8d-cf80-4f49-af03-d6b3055e7a90",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "Dear me, Marcy, nice work.",
+        "Oh, thank you, Liane.",
+        "Oh, very quick.",
+        "You sounded like you were having a good time.",
+        "I thoroughly enjoyed it.",
+        "Ah, how nice.",
+        "Well, you get some other things for playing our puzzle today, other than just the enjoyment of playing.",
+        "You'll get a WEEKEND EDITION lapel pin; the 11th Edition of Merriam-Webster's Collegiate Dictionary and Thesaurus; the Scrabble Deluxe Edition from Parker Brothers; \"\"The Puzzle Master Presents\"\" from Random House, Volume 2; a set of Sudoku puzzle books presented by Will Shortz from St. Martin's Press; and one of Will Shortz's Puzzle Master Decks of Riddles and Challenges from Chronicle Books.",
+        "You're going to have a lot of puzzles to do.",
+        "You're going to have a great time.",
+        "I'm thrilled.",
+        "Marcy, tell us what member station you listen to.",
+        "It's KUT in Austin, 90.5.",
+        "Good for you for giving the frequency.",
+        "Marcy Howard from Austin, Texas, one of my favorite cities, I have to say.",
+        "And thanks a lot for playing the puzzle with us today."
+      ]
+    },
+    {
+      "dialogue_uid": "3e2fa8f9-8b95-4e2f-a0de-f807f6b82c84",
+      "language": "en",
+      "utterances": [
+        "Thank you.",
+        "Okay.",
+        "Will, what's the challenge everyone will work on during the next week?",
+        "Yes, it sounds a little more complicated than it is, but you do have to pay attention.",
+        "It's from Henry Hook, who's one of the country's most brilliant crossword constructors.",
+        "Take a six-letter word used in a certain sport.",
+        "Add the letter I.",
+        "Re-arrange the resulting seven letters to spell the first name of a famous actress.",
+        "This actress's last name, in five letters, identifies the place where the sport is played.",
+        "Who is the actress, and what is the sports term?",
+        "So again, a six-letter word used in a certain sport.",
+        "Add an I, re-arrange the resulting seven letters to spell the first name of a famous actress.",
+        "Her last name, in five letters, identifies the place where the sport is played.",
+        "Who's the actress, and what's the sports term?",
+        "When you have the answer, go to our Web site, npr.org, and click on the Submit Your Answer link on the Sunday Puzzle page.",
+        "Only one entry per person, please.",
+        "Our deadline this week is Thursday, 3:00 p.m. Eastern Time.",
+        "Please include a phone number where we can reach you at about that time.",
+        "We'll call you if you're the winner, and you'll get to play Puzzle on the Air with the puzzle editor of the New York Times and WEEKEND EDITION's puzzle master, Will Shortz.",
+        "Will, as always, thanks a lot.",
+        "Thanks, Liane.",
+        "Jane The Virgin\"\" is a breakout hit on The CW Network.",
+        "And it's ending its second season tonight.",
+        "Now, the show has an unusual co-star.",
+        "You never see his face.",
+        "You never know his name.",
+        "But you always hear his voice.",
+        "(SOUNDBITE OF TV SHOW, \"\"JANE THE VIRGIN\"\")",
+        "(As Narrator) Our story begins 13 and a half years ago when Jane Gloriana Villanueva was a mere 10 years old.",
+        "Anthony Mendez plays the Narrator in \"\"Jane The Virgin.\"\" Kat Chow of NPR's Code Switch team visited Mendez at his home studio in New Jersey to find out where his story began."
+      ]
+    }
+  ]
+}

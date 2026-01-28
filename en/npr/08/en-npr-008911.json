@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "c25e3589-b8f4-481b-81e5-95ef42ad288b",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "2aaeb36e-8726-42a9-968e-4a2af786825c",
+      "language": "en",
+      "utterances": [
+        "And...",
+        "Animal, vegetable or mineral?",
+        "Could be anything?",
+        "It's something that you might see outside a movie theater.",
+        "Queue.",
+        "Exactly right.",
+        "Bravo.",
+        "Bravo.",
+        "Nice.",
+        "Very good.",
+        "Yeah.",
+        "Very good."
+      ]
+    },
+    {
+      "dialogue_uid": "c9c8ca17-9c95-475d-8db1-5d960bdeb6e0",
+      "language": "en",
+      "utterances": [
+        "Thank you, Will.",
+        "I love the program on the morning.",
+        "It's really great.",
+        "I appreciate it.",
+        "Mm-hmm.",
+        "Thanks very much, Peter.",
+        "Thanks a lot.",
+        "Bye-bye.",
+        "And by the way, it turns out that we may have maligned you at the beginning of this, Will.",
+        "We checked the transcript from yesterday morning, and you did not say that the capital of Ohio was Dayton...",
+        "No.",
+        "...or that we were doing capital--state capitals.",
+        "That was me who said we were doing state capitals.",
+        "Oh.",
+        "So ...(unintelligible).",
+        "Yeah, my puzzle was Dover to Denver."
+      ]
+    },
+    {
+      "dialogue_uid": "df8bc536-a27a-4a6f-96a0-7b4613a88a9e",
+      "language": "en",
+      "utterances": [
+        "Dover to Denver.",
+        "Dover to Denver.",
+        "All right.",
+        "Yeah.",
+        "Neal...",
+        "Let's...",
+        "...we're taking back that lapel pin you did not get.",
+        "I have to turn in my dictionary now.",
+        "That's it.",
+        "I'm afraid so.",
+        "Do we have callers, e-mails?",
+        "Do you have one?",
+        "I have puzzles, but I don't have the answers, so I have...",
+        "Let's get a caller on the line.",
+        "This is John.",
+        "John's calling from Groton, Massachusetts."
+      ]
+    },
+    {
+      "dialogue_uid": "31a08a4f-9a88-434f-b958-9df5a7cbd597",
+      "language": "en",
+      "utterances": [
+        "Hello, Will.",
+        "This is John.",
+        "How are you?",
+        "Hi, John.",
+        "I have a puzzle.",
+        "It's kind of a logic puzzle.",
+        "Being an engineer, it's my favorite kind.",
+        "OK.",
+        "So you're outside a room and the door is closed and there's a lightbulb in the center of the room.",
+        "There's three switches.",
+        "You can flick them any amount of times or any amount you'd like, but you can only open the door once.",
+        "How can you definitively tell which switch turns on the light?",
+        "OK.",
+        "Let me think about this.",
+        "You--OK, you have the three switches.",
+        "One of them you turn on.",
+        "In fact, you turn two of them on and you wait a minute.",
+        "Then you turn one of them off.",
+        "Then you walk in the room.",
+        "If the lightbulb is on, then it means the switch that you have left on is the--that switch goes to that bulb.",
+        "If it's off, then you go up and feel the lightbulb on the ceiling.",
+        "If it's warm, that means the lightbulb was on for a little while, and that means it connects to the switch that you had turned on and off.",
+        "If the lightbulb, though, is cold, that means it was never turned on and it has to be the third switch.",
+        "Excellent.",
+        "Perfect.",
+        "Will, what are your favorite kinds of puzzles?",
+        "I mean, I think we all have them--mathematical.",
+        "I happen to be a fan of anagrams.",
+        "Neal is not at all a fan of anagrams.",
+        "I like geography.",
+        "He likes geography.",
+        "I can't stand the periodic table.",
+        "I mean, do you have favorites?"
+      ]
+    },
+    {
+      "dialogue_uid": "2c07aa98-8670-4188-89ce-175d298ec6e7",
+      "language": "en",
+      "utterances": [
+        "Yeah, yeah.",
+        "Well, I tell you, I have become addicted by sudoku since April.",
+        "Yeah.",
+        "And cryptic crosswords and the crosswords of the British style I love.",
+        "I love Friday- and Saturday-level New York Times crosswords that are, you know, just a real good, tough test of your puzzle-solving ability.",
+        "Last...",
+        "But really, you know, any kind of puzzle.",
+        "It's a jigsaw puzzle, you name it.",
+        "If it's a challenge, I'll do it.",
+        "Last Saturday's puzzle was a real bear, at least for me.",
+        "Did you hear the story about the guy who was filling out this, like, 3,000, 8,000-piece jigsaw puzzle and he was almost finally getting it and there was one piece missing, it turned out his dog ate it?",
+        "Oh.",
+        "Isn't that terrible?",
+        "Here's another puzzle.",
+        "We got this from Ed Green(ph).",
+        "How many times during a day is the minute hand perpendicular to the hour hand?"
+      ]
+    }
+  ]
+}

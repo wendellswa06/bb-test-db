@@ -1,0 +1,127 @@
+{
+  "challenge_uid": "06731458-1d7d-4992-b731-74b9cbb36bb9",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "0526a144-84a8-4d6f-bb43-1b9c3bb9bd49",
+      "language": "en",
+      "utterances": [
+        "Facebook.",
+        "Oh, my bank, my e-mail...",
+        "Gmail?",
+        "My e-mail for sure.",
+        "Wow.",
+        "Phone.",
+        "Wow.",
+        "And Pinterest, sometimes.",
+        "If you look at your bank statements online, don't you have to put a password in?",
+        "It's all upsetting.",
+        "And keeping track of the ones you've got, forget about it.",
+        "I have like probably 15.",
+        "And I do a bad thing.",
+        "I use the same one because I just don't have enough floss in my memory to remember.",
+        "I used to use the same one over and over again.",
+        "Probably isn't very good.",
+        "Friends' names or family members' names or different variations..."
+      ]
+    },
+    {
+      "dialogue_uid": "aee8ca23-6fc3-487f-a72b-acf8fedd5077",
+      "language": "en",
+      "utterances": [
+        "Nicknames and stuff I have had from my past and...",
+        "I write them down on a piece of paper...",
+        "Vary it a little bit but it's pretty much...",
+        "You're not supposed to.",
+        "(LAUGHTER)",
+        "But everyone does the same thing because there's no way to keep track of them.",
+        "Steve Goodman on the streets of Berkeley along with Sonja Herbert, Alok Rocheleau, Justin Angelo Martin, and Jason Belling.",
+        "Well, Silicon Valley titans are getting tired of them, too.",
+        "At the Tech Crunch Disrupt Conference in September, Google top security executive Heather Adkins said.",
+        "Passwords are dead.",
+        "Seriously, Google home to 425 million e-mail accounts and a founding member of their security team declaring...."
+      ]
+    },
+    {
+      "dialogue_uid": "eefa7dcd-12d5-4652-ba5c-4244e9e279bc",
+      "language": "en",
+      "utterances": [
+        "Passwords are dead.",
+        "Our relationship with passwords is done.",
+        "Adkins says start-ups tying their future to passwords might as well give up now given how much work it takes to keep their customers' passwords secure.",
+        "But if passwords are a thing of the past what will replace them?",
+        "Wall Street is betting on biometrics.",
+        "Now that Apple is adding a fingerprint sensor to its newest iPhone, companies that make similar technology have seen their share prices jump.",
+        "And it's profitable.",
+        "Industry analysts say the market for fingerprint scanners alone could top $10 billion in the next five years.",
+        "And other biometrics companies are looking more competitive as well.",
+        "Take one of Apple's partners, Nuance Communications.",
+        "Please say your passphrase.",
+        "My voice is my password.",
+        "(SOUNDBITE OF TONES)",
+        "Welcome back, Robert.",
+        "Nuance Communications is a voice recognition company.",
+        "And that voice belongs to Robert Weidman, one of their executive vice presidents.",
+        "If you have called, your airline, if you've reserved a hotel room and you have been able to speak to those systems, that is our technology almost certainly.",
+        "In fact, you know when you hear..."
+      ]
+    },
+    {
+      "dialogue_uid": "e35e1cea-d2da-4996-a232-5fded9d523d1",
+      "language": "en",
+      "utterances": [
+        "UNIDENTIFIED WOMAN #2: Your call may be monitored or recorded for quality purposes.",
+        "Nuance Communications is gathering data to improve its voice-print technology, and, in the future, create systems that will do away with the whole username and passcode business, and just get what you need to do done.",
+        "(SOUNDBITE OF A TONE)",
+        "Pay my Comcast bill in full next Thursday from savings.",
+        "Weidman gave us a little demonstration with his virtual assistant Nina.",
+        ".",
+        "(SOUNDBITE OF A TONE)",
+        "And frankly it's not quite at \"\"Star Trek\"\" level responsiveness but Weidman says it is more secure.",
+        "I will pay the minimum due from your savings on October 10th.",
+        "OK?",
+        "(SOUNDBITE OF A TONE)",
+        "Yes, go head."
+      ]
+    },
+    {
+      "dialogue_uid": "6bd08579-d97c-44ad-80b8-f992dbe970e0",
+      "language": "en",
+      "utterances": [
+        "So when you said my voice is my passcode was that your pass phrase?",
+        "Did I, as a passer by, just hear what your passphrase is?",
+        "You did.",
+        "Is that OK?",
+        "That is OK because there's two fundamental elements to a voice password.",
+        "One is my voiceprint and that doesn't change no matter what words I'm saying.",
+        "It's like your fingerprint and it's that unique.",
+        "And the passphrase is another element.",
+        "So they might be able to overhear what my passphrase might be but they don't have my voiceprint and so it keeps it very secure.",
+        "And much more secure than usernames and passwords.",
+        "There will come a time where you're not going to be using pin and password as your password.",
+        "You'll be speaking and touching the device and that will become your password.",
+        "But privacy advocates are wary.",
+        "Every few months, a company reveals that it has lost or has had millions of customer passwords or other data stolen.",
+        "And what about fraud?",
+        "What about trying to fake out the system?",
+        "Weideman says voice print technology is getting better all the time at preventing it.",
+        "We go thru a lot of effort of making sure that people can't spoof it.",
+        "You can get a recording and just imagine a Xerox of a picture.",
+        "It's the identical - like dot by dot by dot it's the exact same picture.",
+        "Well, if you get a voice prompt and it's exact same to the dot then we know there's something wrong here, because humans don't behave that way.",
+        "So there's lots of different things that we do inside the system in order to protect against spoofing.",
+        "Meanwhile there are much wilder ideas floating around the industry than voice recognition.",
+        "How about jewelry that acts as a wearable key for logging into devices, or electronic tattoos, or even a pill you swallow to put a biometric tag inside your body?",
+        "Of course there are skeptics, even among biometric experts.",
+        "Take James Wayman of San Jose State University.",
+        "Wayman says people have been claiming that biometrics are going to be the next big thing in consumer electronics, well, for decades.",
+        "He says good old fashioned passwords endure for a reason.",
+        "Passwords have the advantage that they don't require additional hardware.",
+        "Generally you have some type of an input device to your computer system.",
+        "It's got to be a key pad or some way of getting digits and characters into your computer.",
+        "So you already have that.",
+        "So pins and passwords are very durable in that respect."
+      ]
+    }
+  ]
+}

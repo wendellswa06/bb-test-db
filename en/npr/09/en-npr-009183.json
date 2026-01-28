@@ -1,0 +1,121 @@
+{
+  "challenge_uid": "6a233d70-965a-44df-92c4-11e8c04b6366",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7c91396e-c359-4b4a-bd26-e2779a02e7f5",
+      "language": "en",
+      "utterances": [
+        "Dr.",
+        "HIGH.",
+        "Well, it recognized it as something foreign.",
+        "It's something foreign.",
+        "Again, is there any cloaking mechanism you could put on the virus, so it doesn't even know it's there?",
+        "Well, that's a good question, and people are looking at that sort of thing.",
+        "Yeah, to make - to hide the virus from knowing the immune system knows that it's even there.",
+        "Right.",
+        "And I guess, if you used some sort of cloaking device, or you could use an artificial virus, so to speak, from nanotechnologies or something...",
+        "Right.",
+        "Then it wouldn't - it might not recognize it.",
+        "Well, yes.",
+        "And people are definitely interested in those kinds of strategies.",
+        "So, where do you, in this research - what is your follow up?",
+        "And where do you go from here in this work?"
+      ]
+    },
+    {
+      "dialogue_uid": "4feea6b3-f828-4dd7-b54d-a054cb5d2b3c",
+      "language": "en",
+      "utterances": [
+        "Well, I would say that, you know, what we're hoping - this was initially design as a trial for nine subjects, and so the first order of business is to continue increasing the dose.",
+        "And so, this is a typical dose-escalation study.",
+        "So, since the first dose looks safe then you can go up to the next dose and so forth.",
+        "So, the first order of business is to try to identify the optimal dose.",
+        "And then the next order of business would be to try to extend the work to younger children, if it seems to be safe, and people who are eight years old and up.",
+        "Then what you would ideally like to do is see if it's safe in younger children.",
+        "And then eventually, I think, a bridge that has to be crossed is to ask, when would you get to the point that where you would fill that it would be safe to do this in both eyes?",
+        "Well, I would imagine that you must be very encouraged, because with the - just the first test dose, you got an 80-percent positive outcome, and you haven't even increased it yet.",
+        "Well, let's see, if you put both of the studies together...",
+        "You got 60 percent.",
+        "Sixty-seven.",
+        "Sixty percent...",
+        "All right.",
+        "Sixty-seven percent.",
+        "Right."
+      ]
+    },
+    {
+      "dialogue_uid": "d99cf712-5b63-46ce-9217-180d867e5a19",
+      "language": "en",
+      "utterances": [
+        "You must - it still must be encouraging.",
+        "No, no. I think it's very exciting.",
+        "And when would you start with your next round of tests?",
+        "Well, the next round of subjects are already under way.",
+        "Oh, you can't give us a hint.",
+        "(Soundbite of laughter)",
+        "It's too early.",
+        "I see.",
+        "How long does it take to notice if it's working?",
+        "Well, typically, people were reporting a response within a few weeks.",
+        "Oh, so..."
+      ]
+    },
+    {
+      "dialogue_uid": "bd39eb94-84e5-4b24-ace8-a03a0fed96a6",
+      "language": "en",
+      "utterances": [
+        "And that's pretty typical, actually, for the time course of this vector.",
+        "It takes a little while to get going.",
+        "All right, we'll have to check back with you, watch the papers coming out with you later.",
+        "OK.",
+        "Great.",
+        "Thank you very much, Dr. High.",
+        "OK.",
+        "Thank you, Ira.",
+        "Katherine High is a professor of pediatrics at the University of Pennsylvania School of Medicine, also director of the Center for Cellular and Molecular Therapeutics at the Children's Hospital of Philadelphia and investigator with Howard Hughes Medical Institute.",
+        "Short break, changing gears.",
+        "Up next, we're going to talk about why the life expectancy for certain Americans, certain segments of the American population, is actually down, when it's been going up for lots of years.",
+        "So, we'll scratch our heads and talk about that.",
+        "Stay with us.",
+        "We'll be right back.",
+        "(Soundbite of music)",
+        "I'm Ira Flatow.",
+        "This is Talk of the Nation Science Friday from NPR News.",
+        "Call it \"\"American Idol\"\" for young inventors.",
+        "This week in Atlanta, undergrads at Georgia Tech competed for cash prizes, as the school honored its most innovative student inventors."
+      ]
+    },
+    {
+      "dialogue_uid": "87f8e588-87ea-4766-bdb6-c5d81680b43c",
+      "language": "en",
+      "utterances": [
+        "There are quite a few drugs that lower bad cholesterol but the medication that Pfizer abruptly pulled from a test study did something else.",
+        "It raised good cholesterol.",
+        "Pfizer and others had big hopes for the drug.",
+        "The problem was it evidently caused an alarming number of deaths.",
+        "Coming up we'll talk with a doctor about what this news means for people working to lower their cholesterol.",
+        "First, NPR's Joanne Silberner reports on what the demise of the new drug means for researchers hoping for a chemical fix for heart disease.",
+        "Heart researchers like Steven Nissen, head of the American College of Cardiology, had great hopes for torcetrapib.",
+        "The drug raised the good cholesterol, HDL, by at least 50 percent in most clinical trials.",
+        "So manufacturer Pfizer has poured a lot of effort into testing the drugs and has since headed a multi-center trial to see if the drug could reduce cholesterol buildup in arteries.",
+        "Over the weekend, the company got word about another trial that simply looked at whether the drug saved lives or cut back on illnesses.",
+        "It involved 15,000 people.",
+        "Half took torcetrapib and the statin drug Lipitor.",
+        "The other half just took Lipitor.",
+        "There were 51 deaths among those taking just Lipitor and 82 deaths in the group that also took torcetrapib.",
+        "Again, Steven Nissen:",
+        "Either something else was causing harm or the cholesterol, the HDL levels that we were building up weren't protecting the patients.",
+        "The company immediately stopped the trial and is studying the data to see what caused the extra deaths.",
+        "They'll look especially hard at conditions related to hypertension since the drug is known to slightly elevate blood pressure.",
+        "Just last week the head of Pfizer said the company strongly believed in the drug, and heart experts like Barbara Howard were rooting for it.",
+        "She's an expert on cholesterol and heads MedStar Research Institute, part of a consortium of nonprofit hospitals in the Washington area.",
+        "Now that we have very good drugs that lower LDL like statin, that's not the whole picture in the control of heart disease through lipids.",
+        "The other piece is the good cholesterol, HDL.",
+        "A lot of people have low levels of it and we've never had good agents to raise it.",
+        "She says there are lots of options yet to try and in fact, a Pfizer spokesman says the company has several similar drugs in the pipeline.",
+        "They're trying to figure out now whether the problems with torcetrapib come from lowering HDL cholesterol, lowering a certain type of HDL cholesterol or from some unique characteristic of the torcetrapib molecule itself, something that may not be in other, similar molecules."
+      ]
+    }
+  ]
+}

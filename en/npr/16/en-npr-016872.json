@@ -1,0 +1,123 @@
+{
+  "challenge_uid": "dc0d05dc-ed67-4939-8c0b-4e06b1e4763d",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "e280d0df-19fc-469f-b9e4-c50018d93b43",
+      "language": "en",
+      "utterances": [
+        "H - we're missing the H.",
+        "I have three but there is...",
+        "Oh, Hummer.",
+        "They don't make the Hummer anymore.",
+        "The Hummer, nice.",
+        "Hupmobile and Hudson also work.",
+        "Great, Joanne.",
+        "All right.",
+        "Here's your last category: things commonly found in a refrigerator.",
+        "Hamburgers...",
+        "Hamburger meat would be good.",
+        "OK.",
+        "O would be olives.",
+        "Olives - orange, oleo, good.",
+        "And M?"
+      ]
+    },
+    {
+      "dialogue_uid": "fc7da144-81a3-494a-a23f-b1a57eb63bd7",
+      "language": "en",
+      "utterances": [
+        "M - let's see, mayonnaise.",
+        "Mayonnaise, milk and mustard, good.",
+        "Eggs.",
+        "Eggs, yes.",
+        "And all you need an R.",
+        "R - that should (unintelligible)...",
+        "R is the toughest one but there's something in a jar that you put on hamburgers.",
+        "Relish.",
+        "Relish.",
+        "Nice job.",
+        "(Soundbite of frogs)",
+        "Literally."
+      ]
+    },
+    {
+      "dialogue_uid": "d6bb5704-599a-463a-9f0c-e8e4797ea125",
+      "language": "en",
+      "utterances": [
+        "Wow.",
+        "Joanne, it was very well done.",
+        "Those were hard.",
+        "But for playing the puzzle today, you'll get a WEEKEND EDITION lapel pin and puzzle books and games.",
+        "You can read all about it at npr.org/puzzle.",
+        "And, Joanne, before we let you go, what public radio station do you listen to?",
+        "I listen to KUNC out of Fort Collins.",
+        "Great, Joanne Joyce of Aurora, Colorado.",
+        "Joanne, thanks so much for playing the puzzle.",
+        "Thank you very much.",
+        "Bye-bye.",
+        "OK, Will.",
+        "What's the challenge for next week?",
+        "Yes, name a movie in two words, five letters in each word.",
+        "Both words start with vowels.",
+        "Take one letter in the first word, move it two spaces later in the alphabet and rearrange the result; you'll get the second word in the movie's title.",
+        "What movie is it?",
+        "a movie in two words - five/five, both words start with vowels.",
+        "Take one letter in the first word, move it two spaces later in the alphabet, rearrange the result; you'll get the second word in the movie's title.",
+        "What movie is it?",
+        "When you've got the answer, go to our website, npr.org/puzzle and click on the Submit Your Answer link - just one entry per person, please.",
+        "And our deadline for entries is Thursday, June 13th at 3 P.M. Eastern.",
+        "Please include a phone number where we can reach you at about that time.",
+        "And if you're the winner we'll give you a call and you'll get to play on the air with the puzzle editor of The New York Times and WEEKEND EDITION's puzzle-master, Will Shortz."
+      ]
+    },
+    {
+      "dialogue_uid": "037ecdd4-34dc-4836-ac47-ca9609d69171",
+      "language": "en",
+      "utterances": [
+        "Thanks so much, Will.",
+        "Thanks, Rachel.",
+        "(SOUNDBITE OF THEME MUSIC)",
+        "This is SCIENCE FRIDAY from NPR News.",
+        "I'm Ira Flatow.",
+        "A bit later in the hour, a National Climate Service and a squid invasion off the California coast.",
+        "But first, Valentine's Day in a quiet, South African pond.",
+        "The lights are low, and there's music.",
+        "(Soundbite of frogs)",
+        "Ah, the long song of the South African clawed frog, probably not Grammy material, but Kermit might think otherwise.",
+        "(Soundbite of frogs)",
+        "Joining me now to talk about her work studying them and what their communications can tell us about other animals is Darcy Kelley.",
+        "She's the Harold Weintraub professor in the Department of Biological Sciences at Columbia University here in New York.",
+        "Welcome to SCIENCE FRIDAY, Darcy.",
+        "Professor�DARCY KELLEY (Harold Weintraub Professor, Department of Biological Sciences, Columbia University): Happy to be here, Ira.",
+        "What were we just listening to?",
+        "Could you hear that okay?"
+      ]
+    },
+    {
+      "dialogue_uid": "9c954379-ae83-4b67-b35f-76eb45225068",
+      "language": "en",
+      "utterances": [
+        "Yes, I can hear it.",
+        "It's a familiar song in the lab.",
+        "And nothing you'd hear in South Africa, actually, because they sing underwater.",
+        "You have to put a microphone in the water to hear them.",
+        "Is that right?",
+        "Yeah.",
+        "So this is all going on underwater?",
+        "Yes.",
+        "So they're singing these duets, these love songs to each other, and everybody else is oblivious of what's going on, basically, underneath their noses.",
+        "Huh.",
+        "So this is a successful love story, then?",
+        "Oh, very successful.",
+        "These frogs, you know, they've been around for 50 million years.",
+        "They'll probably be here when we've long left the planet.",
+        "(Soundbite of laughter)",
+        "What was that song that - can you actually tell what they're saying in those different songs?",
+        "You can tell each song type by its rate and its rhythm.",
+        "So what you were just listening to was a lovesick male advertising his reproductive state.",
+        "They actually advertise both to females, in order to attract them, and to other males, in order to have kind of vocal battles underwater."
+      ]
+    }
+  ]
+}

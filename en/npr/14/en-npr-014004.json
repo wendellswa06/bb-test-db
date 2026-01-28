@@ -1,0 +1,133 @@
+{
+  "challenge_uid": "db690863-84d5-433d-b433-c85c9f8fc145",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "eb872fc5-514d-4aa8-9ee1-8f7f2913273b",
+      "language": "en",
+      "utterances": [
+        "�among key people.",
+        "Exactly.",
+        "And then someone told someone else.",
+        "And were they Twittering?",
+        "Were they doing all those kinds of things?",
+        "Well, so - we actually haven't started looking at the data, but we built in mechanisms so that people could put it out on Twitter, they could put it out on Facebook.",
+        "They could simply - I mean, the sort of key to it was that when you signed up, you know, you'd go to balloon.mit.edu.",
+        "Ira would sign up, and you'd get a link that was balloon.mit.edu/Ira.",
+        "Now, it was in your interest to promote that link as much as possible because anybody who found our site and signed up using your link, they were directly related to you as your child.",
+        "And so if any of those people that you started in a chain were able to find a balloon, then you would be compensated for helping us find them.",
+        "And so, you spread the wealth out, too.",
+        "Exactly.",
+        "How much did everybody get at the end of the day here?",
+        "Well, so, for the sake of complete transparency, we actually haven't started looking at the results yet because we wanted to bring in the auditing office at MIT to ensure that the database was handled in the proper way.",
+        "And so those folks are hard at work, and we've had a lot of administrative support.",
+        "And we hope to know as soon as possible.",
+        "I know everyone's holding their breath to see if they won.",
+        "And I can tell you, the results are forthcoming.",
+        "And there was no little boy in any of those balloons?",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "71950983-8d6e-45bc-9fe3-2e7488d0222a",
+      "language": "en",
+      "utterances": [
+        "Nope.",
+        "No.",
+        "(Soundbite of laughter)",
+        "That didn't help.",
+        "You would have gotten a lot of people looking at that point, right?",
+        "Exactly.",
+        "(Soundbite of laughter)",
+        "1-800-989-8255.",
+        "I'm fascinated to know why DARPA would sponsor an event like this.",
+        "Well, we spoke to them, and sort of the challenge that they put out was, you know, it was the 40th anniversary of the Internet, which DARPA was fundamental in helping to create.",
+        "And in these 40 years, a lot has happened.",
+        "We've seen the Web grow up, and very recently there has been a social layer that's being added to that Web.",
+        "And a lot of people have been kind of sitting around thinking, well, I like Facebook, I like Twitter, but what are the actually good for?",
+        "What can you actually do with them?",
+        "And so I think that they were interested in understanding how could you - how could social networking play a role in sort of timely communication and wider area team building and urgent mobilization that's required to solve a lot of time-critical, broad-scoped problems that are facing society?",
+        "You mean like terrorism."
+      ]
+    },
+    {
+      "dialogue_uid": "476656a4-4386-481c-bae2-009cf08b9d64",
+      "language": "en",
+      "utterances": [
+        "Thank you very much.",
+        "Well, actually, that's an interesting point.",
+        "It seems that's not what this tool might be most useful for.",
+        "It looks like this is more a tool that's useful when you can really rally everyone for the better good.",
+        "So, things like finding missing children or, you know, imagine that a building collapses during a natural disaster and you need to rapidly find 10 people who can operate heavy machinery in a certain location.",
+        "I think these are a lot of the challenges that are facing society that nobody really knows yet how to mobilize people on a large scale, and I think that's what our team was able to demonstrate, that these things are possible and that we've built the technology to try to do it.",
+        "And it was a lot of fun.",
+        "Well, it's fun.",
+        "But what is fascinating also is that you, who built the technology and built the infrastructure, don't yet know how it worked.",
+        "Yeah, well, that's - there are a couple of reasons for that, actually, mostly, that this competition started as sort of a group of guys who wanted to participate in this contest.",
+        "We, you know, there's a sort of funny story that - my friend Olin(ph) told me about this about four days ago - or fours days before the competition started.",
+        "And so we all sort of worked day and night to get this thing done.",
+        "And we're - I think that that speaks to the power of our approach, which was that - you know, I'd like to sit here and tell you that we used sophisticated machine-learning algorithms to solve the problem.",
+        "But, in fact, I think the system we developed beforehand allowed us to collect the relevant information that we needed and then sort of filter through, you know, a lot of the spam and misinformation that people were spreading.",
+        "And so I think it was - the team, we all did a pretty good job at doing all that.",
+        "Yeah.",
+        "Could you use this to find a person or find anything, you think, this idea that you created?",
+        "Well, I think that the power of this lies when you really have a sort of consensus, you know.",
+        "I think the moment that, you know, you brought up terrorism and, I think that's what a lot of people are thinking about.",
+        "But the moment that you have differing factions who would like to - who each have their own sort of role in, you know, in either finding or not finding a person, I think that's where the complication of misinformation and disinformation might prove very difficult to sort through.",
+        "So in terms of finding a missing child in which sort of something that everyone can really get behind in trying to participate in, I think that's definitely a critical application that we see coming out of this.",
+        "I see.",
+        "In other words, you're saying if you were looking for Osama bin Laden or somebody like that, there would be people who would not want you to find him, so they would put disinformation into the system and upset the system.",
+        "Exactly.",
+        "But because you have any innocuous sort of thing like finding 10 red balloons, then everybody's in on what's clearly seen as a real game, here."
+      ]
+    },
+    {
+      "dialogue_uid": "f7eb77c2-2c10-48d4-b9e1-ece593f87d5a",
+      "language": "en",
+      "utterances": [
+        "Sure.",
+        "And I can't say everybody.",
+        "We've spoken to some of the teams afterwards.",
+        "For example, the Nerd Fighters team, who actively spammed our site, so we'd like to give a shout out to them, because they sort of really tried to make it difficult for us.",
+        "Hmm.",
+        "And they were a great competitor.",
+        "Nick in Royal Oak, Michigan.",
+        "Hi.",
+        "Hello.",
+        "Welcome to SCIENCE FRIDAY.",
+        "Hi, there.",
+        "Yeah, I just want to shout out and say that we were one of the groups that tried to throw off, just a kind of add a real world environment to it.",
+        "With i3 Detroit, we actually flew our own balloon, and it was number three, for i3 Detroit.",
+        "(Soundbite of laughter)",
+        "And - but we loved the idea, and we're really glad that someone actually found all the real balloons.",
+        "Now, so you put a fake one up to throw them off?"
+      ]
+    },
+    {
+      "dialogue_uid": "9b3ff62a-b247-48b7-9a0a-4e08d85f8205",
+      "language": "en",
+      "utterances": [
+        "Yes, we did.",
+        "How many people you think did that, Nick?",
+        "Any idea?",
+        "You know what?",
+        "We tried to find a couple of sites.",
+        "I want to say there were, like, around 200 false balloons, but we actually couldn't get an accurate number.",
+        "We're hoping that, you know, something will be published soon.",
+        "Two hundred false balloons, you think?",
+        "I think, yeah.",
+        "Wow, what do you say to that, Riley?",
+        "Yeah, I mean, that was really one of the interesting parts of the story, and I think that was a testament to sort of our team's strength in processing the raw data and making sense of the sort of complex patterns.",
+        "I mean, like I said, I wish we had been able to get together some sort of very sophisticated tools of network analysis, all of which I think may prove effective sort of after the fact, but I think what we relied on was sort of some very straightforward checks.",
+        "And while I can't disclose all of the techniques we used because, you know, of course we're scientists, and we're interested in publishing a lot of this eventually, some very straightforward things we did to sort of verify the results were, you know: Did the participant have a valid email address?",
+        "Was the balloon location that they reported consistent with the geographical location that their computer said there were at?",
+        "Sort of some very straightforward things, and we were sort of, you know, hit with a lot of spam and, I think, a lot of - you know, there were Photoshopped images of balloons in Providence, and it took a lot of effort on our team's part to sort through all of that.",
+        "And you say that this is sort of proprietary, the math that you used on this?",
+        "Or are you going to publish the whole thing and make it public?",
+        "My name is Alex Chadwick.",
+        "I'm from National Public Radio.",
+        "Can you tell me your name and where you're from?"
+      ]
+    }
+  ]
+}

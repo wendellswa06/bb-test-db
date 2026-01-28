@@ -1,0 +1,121 @@
+{
+  "challenge_uid": "1ebb3f42-28c7-4182-a005-2cb72f5b941c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ca0135e7-e3ea-4b5c-8c39-860250e0ff32",
+      "language": "en",
+      "utterances": [
+        "Well, I think what Prime Minister Netanyahu is trying to establish today and what he certainly said in the past is that the Iranians cannot be trusted - that they have somehow cheated their way into a deal they didn't deserve.",
+        "And I think that anyone who understands the 159 pages of text that lay out the terms of this agreement appreciates that Iran's nuclear capabilities are better under the watchful eye of the International Atomic Energy Agency and the robust set of verification and monitoring measures that were put in place as a result of the deal.",
+        "And so I think, if anything, what the prime minister laid out today really reinforces the utility of the agreement that we have in place.",
+        "That is not the read, necessarily, from the White House.",
+        "President Trump called the assessment from Israel 100 percent right, and he - as we heard in audio earlier - has still more skepticism about this deal.",
+        "How do you see this affecting the conversation going forward?",
+        "Well, we compete on the service and selection, and my hope is they just sort of battle each other out of business.",
+        "For NPR News, I'm Patricia Murphy in Seattle.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Guy Raz.",
+        "As NPR's Martin Kaste reports, the network's security is only as reliable as the people using it.",
+        "Kiki Munshi is a retired foreign service officer who served a couple of years in Iraq.",
+        "She recalls having two computers on her desk.",
+        "One that I used for everyday conversation and one which was a military computer and could be used for classified information.",
+        "That second military computer would've been connected to SIPRNET.",
+        "It was meant for secret communications, but technically, it was nothing fancy.",
+        "Bruce Schneier is a prominent author and consultant on computer security.",
+        "What the government did is they made their own network.",
+        "It looks just like the Internet, except it's for classified information, and only people who are cleared had access to it."
+      ]
+    },
+    {
+      "dialogue_uid": "042e2a11-d018-4798-a320-18cae2a6e081",
+      "language": "en",
+      "utterances": [
+        "The network was expanded intentionally after 9/11 because of the belief that more information sharing between agencies might lead to the detection of terror plots.",
+        "But SIPRNET has expanded so much, an estimated two million or more military and civilian personnel now have access to the system.",
+        "With that many users, no amount of special logins or tracking software can guarantee security, says Schneier.",
+        "The more people have access to it, the more people can decide deliberately to leak it or accidentally to leak it.",
+        "Martin Kaste, NPR News.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Guy Raz.",
+        "There's an informal presidential rule in this town: When your domestic agenda isn't going anywhere, focus abroad.",
+        "And that's just what President Obama is doing this week in Asia.",
+        "Foreign policy is an area in which he may have the best chance to make his mark over the next two years.",
+        "That's our cover story today.",
+        "In a moment, we'll talk to the top Senate Republican on the Foreign Relations Committee, Richard Lugar, and later, former majority leader Tom Daschle on why the president needs to have Republicans over for coffee more often.",
+        "But first, a little perspective from the archives.",
+        "To another president who lost the midterms:",
+        "This Congress produced tax...",
+        "No, just a little further back."
+      ]
+    },
+    {
+      "dialogue_uid": "b1a0314d-da70-4258-8524-0e9540ef950a",
+      "language": "en",
+      "utterances": [
+        "President JOHN F.",
+        "KENNEDY, Jr.: Presidential standby authority...",
+        "Not him.",
+        "...policy and the national security of this country are involved.",
+        "Ah, there we go, President Harry Truman.",
+        "It's 1946.",
+        "You know, this is the era of FDR.",
+        "The United States had been victorious in World War II.",
+        "But in November of that year, Republicans took control of the House and Senate.",
+        "(Soundbite of applause)",
+        "Members of the Congress...",
+        "Princeton historian Julian Zelizer explains what happened next.",
+        "Democrats are absolutely shocked, and everyone reads it as a kind of mandate for conservatism.",
+        "The New Republic says: Bow your head, folks, conservatism has hit America."
+      ]
+    },
+    {
+      "dialogue_uid": "ce1176af-106b-42d2-a4fa-625d92f01718",
+      "language": "en",
+      "utterances": [
+        "And Truman, Zelizer says, realizes he wasn't going to convince the Congress to back his domestic agenda.",
+        "And I think that's part of why he turns his attention abroad, where there was still a possibility that he could build a legacy for his presidency.",
+        "We must take immediate and resolute action.",
+        "He surprised people a bit because he works with Republicans, like Senator Vandenberg from Michigan, to push through some of the key policies of the Cold War era.",
+        "And so between that midterm loss of 1946 and the next election in 1948, Truman managed to launch the Marshall Plan to rebuild post-war Europe, sign the National Security Act.",
+        "Which creates the Central Intelligence Agency, the National Security Council.",
+        "It's a vast expansion of the federal government.",
+        "And he also decided to ask Congress for $400 million to help prevent Greece and Turkey from falling under the sphere of Soviet communism.",
+        "And he's not sure what to do.",
+        "And Vandenberg famously says that he has to scare the hell out of everyone to get this through, and that's exactly what Truman does.",
+        "Collapse of free institutions and loss of independence would be disastrous not only for them, but for the world.",
+        "He goes, and he makes this dramatic speech about the threat that communism poses here in the United States, and he ultimately wins a lot of Republican support for this program."
+      ]
+    },
+    {
+      "dialogue_uid": "e33d90d2-5cfd-4de4-85fc-81dcf6796af2",
+      "language": "en",
+      "utterances": [
+        "That's Princeton historian Julian Zelizer, talking about the program that came to be known as the Truman Doctrine, quite possibly Harry Truman's greatest political legacy.",
+        "Now, if President Obama is looking for his Arthur Vandenberg, he may find him in Indiana Senator Richard Lugar, the ranking Republican on the Senate Foreign Relations Committee.",
+        "The first thing the president wants the lame-duck Senate to do next week is ratify the Strategic Arms Reduction Treaty.",
+        "It reduces the size of the U.S.",
+        "and Russian nuclear arsenals.",
+        "Now, some Republicans want to wait to consider the treaty after the new senators arrive, but Richard Lugar told me: Don't delay.",
+        "In the past it was how you ranked against other skaters, whether you were first versus someone who was fifth, it didn't matter how big or small your lead was.",
+        "There was no lead.",
+        "Now it's a point system, and it's just who has the most points at the end.",
+        "So the skaters are judged as individuals?",
+        "As individuals.",
+        "And the idea is you could be in eighth place, but only three points behind after the short program and you could come up and win the gold medal.",
+        "In the past, if you were out of the top three, you no longer controlled your own destiny.",
+        "You'd need people in front of you to fall.",
+        "And there's a few other aspects that have led to some of the confusion.",
+        "I understand that there are twelve judges, but not all their marks are included in the final score?",
+        "Yes, that's true.",
+        "And the judges, you don't know who the judges are, where they're from.",
+        "In the past you knew the name, a country, and all their marks counted.",
+        "There were nine judges on the panel, and all you had to do was get five of them to think your program was better than somebody else's and you could win.",
+        "Now, those judges don't know which of their scores are being counted and which ones aren't, nor do the skaters, nor does the media.",
+        "And you don't even know, the judges panel could be all from, you know, Ukrainian judges, for all we know.",
+        "We don't know.",
+        "We don't know who's on the panel."
+      ]
+    }
+  ]
+}

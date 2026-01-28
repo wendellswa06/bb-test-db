@@ -1,0 +1,108 @@
+{
+  "challenge_uid": "655fcb81-de7a-41de-8cec-4cb3f667b472",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "b79fccd5-a3c7-4bf3-9744-9f329fa1cb6b",
+      "language": "en",
+      "utterances": [
+        "All right.",
+        "Are you a puzzle person?",
+        "I am.",
+        "How long did it take you to solve this one?",
+        "Well, actually, I put it in my head - I did not get it right away - I put it in my head, and at some point during the week it just came to me.",
+        "That always happens, the minute your brain goes away from it, the answers will come.",
+        "It's so true.",
+        "Well, are you ready to play today?",
+        "We can't, you know, like stop and come back an hour later, but are you ready to play?",
+        "I'm ready.",
+        "All right.",
+        "Will, please meet Ken.",
+        "Let's play.",
+        "All right, Ken.",
+        "I'm going to give you clues for two words.",
+        "Add an L at the end of the first word to get the second one.",
+        "Okay.",
+        "For example, if I said a fruit and a gem from an oyster, you would say pear and pearl."
+      ]
+    },
+    {
+      "dialogue_uid": "b01acb98-5f90-4356-9896-01acdcebc321",
+      "language": "en",
+      "utterances": [
+        "Okay.",
+        "All right.",
+        "Number one is arrived and your second clue is a desert animal.",
+        "Came and camel.",
+        "That's right.",
+        "Number two is comfort and the support for a painting.",
+        "Ease and easel.",
+        "Good.",
+        "Some air pollution and eye color, color for an eye.",
+        "Air pollution...",
+        "Air pollution.",
+        "Certain air pollution.",
+        "Haze and hazel."
+      ]
+    },
+    {
+      "dialogue_uid": "ef218888-7cd4-43ee-8946-317114dc9428",
+      "language": "en",
+      "utterances": [
+        "Haze and hazel, good.",
+        "Part of a church and part of a stomach.",
+        "Okay.",
+        "Four-letter word.",
+        "Yes, and think where the congregation sits.",
+        "Pews and...",
+        "Uh-huh.",
+        "And what's that big area that the pews are in.",
+        "I need another hint.",
+        "I do, too.",
+        "And this is terrible that I can't think of the name.",
+        "All right.",
+        "I'm just going to tell you.",
+        "It's the nave.",
+        "Oh, the nave."
+      ]
+    },
+    {
+      "dialogue_uid": "e357c208-cb59-4fa7-801e-056fa58475c9",
+      "language": "en",
+      "utterances": [
+        "Nave.",
+        "And the part of the stomach is the navel.",
+        "The navel.",
+        "All right.",
+        "Here's your next one: front of a ship and walk like a cat.",
+        "Walk like a cat.",
+        "Front of ship?",
+        "Yeah, the first is front of a ship.",
+        "What do they call that?",
+        "Bowl?",
+        "No.",
+        "No. It's another term.",
+        "It's the prow."
+      ]
+    },
+    {
+      "dialogue_uid": "ec7ce8cd-913a-466c-9f46-cb42b34950ad",
+      "language": "en",
+      "utterances": [
+        "The prow.",
+        "Prow and prowl.",
+        "Prowl is like a cat.",
+        "How about covered with ivy and old records - like 45s and such?",
+        "Okay.",
+        "Covered with ivy.",
+        "And what would old records like 45s and LPs, what do you call them?",
+        "Oh, vinyl.",
+        "Discs, vinyl, Okay.",
+        "Oh, so it's vine and vinyl",
+        "Viny - covered with ivy is viny.",
+        "Of course, how political images get used, reshapes not only elections, it can shape entire cultural sensibilities.",
+        "Here to talk about that, we've got Deborah Willis, co-editor of the book, \"\"Obama; The Historic Campaign In Photographs,\"\" and Steven Seidman, the author of \"\"Posters, Propaganda, And Persuasion.\"\" and \"\"Election Campaigns Around The World and Through History.\"\" Welcome to both of you."
+      ]
+    }
+  ]
+}

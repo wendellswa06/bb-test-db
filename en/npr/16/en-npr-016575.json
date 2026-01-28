@@ -1,0 +1,120 @@
+{
+  "challenge_uid": "d9c6cb90-e1f5-400c-801d-8f8ee77fdd9f",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "09eb3c50-f6c2-42fb-a467-b5da143f50de",
+      "language": "en",
+      "utterances": [
+        "The next 24/7 lecture will be delivered by Richard Jakowski, associate professor at the department of biomedical sciences at the Tufts Cummings School of Veterinary Medicine.",
+        "His topic: purring.",
+        "First, a technical description of the subject in 24 seconds.",
+        "On your mark, get set, go!",
+        "Purring results from the low-frequency oscillation of the caudal portion of the soft palate, which is more elongated in cats than other mammalian species.",
+        "This places the feline soft palate in a lamellar air stream between the posterior coama(ph) and the rima glottidis, resulting in fluttering from the posterior portion and an audible sound wave in the range of 50 to 200 hertz.",
+        "The brain mechanism is similar to the flapping uvula of a snoring person; however, rather than keeping us awake...",
+        "(Soundbite of whistle)",
+        "And now, a clear summary that anyone can understand in seven words.",
+        "On your mark, get set, go!",
+        "Before we move on...",
+        "We now return you to Harvard's Sanders Theater, where the 15th First Annual Ig Nobel Awards Ceremony is in progress.",
+        "(Soundbite of applause)",
+        "Now let's get it over with, ladies and gentlemen: the awarding of the 2005 Ig Nobel Prizes.",
+        "We are giving out 10 prizes.",
+        "The winners come from 12 nations on slightly more than four continents.",
+        "This year's winners have truly earned their prizes.",
+        "Karen, would you tell them what they've won?",
+        "Hi.",
+        "This year's winners each receive an Ig Nobel Prize.",
+        "What else?"
+      ]
+    },
+    {
+      "dialogue_uid": "e8d0cef6-5f1e-4bfb-aae5-b15162b572e5",
+      "language": "en",
+      "utterances": [
+        "A piece of paper signed by several Nobel laureates saying they've won an Ig Nobel Prize.",
+        "Ah.",
+        "Anything else?",
+        "No.",
+        "OK.",
+        "How wonderful.",
+        "Thank you, Karen.",
+        "(Soundbite of laughter)",
+        "The Economics Prize.",
+        "This year's Ig Nobel economics prize is awarded to Gauri Nanda of the Massachusetts Institute of Technology...",
+        "(Soundbite of cheers, applause)",
+        "...for inventing an alarm clock that runs away and hides repeatedly, thus ensuring that people do get out of bed, and thus theoretically adding many productive hours to the workday.",
+        "(Soundbite of cheers, applause)",
+        "Thank you so much for this award.",
+        "You know, it's kind of funny getting this award, because my intention wasn't actually to get people to work on time.",
+        "I just kind of wanted them to have something to laugh at in the morning, maybe make--personalize the whole waking-up process.",
+        "But I think it's actually gone too far, because the other day I was--I accidentally knocked my laptop computer screen and I actually apologized to it.",
+        "Really..."
+      ]
+    },
+    {
+      "dialogue_uid": "48521ba1-c0ed-4c75-96f3-41c7eebfdf59",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "But thank you.",
+        "(Soundbite of applause)",
+        "The Fluid Dynamics Prize.",
+        "The Ig Nobel prize for fluid dynamics is awarded to Victor Benno Meyer-Rochow of International University in Bremen, Germany, and also at the University of Oulu, Finland, and to Jozsef Gal of Larant Eotvos University in Hungary, for using basic principles of physics to calculate the pressure that builds up inside a penguin, as detailed in their report, \"\"Pressures Produced When Penguins Pooh--Calculations on Avian Defecation.",
+        "(Soundbite of laughter)",
+        "The winners very much wanted to join us, but they were unable to come because the United States government refused to grant them a visa.",
+        "(Soundbite of boos)",
+        "The agricultural history prize.",
+        "(Soundbite of applause)",
+        "The Ig Nobel prize in Agricultural History is awarded to James Watson of Massey University in New Zealand, for his scholarly study, \"\"The Significance of Mr. Richard Buckley's Exploding Trousers."
+      ]
+    },
+    {
+      "dialogue_uid": "e513221a-8502-43f3-be97-976cb9a17c8c",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter, applause)",
+        "I'm infinitely grateful to the editorial staff and referees of the journal Agricultural History for recognizing that there was an important message, and not just a safety message, in an article entitled \"\"The Significance of Mr. Richard Buckley's Exploding Trousers.\"\" I think the popular science journal New Scientist also deserves a mention for making the article more widely known.",
+        "Next, I'm infinitely grateful...",
+        "(Soundbite of cheers)",
+        "...to Marc Abrahams and his team for choosing to honor my article in the way they have.",
+        "Despite the fact that New Zealand has only four million people but 40 million sheep, rural history does not have a high profile there.",
+        "Hopefully the publicity from this award will help change that.",
+        "It's hard to believe, but many people find history and even science somewhat dry and lifeless.",
+        "The Ig Nobel Awards have, I think, given the lie to those impressions.",
+        "(Soundbite of cheers, applause)",
+        "The Biology Prize.",
+        "This year's Ig Nobel prize in biology is awarded to: Benjamin Smith of the University of Adelaide, Australia, and of the University of Toronto, Canada, and of the Firmenich perfume company in Geneva, Switzerland, and of ChemComm Enterprises in Archamps, France; and to Craig Williams of James Cook University and the University of South Australia; and to Michael Tyler of the University of Adelaide; and to Brian Williams of the University of Adelaide; and to Yoji Hayasaka of the Australian Wine Research Institute; for painstakingly smelling and cataloging the peculiar odors produced by 131 different species of frogs when the frogs were feeling stressed.",
+        "(Soundbite of laughter, applause)",
+        "Thank you, Marc.",
+        "I'd just like to say that there are an infinite number of interesting odors out there for us to smell, and we're very pleased that we could follow in the footsteps of famous scientists like Platus.",
+        "In fact, it was Platus--and bear with me with--my Latin's not very good--who said (Latin spoken): `Puppies and pigs have very different smells and so do frogs.'",
+        "We'd like to thank our co-conspirators, Mike Tyler, who is a mentor to me and Ben and, in fact, his hand was the first time I smelled another man's hand; Yoji Hayasaka and Brian Williams, fantastic.",
+        "And--yeah.",
+        "We've got a quote from another famous infinite person."
+      ]
+    },
+    {
+      "dialogue_uid": "20db56da-8806-47a2-b03d-5c45c9e69ec8",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "We're at Harvard; and keep the tone intellectual.",
+        "I think it was Elizabeth Taylor...",
+        "Yes, it was Elizabeth.",
+        "Good news!",
+        "The Countess of Infinity...",
+        "...who had an infinite number of husbands, who said, `Success is the best deodorant.'",
+        "Deodorant.",
+        "Thank you.",
+        "(Soundbite of cheers, applause)",
+        "And now it's time for the Win A Date With a Nobel Laureate Contest.",
+        "(Soundbite of cheers, applause)",
+        "Here's Karen Hopkin to tell us about our laureate.",
+        "For those of you out there looking for fun, tonight's Win a Date prize is Bob Wilson.",
+        "Robert Woodrow Wilson won the 1978 Nobel Prize for his accidental discovery of the cosmic microwave background radiation, that persistent hum left over from the birth of the universe."
+      ]
+    }
+  ]
+}

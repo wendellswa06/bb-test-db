@@ -1,0 +1,109 @@
+{
+  "challenge_uid": "9f39e371-8663-4505-ae09-93fc932a26ec",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "37ddb499-8024-4806-826c-b27237141e9c",
+      "language": "en",
+      "utterances": [
+        "Car-free living.",
+        "Yes.",
+        "I've been to Tucson many times.",
+        "It is not an easy place to live car-free.",
+        "Well, if you choose your location carefully, it is.",
+        "Oh.",
+        "Yeah.",
+        "Good for you.",
+        "So you're a woman who appreciates a nice walk.",
+        "Oh, yes, a walk's never wasted.",
+        "OK, so Mary, do you happen to have a question for Will Shortz?",
+        "Yes.",
+        "I was wondering, Will, do you have a favorite cryptic puzzle constructor?",
+        "Mine is Richard Maulsby (ph)."
+      ]
+    },
+    {
+      "dialogue_uid": "0c27b420-e965-4f16-9232-49cd3a7b4623",
+      "language": "en",
+      "utterances": [
+        "It's hard to say.",
+        "I like - in The New York Times I publish cryptics by Emily Cox and Henry Rathvon...",
+        "Oh, yes.",
+        "Who I just think are great.",
+        "And Richard Silvestri - don't know if you know him.",
+        "No.",
+        "He does slightly harder cryptics that are still straightforward.",
+        "This is the part of the puzzle where I feel left out as someone who's not a big cryptic puzzler.",
+        "But I'm glad you two could connect on this issue.",
+        "All right, Mary, with that, are you ready to play this week's puzzle?",
+        "Yes.",
+        "She's convinced, Will.",
+        "Let's do it.",
+        "On the other hand, if the eurozone is now to become a political union, with the wealthier states helping the poorer ones, it would cost Germany billions, maybe hundreds of billions.",
+        "Plus, Germany and other countries would have to cede some of their authority to Europe-wide organizations.",
+        "Markus Kerber, a prominent Berlin lawyer, is so alarmed by the prospect that he's prepared to lead something like a German Tea Party movement in defense of what he calls the principle of fiscal sovereignty."
+      ]
+    },
+    {
+      "dialogue_uid": "696cb246-35bf-48a6-b196-a377519aa2a8",
+      "language": "en",
+      "utterances": [
+        "That is to say, that German citizen and their representatives keep the right to dispose of German resources and to defend the rating of the nation.",
+        "This choice for Germany - to strengthen the eurozone or to abandon it - is as vexing a political challenge as any the country's leaders have faced since the unification of East and West Germany 20 years ago.",
+        "There are risks everywhere, costs on all sides.",
+        "Chancellor Angela Merkel's meeting with Nicolas Sarkozy tomorrow will be just the first of many leadership tests for her in the next few months.",
+        "Tom Gjelten, NPR News, Berlin.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Michele Norris.",
+        "And it's time now for All Tech Considered.",
+        "(Soundbite of music)",
+        "Here we are, working on a holiday.",
+        "All of you out there listening, you're probably off work, right?",
+        "Enjoying a drink, maybe some savory barbecue.",
+        "Well, perhaps not.",
+        "Many of us carry around digital leashes to the office: smartphones, iPads, Kindles, that sort of thing.",
+        "And as NPR's Hansi Lo Wang reports, those devices mean you are always tethered to work.",
+        "For Dimitar Popov, a business consultant from Chicago, the day off from work is dead.",
+        "Time of death?",
+        "As soon as he hears this."
+      ]
+    },
+    {
+      "dialogue_uid": "5acc2c1b-ed76-4188-b29f-c1d351daa693",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of a ring tone)",
+        "I took off work but with the promise that I would be periodically checking emails.",
+        "And returning phone calls and text messages from co-workers on his day off.",
+        "He's spending it in an upscale hotel in Washington, D.C., where he's volunteering at a conference about his home country, Macedonia.",
+        "(Soundbite of typing)",
+        "But in between the panels and networking events, it's back to work in front of the laptop.",
+        "At any point, in any day - weekend, weekday - you're expected to return phone calls, return emails, and there's really no shut-off point.",
+        "Popov says in his line of work he always has to stay connected, even when he's far away from the office.",
+        "I mean, I feel it's a good thing for my boss.",
+        "(Soundbite of laughter)",
+        "And I guess it's a good thing for me in the sense that I have to meet certain deadlines."
+      ]
+    },
+    {
+      "dialogue_uid": "87cfcf62-05ef-44d5-a5d6-c34be94ac3f6",
+      "language": "en",
+      "utterances": [
+        "This is a concept that I refer to as BlackBerrys on the beach.",
+        "That's Tony Oncidi.",
+        "He's a lawyer in Los Angeles who specializes in labor and employment law.",
+        "It's a shorthand reference to the fact that employees today can sort of log on and be productive from just about any location on Earth.",
+        "There may be some places left to get off the grid - the middle of the ocean or on a mountaintop.",
+        "(Soundbite of theme song, \"\"The Jetsons\"\")",
+        "But those quiet places are disappearing in an age of smartphones, remote access and now video calling.",
+        "The space-age world of the Jetsons doesn't seem so far off.",
+        "(Soundbite of music)",
+        "Remember those videophones George Jetson's boss would use to check in on his employees?",
+        "(Soundbite of TV series, \"\"The Jetsons\"\")",
+        "(as Cosmo S.",
+        "Spacely): Jetson, caught you again.",
+        "Now stop goofing off on my time."
+      ]
+    }
+  ]
+}

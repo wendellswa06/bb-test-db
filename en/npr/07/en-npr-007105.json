@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "4a66bad6-b35c-4fab-bdb7-546d76263185",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "53cfc60f-1e23-4707-aa3c-cdc75ce34caa",
+      "language": "en",
+      "utterances": [
+        "Eric Olson of the Wilson Center is here in Washington.",
+        "Alfredo Corchado of the Dallas Morning News is San Pedro Sula, Honduras.",
+        "Thanks to you both.",
+        "Thank you.",
+        "Thank you.",
+        "(SOUNDBITE OF MUSIC)",
+        "This is MORNING EDITION from NPR News.",
+        "I'm Renee Montagne.",
+        "While there are many signs that the American economy is picking up steam, in much of the European Union, the opposite is true.",
+        "Austerity programs aimed at reducing national debts have been blamed for crushing growth and sending unemployment in the eurozone nations to a record high of 12 percent.",
+        "This week, the EU announced it is easing up on austerity, giving some countries - including Spain and France - more time to hit their deficit reduction targets.",
+        "NPR's John Ydstie takes a closer look at whether the big dose of austerity was the wrong medicine for Europe.",
+        "Faced with the debacle in Greece and fear that it could spread across Europe, eurozone policymakers decided three years ago to pressure Greece and other countries with big debt loads, to cut their budgets and raise taxes to get their debt under control.",
+        "Policymakers claimed the government austerity would give the private sector more confidence to invest and hire, so the economic drag from the budget cuts wouldn't be so bad.",
+        "They were wrong, says Jacob Kirkegaard of the Peterson Institute for International Economics."
+      ]
+    },
+    {
+      "dialogue_uid": "e589127b-ad0e-4853-9de1-977fe2e75b62",
+      "language": "en",
+      "utterances": [
+        "There's no doubt that the European policymakers oversold austerity in the sense that they underestimated the negative effects.",
+        "Negative effects like a long recession, debt loads increasing instead of falling and youth unemployment running between 25 and 50 percent.",
+        "Austerity is going out of fashion very rapidly.",
+        "That's economist John Makin, a fellow at the American Enterprise Institute.",
+        "The miscalculation was to say well, you know, we can't given Spain any loans, we can't give Greece any loans unless we make them increase taxes and cut spending.",
+        "But that's sort of saying we're not going give you a loan unless you really put your economy into a recession and that just doesn't work.",
+        "Makin says the Keynesian economists were right.",
+        "Government policy needs to be stimulative in a recession.",
+        "(Soundbite of laughter)",
+        "But the EU policymakers are not admitting mistakes.",
+        "Ollie Rehn, the EU's top financial official, says that the austere budgeting worked.",
+        "He says it stabilized financial markets, and gave investors the confidence to buy Spanish and Italian bonds.",
+        "Adam Posen, head of the Peterson Institute for International Economics, says that's just spin.",
+        "What changed the game was the that ECB - the European Central Bank - with German backing said they would do whatever it takes and that's what changed the bond markets - nothing to do with the budget."
+      ]
+    },
+    {
+      "dialogue_uid": "db2df3ee-3d99-4d67-abcf-6f4c08cb3425",
+      "language": "en",
+      "utterances": [
+        "Posen sat on the Bank of England's interest rate setting board during the crisis.",
+        "He says the European austerity was excessive and badly timed.",
+        "The AEI's John Makin says the ECB should have been even more aggressive, and like the Federal Reserve, flooded the economy with cash.",
+        "That would have lowered the value of the euro, he says, and kept the struggling economies more competitive allowing them to grow more.",
+        "But there were political barriers to that, among them Germany's deep fear of inflation.",
+        "Jacob Kirkegaard says Europe's austerity was flawed in a number of ways, but he argues, Europe didn't have many alternatives, because most of the troubled countries couldn't increase government spending since the bond market wouldn't have lent them the money to do it.",
+        "I don't think that a credible alternative has really been offered.",
+        "In the end, Kirkegaard thinks Europe's austerity has been successful at stabilizing the financial markets.",
+        "But the costs associated with it have certainly been tremendous.",
+        "Adam Posen says there still aren't any great alternatives for Europe right now, but he says the episode does offer one lesson.",
+        "You can have a situation that's very bad and politically divisive and have it persist for a very long time without the system breaking up.",
+        "And unfortunately, I think that that's where the euro area is going to be for the next few years.",
+        "It's not going to recover in any meaningful sense.",
+        "It's not going to get some huge burst of confidence or employment, but it will hang together in a pretty miserable state.",
+        "John Ydstie, NPR News, Washington.",
+        "Last weekend, five people were shot and killed in New Orleans and many more were wounded including two toddlers.",
+        "Police arrested suspects in the wounding of the children, but the shootings have continued.",
+        "The city launched several high-profile campaigns to address gun violence, but a big part of the problem is a shortage of police.",
+        "From New Orleans, Eve Troeh of member station WWNO reports."
+      ]
+    },
+    {
+      "dialogue_uid": "da7be4cd-9ce5-4ee6-a417-d9a9edc3f01b",
+      "language": "en",
+      "utterances": [
+        "Here's one recent scene.",
+        "A drive-by shooting in the lower Ninth Ward, two teenagers [POST-BROADCAST CORRECTION: In the audio of this story, as in a previous Web version, we incorrectly say that two teenagers died in a lower 9th Ward drive-by shooting.",
+        "In fact only one of the two who died was a teenager.",
+        "killed, several people wounded.",
+        "Drug-related the police say.",
+        "Karen Rogers lives on the block.",
+        "She saw it.",
+        "This is not the first time I've heard gunshots.",
+        "You know, this is the first time to actually see people murdered and shot.",
+        "She blames, in part, a lack of police.",
+        "They not even around here, see, like right now.",
+        "All over New Orleans you hear this complaint - bystanders to crime say response times are slow.",
+        "911 calls often ring endlessly, no answer.",
+        "Get in a fender bender?",
+        "You'll likely wait hours for police.",
+        "Sometimes the police don't arrive timely.",
+        "Sometimes they don't arrive at all.",
+        "Rafael Goyeneche of New Orleans Metropolitan Crime Commission says the reason is simple.",
+        "We're looking at a 36-year low from a police manpower standpoint right now.",
+        "There are just too few of them to respond to all the calls for service that they get.",
+        "A few years ago, he says, the city had budget problems.",
+        "So it stopped hiring new police.",
+        "NOPD loses about 100 officers a year just through retirements or people quitting.",
+        "So now the city's population is about back to where it was before Hurricane Katrina.",
+        "But it has around 500 fewer police.",
+        "You didn't really feel the pain dropping from 1,600 to 1,500.",
+        "When it started dropping into the 1,300's and below, that's when you started to see backups in calls for service."
+      ]
+    },
+    {
+      "dialogue_uid": "ed883b9d-444a-40d6-bc82-9a108ef2787b",
+      "language": "en",
+      "utterances": [
+        "Now the city wants to hire about 400 new officers, fast.",
+        "At a press conference about the recent murders and shootings, Mayor Mitch Landrieu spoke not at a crime scene as he often does but at a brand-new police station.",
+        "(SOUNDBITE OF PRESS CONFERENCE)",
+        "It stands as a testament to our commitment to make the community safe.",
+        "Police superintendent Ronald Serpas also praised the building as well as new squad cars parked in the lot nd recent officer promotions.",
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "These are all the commitments that are real, that candidates consider when they think about joining the New Orleans Police Department.",
+        "The recruitment push is on.",
+        "A private company is speeding up background checks.",
+        "Officers no longer have to live in New Orleans to get hired.",
+        "And police no longer have to cover arm tattoos with long sleeves.",
+        "(SOUNDBITE OF TV ADVERTISEMENT)",
+        "This is why I'm here.",
+        "I have this idea that this city can be what it is on its best day every day.",
+        "Ads like this one for joinnopb.org, now air across Louisiana and Texas.",
+        "They're shot in black and white, noir style, with cops working the iconic streets of New Orleans.",
+        "But progress is slow.",
+        "The city started just one new class of police recruits, 29 students.",
+        "They'll need about a year of training before they can hit the streets.",
+        "A second class starts next month, assuming they all graduate, that means about 60 new officers in the coming year far short of the goal.",
+        "At a local school, aspiring recruits file into a cafeteria for more information."
+      ]
+    }
+  ]
+}

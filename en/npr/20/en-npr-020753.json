@@ -1,0 +1,124 @@
+{
+  "challenge_uid": "0c6c8355-e568-43a0-8d85-81d7eafadf9e",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7d81fc47-36f3-4a9d-991a-8031540b439c",
+      "language": "en",
+      "utterances": [
+        "Autofuss...",
+        "IPI...",
+        "...Nest",
+        "Holomni...",
+        "Holomni...",
+        "That's Brian Gerkey, CEO of the Open Source Robotics Foundation, Rich Mahoney, director of the robotics program at SRI, Melonee Wise, CEO of Unbounded Robotics, and Paola Santana, co-founder of Matternet, a start-up drone delivery company.",
+        "Google's recent purchases of more than half a dozen little robotics companies has set the industry abuzz.",
+        "But when I asked Google what they're up to with all these robots, the company wouldn't say a thing.",
+        "They are very careful.",
+        "They haven't disclosed.",
+        "Nobody knows what they are doing, so expect that something good and powerful is going to come out of that.",
+        "Rich Mahoney was on the board of Redwood Robotics, one of the companies Google bought.",
+        "So, if I had information that wasn't proprietary, I would share it.",
+        "But right now, they are being pretty careful about what they are telling people."
+      ]
+    },
+    {
+      "dialogue_uid": "346ee3dd-9e9a-446c-a1e2-8c408ca542ee",
+      "language": "en",
+      "utterances": [
+        "So you signed and NDA?",
+        "That's correct.",
+        "As I poked around, talking to folks at companies that hadn't been bought, these NDAs - nondisclosure agreements - kept popping up.",
+        "Here's Brian Gerky at the nonprofit Open Source Robotics Foundation.",
+        "We are under NDA with Google.",
+        "But even under the NDA, they won't tell us anything.",
+        "(LAUGHTER)",
+        "And again, with Melonee Wise at Unbounded Robotics.",
+        "Have they tried to buy you?",
+        "Well, if they had, we couldn't disclose that.",
+        "(LAUGHTER)",
+        "Theories about what Google is working on range from the wildly ambitious - picture a self-aware C-3PO - to the mundane, like factory automation.",
+        "But one thing is clear: There are a couple trends in robotics that have captured the imagination of executives at Google.",
+        "The first is that building robots is getting cheaper."
+      ]
+    },
+    {
+      "dialogue_uid": "9db00be9-3bbd-4ac4-9a53-63eef9b32b9a",
+      "language": "en",
+      "utterances": [
+        "So, who is this?",
+        "This is UBR-1, our buddy.",
+        "UBR-1 is a friendly, little orange and white robot on wheels.",
+        "He's a little bit like R2-D2 size.",
+        "It has one arm that can reach around and grab stuff and when it stops...",
+        "We make the robot get taller.",
+        "It's spine goes up.",
+        "Like, oh, it gets bigger like E.T.",
+        "UBR-1 is designed to work right next to people in warehouses and small business, doing things like sorting packages.",
+        "The previous generation of robots like this cost up to $400,000.",
+        "But UBR-1 and its competitors costs just a tenth of that.",
+        "And a decade ago, Brian Gerkey says if you wanted to build a robot to do anything, like clean up after your kids, it was pretty tough.",
+        "To get a robot to do something useful, you actually need to be an expert in many, many areas.",
+        "You'd have to be a mechanical engineer, a computer vision expert and a wiz at motion planning.",
+        "But today, free open source robotics software has many of these solutions baked right in.",
+        "What you want, in order to be able to really innovate in this area, is to have all the basics, the things that everybody needs, just taken care of."
+      ]
+    },
+    {
+      "dialogue_uid": "183b04f8-611f-4c6b-ac45-989d0509b09b",
+      "language": "en",
+      "utterances": [
+        "And that has freed up folks like Melonee Wise to tackle harder problems, like trying to teach a robot to plug itself into an electrical outlet.",
+        "Just to recognize one type of outlet in different lighting conditions was a very difficult problem.",
+        "Roboticists approach problems like this like this by feeding their machines reams of data.",
+        "They show them thousands of pictures of different electrical outlets in different lighting conditions, and create software to help the machines recognize these patterns.",
+        "And it turns out this is also how Google teaches its search engine to anticipate your needs, and offer you search results before you've even finished typing.",
+        "It is exactly this kind of data-driven statistical analysis that is one of Google's core strengths.",
+        "And this skill set may well be why Google is suddenly feeling so much love for so many robots.",
+        "If so, Melonee Wise understands.",
+        "I'm affectionate towards all robots.",
+        "Actually, there is this growing series of pictures with me, like basically spazzing out and hugging robots.",
+        "Google executives seem to know that feeling.",
+        "Steve Henn, NPR News, Silicon Valley.",
+        "Until now.",
+        "Meet loan number 294, Richard Koenig, is 81 years in Sarasota, Florida.",
+        "Doesn't look like a deadbeat.",
+        "Well, all technology can have malicious uses and be used for ill, right?",
+        "But in this case, it gets even thornier.",
+        "And Rao addressed some of that, too.",
+        "You could have brain tapping - you know, somebody reading your thoughts.",
+        "You could have computer viruses.",
+        "Imagine, you know, somebody doing that with a - like, a mind virus.",
+        "So malware for the brain or something."
+      ]
+    },
+    {
+      "dialogue_uid": "7fa37e22-f243-4e8a-9892-67353bf78979",
+      "language": "en",
+      "utterances": [
+        "Exactly.",
+        "Yeah, mind malware.",
+        "That's crazy.",
+        "Like, you could be thinking that you wanted to infect my brain somehow and make me have different thoughts.",
+        "Well, worse, it would be used by businesses or governments.",
+        "So this is important stuff you're covering.",
+        "Yeah, and it's exactly why I thought that it was an important frontier for us to be looking at.",
+        "All right.",
+        "And you can look at it much more by watching the premiere episode of Elise's new video series Future You, With Elise Hu.",
+        "I like the rhyme.",
+        "Just go to npr.org/futureyou.",
+        "Elise, thanks.",
+        "You're welcome.",
+        "It's Halloween.",
+        "What could be more terrifying than talking to A.J.",
+        "Jacobs, our resident scholar on the nonessential?",
+        "A.J.'s done some, as usual, minimum resource to discover that many monsters apparently aren't so terrible, merely misunderstood.",
+        "A.J.",
+        "joins us from New York.",
+        "Thanks very much for being with us, A.J.",
+        "A.J.",
+        "JACOBS, BYLINE: Thank you for having me."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "53991da6-f7a6-4723-9df0-b69a672af99c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "ab8ec165-dd0f-48ea-affb-a8a98cad0a42",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of warm-up session)",
+        "We'll actually speak in massages today.",
+        "OK, massage, that way.",
+        "That's Harmonium's long-term director, Dr. Ann Matlack, leading us in a conga line group massage, part of our standard warm-up.",
+        "(Soundbite of warm-up session)",
+        "Now let's switch.",
+        "(Singing) I have a flood in my house, come see.",
+        "Thanks for the tip.",
+        "You're not going to hear that on Martha Stewart.",
+        "1-800-989-8255.",
+        "A lot of these projects are at instructables.com.",
+        "And you're using little computer microcontrollers called Arduino.",
+        "Right?",
+        "A lot of people haven't hard about these.",
+        "Tell us about it.",
+        "Yes.",
+        "So an Arduino is an open-source electronics prototyping platform, and it's really for designers and hobbyists who want to make interactive objects.",
+        "And I'll say that another way, which is if you want to make something that interacts with someone and maybe turns on some lights or controls the motors or makes some sound, this is a little computer that makes it easy to do that.",
+        "So you can hook up sensors like temperature sensors or buttons or air quality sensors, and then have them do something like turn on lights or control motors.",
+        "Mm-hmm.",
+        "And if somebody wants to get started with this stuff, you - do you offer kits for them to help...",
+        "We have a bunch of instructions on our site..."
+      ]
+    },
+    {
+      "dialogue_uid": "9d7bba12-df4b-4e99-baae-5fc995147b2f",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "...but the place that I actually go for kits is a site called adafruit.",
+        "So it's A-D-A-fruit.com.",
+        "Adafruit.",
+        "And you can build these geeky things.",
+        "1-800-989-8255.",
+        "Daryl in Hollywood.",
+        "Hi, Daryl.",
+        "Welcome to SCIENCE FRIDAY.",
+        "Hi, Ira.",
+        "Hi, there.",
+        "We - I'm a member of the Association of Special Effects Artists in Hollywood.",
+        "And every year at Halloween, the special effects folks and the make up folks have a contest.",
+        "And the - all the studios make submissions and tell what they're going to do.",
+        "And the - the two that are in the four finalists this year, one is they're going to recreate a plane crash will all the associated blood, guts and gore.",
+        "And the other group is going to simulate a morgue where they're actually doing autopsies, but the bodies are live people.",
+        "And it looks so real, like an open chest cavity, and that at some point in time, one of these people will - the cadaver, per se, will look over at the audience and shout at them.",
+        "And it makes for a great effect.",
+        "Wow.",
+        "Daryl, I got to ask you.",
+        "What did you do as a kid?",
+        "(Soundbite of laughter)"
+      ]
+    },
+    {
+      "dialogue_uid": "7b322b29-9d5c-43bb-9758-f998d02749c3",
+      "language": "en",
+      "utterances": [
+        "I've always been interested in special effects.",
+        "From the time I was about 12 or 13, I was putting together robots first, and then I've been doing Halloween stuff, literally, since I was teenager.",
+        "And with all the advancements at technology, it makes so much easier now.",
+        "Yeah.",
+        "We can make some stuff that really, really looks realistic.",
+        "Are you familiar with this Arduino computer servo?",
+        "Yes.",
+        "Yes, absolutely.",
+        "Do you use them?",
+        "Yes.",
+        "Wow.",
+        "Let me bring Eric Wilhelm.",
+        "Eric, tell us about this - what - I describe it as a mirror that's out of \"\"Snow White.\"\" You know, mirror, mirror on the wall, who's the fairest of it all?",
+        "There's actually a mirror than you can make that will talk back to you.",
+        "Yeah, this is what we call the DIY Magic Mirror.",
+        "And so what it is, is it's a mirror that is - that has a screen behind it from an old laptop, and then it's hooked up such that when you get close, it plays some videos to tell you how fair you are, to tell you, you know, the weather or to, you know, give you a spook.",
+        "And it looks very much like a magic mirror from the movies.",
+        "Wow.",
+        "And you can build that yourself?"
+      ]
+    },
+    {
+      "dialogue_uid": "935c8e94-8a21-4c69-8724-6e1667da84af",
+      "language": "en",
+      "utterances": [
+        "All the instructions are on Instructables.",
+        "So Daryl, you're going to be pretty busy this Halloween.",
+        "Yeah.",
+        "We always are.",
+        "But we have a lot of fun.",
+        "Thank you for taking time to call.",
+        "Pleasure.",
+        "Yeah, Daryl, I hope you consider putting the projects up on Instructables.",
+        "We're running a great contest.",
+        "Okay.",
+        "Thanks.",
+        "All right, thanks.",
+        "1-800-989-8255.",
+        "Any pumpkin carving tips for us, Eric?",
+        "So one of the fun ones is to actually etch the pumpkin.",
+        "So you carve some areas, but then you etch others so the light can go through and you can make grayscale.",
+        "You - say that again.",
+        "You - tell us how to do that?"
+      ]
+    },
+    {
+      "dialogue_uid": "67e1fdf4-8cc1-4f97-a6ec-d1319f3c28f2",
+      "language": "en",
+      "utterances": [
+        "You can print out a picture.",
+        "Right.",
+        "And you can trace it onto the pumpkin.",
+        "Right.",
+        "And then you can cut some of the areas all the way through to do the white areas of the picture.",
+        "Mm-hmm.",
+        "And then the black areas are where it's uncut.",
+        "But the gray areas of the picture are where you scrape the skin of the pumpkin down.",
+        "You etch it down, so that the light can actually come through a little bit.",
+        "Ah.",
+        "You can get some control over that, and you can do some really fantastic pumpkin carving using that technique.",
+        "You know, a lot of..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "challenge_uid": "f9107d6c-245e-4bf7-af67-51a56683b728",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "f45b7bb8-026f-403f-92fc-e524e39ccb79",
+      "language": "en",
+      "utterances": [
+        "Wow.",
+        "So as you mentioned, this was a really hard one.",
+        "We only got 50 correct answers.",
+        "Our randomly selected winner, though, is Arvin Tseng of Los Angeles, California.",
+        "He joins us on the line now.",
+        "Hey, Arvin.",
+        "Congratulations.",
+        "Thanks Rachel.",
+        "So this was one was hard.",
+        "So how did you figure it out?",
+        "You know, it's funny.",
+        "I spent about a minute trying to think of if there was any sort of pattern between the times' numerical pattern.",
+        "That didn't get anywhere.",
+        "And so I thought, well, what do these times look like on an analog clock?",
+        "And pretty quickly I noticed that 3 o'clock would like an L, 6 o'clock looked like and I, and then the C and V came soon after.",
+        "Exactly.",
+        "Well-done.",
+        "Thank you.",
+        "That's really impressive.",
+        "So how do you occupy your time in Los Angeles, Arvin?",
+        "Well, during the weekdays, I am an attorney.",
+        "So I yell at people or get yelled at depending on the day.",
+        "(Laughter) OK."
+      ]
+    },
+    {
+      "dialogue_uid": "39224fa6-51c1-43e9-a51d-09708145c580",
+      "language": "en",
+      "utterances": [
+        "And during the weekends, I fall out of airplanes.",
+        "You fall out of airplanes?",
+        "By choice I'm imagining.",
+        "By choice, usually, people are mad, sometimes I get pushed.",
+        "So you're a skydiver?",
+        "I'm a weekend skydiver, yes.",
+        "Wow.",
+        "That is amazing.",
+        "No mishaps, I'm imagining.",
+        "No big mishaps.",
+        "There's always, you know, little injuries here and there.",
+        "But I am still alive and puzzling and so that's good.",
+        "Good.",
+        "We're glad that you're here with us today.",
+        "Thank you.",
+        "So let's, with that, do some puzzling.",
+        "Will, I think we're ready."
+      ]
+    },
+    {
+      "dialogue_uid": "a615835e-d258-4d9f-a40a-ee2186e28b8d",
+      "language": "en",
+      "utterances": [
+        "All right, Arvin and Rachel, I'm going to name some categories.",
+        "For each one, name something in it whose first two letters are the first and last letters of the category.",
+        "For example, if I said animal, you might say alligator or alpaca because alligator and alpaca start A-L, and those are the first and last letters of animal.",
+        "OK, let's do it.",
+        "Let's give it a shot.",
+        "Number one is country.",
+        "Cypress.",
+        "Cypresses is it.",
+        "Number two is color.",
+        "Color - C-R.",
+        "This takes me back to Crayola days.",
+        "C-R.",
+        "Kind of like red.",
+        "Shade of red.",
+        "Crimson."
+      ]
+    },
+    {
+      "dialogue_uid": "8627b5fe-4f5b-43a0-ba79-cc9363099858",
+      "language": "en",
+      "utterances": [
+        "Crimson is it.",
+        "Thank you, Rachel.",
+        "You bet.",
+        "Tree.",
+        "Tree with T-E.",
+        "I cannot think of a tree.",
+        "They make furniture out of it.",
+        "Yes.",
+        "Teak.",
+        "Yeah.",
+        "There you go.",
+        "Good clue, Rachel.",
+        "A measure."
+      ]
+    },
+    {
+      "dialogue_uid": "55fb8bcc-4dd2-43e4-8393-55d8db18bd74",
+      "language": "en",
+      "utterances": [
+        "A measure with M-E.",
+        "Yeah.",
+        "How about a megabyte?",
+        "Megabyte.",
+        "I was going for meter, but I like yours.",
+        "I like a megabyte.",
+        "Occupation.",
+        "Occupation with O-N.",
+        "Oncologist.",
+        "Excellent.",
+        "TV show.",
+        "How about \"\"Twin Peaks\"\"?",
+        "Good."
+      ]
+    }
+  ]
+}

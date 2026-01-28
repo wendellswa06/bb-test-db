@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "38dd13fe-1ec7-4f65-8208-dd5e26c66afa",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "2ac6cba1-cee0-4489-8b07-efc69b6f3410",
+      "language": "en",
+      "utterances": [
+        "Hi, this is Kevin McDermott.",
+        "I'm from Los Angeles, California.",
+        "You know, my grandmother was a Lutheran from Minnesota and a great woman, but the worst Christmas present gift I ever got--the strangest one--was she gave me two stuffed anatomically correct dolls, male and female.",
+        "This was when she was about 75, and I was never quite sure what I was supposed to do with those dolls.",
+        "How old were you at the time?",
+        "Thirty-two.",
+        "I suppose I was supposed to play with them.",
+        "I don't know.",
+        "Put them on the bed, you know.",
+        "My name is Maria Ray and my ex-sister-in-law gave me a mug, which was given to her, which was a recycled gift from somebody to her.",
+        "She forgot to take the tag out, and then she gave it to me.",
+        "My name is Marvin and the worst gift that I ever received was a bottle of Brut 33.",
+        "And I still have that, and I'm in my thirties.",
+        "I thought that I would receive more or something better, and end up with a Brut 33 that I used since the sixth-grade.",
+        "I laugh about it every now and then, but I guess it's the thought that counts.",
+        "Holiday shoppers here in Los Angeles talking with producer, Skye Rohde.",
+        "(Soundbite of music)",
+        "And joining us is puzzlemaster Will Shortz.",
+        "Hey, Will.",
+        "Hi, Liane.",
+        "Well, I've seen the new KenKen puzzles in The New York Times, but I have to admit, they're a little intimidating, so, I haven't tried one yet.",
+        "I'm sticking with the crossword.",
+        "I know, I know, I know, I have to get into it, but it's nice to see them there."
+      ]
+    },
+    {
+      "dialogue_uid": "a875202a-f9ac-4147-b6c4-2b48bfbac4a2",
+      "language": "en",
+      "utterances": [
+        "Yeah, I think they bring in a different kind of solver from crosswords.",
+        "With crosswords you have to know things and with KenKen it's just a pure logic number challenge.",
+        "All right, well, I promise to try one in the coming week, okay?",
+        "Okay.",
+        "Yeah.",
+        "All right.",
+        "Well, you left us with an interesting challenge last week.",
+        "What was it?",
+        "Yes, it came from listener Charlie Pine(ph) of Norfolk, Massachusetts.",
+        "I said, take the name of a country, interchange two consecutive letters, add an E after the fifth letter, the result will be two synonyms one after the other.",
+        "What are they?",
+        "What are they?",
+        "Well, the country is Finland.",
+        "Interchange the A and the L and add an E, you get, final, and end.",
+        "You know, this one was a tough one for everyone listening.",
+        "We received fewer than 800 correct entries this time.",
+        "And from those entries we randomly selected Fran Kaplan(ph) of Brooklyn, New York to play the puzzle on the air with us today.",
+        "Hey, Fran.",
+        "Hi, Liane.",
+        "So, how long did it take you to solve the puzzle?"
+      ]
+    },
+    {
+      "dialogue_uid": "2f6dba20-33e6-42de-a8b1-96ea85de3ec2",
+      "language": "en",
+      "utterances": [
+        "I think I had it by the end of the day on Sunday.",
+        "Excellent.",
+        "How long have you been playing?",
+        "At least two years.",
+        "Wow.",
+        "Are you a puzzle person normally?",
+        "Yes, I am.",
+        "What do you like?",
+        "I play crossword puzzles.",
+        "I enjoy Sudoku, Scrabble, anything with words.",
+        "Ah, well, let's hope there's a word puzzle for us today.",
+        "I have no idea from week to week what Will has for us.",
+        "But you sound like you're ready to have some fun.",
+        "Absolutely.",
+        "Okay, Will.",
+        "Well, meet Fran.",
+        "Let's play."
+      ]
+    },
+    {
+      "dialogue_uid": "608ef3a8-5165-4ecc-9dba-ae3832ca514f",
+      "language": "en",
+      "utterances": [
+        "All right, Fran.",
+        "It is with words.",
+        "Every answer today is the name of an animal you might see in the zoo.",
+        "Name the animals from their anagrams.",
+        "For example, if I said, oil, O-I-L plus N.",
+        "You would say lion.",
+        "Got it.",
+        "Here's number one, reb, R-E-B plus A.",
+        "Bear.",
+        "Bear is right.",
+        "Number two is Ezra, E-Z-R-A plus B.",
+        "Zebra.",
+        "Uh-huh.",
+        "Napa, N-A-P-A plus D.",
+        "Panda?",
+        "That's it.",
+        "Rite, R-I-T-E plus G.",
+        "Tiger."
+      ]
+    },
+    {
+      "dialogue_uid": "d0e9fe48-0a07-48d6-8e53-b64dab523d71",
+      "language": "en",
+      "utterances": [
+        "Good.",
+        "Next nabob, N-A-B-O-B plus O.",
+        "Baboon.",
+        "Good.",
+        "Rawls, R-A-W-L-S plus U.",
+        "Walrus.",
+        "Good.",
+        "Allege, A-L-L-E-G-E plus Z.",
+        "Gazelle.",
+        "That's it.",
+        "Gaffer, G-A-F-F-E-R plus I.",
+        "Giraffe.",
+        "Uh-huh.",
+        "Enrapt, E-N-R-A-P-T plus H.",
+        "Uh, panther."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "a1eb9a6f-5bdb-4b11-b5d8-641e040a0969",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "e6d1003a-9120-4b24-a2bb-fd4395574fd0",
+      "language": "en",
+      "utterances": [
+        "From National Public Radio in Washington, I'm Robert Conley with ALL THINGS CONSIDERED.",
+        "Susan Stamberg's unmistakable voice didn't appear on our air until June 30, 1971.",
+        "It was during an interview with Philip Hirschkop, a lawyer.",
+        "He was involved in defending thousands of people who were arrested earlier that spring during an antiwar protest.",
+        "Here's ALL THINGS CONSIDERED's first host, Robert Conley, introducing Susan's piece.",
+        "(SOUNDBITE OF ARCHIVED BROADCAST)",
+        "Susan Stamberg went over to talk to Philip Hirschkop, and her first question to him was about how many of those 13,400 youngsters arrested were his clients.",
+        "Probably all of them.",
+        "A number...",
+        "OK, so where's Susan?",
+        "Oh, she's there, listening intently.",
+        "(SOUNDBITE OF ARCHIVED BROADCAST)",
+        "Were charged with unlawful entry.",
+        "The D.C.",
+        "Corporation Counsel, C.",
+        "Francis Murphy, dropped something like 2,500 cases, and so far there've been 10 - haven't there - people who've been convicted."
+      ]
+    },
+    {
+      "dialogue_uid": "7c2825af-d9c6-44e2-9e98-1eb6ad8b5b72",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "What's the present situation then?",
+        "I don't...",
+        "And, Sylvia, how about the governments of Spain and Italy?",
+        "There has been a report of a radical cleric in Milan being abducted by the CIA and taken to Egypt where he was allegedly tortured.",
+        "Well, everyone here is very cautious because there are suggestions that governments could not have been uninformed about the CIA operations on their territory.",
+        "In Spain, the government has told parliament it has no evidence that the CIA flights broke any Spanish laws.",
+        "And in Italy, the government of Silvio Berlusconi is a staunch ally of the Bush administration is in a very embarrassing situation.",
+        "In Milan, prosecutor has issued arrest warrants for 22 CIA agents charged with the abduction of Abu Omar, a Islamic radical in Milan in 2003.",
+        "And the government has issued numerous denials that it had any advanced knowledge of the kidnapping.",
+        "But the prosecutors say they have very strong evidence, including the trail of cell phone calls, hotel bills and surveillance photos of the abducted cleric and one of the CIA agents went so far as to file for immunity, but his request was rejected.",
+        "And back to you, Rachel.",
+        "Germany, Secretary Rice has been in Germany.",
+        "Yesterday, Chancellor Merkel said the US had admitted to mistakenly detaining a German national.",
+        "So what's been the reaction there?",
+        "Yes.",
+        "Yesterday, Khaled al-Masri, a German national, actually filed suit against the former director of the CIA claiming that he was kidnapped in Macedonia and flown to Afghanistan, tortured and detained there for five months.",
+        "Also yesterday, Chancellor Merkel said the US had admitted to taking al-Masri and while Secretary Rice didn't go that far, she did say that mistakes happen and when they do the United States tries to fix them.",
+        "And just briefly, to both of you, what about public opinion?",
+        "What are people saying?",
+        "Well, commentators point out that the way the US and Europe is fighting the terrorism war is very different.",
+        "The US is fighting an external enemy, they say, while in Europe the enemy is within.",
+        "And I'd agree with Sylvia.",
+        "As far as response here in Germany, much more vocal response coming out in the press.",
+        "This morning, different op-ed articles saying that the US is trying to make Europe and European countries into accomplices in a war on terror that's being fought in a way that doesn't reflect European values.",
+        "And overall, people here think that Secretary Rice didn't provide the answers that she was expected to give."
+      ]
+    },
+    {
+      "dialogue_uid": "294f0e7c-2c46-4ca1-abb2-900843c4b15d",
+      "language": "en",
+      "utterances": [
+        "Thank you both very much.",
+        "You're welcome.",
+        "Thank you.",
+        "NPR's Sylvia Poggioli in Rome and Rachel Martin in Berlin.",
+        "And you can read about how the laws governing war and torture have evolved at our Web site, npr.org.",
+        "This is ALL THINGS CONSIDERED.",
+        "I'm Jacki Lyden.",
+        "Russia held a presidential election today, and shall we say there was less suspense there than even here in the Republican contest now.",
+        "Vladimir Putin's chosen successor has won a resounding victory according to partial results but as Russia prepares to enter the post-Putin era, opposition leaders say the results were rigged, and that today's event was not an election but a coronation.",
+        "We begin our coverage with NPR's Gregory Feifer in Moscow.",
+        "The weather in the Russian capital today reflected the opposition's mood.",
+        "It was raw and gray with rain, snow and sleet.",
+        "The conditions couldn't have pleased the Kremlin much either.",
+        "The authorities' main concern has been for a high turnout to help the election appear legitimate.",
+        "Local officials across Russia entice voters with free food, prizes, even free haircuts.",
+        "(Soundbite of music)"
+      ]
+    },
+    {
+      "dialogue_uid": "0121f420-737e-4c86-8e6f-a077d64d1544",
+      "language": "en",
+      "utterances": [
+        "Music plays in a voting station inside a Moscow school where a trickle of voters cast their ballots.",
+        "There was no feeling of suspense.",
+        "Only a major surprise could have stopped Medvedev from winning.",
+        "Outside pensioner Oiga Cabeirna(ph) said she'd voted for Medvedev and repeated what's become a mantra here, saying his mentor Putin has brought stability to Russia.",
+        "(Through translator) Putin's done a great job.",
+        "He's forced other countries to respect Russia's opinion.",
+        "And Medvedev represents the country's bright future.",
+        "But critics say the Kremlin has reinstituted authoritarianism in Russia.",
+        "Opposition leaders were barred from running in the election, including chess champion Gary Kasparov.",
+        "He urged Russians to boycott the ballot and called the process a farce.",
+        "It's the end of the political system, which contain elements of democracy and were moved to kind of quasi-monarchy with power being shifted within the ruling elite.",
+        "And the public used only to cover up this procedure.",
+        "Most Western election observers also boycotted the vote, saying they couldn't work under Moscow's severe restrictions.",
+        "Eulilia Chabanova(ph) of the independent Russian vote monitoring agency Gollus(ph), says the authorities pressured voters to cast their ballots for Medvedev.",
+        "(Russia spoken)",
+        "Chabanova said many people reported their bosses at work forced them to vote for Medvedev using absentee ballots at the risk of losing their jobs.",
+        "Chabanova said officials also assembled groups of people who drove to different polling stations and voted many times.",
+        "But the Kremlin denied the results were falsified and Medvedev's campaign chief, Sergey Sobyanin, praised the higher-than-expected turnout reported by the elections commission."
+      ]
+    },
+    {
+      "dialogue_uid": "26741a3f-0d1e-432e-b9c3-822329bb2b95",
+      "language": "en",
+      "utterances": [
+        "(Russian spoken)",
+        "Sobyanin said the result means the vote was free and fair.",
+        "Tonight Medvedev may be preparing to take over as Russia's new president, but no one is expecting Putin to fade away.",
+        "Medvedev says he wants to appoint Putin as prime minister, a post, many believe, he'll use to hold onto power from behind the scenes.",
+        "Gregory Feifer, NPR News, Moscow.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Michele Norris.",
+        "Yes.",
+        "You know, this is some real talent to recognize that argument.",
+        "That's a very nice argument.",
+        "Yes.",
+        "Dr.�KRAMER: Well, clearly, depression is diagnosed more.",
+        "I don't know that mental illness is diagnosed more.",
+        "If you want to look at the peak of our diagnosis of mental illness, excuse me, it's around 1959, 1960.",
+        "There were some surveys in which 85 percent of people had something wrong with them that a psychoanalyst would be happy to treat, and that came under the heading of disorder.",
+        "So I think, you know, part of the question is how we apportion what psychiatrists see as problematic, and I think the illness rates are much lower, actually, now, than at the middle of the last century."
+      ]
+    }
+  ]
+}

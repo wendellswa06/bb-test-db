@@ -1,0 +1,124 @@
+{
+  "challenge_uid": "412b9705-1ff8-4e2c-912f-9758a9ebe85c",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "10aeab55-6789-4616-b6ed-7cb2d063d481",
+      "language": "en",
+      "utterances": [
+        "Mushroom.",
+        "So, another term for a mushroom.",
+        "I'm blanking on that.",
+        "Well, first of all, it's important to remember this is not a new drug.",
+        "It's a new co-formulation of three previously approved drugs, and that's one of the reasons that it's so easy to get this approved quickly.",
+        "Initially this will be a product that will be used primarily by people who are starting anti-retroviral therapy for HIV infection for the first time, or for people who are currently on an initial regimen and want to make a switch over to this single pill.",
+        "But it's not going to be for everybody.",
+        "If you're on a very complicated regimen these days, it's probably because over the years you've developed drug resistance and for people like that this is probably not going to be an option.",
+        "But isn't one of the problems with drug resistance that people have not been able to stick with the complicated regimen and that this might actually make it easier for, for people to take and therefore it won't be as likely for them to become drug resistant?",
+        "Yeah, I think that's true for people who are starting out now or who have been doing well on an initial regimen.",
+        "I think this will make it easier for them to adhere to therapy and could definitely decrease the risk of resistance.",
+        "It doesn't undo resistance that already exists, though, so that's the important distinction.",
+        "And what is its promise in the Third World, where the AIDS problem is the most severe?",
+        "Many resource limited countries already use generic co-formulated products.",
+        "So they're actually used to doing this sort of thing, although I'd have to say that the combination that just got approved by the FDA is - most people would feel is a better product from a toxicity standpoint.",
+        "Now, of course by comparison with these generic products, this product in the U.S., Atripla, is quite expensive.",
+        "How much is it?",
+        "Well, it's the same as the individual components were before the combination was approved.",
+        "I believe that's about $1,150 a month wholesale."
+      ]
+    },
+    {
+      "dialogue_uid": "180d0fac-4b2a-423f-829d-9ef4bfb86ae2",
+      "language": "en",
+      "utterances": [
+        "That's a lot.",
+        "Well, it's a lot, but it's not a lot - much - it's not much more than what we're used to paying for anti-retroviral therapy.",
+        "And I think, you know, in countries like the United States, where we can afford this, we have to remember that while the dollar amount may seem high, anti-retroviral therapy is really considered to be one of the most cost effective medical interventions of the last few decades.",
+        "Is there any move to make a generic version of this new drug?",
+        "You know, the patent has a long way to go in the United States, but certainly in other countries, where they have been making generic version of drugs that we use in the United States, generic forms of some of the components of this combination are already available.",
+        "Is there any fear on the part AIDS activists, people who work in the community, that this may send a message to people that, you know, AIDS isn't so bad if you only have to take a pill a day.",
+        "So maybe I'll engage in some more risky behavior.",
+        "Oh, absolutely.",
+        "The fear of HIV in some communities has, has diminished markedly now that it's a manageable illness.",
+        "And we all worry that people will slowly relax their tendency to try to prevent HIV and just assume it's better to treat it.",
+        "And we should note that people still die from AIDS.",
+        "They do, and these simple regimens don't work for everybody.",
+        "You may have remembered the famous the New York case a little while ago, the man who was infected with a virus that was so resistant that he had very few treatment options.",
+        "This is happening more and more, not to that extreme but certainly we're now seeing in the United States anywhere from 14 to 16 percent of patients who are newly infected being infected with drug resistant virus.",
+        "And in fact they're often infected with a virus that's resistant to one of the components of Atripla.",
+        "So for that percentage of patients, this new landmark is really irrelevant because they are going to have to take a more complicated and potentially more toxic combination.",
+        "Dr. Joel Gallant is a professor at the Johns Hopkins University School of Medicine in Baltimore.",
+        "Thank you for joining us."
+      ]
+    },
+    {
+      "dialogue_uid": "b3433d4e-9909-4023-ae30-32040d48adf7",
+      "language": "en",
+      "utterances": [
+        "Thank you.",
+        "And joining us is puzzle master Will Shortz.",
+        "Hello again, Will.",
+        "Hi, Jacki.",
+        "Welcome back.",
+        "Thank you.",
+        "So nice to hear you and Liane together last week, by the way.",
+        "Yeah.",
+        "It was bittersweet.",
+        "It was.",
+        "So, what was the challenge you gave - I'll say the English thing - a fortnight ago, two weeks ago?",
+        "Yes.",
+        "I said think of two five-letter words that are exact opposites of each other, in which the first two letters of each word are the same as the first two letters of the other, only reversed.",
+        "And I said the fourth letter of each word is A.",
+        "What two words are these?",
+        "Two special words.",
+        "What's the answer?",
+        "Rural and urban.",
+        "Well, about 800 listeners submitted answers this go-around.",
+        "And the winner is one Phil Jacknis of Dix Hills, New York.",
+        "Hello there, Phil."
+      ]
+    },
+    {
+      "dialogue_uid": "6a19e1a9-c5e8-44ea-aa6a-3e6176f4bc2f",
+      "language": "en",
+      "utterances": [
+        "Good morning, Jacki.",
+        "It's a great pleasure to have you with us.",
+        "What do...",
+        "Thank you.",
+        "It's wonderful to be here.",
+        "(SOUNDBITE OF LAUGHTER)",
+        "Your first time on the air with the puzzle.",
+        "Oh, yes.",
+        "Good.",
+        "So, what do you do in Dix Hills, Phil?",
+        "Well, I'm an engineer.",
+        "I work to support the software that the other engineers use to design my company's products.",
+        "So, it sounds like one of your hobbies might be the kinds of things that involve puzzles, puzzle design, puzzle complications?",
+        "Well, I think an interest or aptitude in puzzles really is helpful in the work that I do.",
+        "And I do enjoy solving puzzles."
+      ]
+    },
+    {
+      "dialogue_uid": "dd86beed-cdd4-4cb7-9e5e-dff27938456f",
+      "language": "en",
+      "utterances": [
+        "So, are you ready to play with Will Shortz.",
+        "I think I am, yes.",
+        "Snow shoes, snow boots - either way works.",
+        "Nickname for Snoopy in Peanuts when he's wearing dark sunglasses.",
+        "Joe Cool.",
+        "Joe Cool.",
+        "Place to pay to cross a bridge, for example.",
+        "Toll booth.",
+        "That's it.",
+        "If it takes a long time for you to explode in anger, you're said to have this.",
+        "Slow fuse.",
+        "Yep.",
+        "That's it.",
+        "And your last one - the first word has two long O sounds.",
+        "And your clue is: A session for taking pictures."
+      ]
+    }
+  ]
+}

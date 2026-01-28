@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "1e2c7baf-3f91-43fd-8178-d2c3dc64c6b4",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "fc3f269b-c1ce-4459-8060-67c893774985",
+      "language": "en",
+      "utterances": [
+        "Thank you.",
+        "I have a question about malicious content and how Bit.ly or if Bit.ly takes any sort of active steps to protect its users from any kind of malicious content on the Web when, you know, you shorten those URLs, and you cannot see the domain name and things like that anymore.",
+        "You know, what kind of steps Bit.ly is taking to protect its users from that kind of thing?",
+        "All right.",
+        "Dave, thanks for calling.",
+        "That's actually a great question.",
+        "We spend a lot of time and energy on making sure that all Bit.ly links are safe to click through.",
+        "We work pretty closely with several partners where we get the standard blacklists of known malicious content on the Internet.",
+        "What's interesting about our data is that it's too fresh, like it's coming in as it's created.",
+        "So we have this window of time where we actually have links that could be malicious where these other services haven't blocked them yet.",
+        "So we've developed our own in-house technology that can find the malicious link, figure out what makes that statistically interesting.",
+        "And then, as links are shortened, they go on a queue where they're all checked for malicious content.",
+        "And if you attempt to click through a malicious content on Bit.ly, you'll get a page that says stop - this could be really bad.",
+        "And that seems to do a very good job of convincing people not to go there.",
+        "Interesting.",
+        "Now, let's say that one of the link-shortening companies goes belly up.",
+        "I'm not saying Bit.ly or whatever.",
+        "What happens to all those links that you've created?",
+        "That's a great question.",
+        "So we have created a redundant system such that if anything happened to our servers, we can point at that redundant flat file system and all of those links will still work.",
+        "We're also working in collaboration with the Internet archive on a project called 301Works - and it's 301Works.org - where we're backing this data up, because we really do not want to break the Internet.",
+        "(Soundbite of laughter)",
+        "You hate it when that happens.",
+        "Do you see the Internet morphing into anything newer?",
+        "I mean, do you see, as a coder or some other - something where you'd like to see it go or any kind of - sort of like the blank check to someone like, say, if you could do anything, you had all the money to do something, what would you do with it?"
+      ]
+    },
+    {
+      "dialogue_uid": "002dd1fd-a439-4c32-acbb-7da66c63c908",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "And what would you do with it in your kind of work?",
+        "What would you like to know or like to create?",
+        "Well, I think, as I said, this is the most exciting time for working with this kind of technology and data, and I think we're going to a place where we have our computers with us all the time.",
+        "The computer is acting as an agent on our behalf.",
+        "Mm-hmm.",
+        "And if you think about all the tasks that we take - that we take part in every day, a lot of them are cognitive drudgery.",
+        "They're solving the same problems we've already solved, or they're solving trivial problems.",
+        "Even like arranging where to meet a friend for dinner can take 15 minutes of conversation, and that's 15 minutes you're not actually talking to your friend.",
+        "So I'd like to see us get to a place where this can be solved automatically, so we can go on being human.",
+        "So this sort of an automated process where you say where are we going -I want to know where we're going to dinner and something takes over and rounds you all up and then says here's the spot you all agreed to?",
+        "(Soundbite of laughter)",
+        "Rather than taking over, something can make a recommendation that you as a human can approve or not approve.",
+        "I think that we will see technology in many different forms.",
+        "And if you look at - like what Microsoft accomplished with the connect interface, we'll see that in mobile in the next few years, where you just sort of have to vaguely gesture at something and it understands what you want.",
+        "And you're excited about working (unintelligible).",
+        "I'm incredibly excited about it."
+      ]
+    },
+    {
+      "dialogue_uid": "39b54400-bc03-455f-bacf-9e4b870ce58c",
+      "language": "en",
+      "utterances": [
+        "Yeah.",
+        "And automating things, the sky is the limit.",
+        "(Soundbite of laughter)",
+        "Yes.",
+        "And how many people work at Bit.ly?",
+        "Bit.ly, we're up to about 20 people right now.",
+        "Twenty people.",
+        "They all sit in there, typing in those little shorthand things or...",
+        "Yes.",
+        "So we just upgraded to smaller desks to fit more people in.",
+        "(Soundbite of laughter)",
+        "All right.",
+        "Thank you very much, Hilary, for taking - I learned a lot today.",
+        "I'm sure our listeners have also.",
+        "Oh, thank you."
+      ]
+    },
+    {
+      "dialogue_uid": "4c81bf7c-8f18-470a-9649-11eb0394a4f3",
+      "language": "en",
+      "utterances": [
+        "And good luck at Bit.ly.",
+        "Hilary Mason is the lead scientist at Bit.ly, Bit.ly.",
+        "What does the ly stand for?",
+        "The ly comes from one of those country codes, so they were originally intended to be countries.",
+        "So the ly comes from Libya.",
+        "But you'll see a lot of Internet startups using things like .it from Italy or .us from the United States.",
+        "Just to get the name.",
+        "Because it's really cool.",
+        "And there you have it.",
+        "The whole raison d'etre.",
+        "It's really cool.",
+        "Hilary Mason, lead scientist at Bit.ly, thanks again for taking time to be with us today.",
+        "(Soundbite of laughter)",
+        "Thank you.",
+        "We're going to continue talking about the Internet after the break, talking about social media and the uses of it in Tunisia and Egypt and other places.",
+        "So stay with us.",
+        "We'll be right back after this break."
+      ]
+    },
+    {
+      "dialogue_uid": "fd6b16ce-be73-4755-b594-96706ff19434",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of music)",
+        "I'm Ira Flatow.",
+        "This is SCIENCE FRIDAY from NPR.",
+        "This is DAY TO DAY from NPR News.",
+        "I'm Alex Chadwick.",
+        "And I'm Alex Cohen.",
+        "Iran and Iraq.",
+        "Those two countries and the way they're intertwined are the big foreign policy concerns of the Bush administration.",
+        "NPR's diplomatic correspondent Mike Shuster is just back from Iran.",
+        "Mike, welcome back to NPR West.",
+        "Thanks, Alex.",
+        "I've been wanting to talk to you since I heard your report last week on MORNING EDITION about a conversation - an interview, really, you had with the foreign minister of Iran.",
+        "This is while you were in Tehran.",
+        "And you are asking him about Iran's views on American withdrawal from Iraq.",
+        "I was surprised by what you reported.",
+        "I was surprised by what we heard, because I was with several other journalists from Europe, and the first question was, what should the United States do in Iraq?",
+        "And the foreign minister, Manouchehr Mottaki, could very well have said, and other Iranian leaders have said this, the United States should get out.",
+        "The United States should withdraw as soon as possible.",
+        "But he didn't say that.",
+        "He said he was aware that there was a debate in the United States and that the American public would make a rational decision on what to do, and that the people of the Middle East were awaiting a rational decision."
+      ]
+    }
+  ]
+}

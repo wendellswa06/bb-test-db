@@ -1,0 +1,129 @@
+{
+  "challenge_uid": "2b01b671-21af-4446-b661-a9c8d53b94a7",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "101d3f94-53d6-476f-9d2c-4f9c24519fff",
+      "language": "en",
+      "utterances": [
+        "I'm a mathematics professor at the University of Kansas.",
+        "Well, that doesn't seem fair.",
+        "No wonder you got this one.",
+        "How long have you been teaching math?",
+        "About 30 years.",
+        "So you've lived in Kansas.",
+        "What's it like in Lawrence?",
+        "It's very pleasant.",
+        "Unlike most people's images of Kansas, we have rolling hills.",
+        "And except for the terrible heat in the summer, it's very nice.",
+        "Kansas is not so bad.",
+        "All right, I think we're warmed up for the game.",
+        "Are we ready to play?",
+        "I guess so.",
+        "All right.",
+        "Will, all yours.",
+        "All right, Margaret and Wade.",
+        "I'm going to give you some five-letter words.",
+        "Insert two letters between the second and third letters of my word to complete a common seven-letter word.",
+        "For example, if I said amble - A-M-B-L-E, you would say amiable because you would put an I-A between the M and B.",
+        "OK."
+      ]
+    },
+    {
+      "dialogue_uid": "bf24822a-4225-4996-a685-0f90ac611ed5",
+      "language": "en",
+      "utterances": [
+        "Number one, is anime - A-N-I-M-E.",
+        "And you want to put two letters between the M and the I.",
+        "Hmm.",
+        "Oh, man.",
+        "And it's a pretty one, but kind of hard I guess.",
+        "I'll tell you it's a Y that goes after the N.",
+        "Oh, anytime.",
+        "Anytime is it.",
+        "OK, now you're off and running.",
+        "Number two is bride - B-R-I-D-E.",
+        "B-R-I-D-E.",
+        "Bromide.",
+        "Bravo.",
+        "Bromide.",
+        "Excellent.",
+        "Camel - C-A-M-E-L.",
+        "Caramel.",
+        "Caramel.",
+        "That's right.",
+        "Exude - E-X-U-D-E."
+      ]
+    },
+    {
+      "dialogue_uid": "f0340cbc-4597-4854-9f1a-c251ee42174d",
+      "language": "en",
+      "utterances": [
+        "Is this a word - extrude?",
+        "Extrude.",
+        "You got it.",
+        "Fiery - F-I-E-R-Y.",
+        "It's two consonants that go in there.",
+        "Yeah.",
+        "I can think of one consonant.",
+        "Let's see.",
+        "Yeah.",
+        "I bet you're thinking of finery.",
+        "Yeah.",
+        "You want two consonants.",
+        "Wade, can you help me out here?",
+        "Not really.",
+        "Wade's thinking too.",
+        "OK, I'll give you a hint.",
+        "It's someplace where you might get seafood.",
+        "Oh, fishery."
+      ]
+    },
+    {
+      "dialogue_uid": "8a76455e-42cb-49d2-b71f-9db1dcfcbf43",
+      "language": "en",
+      "utterances": [
+        "Fishery is it.",
+        "How about local - L-O-C-A-L.",
+        "And this is like your mind, an adjective for your mind.",
+        "Oh, logical.",
+        "Logical is it.",
+        "Manta - M-A-N-T-A.",
+        "Magenta.",
+        "That's it.",
+        "Reign - R-E-I-G-N.",
+        "Realign.",
+        "Oh, nice.",
+        "Toast - T-O-A-S-T.",
+        "This is another one of those nasty ones with two consonants.",
+        "And it's a compound word.",
+        "Yeah.",
+        "I was thinking the last part might be cast.",
+        "How about top mast?",
+        "Top mast is it.",
+        "Good."
+      ]
+    },
+    {
+      "dialogue_uid": "25c57da9-1a29-4a3f-91e0-aea5e2a75b1a",
+      "language": "en",
+      "utterances": [
+        "Top mast.",
+        "And here's your last one, trial - T-R-I-A-L.",
+        "Trivial.",
+        "Trivial.",
+        "Margaret, I knew you would be good with your math background.",
+        "How about that, Margaret, once you got going, you did a great job.",
+        "I don't know.",
+        "I needed a lot of hints.",
+        "Well, for playing our puzzle today, you'll get a WEEKEND EDITION lapel pin, puzzle books and games.",
+        "Find out more about these prizes that npr.org/puzzle.",
+        "Margaret, what public radio station do you listen to?",
+        "I listen to KANU, part of Kansas Public Radio.",
+        "Well done.",
+        "Margaret Bayer of Lawrence, Kansas, thank you for playing the puzzle with us.",
+        "Thank you."
+      ]
+    }
+  ]
+}

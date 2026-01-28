@@ -1,0 +1,114 @@
+{
+  "challenge_uid": "1797c054-0fa5-492b-ba98-5ae1b25a90b2",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "54d9b86a-fcbc-4a3f-80f7-556b8d79cc9b",
+      "language": "en",
+      "utterances": [
+        "I understand you are a professor at the University of Oregon, right?",
+        "What do you teach?",
+        "I teach American history.",
+        "American history.",
+        "And have you been playing the puzzle a long time?",
+        "Oh, on and off for probably close to 20 years.",
+        "So how did you solve this week's puzzle?",
+        "Did it come pretty easily to you?",
+        "Well, I collaborate with my wife on this.",
+        "And she and I were walking along.",
+        "And we had just stopped at a bar and had an iced tea.",
+        "An iced tea, OK.",
+        "Yeah.",
+        "And we ended up with bartender and bender.",
+        "There you go.",
+        "Daniel, are you ready to play the puzzle?",
+        "I think so."
+      ]
+    },
+    {
+      "dialogue_uid": "d1b3cfaf-e863-4709-946f-91ce119993fa",
+      "language": "en",
+      "utterances": [
+        "OK, Will, let's do it.",
+        "All right, Daniel and Rachel.",
+        "I'm going to give you a pair of words.",
+        "Change one letter in each of them to make two new words.",
+        "The letter you change must be in the same position in each word of the pair.",
+        "And the letter you change each of them to will be the same letter of the alphabet.",
+        "For example, if I said relief and mallet, you would change the first letter in each case to a B to make belief and ballet.",
+        "Oh, OK.",
+        "Let's give it a go.",
+        "All right, number one is accent, A-C-C-E-N-T, and strike, S-T-R-I-K-E.",
+        "Accept and stripe.",
+        "That is it.",
+        "Number two is trough.",
+        "T-R-O-U-G-H, and waiter, W-A-I-T-E-R.",
+        "I think I need a clue.",
+        "Well, change the second letter.",
+        "So it would be though and whiter.",
+        "Yeah."
+      ]
+    },
+    {
+      "dialogue_uid": "d0a46ef6-0378-40a9-a3ac-b95f65d9ba27",
+      "language": "en",
+      "utterances": [
+        "That's it, though and whiter, nice.",
+        "Coffer, C-O-F-F-E-R, and raving, R-A-V-I-N-G.",
+        "Oh, coffee and ravine.",
+        "Wow, there you go.",
+        "That's it.",
+        "Gander, G-A-N-D-E-R, and stance, S-T-A-N-C-E.",
+        "Which letter is it in this one?",
+        "I need help.",
+        "Yeah, this is hard.",
+        "It's the second one again.",
+        "Second letter.",
+        "Gender and seance.",
+        "Gender and seance, nice."
+      ]
+    },
+    {
+      "dialogue_uid": "fd819ba4-8ca2-4be1-9ae1-2827ee65bcb3",
+      "language": "en",
+      "utterances": [
+        "Good work.",
+        "Simple, S-I-M-P-L-E, and decode, D-E-C-O-D-E.",
+        "Simile and...",
+        "That's it.",
+        "Decide.",
+        "Yeah.",
+        "That's it, good.",
+        "Remove, R-E-M-O-V-E, and breach, B-R-E-A-C-H.",
+        "Oh, so it's remote and breath.",
+        "Oh, good.",
+        "Nice.",
+        "Here's your last one.",
+        "Avenge, A-V-E-N-G-E, and radios, R-A-D-I-O-S."
+      ]
+    },
+    {
+      "dialogue_uid": "537b911a-3048-44e5-b891-457a1109b7c3",
+      "language": "en",
+      "utterances": [
+        "Radius and...",
+        "Yeah, yeah.",
+        "Yeah, that's it.",
+        "Avenue.",
+        "Avenue is it.",
+        "Nice job.",
+        "Fancy spelling.",
+        "Man, I thought that one was fairly challenging.",
+        "But...",
+        "Thank you.",
+        "Daniel - yeah, kudos to you, Will.",
+        "Daniel, you did a great job.",
+        "For playing the puzzle today you get a WEEKEND EDITION lapel pin, puzzle books and games.",
+        "You can read about those prizes at npr.org/puzzle.",
+        "And Daniel, where do you hear us?",
+        "What's your public radio station?",
+        "KLCC in Eugene and also Oregon Public Broadcasting."
+      ]
+    }
+  ]
+}

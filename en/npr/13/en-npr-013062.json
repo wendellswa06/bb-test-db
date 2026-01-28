@@ -1,0 +1,132 @@
+{
+  "challenge_uid": "408dd582-bc69-4f14-b714-4013a142aeae",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "7abee596-8e8d-44c8-bc1b-cef16f929755",
+      "language": "en",
+      "utterances": [
+        "Ari Shapiro, NPR News, Washington.",
+        "From NPR News, this is ALL THINGS CONSIDERED.",
+        "I'm Michele Norris.",
+        "And I'm Melissa Block.",
+        "Tomorrow a new Congress will be sworn in and for the first time in 12 years, the Democrats will be in control.",
+        "It's a huge power shift, and Democrats hope to start the 110th Congress off in a big way.",
+        "They want to quickly pass an ethics overhaul, stem cell research legislation and a higher minimum wage.",
+        "The new Democratic majority also plans to bar Republicans from offering amendments to the bills the House will take up in its first 100 hours.",
+        "NPR's Brian Naylor reports that's a tactic Republicans used during their reign as majority party.",
+        "Nancy Pelosi is still hours from taking the gavel as the first woman to be speaker of the house and the first Democrat since 1994, but she and her party got a preview today of what it's like to be in charge.",
+        "The first thing they learned - there's no shortage of folks telling you what to do.",
+        "Republicans, who will officially be in the minority as of tomorrow, got the ball rolling, lashing out at Democrats' plans to keep Republicans from offering any amendments to the bills Democrats plan to take up in the first 100 hours.",
+        "California Republican David Dreier said he was reluctant to criticize Pelosi, his fellow Californian, but not that reluctant.",
+        "Well, maybe I'm just being selfish because after all, my life is going to change the most.",
+        "I mean, how am I going to get by without you, you sexy thing?",
+        "Americans have a tendency to trust local news sources.",
+        "Maybe you're listening to your own local NPR station right now.",
+        "The Russian government's misinformation effort during the 2016 election, an effort that continues today, sought to take advantage of that trust.",
+        "NPR's Tim Mak has this story.",
+        "Much of what we now understand to be the Russian government's effort to interfere with the American elections took place in a building in St. Petersburg called the Internet Research Agency.",
+        "Here's Deputy Attorney General Rod Rosenstein announcing special counsel Mueller's charges against the Internet Research Agency and others in February."
+      ]
+    },
+    {
+      "dialogue_uid": "8b759b2e-ae31-44e8-9739-a7ac5b9bb59a",
+      "language": "en",
+      "utterances": [
+        "(SOUNDBITE OF ARCHIVED RECORDING)",
+        "The defendants allegedly conducted what they called information warfare against the United States with the stated goal of spreading distrust towards the candidates and the political system in general.",
+        "In 2017 and then again this past May, Twitter provided the House Intelligence Committee with lists of thousands of accounts that they identified as being linked to the Internet Research Agency.",
+        "Hidden among these accounts was a group of Twitter accounts that appeared to be fake local news outlets.",
+        "NPR has counted 48 of them.",
+        "They have names like El Paso Top News, Milwaukee Voice, Camden City News and Seattle Post.",
+        "A not insignificant amount of those had some sort of variation on what appeared to be a homegrown local news site - so Chicago Daily News, which actually was a newspaper but went bust in the '70s - but just things like Baltimore Breaking News.",
+        "That's Bret Schafer, a social media analyst for the Alliance for Securing Democracy, which tracks Russian influence operations.",
+        "Let's take one example.",
+        "The Internet Research Agency created an account that looks like it is the Chicago Daily News.",
+        "The account was created back in May 2014 and for years just tweeted local headlines, accumulating 19,000 followers by July 2016.",
+        "Here's the thing.",
+        "These accounts never spread misinformation.",
+        "They just tweeted out real local news, serving as sleeper accounts building trust and readership for some future unforeseen effort.",
+        "Here's Schafer again.",
+        "They set them up for a reason, and if at any given moment they wanted to operationalize this sort of network of what seemed to be local American news handles, they can significantly influence the narrative on a breaking news story.",
+        "Though Twitter caught these Internet Research Agency accounts in the act and suspended them, the fact that the Russian government created them in the first place gives us insight into their strategy, firstly that the Russian misinformation campaign was a years-long effort, one that wasn't simply focused on the 2016 election but on destabilizing the United States over an extended period of time.",
+        "Here's Congressman Adam Schiff, the top Democrat on the House Intelligence Committee.",
+        "The Russians are playing a long game that they've developed a presence on social media, that they've created these fictitious persons and fictitious organizations that have built up over a period of time a certain trustworthiness among people that follow them.",
+        "The failed effort to make local news accounts also tells us something about how Americans trust local news more than national news and how the Russians knew of that vulnerability.",
+        "A Pew survey from 2016 found that 82 percent of Americans have some or a lot of confidence in local news organizations.",
+        "Here's Tom Rosenstiel, the executive director of the American Press Institute.",
+        "If you were trying to pass along information that is not true but you want people to believe it, creating or inventing fake local news sources is an effective way of doing it because people will convey some trust to the locality even if the publication is one they've never seen before."
+      ]
+    },
+    {
+      "dialogue_uid": "88baaae5-4df2-43fc-9f6e-b7c63fbce65a",
+      "language": "en",
+      "utterances": [
+        "The Russian misinformation campaign continues now.",
+        "Here's Senator Susan Collins, a Republican on the Senate Intelligence Committee, which is currently investigating Russian interference.",
+        "This effort is not over.",
+        "It continues to this very day where the Russians are trying to sow the seeds of discontent in our society, take advantage of the polarization that exists.",
+        "Tim Mak, NPR News, Washington.",
+        "In the Winter Olympics, where races can be won or lost by thousandths of a second, tiny imperfections make all the difference.",
+        "For the sports on ice, skilled technicians work hard to create the perfect surface.",
+        "And as NPR's Melissa Block found in Pyeongchang, each ice sport has its own distinct needs.",
+        "Let's start at the oval, the gleaming venue for long track speedskating.",
+        "Yeah, it looks good.",
+        "The corners are wearing really nicely.",
+        "So they're not wearing out from all the laps that are going on.",
+        "There's not a whole bunch of chunks coming up.",
+        "I'm with Mark Messer, who spent two years getting this oval into top form.",
+        "Very nice and quiet, too.",
+        "If it's not good ice, the blades will kind of grind in the ice.",
+        "And it's a nice and clean sound here.",
+        "Messer is Canadian, of course, and he's got the best job title ever.",
+        "Ice meister.",
+        "It's even written on my accreditations."
+      ]
+    },
+    {
+      "dialogue_uid": "0affbc0b-bfd5-4af2-a417-9fea21916092",
+      "language": "en",
+      "utterances": [
+        "When people ask what he does for a living...",
+        "I usually tell people I make ice.",
+        "And all ice is definitely not created equal.",
+        "Messer explains that long track speedskating requires the coldest ice of all the sports, chilled to between 14 and 21 degrees Fahrenheit.",
+        "It's also the hardest ice.",
+        "We're trying to get as little friction as possible.",
+        "So we have to make a balance between grip and glide - enough grip so that the skate can push and get a good push off it, but then we want them to glide as far as possible so that there's less effort expended for the long distance.",
+        "Skaters will tell you they know instantly if the ice is great or lousy.",
+        "Lana Gehring is on the U.S.",
+        "short track speedskating team.",
+        "One of the first things when we step onto the ice is like, how's this ice (laughter)?",
+        "Instant judgment to it, so...",
+        "A lot of information transmitted through a skate blade just 1 millimeter thick.",
+        "All that input's coming directly up to our bodies, so we're able to tell, like, right away, like, if it's dense, if it's grippy, if it's breaky (ph), you know, if it's too rough.",
+        "(Soundbite of audience laughter)",
+        "In short track speedskating, the ice is thicker and warmer than long track ice, hockey ice a bit warmer still.",
+        "What's especially tricky at the Olympics is that short track speedskating shares a rink with figure skating - two totally different sports with different ice needs in the same space, the ice arena."
+      ]
+    },
+    {
+      "dialogue_uid": "848ee451-c6f4-4244-a90f-8b99ddc4ade6",
+      "language": "en",
+      "utterances": [
+        "(Speaking French).",
+        "That's Remy Boehler, the French ice meister at the arena.",
+        "(Speaking French).",
+        "Boehler says figure skaters need warmer, supple ice so they can dig in for jumps.",
+        "If the ice is too hard and cold, it'll explode when they land.",
+        "But short track speedskaters need colder, faster ice.",
+        "It takes about three hours to adjust the temperature from one sport to the other.",
+        "The best way for Boehler to tell if he's got it right?",
+        "(Speaking French).",
+        "What I use most are my ears,\"\" he says.",
+        "I use them all the time.",
+        "(Speaking French).",
+        "When I arrive,\"\" he says, \"\"I take off my cap so I can really listen to the sound of the blades, if they're gliding or cracking.\"\" And when the ice is great, he can tell by the skaters' faces.",
+        "(Speaking French).",
+        "When you see them smiling,\"\" he says, \"\"that's the best feeling of all."
+      ]
+    }
+  ]
+}

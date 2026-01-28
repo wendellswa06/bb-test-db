@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "0b1c969b-c736-4d52-978e-d0e75000799b",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "33c439d8-ac19-40a0-9a16-0300a01458a8",
+      "language": "en",
+      "utterances": [
+        "She says Adderall didn't make her feel jittery either or anxious, not at all like a double shot of espresso.",
+        "I functioned very, very well under it.",
+        "Anything I did was productive, and it was good.",
+        "And it was just like a perfect kind of transition in just a study mentality, and I could keep that up for hours.",
+        "Students say the going rate for an Addy on campuses is typically $5, unless it's exam week.",
+        "Then they say the price can shoot up to $25 a pill.",
+        "And the drugs, students say, are easy to get hold of, bought and sold in the library, the cafeteria, the dorms.",
+        "You would hear that a certain girl or a certain boy sold it.",
+        "And you would, you know, go up to them and ask them if they would do business with you and stuff.",
+        "Students say the main source for the study drugs on campus is students with prescriptions for their ADD.",
+        "One student I talked to has been on Adderall for his ADHD since high school.",
+        "Now he's senior in college, still getting his prescription of 60 pills a month.",
+        "He's supposed to take two a day, but he says he doesn't like taking the medicine unless he needs to pull an all-nighter for school.",
+        "So he has more pills than he needs.",
+        "I usually just give it to my friends just because I don't really want to charge them for something that I'm not even taking.",
+        "It's just like (unintelligible).",
+        "He doesn't like taking Adderall because he doesn't like the side effects.",
+        "Like sometimes you can't sleep.",
+        "You lose your appetite.",
+        "Adderall and Ritalin are amphetamine-based, and as such, are powerfully seductive.",
+        "I have to start to notice my own kind of addictive behavior as being like, okay, you know, I'm starting to like this a lot.",
+        "I can't really afford to be paying for this stuff.",
+        "But definitely, the more you use it, the more you're going to want to use more of it."
+      ]
+    },
+    {
+      "dialogue_uid": "6913566d-6ed6-465f-9307-eb3d06e13146",
+      "language": "en",
+      "utterances": [
+        "Ritalin and Adderall can both be habit forming.",
+        "Neuroscientist Martha Farah from the University of Pennsylvania has studied the use of Ritalin and Adderall on campuses.",
+        "She's one of the authors of a recent article in the journal Nature.",
+        "In it, she and her colleagues describe a recent survey that found that as many as a quarter of the students on some campuses have used these study drugs in the past year.",
+        "And Farah says lab studies show that Adderall and Ritalin do measurably increase concentration and motivation, making studying more engrossing and more rewarding.",
+        "And that's interesting.",
+        "And it's also a little worrisome, because basically, that extra motivation that you feel when you're using these drugs is the result of the drug's effects on the brain's reward system.",
+        "The drugs increase dopamine there, and its targeted effect on the brain's reward center can lead to trouble.",
+        "These are serious drugs with serious side effects.",
+        "Such as severe sleep deprivation, rare heart problems and potentially addictive.",
+        "For NPR News, I'm Michelle Trudeau.",
+        "This is ALL THINGS CONSIDERED from NPR News.",
+        "I'm Michele Norris.",
+        "And I'm Melissa Block.",
+        "The world's biggest, fastest supercomputer is now in China.",
+        "The new computer, unveiled today, takes the top spot away from an American computer at Oak Ridge National Laboratory in Tennessee."
+      ]
+    },
+    {
+      "dialogue_uid": "0136a14f-091c-4082-98dc-9d40388c0bd0",
+      "language": "en",
+      "utterances": [
+        "NPR's Dan Charles has the story.",
+        "Jack Dongarra, a computer scientist at the University of Tennessee in Knoxville, keeps an up-to-date list of the world's 500 most powerful computers.",
+        "He'd been hearing reports that China's National Supercomputing Center was about to get a big new machine.",
+        "So last week, when he was in Beijing for a conference, he decided to find out for sure.",
+        "I sort of asked if it would be possible to make a visit to the computing center.",
+        "It was.",
+        "He saw rows of cabinets filled with 20,000 smaller computers all linked together.",
+        "The new supercomputer covered more than a third of an acre.",
+        "first, the computer's power.",
+        "It can carry out two and a half thousand trillion operations per second, 40 percent more than any other supercomputer on earth.",
+        "And second, unlike previous Chinese supercomputers, it wasn't just built with Western components.",
+        "And the connection's critical because the faster you make the interconnect, the better your overall computation will flow.",
+        "Now, beating the previous record-holder by 40 percent may seem impressive, but the new supercomputer may not stay on top for long.",
+        "Dongarra says he knows of five supercomputers now being built that are supposed to be four times more powerful than China's new machine.",
+        "Three are in the U.S.; two are in Japan.",
+        "Supercomputers are unleashed on really complicated problems like forecasting the weather or simulating our planet's future climate.",
+        "And Dongarra says to do those jobs, the sheer power of a fast machine isn't nearly enough.",
+        "The more challenging thing is being able to effectively use these machines.",
+        "That's a programming challenge: writing computer software that will manage a supercomputer's thousands of individual processors to work together efficiently."
+      ]
+    },
+    {
+      "dialogue_uid": "b3d8e848-7a79-4212-8c57-fc7e27192535",
+      "language": "en",
+      "utterances": [
+        "Dongarra says he has no idea how well the Chinese are doing with that part of the supercomputing challenge.",
+        "Unlike the hardware race, the accomplishments of computer software are not easily measured.",
+        "Dan Charles, NPR News, Washington",
+        "And now to one person who's part of an organized effort of conservative activists opposing a health care overhaul, among many other things.",
+        "His name is Lloyd Marcus.",
+        "You can find him this summer on the Tea Party Express, a bus tour across the U.S.",
+        "NPR's Jeff Brady has this profile of an unlikely and musical conservative.",
+        "Lloyd Marcus begins every performance on the Tea Party Express bus tour the same way.",
+        "(Soundbite of applause)",
+        "Hello, my fellow patriots.",
+        "Hello.",
+        "(Soundbite of cheering and applause)",
+        "I am not an African-American."
+      ]
+    },
+    {
+      "dialogue_uid": "1d97be24-8747-44cd-b3ae-f57776223937",
+      "language": "en",
+      "utterances": [
+        "(Soundbite of laughter)",
+        "I am Lloyd Marcus, American.",
+        "Yeah.",
+        "(Soundbite of cheering and applause)",
+        "A few seconds later, he introduces the theme song he wrote for the Tea Party Movement last spring.",
+        "It starts with a nice finger snap and right off the bat calls President Obama's stimulus plan a, quote, �socialistic scheme.�",
+        "(Soundbite of song, �American Tea Party Anthem�)",
+        "(Singing) You want to take from achievers.",
+        "Somehow you think that's fair and redistribute to those folks who won't get out of their easy chair.",
+        "We're having a tea party across this land.",
+        "Yes, we are.",
+        "If you love this...",
+        "Marcus says he's known since he was 10 years old that he's a conservative after his family moved into a new apartment in the Baltimore projects.",
+        "He watched as the buildings became havens for crime and drug use.",
+        "And Marcus says he took away this lesson.",
+        "Self-esteem does not come from people giving you stuff.",
+        "You know, self-esteem comes from getting an education, getting a job and going your own way.",
+        "Marcus says he made that lesson the center of his political philosophy."
+      ]
+    }
+  ]
+}

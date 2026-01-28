@@ -1,0 +1,125 @@
+{
+  "challenge_uid": "d9687484-e293-471b-9b3e-678aedc9b05a",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "4f5d6cf2-8599-487e-bf22-00bc0ac9b235",
+      "language": "en",
+      "utterances": [
+        "Yes.",
+        "Got a water bottle?",
+        "Yes.",
+        "Did you put sunscreen on your face this morning?",
+        "Yes.",
+        "Did you make healthy choices?",
+        "Yes.",
+        "Do you love me?",
+        "Yes.",
+        "This program at Packard is highly successful.",
+        "Eighty percent of the kids stick with it for six months and lose weight.",
+        "In most weigh control programs, only about half of those who start out actually finish."
+      ]
+    },
+    {
+      "dialogue_uid": "11a3712a-d74e-45ee-8343-fc990c036973",
+      "language": "en",
+      "utterances": [
+        "Patricia Neighmond, NPR News.",
+        "But these shifts have come at a cost for President Obama.",
+        "As NPR's Mara Liasson reports, even some of his supporters worry that he's undermined the power of his presidency.",
+        "The story of Syria is still unfolding and the results are far from clear.",
+        "But Rosa Brooks, a former Obama administration Defense Department official, says the hole President Obama is in today is partly of his own making.",
+        "I do think it's been a story of repeated miscalculations.",
+        "And to be fair to him, it's an extraordinarily difficult situation in which the options ranged from rotten to even more rotten.",
+        "But that being said, I think he's mishandled this very badly.",
+        "From the famous red line that went unenforced for two years to the dizzying series of pivots from imminent military action to congressional consultation and then to diplomacy, the twists and turns have been messy.",
+        "But some of them, says former Clinton White House aide Bill Galston, have a logical explanation.",
+        "The entire administration was set back on its heels by the unexpected rejection of an authorization to use force by the British Parliament.",
+        "That changed their thinking fundamentally.",
+        "They assumed that they would enjoy robust international support.",
+        "When British backing fell through, the president, desperate for support, took a risky gamble, asking Congress for authorization and he began delivering a message on Syria that's been so complex, aimed at satisfying so many conflicting constituencies, that it's been confusing.",
+        "David Axelrod is a former top advisor to President Obama.",
+        "The process wasn't neat in part because the problem isn't neat, but there's no doubt that if the administration could do some things over, they probably would.",
+        "I think the sequencing of his decision to take this to Congress probably wasn't optimal.",
+        "There may have been a comment here or there they would take back.",
+        "But ultimately, it's where they are now that's important and this diplomatic option came at a propitious time.",
+        "A propitious time because, as Rosa Brooks points out, the president was facing a crushing rejection from Congress.",
+        "I don't think you can say I'm going to go to Congress and get their authorization for this.",
+        "You don't say that unless you're pretty sure you can get it or you hadn't done their homework first."
+      ]
+    },
+    {
+      "dialogue_uid": "eaf9e434-a09c-4c96-918e-38099ecb391f",
+      "language": "en",
+      "utterances": [
+        "The White House was well aware of public aversion to military action, but they were shocked, once again, at the level of reflexive opposition from congressional Republicans, many of whom had been advocating military strikes, only to turn around and reject the president's request for authorization.",
+        "It's possible that after pursing the Russian diplomatic effort, the president could have a stronger argument for using force, but there are no signs of that now.",
+        "Even after Mr. Obama's Tuesday night speech, opposition in Congress continues to grow.",
+        "Everybody's with him on it's awful, it's tragic, it's agonizing to watch.",
+        "Everybody's with him on somebody ought to do something.",
+        "But the case has not been persuasively made that this is the something that will make things better as opposed to this is the something that is only going to make things still worse.",
+        "The president's struggle to come up a coherent strategy on Syria has undermined the public's faith in his leadership.",
+        "His dropping approval ratings reflect that.",
+        "But to those who believe the administration's fumbling on Syria has undermined the power and credibility of the Obama presidency, historian Douglas Brinkley says, hold on, the president's Syrian crisis is not over yet.",
+        "I recall when I wrote a biography of Dean Acheson some years ago, Acheson did not like the way the Cuban missile crisis was being handled, but Kennedy got a result out of it in the end, with his brother doing some strange diplomacy with the Soviet Union about our Jupiter missiles in Turkey.",
+        "Acheson's article that he wrote was called \"\"A Homage To Plain Dumb Luck.",
+        "And while nobody would argue that the president's handling of Syria has been smooth and, at times, it hasn't even seemed really coherent, the end result might work.",
+        "And even if it doesn't work, for the moment, Mr. Obama is in a better place than he would be launching a military strike in express defiance of Congress or failing to act in what he said was the moral and strategic interest of the United States.",
+        "History plays tricks on people.",
+        "Five years from now, we might be saying it was a bumpy road, but the president found a way to rid the Middle East of chemical weapons.",
+        "In other words, stumbling to peace is better than rushing to war.",
+        "Mara Liasson, NPR News, the White House.",
+        "Congress wasn't set to return from summer recess until Monday, but today, Senate Majority Leader Harry Reid briefly convened the Senate to formally file a resolution that would authorize those Syria strikes.",
+        "The four-minute session starts the clock running to get a series of votes on the measure starting next week.",
+        "NPR's Ailsa Chang reports."
+      ]
+    },
+    {
+      "dialogue_uid": "2ff2ff67-0f02-44d5-9335-85f01fe0f2e8",
+      "language": "en",
+      "utterances": [
+        "From the Senate chamber this afternoon, there was a sound you usually don't hear three days before Congress is scheduled to come back from summer recess.",
+        "(SOUNDBITE OF GAVEL)",
+        "The Senate will come to order.",
+        "With all the Senate rules governing when legislation can finally get to an up or down vote, Majority Leader Harry Reid wanted to get the ball rolling right away by convening the Senate today.",
+        "This week, the Senate Foreign Relations Committee approved a resolution that would authorize military action in Syria for up to 90 days.",
+        "It also prohibits American troops on the ground for combat operations.",
+        "Reid thanked Committee Chair Robert Menendez of New Jersey and ranking member Bob Corker of Tennessee.",
+        "They set a tremendous model of bipartisanship, collaboration for the Senate.",
+        "I admire both these good men for the work that they've done and the leadership that they showed in allowing us to be at the point where we are now in this difficult situation.",
+        "A procedural vote is expected next Wednesday.",
+        "That's when a possible filibuster could occur.",
+        "It's unclear whether there are 60 votes to break that filibuster.",
+        "Reid needs as many Democrats as possible on this one and two Democrats are already circulating a competing resolution.",
+        "Joe Manchin of West Virginia and Heidi Heitkamp of North Dakota want to give Syria 45 days to sign an international chemical weapons ban before any U.S.",
+        "military action can be taken.",
+        "So what are you doing with them when you find them?",
+        "There were about 200 cases of type that had been submerged in the water.",
+        "And they immediately gathered everybody up who was around, about 100 volunteers who came in over the course of the next several weeks.",
+        "To help dry everything out; much of it very old, very rare, wooden type."
+      ]
+    },
+    {
+      "dialogue_uid": "cf32374a-9c30-4f56-aa0f-8ad73359da2e",
+      "language": "en",
+      "utterances": [
+        "We've had people cleaning every individual letter.",
+        "Ali Osborn is a printer with the Bowne and Company shop.",
+        "And then they had to all dry and, of course, that was hard 'cause we had no power or electricity for a couple of weeks.",
+        "Some stores still don't have power or phones.",
+        "Most copper wiring was destroyed, so it may take Verizon months to replace it.",
+        "Many stores are still relying on cash only.",
+        "The Downtown Alliance - which manages the Business Improvement District for Lower Manhattan - gave out nearly a hundred of those little attachments that turn your Smartphone into a credit card machine.",
+        "Marco Pasanella is a local vintner.",
+        "He says most Manhattanites don't have a clue.",
+        "Friends of mine who live even five or six blocks away can't really believe it.",
+        "And then they come down to the neighborhood and they say, well, I mean it really looks like a disaster area.",
+        "Pasanella is the owner of Pasanella and Sons, a beautiful store on South Street filled with bottles of wine.",
+        "Ten thousand bottles of which was floating around the next day, after Sandy.",
+        "Was floating in the water?",
+        "It was kind of actually floating in sort of a romantic way.",
+        "It was sort of just like suspended in gunk."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "challenge_uid": "dd366299-3720-4d1c-9adf-38dc17881fe1",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "6a3f6557-8577-4f32-8f97-eab026ae3a7d",
+      "language": "en",
+      "utterances": [
+        "A dramatic rise in patent applications by technology companies like Microsoft is one reason for a logjam at the U.S.",
+        "Patent Office.",
+        "John Doll is the U.S.",
+        "commissioner for patents.",
+        "The backlog right now is about 735,000 applications.",
+        "By the end of this fiscal year, I expect the backlog to be close to 800,000 unexamined new applications.",
+        "Eight hundred thousand applications for patents.",
+        "Yes.",
+        "How long has the backlog been this bad?",
+        "Well, the backlog has been growing over the last several years.",
+        "Part of the problem was - this is back in the '90s - we were not able to hire as many people as we wanted to hire, therefore the backlogs are growing.",
+        "Now, what we're doing is playing catch-up, trying to hire as many new examiners as we can possibly hire and train, bring them up to speed to address the backlog.",
+        "However, I do want to add, though, that hiring is not enough to answer the question of the backlog.",
+        "We need to take other measures.",
+        "Like what?",
+        "Well, some of the things that we're trying to do is we're going to limit the number of times that an applicant can ask for an application to be examined.",
+        "We're going to try to improve the quality of the applications that are filed with the United States Patent Trademark Office.",
+        "We're going to try to get applicants to focus the examination on a limited number of claims, so the examiner has a better opportunity to fully understand what the invention is and exactly how to address that particular improvement.",
+        "Sounds like you're putting a lot of responsibility on the people filing the patents, then.",
+        "Does that restrict the little guy?"
+      ]
+    },
+    {
+      "dialogue_uid": "efa7d25b-5f6d-4b40-872a-cde1ef5259b0",
+      "language": "en",
+      "utterances": [
+        "Well, no. It doesn't restrict the little guy.",
+        "What we're trying to do is not place responsibility on the applicant but merely to encourage them, to coach them to file the best possible quality application that they can.",
+        "I understand you guys are hiring more than a thousand new patent examiners a year - every year for the last couple of years anyway.",
+        "How do you train them?",
+        "Well, we have a training academy, a newly formed training academy that we just put into place last year to train the people.",
+        "Sounds like it's a good time to apply for a job from you.",
+        "(Soundbite of laughter)",
+        "Oh, it's a fantastic time to apply.",
+        "And what does it take to be a patent examiner?",
+        "Well, to be a patent examiner, you need a degree in science, engineering, computer science.",
+        "We also have software, hardware, computer encryption that require some of the computer scientists, computer engineers.",
+        "We also do business methods where we actually do examine methods of doing a particular business, and in those, we have people that have scientific degrees, but they also have a minor or extensive background in marketing, finance, insurance or one of the other areas that apply.",
+        "So what's a patent examiner make?",
+        "The average patent examiner makes around $86,000 a year."
+      ]
+    },
+    {
+      "dialogue_uid": "81134db4-b9e4-462f-8ccb-fbbce1667d1e",
+      "language": "en",
+      "utterances": [
+        "That's pretty good.",
+        "Oh, it's a great place to work.",
+        "It's great pay.",
+        "It's flexible.",
+        "And a primary examiner starts at $101,000.",
+        "Wow.",
+        "So it's a great job.",
+        "Six figures.",
+        "Yes.",
+        "John Doll, thank you so much for joining us.",
+        "Thank you very much.",
+        "John Doll is the commissioner for patents at the U.S.",
+        "Patent and Trademark Office.",
+        "We wondered just what kind of stuff a patent examiner might have to wade through.",
+        "Now, anyone can file a petition asking for a patent, but to get one, the Patent Office requires that an invention be novel, non-obvious and -this is important - useful."
+      ]
+    },
+    {
+      "dialogue_uid": "10e8db62-4bf2-46d3-93e9-bb949fd0bdc5",
+      "language": "en",
+      "utterances": [
+        "The Web site freepatentsonline.com offers some actual patents that, well, you be the judge of their usefulness.",
+        "Now, it's clear that useful does not necessarily mean commercially viable.",
+        "For example, patent number 5392735 is for a marine mammal communication device.",
+        "It's a dolphin-sized keyboard that translates keystrokes into sounds for both humans and dolphins and perhaps whales and porpoises as well.",
+        "Patent number 7108178 is for a method of stopping a stolen car without a high-speed chase.",
+        "It uses a barcode - oh, don't ask.",
+        "5107620 is for a shocking electric tablecloth.",
+        "It's supposed to discourage bugs from visiting your dinner.",
+        "And this may be my favorite.",
+        "Patent number 5443036 is for a cat exercise device.",
+        "You move the laser pointer beam around the house and the cat actually chases after it.",
+        "And I guess you can do that while sipping your brew.",
+        "Now, this is surely useful and surely obvious.",
+        "I have one of those.",
+        "I didn't know it was patented.",
+        "I thought you were a dog person.",
+        "You've got to see some of these things.",
+        "Go to NPR.org and look at them, and thank goodness, Michele, we're hiring all those new patent examiners.",
+        "I'm Melissa Block."
+      ]
+    },
+    {
+      "dialogue_uid": "78c6bf3e-7d6c-4ce2-846f-ebfe8d8d3186",
+      "language": "en",
+      "utterances": [
+        "I'm Robert Siegel.",
+        "And this is ALL THINGS CONSIDERED from NPR News.",
+        "A follow-up now to a story that ran last month on the program.",
+        "I visited Shoemaker High School in Killeen, Texas, which is home to Fort Hood.",
+        "Nearly all of Shoemaker's 2,000 students have at least one parent in the military, many of them deployed in Iraq.",
+        "In that report, school counselor Barbara Critchfield described how the absence of parents is inescapable.",
+        "We had a football game a couple of years ago, and that school sent a plant to us telling us that they were thinking about us.",
+        "They had noticed the absence of parents on our side of the stadium during the football game.",
+        "Now here's the follow-up: I got a phone call from David Waters.",
+        "He's the principal of Timberland High School in Wentzville, Missouri.",
+        "He heard our story and decided he wanted to do something for Shoemaker too.",
+        "He's on the phone to tell us what he's come up with.",
+        "And Mr. Waters, what's your plan?",
+        "Well, we've developed a project called Dresses for Texas.",
+        "We are collecting those prom and homecoming dresses that oftentimes are only worn once, and we're going to have hopefully 250 dresses collected by Easter to send to the students down there at Shoemaker High School.",
+        "And how many do you have so far?",
+        "When I left work Friday we had about 110.",
+        "And so we're about halfway home, and we figure by Easter we'll be in good shape.",
+        "Well, we also have Barbara Critchfield, the counselor from Shoemaker High, on the line.",
+        "Barbara, what do you think about all these dresses headed your way?",
+        "It's phenomenal.",
+        "I'm not sure if we've even ironed out how we're going to distribute the dresses or even, you know, how that's going to be done.",
+        "I think we're still kind of working on that end of it.",
+        "But it's just so nice, you know, of them to do that for us."
+      ]
+    }
+  ]
+}

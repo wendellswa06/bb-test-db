@@ -1,0 +1,130 @@
+{
+  "challenge_uid": "6f67c286-2327-4e8c-bc60-bc049d2bcd99",
+  "language": "en",
+  "dialogues": [
+    {
+      "dialogue_uid": "088d4581-dbb9-45de-8220-e5e1cd2d601f",
+      "language": "en",
+      "utterances": [
+        "But in the last couple of years, it's making this transition from the mainframe, so to speak, to the desktop, and if you look back into history, it was the early kits of 3-D printers that helped usher this revolution of the desktop, and we were looking to try to create that revolution with a desktop 3-D printer that anybody can buy, and more importantly, anybody can hack and play around with and put new materials in.",
+        "Do you all think we're going to have - everybody's going to have a 3-D printer like they have an inkjet printer one of these days soon?",
+        "You know, there's a whole - you know, we've sold 10,000 MakerBots, and there's a lot of Fab@Homes out there, as well.",
+        "MakerBots were inspired in part by Fab@Home.",
+        "And we carry on that open-source tradition.",
+        "And I have to say, like, there's people out there who are already living in the future, and it's already normal for them when something breaks, or they need something, they just make it on their MakerBot, and that's just absolutely normal, kind of like when, you know, microwaves came out.",
+        "It was really exciting, but once you have them, you just - normal life.",
+        "But I think, you know, in general, just like today we see computers at home, we have mobile computers, but we also have desktop computers, and we have computers in the cloud.",
+        "Probably in the future, we'll have 3-D printers the same way: We'll have some at home printing in food and toys, and we'll have a couple of printers at work doing specialized things and some printers in the cloud doing more industrial-level things, and it's going to be an ecosystem.",
+        "Terry Wohlers, let's talk about that a little bit more.",
+        "Where do you think the - which industries do you expect to see this making most use of 3-D printers in the future?",
+        "Well, the early adopters have been automotive and aerospace and consumer products, the types of products that you and I buy when we go to a store.",
+        "Almost everything today that you buy has been impact in the prototyping phase of product development.",
+        "Now we're seeing companies apply these devices to parts that go into actual products that we buy, particularly in aerospace, medical, implants for example, and dental.",
+        "Those are the three big areas.",
+        "And now we're seeing companies and individuals buy machines for more of the consumer end use, although I would argue that not everyone will have one in the home.",
+        "But I do think that average people will buy parts that are made by these systems by going online and buying from - whether it's Safeway.com or Amazon or some other service.",
+        "And that manufacturing may occur across the street or in your neighborhood.",
+        "It could be across the state, but it will bring manufacturing much closer to you and decentralize it, rather than having to ship - or make millions of something and ship it across the world and then half of the product going to the landfill because there's not an appetite for that particular product.",
+        "What about biological products, body parts.",
+        "Are we not making some progress there?"
+      ]
+    },
+    {
+      "dialogue_uid": "98700802-b609-43d8-acd2-fdd55b82bcde",
+      "language": "en",
+      "utterances": [
+        "Well, we are, particularly parts that are replacing biomaterials, for example, titanium hip implants.",
+        "More than 20,000 of those have been successfully implanted into humans.",
+        "And a lot of spines and some other - cranial facial-type parts, skull plates made also in titanium.",
+        "And then there have been bones, heart tissue that have been printed into a scaffold structure that holds the shape and size of the part of the bone that needs to be replaced, and then that scaffold structure is biodegradable, and it holds the living cells, and over time, that degrades and absorbs into the body, and the living cells take that over.",
+        "And there's a lot of work being done around the world, has been for more than 10 years, in the area of both printing hard and soft tissue to the point where I do believe, and hopefully the other guests agree, that in our lifetimes, we'll be printing body parts regularly.",
+        "Hod Lipson, you're already printing stuff, body parts.",
+        "Yeah, we've printed meniscus, cartilage of the knee.",
+        "Is that what you were holding up there?",
+        "No, I was holding here a titanium nose implant, just this is something that we didn't make but we received from a metal-printing company, EOS.",
+        "And it's just fascinating to see how something like this, made of titanium, very complex, very, you know, structured and porous would be a nightmare to make any other way, but you can make it on the fly in a custom shape.",
+        "Right, and you say you make tissue already?",
+        "Yeah, so we've been quite a while working on this area which we call bio-printing, together with Larry Bonassar and Jonathan Butcher at Cornell, where we actually print with live cells.",
+        "It's not printing a scaffold on which you put cells but actually taking the cells, putting them in a hydrogel ink and actually printing the final constructs out of live cells.",
+        "And the benefit is that you can merge multiple cells into the same print in order to make a heterogeneous tissue."
+      ]
+    },
+    {
+      "dialogue_uid": "5783d723-7cd7-4f64-bd6f-8353422e21e7",
+      "language": "en",
+      "utterances": [
+        "And what tissues have you made?",
+        "So so far, we've made cartilage, meniscus of the knee, and Larry and Jonathan are working on printing spinal disks and heart valves.",
+        "And so bones and bone tissue and cartilage are kind of the lowest-hanging fruit, so to speak, because they are very amorphous, and they're very simple structures, but little vascularity.",
+        "And that's where the state of the art is.",
+        "But I think as the technology progresses, we'll be able to make more sophisticated implants.",
+        "Maybe kidneys, livers, things like that?",
+        "The trend is going for moving - is again moving from parts, so to speak, from simple tissue, to making complex, more complex organs, kidneys certainly have been reported to have been done, liver and you know, it will take a while before we can do more complex things.",
+        "Is there something you gentlemen don't think, that cannot be printed?",
+        "Is there no limit to what you can do, Bre?",
+        "I believe there's - you know, the only limit is the human imagination, and the unimagined is such a fantastic frontier.",
+        "It's such a - you know, people are just getting their hands on 3-D printers, and you can get into it, and...",
+        "It's a thing called the Thingiverse, right?",
+        "Tell us about that.",
+        "Yeah, get me excited here.",
+        "So we have a site called Thingiverse, where people share their digital designs, and every day there's new, cool things that you can make on your MakerBot or any 3-D printer, really.",
+        "And when people make stuff, and they share it, they put it up there, they do it under open licenses, which means that people can - if you upload your knee, somebody has a different-looking knee, they can modify your knee to fit their knee, and you're off to the - you know, you're literally off to the races.",
+        "You're going to have to modify that nose to fit mine."
+      ]
+    },
+    {
+      "dialogue_uid": "072d70e7-bbde-4cba-ac29-9a7d534093c9",
+      "language": "en",
+      "utterances": [
+        "(LAUGHTER)",
+        "I mean, (unintelligible), the Thingiverse, I was on there today, it was beautiful, everybody sharing all their 3-D printing designs or constructs.",
+        "We have to take a break, and when we come back more, we'll talk with Terry Wohlers, Bre Pettis and Hod Lipson.",
+        "Our number, 1-800-989-8255.",
+        "If you do 3-D printing, you want to share it with us and talk about it, please don't be afraid to participate.",
+        "You can also tweet us, @scifri, @-S-C-I-F-R-I.",
+        "So stay with us.",
+        "We'll be right back after this break.",
+        "(SOUNDBITE OF MUSIC)",
+        "I'm Ira Flatow; this is SCIENCE FRIDAY from NPR.",
+        "(SOUNDBITE OF MUSIC)",
+        "This is SCIENCE FRIDAY.",
+        "I'm Ira Flatow.",
+        "We're talking this hour about 3-D printing and what a 3-D printed future could look like with Terry Wohlers, president of Wohlers Associates.",
+        "Bre Pettis is CEO and co-founder of MakerBot Industries.",
+        "Hod Lipson is co-author of the forthcoming book \"\"Fabricated: The New World of 3D Printing\"\" and co-founder of the Fab@Home project.",
+        "And if you think you can tell when something is 3-D printed, we have a test for you.",
+        "Test your skill by taking our quiz at sciencefriday.com, and go over there and do the little quiz and see if you can tell what is 3-D printed and what is not.",
+        "One of the things - I imagine if you can make it into a liquid and squeeze it into something, you can stick it in a 3-D printer.",
+        "Would that be right, like, sort of?",
+        "Yeah.",
+        "Basically, any material you can squeeze, melt or generate into a powder, you can print.",
+        "So the food industry must love this, processed food."
+      ]
+    },
+    {
+      "dialogue_uid": "36b85efc-b03f-4b70-adb5-5759e5e47e1c",
+      "language": "en",
+      "utterances": [
+        "So I think the food industry is just picking up.",
+        "This is one of the big surprises that we had when we open-sourced the printer, and we watched what happened.",
+        "It wasn't printing robots that everybody wanted to print.",
+        "It wasn't printing knees or implants.",
+        "It was printing food.",
+        "Like what?",
+        "It started off with things - simple things like chocolate and cookie dough, and then frosting, and took off from there.",
+        "And basically, you know, food is a fantastic material for 3-D printing.",
+        "It's well-suited.",
+        "It's a benign material, and people have fun working with it.",
+        "Wow, chocolate.",
+        "You can make a 3-D object out of chocolate, anything you want.",
+        "Multiple flavors.",
+        "And then you can eat it.",
+        "(LAUGHTER)",
+        "If it doesn't work out, you just eat it and try again.",
+        "(LAUGHTER)",
+        "But people are going to say hey, you know, you're now even more processing our food than before.",
+        "It's going to be less healthy, because it's even more processed to get into a 3-D printer."
+      ]
+    }
+  ]
+}
